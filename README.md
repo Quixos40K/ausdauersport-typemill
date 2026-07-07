@@ -12,3 +12,7 @@ GitHub dient als Master-Stand für die Inhalte. Typemill bleibt das Live-CMS auf
 content/
 .gitignore
 README.md
+
+## Änderungslog
+
+- Initialer Content-Stand wurde aus dem Webspace exportiert und in GitHub versioniert.
