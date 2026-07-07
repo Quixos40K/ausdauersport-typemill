@@ -8,3 +8,4 @@ Dieser Abschnitt meiner Website ist der Raum für diese Passion. Hier sammle ich
 
 Dieser Bereich ist kein Trainingsblog im klassischen Sinn. Er ist ein strukturierter Wissensbereich zu Ausdauersport, Belastungssteuerung, Biomechanik und sportmedizinischen Zusammenhängen.
 
+<!-- workflow-test: github-content-edit -->
