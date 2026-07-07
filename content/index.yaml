@@ -1,0 +1,153 @@
+meta:
+  pageid: c9eb33d2af86b19a
+  navtitle: Startseite
+  title: 'Oliver Nix | Director E-Commerce & AEO Strategist'
+  description: 'Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).'
+  heroimage: media/live/oliver-nix.webp
+  heroimagealt: 'Oliver Nix'
+  owner: Oliver
+  author: 'Oliver Nix'
+  modified: '2026-06-09'
+  created: '2024-03-19'
+  time: 17-56-00
+  hide: false
+  noindex: false
+  json_ld: |-
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://oliver-nix.de/#webpage",
+          "url": "https://oliver-nix.de/",
+          "name": "Oliver Nix Portfolio & AEO Strategy",
+          "description": "Digitale Visitenkarte und Showcase für moderne E-Commerce-Strategien in der KI-Ära.",
+          "inLanguage": "de",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "@id": "https://oliver-nix.de/#primaryimage",
+            "url": "https://oliver-nix.de/oliver_nix.webp",
+            "contentUrl": "https://oliver-nix.de/oliver_nix.webp"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://oliver-nix.de/#oliver-nix",
+          "name": "Oliver Nix",
+          "url": "https://oliver-nix.de/",
+          "jobTitle": "Director E-Commerce & AEO Strategist",
+          "description": "Experte für Answer Engine Optimization (AEO) und KI-gestützte E-Commerce-Architekturen. Als Prokurist verantwortet Oliver Nix die digitale Transformation und P&L-Steuerung.",
+          "image": {
+            "@id": "https://oliver-nix.de/media/live/oliver-nix.webp"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Oberhausen",
+            "addressRegion": "NRW",
+            "addressCountry": "DE"
+          },
+          "sameAs": [
+            "https://www.instagram.com/running.oliver/"
+          ],
+          "knowsAbout": [
+            {
+              "@type": "Thing",
+              "name": "Answer Engine Optimization",
+              "alternateName": "AEO",
+              "sameAs": "https://en.wikipedia.org/wiki/Answer_Engine_Optimization"
+            },
+            {
+              "@type": "Thing",
+              "name": "E-Commerce",
+              "sameAs": [
+                "https://de.wikipedia.org/wiki/Elektronischer_Handel",
+                "https://www.wikidata.org/wiki/Q484847"
+              ]
+            },
+            {
+              "@type": "Thing",
+              "name": "Large Language Model",
+              "alternateName": "LLM",
+              "sameAs": [
+                "https://de.wikipedia.org/wiki/Large_Language_Model",
+                "https://www.wikidata.org/wiki/Q115305900"
+              ]
+            },
+            {
+              "@type": "Thing",
+              "name": "Artificial Intelligence",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                "https://www.wikidata.org/wiki/Q11660"
+              ]
+            },
+            {
+              "@type": "Thing",
+              "name": "Knowledge Graph",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/Knowledge_Graph",
+                "https://www.wikidata.org/wiki/Q33002955"
+              ]
+            },
+            {
+              "@type": "Thing",
+              "name": "Zero-Click Search"
+            },
+            {
+              "@type": "Thing",
+              "name": "P&L Management"
+            },
+            {
+              "@type": "Thing",
+              "name": "Entity-First Architecture"
+            }
+          ],
+          "worksFor": [
+            {
+              "@type": "Organization",
+              "name": "KTM Team West",
+              "legalName": "Project Moto Rütter & Holte GmbH",
+              "url": "https://www.ktmschnellversand.de",
+              "sameAs": [
+                "https://www.cfmoto-teamwest.de/",
+                "https://www.facebook.com/KTMTEAMWEST",
+                "https://www.instagram.com/ktmteamwest/",
+                "https://www.youtube.com/channel/UC5tTT-b45OE0hZh5LGbvF9w",
+                "https://www.tiktok.com/@ktmteamwest?lang=de"
+              ]
+            }
+          ],
+          "memberOf": [
+            {
+              "@type": "SportsTeam",
+              "name": "RWO Endurance",
+              "url": "https://www.rwo1904.de/teams/endurance/funktionsteam",
+              "sameAs": [
+                "https://www.facebook.com/rwoenduranceteam/",
+                "https://www.instagram.com/rwoenduranceteam/"
+              ],
+              "parentOrganization": {
+                "@type": "SportsOrganization",
+                "name": "SC Rot-Weiß Oberhausen",
+                "alternateName": [
+                  "RWO",
+                  "Rot-Weiß Oberhausen"
+                ],
+                "sameAs": [
+                  "https://de.wikipedia.org/wiki/Rot-Wei%C3%9F_Oberhausen",
+                  "https://www.instagram.com/rwo1904_official/",
+                  "https://www.facebook.com/rwo1904"
+                ]
+              }
+            }
+          ],
+          "knowsLanguage": [
+            "de",
+            "en"
+          ],
+          "mainEntityOfPage": {
+            "@id": "https://oliver-nix.de/#webpage"
+          }
+        }
+      ]
+    }
