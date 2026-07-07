@@ -7,5 +7,3 @@ Mich fasziniert, wie der Körper auf Belastung reagiert: wie sich Ausdauer langs
 Dieser Abschnitt meiner Website ist der Raum für diese Passion. Hier sammle ich Gedanken, persönliche Analysen und fachliche Einordnungen rund um Langstreckenlauf, Training, Regeneration und körperliche Anpassung. Es geht mir nicht darum, allgemeingültige Trainingsrezepte zu liefern. Vielmehr möchte ich nachvollziehbar zeigen, wie ich als ambitionierter Hobbysportler versuche, Ausdauertraining besser zu verstehen und was dieser Sport körperlich, mental und strukturell mit uns machen 
 
 Dieser Bereich ist kein Trainingsblog im klassischen Sinn. Er ist ein strukturierter Wissensbereich zu Ausdauersport, Belastungssteuerung, Biomechanik und sportmedizinischen Zusammenhängen.
-
-<!-- workflow-test: github-content-edit -->
