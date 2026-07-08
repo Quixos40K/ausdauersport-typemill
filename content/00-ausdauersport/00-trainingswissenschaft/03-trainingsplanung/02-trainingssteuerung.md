@@ -1,18 +1,18 @@
 # Trainingssteuerung
 
-Trainingssteuerung beschreibt die laufende Anpassung des Trainings an Ziel, Leistungsstand, Belastung und Erholung. Im Ausdauertraining ist das wichtig, weil ein Plan nur dann sinnvoll bleibt, wenn er auf die tatsächliche Reaktion des Körpers angepasst wird. Entscheidend ist, Training nicht nur zu absolvieren, sondern regelmäßig einzuordnen und bei Bedarf zu verändern.
+Trainingssteuerung beschreibt die laufende Anpassung des Trainings an Ziel, Leistungsstand, Belastung und Erholung. [[1]](#quelle-1) [[2]](#quelle-2) Im Ausdauertraining ist das wichtig, weil ein Plan nur dann sinnvoll bleibt, wenn er auf die tatsächliche Reaktion des Körpers angepasst wird. Entscheidend ist, Training nicht nur zu absolvieren, sondern regelmäßig einzuordnen und bei Bedarf zu verändern.
 
 ## Was Trainingssteuerung bedeutet
 
-Trainingssteuerung ist der Prozess, mit dem Training geplant, beobachtet, bewertet und angepasst wird. Sie verbindet Trainingsziele mit der Frage, ob die gewählte Belastung aktuell wirklich passend ist.
+Trainingssteuerung ist der Prozess, mit dem Training geplant, beobachtet, bewertet und angepasst wird. [[2]](#quelle-2) [[3]](#quelle-3) Sie verbindet Trainingsziele mit der Frage, ob die gewählte Belastung aktuell wirklich passend ist.
 
-Dabei geht es nicht nur um Zahlen wie Herzfrequenz, Pace, Watt oder Kilometer. Auch subjektives Belastungsempfinden, Müdigkeit, Schlaf, Muskelgefühl, Motivation, Schmerzen, Alltagstress und Erholungszustand gehören zur Trainingssteuerung.
+Dabei geht es nicht nur um Zahlen wie Herzfrequenz, Pace, Watt oder Kilometer. [[1]](#quelle-1) [[4]](#quelle-4) Auch subjektives Belastungsempfinden, Müdigkeit, Schlaf, Muskelgefühl, Motivation, Schmerzen, Alltagstress und Erholungszustand gehören zur Trainingssteuerung.
 
 Ein Trainingsplan gibt die Richtung vor. Trainingssteuerung entscheidet, ob diese Richtung im Alltag noch sinnvoll ist.
 
 ## Warum Trainingssteuerung wichtig ist
 
-Ausdauertraining wirkt nicht automatisch, nur weil es regelmäßig durchgeführt wird. Entscheidend ist, ob Belastung und Erholung zusammenpassen. Ein zu schwacher Reiz führt oft zu wenig Anpassung. Ein zu starker oder zu dichter Reiz kann Ermüdung, Überlastung oder Stagnation begünstigen.
+Ausdauertraining wirkt nicht automatisch, nur weil es regelmäßig durchgeführt wird. [[2]](#quelle-2) [[8]](#quelle-8) Entscheidend ist, ob Belastung und Erholung zusammenpassen. Ein zu schwacher Reiz führt oft zu wenig Anpassung. Ein zu starker oder zu dichter Reiz kann Ermüdung, Überlastung oder Stagnation begünstigen.
 
 Trainingssteuerung hilft, solche Entwicklungen früh zu erkennen. Sie macht sichtbar, ob das Training zum aktuellen Zustand passt oder ob Umfang, Intensität, Häufigkeit oder Erholung angepasst werden sollten.
 
@@ -36,19 +36,19 @@ Trainingssteuerung prüft, ob die aktuellen Einheiten tatsächlich zum Ziel pass
 
 ### Externe Belastung
 
-Externe Belastung beschreibt das, was im Training objektiv vorgegeben oder gemessen wird. Dazu gehören Dauer, Distanz, Tempo, Watt, Höhenmeter, Wiederholungen, Pausenlänge und Trainingshäufigkeit.
+Externe Belastung beschreibt das, was im Training objektiv vorgegeben oder gemessen wird. [[1]](#quelle-1) Dazu gehören Dauer, Distanz, Tempo, Watt, Höhenmeter, Wiederholungen, Pausenlänge und Trainingshäufigkeit.
 
 Diese Werte zeigen, was gemacht wurde. Sie sagen aber noch nicht vollständig, wie stark die Belastung für den Körper war.
 
 ### Interne Belastung
 
-Interne Belastung beschreibt die Reaktion des Körpers auf das Training. Dazu gehören Herzfrequenz, Atmung, subjektives Belastungsempfinden, muskuläre Ermüdung, Schlafqualität und Erholungsgefühl.
+Interne Belastung beschreibt die Reaktion des Körpers auf das Training. [[1]](#quelle-1) [[4]](#quelle-4) Dazu gehören Herzfrequenz, Atmung, subjektives Belastungsempfinden, muskuläre Ermüdung, Schlafqualität und Erholungsgefühl.
 
 Die gleiche Laufeinheit kann an einem Tag locker wirken und an einem anderen Tag deutlich anstrengender sein. Genau diese Differenz ist für die Trainingssteuerung wichtig.
 
 ### Erholung
 
-Erholung entscheidet, ob ein Trainingsreiz verarbeitet werden kann. Schlaf, Ernährung, Alltagsstress, Ruhetage, lockere Einheiten und mentale Entlastung beeinflussen, wie belastbar ein Sportler ist.
+Erholung entscheidet, ob ein Trainingsreiz verarbeitet werden kann. [[3]](#quelle-3) [[9]](#quelle-9) Schlaf, Ernährung, Alltagsstress, Ruhetage, lockere Einheiten und mentale Entlastung beeinflussen, wie belastbar ein Sportler ist.
 
 Trainingssteuerung sollte deshalb nicht nur fragen: Was kann ich heute trainieren? Sondern auch: Was kann ich heute sinnvoll verarbeiten?
 
@@ -60,7 +60,7 @@ Trainingssteuerung lebt von solchen Verlaufssignalen. Sie hilft, nicht erst dann
 
 ## Bedeutung für Läufer
 
-Für Läufer ist Trainingssteuerung besonders wichtig, weil Lauftraining eine hohe mechanische Belastung erzeugt. Sehnen, Knochen, Gelenke und Muskulatur reagieren nicht immer im gleichen Tempo wie das Herz-Kreislauf-System.
+Für Läufer ist Trainingssteuerung besonders wichtig, weil Lauftraining eine hohe mechanische Belastung erzeugt. [[7]](#quelle-7) Sehnen, Knochen, Gelenke und Muskulatur reagieren nicht immer im gleichen Tempo wie das Herz-Kreislauf-System.
 
 Ein Läufer kann sich konditionell bereit fühlen, obwohl Strukturen wie Achillessehne, Schienbein, Knie oder Plantarfaszie noch mehr Zeit brauchen. Trainingssteuerung hilft, solche Unterschiede zu berücksichtigen.
 
@@ -70,7 +70,7 @@ Praktisch bedeutet das: Nicht nur die geplante Einheit zählt, sondern auch die 
 
 Ein häufiger Fehler ist, Trainingssteuerung nur über Pace zu machen. Tempo ist wichtig, aber es erklärt nicht allein, wie stark eine Einheit wirkt. Hitze, Höhenmeter, Wind, Schlafmangel oder Stress können dieselbe Pace deutlich belastender machen.
 
-Ein weiterer Fehler ist, Warnsignale zu ignorieren. Wiederkehrende Schmerzen, ungewöhnlich hohe Müdigkeit, schlechter Schlaf oder dauerhaft sinkende Motivation sollten nicht einfach als fehlende Disziplin abgetan werden.
+Ein weiterer Fehler ist, Warnsignale zu ignorieren. [[8]](#quelle-8) Wiederkehrende Schmerzen, ungewöhnlich hohe Müdigkeit, schlechter Schlaf oder dauerhaft sinkende Motivation sollten nicht einfach als fehlende Disziplin abgetan werden.
 
 Problematisch ist auch, jede kleine Schwankung sofort zu überbewerten. Trainingssteuerung braucht Gelassenheit. Nicht jeder müde Tag verlangt eine komplette Planänderung.
 
@@ -152,70 +152,34 @@ Trainingssteuerung ist besonders relevant für Läufer mit Wettkampfzielen, stei
 
 ----
 
-```mermaid
-graph TD
-    A(Trainingshäufigkeit) --> B(Anzahl der Einheiten)
-    A --> C(Trainingsumfang)
-    A --> D(Intensität)
-    A --> E(Erholung)
+## Quellen
 
-    B --> F(Regelmässige Reize)
-    C --> G(Verteilung der Wochenbelastung)
-    D --> H(Locker Moderat Hart)
-    E --> I(Belastung verarbeiten)
+### Quelle 1
+Impellizzeri, F. M., Marcora, S. M., & Coutts, A. J. (2019). Internal and External Training Load: 15 Years On. International Journal of Sports Physiology and Performance, 14(2), 270–273. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30614348/)
 
-    F --> J(Sinnvolle Wochenstruktur)
-    G --> J
-    H --> J
-    I --> J
+### Quelle 2
+Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017). Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(Suppl 2), S2-161–S2-170. [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
 
-    J --> K(Langfristige Anpassung)
+### Quelle 3
+Halson, S. L. (2014). Monitoring Training Load to Understand Fatigue in Athletes. Sports Medicine, 44(Suppl 2), S139–S147. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4213373/)
 
-    classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
-    classDef primary fill:#1A4B54,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
-    classDef highlight fill:#E66133,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
-    classDef dark fill:#24292E,stroke:#1A4B54,stroke-width:2px,color:#F4EFEA;
+### Quelle 4
+Foster, C., Florhaug, J. A., Franklin, J. et al. (2001). A New Approach to Monitoring Exercise Training. Journal of Strength and Conditioning Research, 15(1), 109–115. [BISp-SURF](https://www.bisp-surf.de/Record/PU199912501542)
 
-    class A dark;
-    class B primary;
-    class C primary;
-    class D primary;
-    class E primary;
-    class F primary;
-    class G primary;
-    class H primary;
-    class I highlight;
-    class J dark;
-    class K dark;
-```
+### Quelle 5
+Buchheit, M. (2014). Monitoring training status with HR measures: do all roads lead to Rome? Frontiers in Physiology, 5, 73. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3936188/)
 
-----
+### Quelle 6
+Mann, T., Lamberts, R. P., & Lambert, M. I. (2013). Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations. Sports Medicine, 43, 613–625. [Springer](https://link.springer.com/article/10.1007/s40279-013-0045-x)
 
-## Häufige Fragen zu Trainingshäufigkeit
+### Quelle 7
+Soligard, T., Schwellnus, M., Alonso, J.-M. et al. (2016). How much is too much? Part 1: IOC consensus statement on load in sport and risk of injury. British Journal of Sports Medicine, 50(17), 1030–1041. [BJSM](https://bjsm.bmj.com/content/50/17/1030)
 
-### Was ist Trainingshäufigkeit einfach erklärt?
+### Quelle 8
+Meeusen, R., Duclos, M., Foster, C. et al. (2013). Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine. Medicine & Science in Sports & Exercise, 45(1), 186–205. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23247672/)
 
-Trainingshäufigkeit beschreibt, wie oft innerhalb einer Woche oder eines Trainingsblocks trainiert wird. Im Lauftraining meint das meist die Anzahl der Laufeinheiten pro Woche.
-
-### Warum ist Trainingshäufigkeit im Ausdauertraining wichtig?
-
-Sie bestimmt, wie regelmäßig Trainingsreize gesetzt und wie Belastungen über die Woche verteilt werden. Dadurch beeinflusst sie Anpassung, Erholung und Belastbarkeit.
-
-### Ist häufiger trainieren automatisch besser?
-
-Nein. Mehr Einheiten sind nur sinnvoll, wenn sie zum Ziel passen und ausreichend verarbeitet werden können. Zu hohe Trainingshäufigkeit kann Müdigkeit und Überlastung begünstigen.
-
-### Wie erhöht man Trainingshäufigkeit sinnvoll?
-
-Trainingshäufigkeit sollte schrittweise erhöht werden. Eine zusätzliche Einheit sollte zunächst eher kurz und locker sein, bevor Umfang oder Intensität weiter gesteigert werden.
-
-### Was ist ein häufiger Fehler bei Trainingshäufigkeit?
-
-Ein häufiger Fehler ist, zusätzliche Trainingstage sofort mit harten oder langen Einheiten zu füllen. Dadurch steigt die Gesamtbelastung oft schneller als die Belastbarkeit.
-
-### Für wen ist Trainingshäufigkeit besonders relevant?
-
-Trainingshäufigkeit ist besonders relevant für Läufer mit steigenden Umfängen, Wettkampfzielen, Wiedereinstieg nach Pause oder dem Wunsch nach langfristiger Leistungsentwicklung.
+### Quelle 9
+Fullagar, H. H. K., Skorski, S., Duffield, R. et al. (2015). Sleep and Athletic Performance: The Effects of Sleep Loss on Exercise Performance, and Physiological and Cognitive Responses to Exercise. Sports Medicine, 45, 161–186. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25315456/)
 
 ----
 
