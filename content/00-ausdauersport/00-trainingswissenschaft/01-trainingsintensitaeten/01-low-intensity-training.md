@@ -54,21 +54,21 @@ Der Nutzen von LIT entsteht nicht durch hohe Intensität, sondern durch Kontinui
 
 ```mermaid
 graph LR
-    A(LIT: Low Intensity Training) --> B(Niedrige Intensitaet)
+    A(LIT: Low Intensity Training) --> B(Niedrige Intensität)
     A --> C(Lange gut durchhaltbar)
-    A --> D(Geringe bis moderate Ermuedung)
+    A --> D(Geringe bis moderate Ermüdung)
 
     B --> E(Ruhige Atmung)
-    B --> F(Unterhaltung moeglich)
+    B --> F(Unterhaltung möglich)
     C --> G(Aerobe Grundlage)
-    C --> H(Hoehere Trainingskontinuitaet)
+    C --> H(Höhere Trainingskontinuitaet)
     D --> I(Bessere Regeneration)
-    D --> J(Mehr Qualitaet fuer harte Einheiten)
+    D --> J(Mehr Qualität fuer harte Einheiten)
 
     G --> K(Kapillarisierung)
     G --> L(Mitochondriale Anpassung)
     G --> M(Fettstoffwechsel)
-    H --> N(Langfristige Belastungsvertraeglichkeit)
+    H --> N(Langfristige Belastungsverträglichkeit)
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
     classDef primary fill:#1A4B54,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
