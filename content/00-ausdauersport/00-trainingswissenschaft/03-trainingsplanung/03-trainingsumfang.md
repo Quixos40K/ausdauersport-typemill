@@ -89,8 +89,8 @@ Der wichtigste Merksatz lautet: Trainingsumfang ist nur dann produktiv, wenn der
 ```mermaid
 graph TD
     A(Trainingsumfang) --> B(Trainingsmenge)
-    A --> C(Intensitaet)
-    A --> D(Haeufigkeit)
+    A --> C(Intensität)
+    A --> D(Häufigkeit)
     A --> E(Erholung)
 
     B --> F(Kilometer Zeit Einheiten)
