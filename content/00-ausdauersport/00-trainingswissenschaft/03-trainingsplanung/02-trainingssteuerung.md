@@ -93,8 +93,8 @@ graph TD
     A --> D(Interne Belastung)
     A --> E(Erholung)
 
-    C --> F(Umfang Intensitaet Dauer)
-    D --> G(Herzfrequenz RPE Ermuedung)
+    C --> F(Umfang Intensität Dauer)
+    D --> G(Herzfrequenz RPE Ermüdung)
     E --> H(Schlaf Alltag Regeneration)
 
     F --> I(Belastung bewerten)
@@ -102,7 +102,7 @@ graph TD
     H --> I
 
     I --> J(Training anpassen)
-    J --> K(Kontinuitaet und Leistungsentwicklung)
+    J --> K(Kontinuität und Leistungsentwicklung)
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
     classDef primary fill:#1A4B54,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
