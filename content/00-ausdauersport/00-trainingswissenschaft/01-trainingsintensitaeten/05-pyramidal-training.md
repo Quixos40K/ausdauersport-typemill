@@ -110,7 +110,7 @@ graph TD
     A --> D(Wenig mittelhart)
 
     B --> E(Aerobe Basis)
-    C --> F(Qualitaetsreiz)
+    C --> F(Qualitätsreiz)
     D --> G(Weniger Grauzone)
 
     E --> H(Verarbeitbare Belastung)
@@ -120,7 +120,7 @@ graph TD
     H --> I(Leistungsentwicklung)
 
     D --> J{Zu viel mittelhart?}
-    J -->|Ja| K(Restermuedung und Stagnation)
+    J -->|Ja| K(Restermüdung und Stagnation)
     J -->|Nein| H
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
