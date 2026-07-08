@@ -92,10 +92,10 @@ Der wichtigste Merksatz lautet: Trainingshäufigkeit ist nur dann sinnvoll, wenn
 graph TD
     A(Trainingshaeufigkeit) --> B(Anzahl der Einheiten)
     A --> C(Trainingsumfang)
-    A --> D(Intensitaet)
+    A --> D(Intensität)
     A --> E(Erholung)
 
-    B --> F(Regelmaessige Reize)
+    B --> F(Regelmässige Reize)
     C --> G(Verteilung der Wochenbelastung)
     D --> H(Locker Moderat Hart)
     E --> I(Belastung verarbeiten)
