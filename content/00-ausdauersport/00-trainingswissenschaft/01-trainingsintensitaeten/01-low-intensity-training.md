@@ -61,7 +61,7 @@ graph LR
     B --> E(Ruhige Atmung)
     B --> F(Unterhaltung möglich)
     C --> G(Aerobe Grundlage)
-    C --> H(Höhere Trainingskontinuitaet)
+    C --> H(Höhere Trainingskontinuität)
     D --> I(Bessere Regeneration)
     D --> J(Mehr Qualität fuer harte Einheiten)
 
