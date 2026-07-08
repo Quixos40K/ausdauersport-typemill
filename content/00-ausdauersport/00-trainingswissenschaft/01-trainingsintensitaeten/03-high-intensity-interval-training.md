@@ -59,17 +59,17 @@ graph LR
     C --> G(Wiederholte Belastungsphasen)
     C --> H(Geplante Entlastung)
     D --> I(VO2max Reiz)
-    D --> J(Tempohaerte)
+    D --> J(Tempohärte)
     D --> K(Neuromuskulaere Aktivierung)
 
-    A --> L(Benoetigt Erholung)
-    L --> M(Qualitaet der Intervalle sichern)
-    L --> N(Ueberlastung vermeiden)
+    A --> L(Benötigt Erholung)
+    L --> M(Qualität der Intervalle sichern)
+    L --> N(Überlastung vermeiden)
 
-    A --> O(Risiko bei zu haeufigem Einsatz)
-    O --> P(Zu viel Ermuedung)
-    O --> Q(Sinkende Trainingsqualitaet)
-    O --> R(Hoeheres Ueberlastungsrisiko)
+    A --> O(Risiko bei zu häufigem Einsatz)
+    O --> P(Zu viel Ermüdung)
+    O --> Q(Sinkende Trainingsqualität)
+    O --> R(Höheres Überlastungsrisiko)
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
     classDef primary fill:#1A4B54,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
