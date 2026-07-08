@@ -195,10 +195,10 @@ Der wichtigste Merksatz lautet: Peaking bedeutet nicht, in letzter Minute Form a
 ```mermaid
 graph TD
     A(Trainingsaufbau) --> B(Fitness)
-    A --> C(Ermuedung)
+    A --> C(Ermüdung)
     B --> D(Tapering)
     C --> D
-    D --> E(Weniger Ermuedung)
+    D --> E(Weniger Ermüdung)
     D --> F(Form erhalten)
     E --> G(Peaking)
     F --> G
