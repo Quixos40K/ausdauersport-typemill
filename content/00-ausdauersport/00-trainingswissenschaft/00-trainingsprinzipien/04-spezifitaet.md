@@ -104,7 +104,7 @@ Der wichtigste Merksatz lautet: Der Körper wird gut in dem, was er regelmäßig
 graph TD
     A(Trainingsziel) --> B(Anforderungsprofil)
     B --> C(Bewegung)
-    B --> D(Intensitaet und Dauer)
+    B --> D(Intensität und Dauer)
     B --> E(Umfeld und Gewebe)
 
     C --> F(Spezifischer Reiz)
