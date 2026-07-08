@@ -97,10 +97,10 @@ graph TD
     A --> D(Belastungsaufbau)
     A --> E(Regeneration)
 
-    B --> F(Hauptziel und Nebenwettkaempfe)
+    B --> F(Hauptziel und Nebenwettkämpfe)
     C --> G(Aufbau Vorbereitung Wettkampf)
-    D --> H(Umfang Intensitaet Dichte)
-    E --> I(Entlastung und Uebergangsphase)
+    D --> H(Umfang Intensität Dichte)
+    E --> I(Entlastung und Übergangsphase)
 
     F --> J(Praktische Trainingsstruktur)
     G --> J
