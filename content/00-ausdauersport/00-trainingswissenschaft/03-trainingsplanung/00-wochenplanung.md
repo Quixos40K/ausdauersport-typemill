@@ -1,6 +1,6 @@
 # Wochenplanung
 
-Wochenplanung beschreibt die konkrete Organisation einer Trainingswoche. Sie legt fest, wann lockere Einheiten, Qualitätseinheiten, lange Läufe, Krafttraining, Ruhetage und Erholung stattfinden. Eine gute Wochenplanung verteilt Belastung so, dass Trainingsreize wirken können, ohne dauerhaft Restermüdung, Überlastung oder Qualitätsverlust zu erzeugen.
+Wochenplanung beschreibt die konkrete Organisation einer Trainingswoche. Sie legt fest, wann lockere Einheiten, Qualitätseinheiten, lange Läufe, Krafttraining, Ruhetage und Erholung stattfinden. Eine gute Wochenplanung verteilt Belastung so, dass Trainingsreize wirken können, ohne dauerhaft Restermüdung, Überlastung oder Qualitätsverlust zu erzeugen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was Wochenplanung bedeutet
 
@@ -22,7 +22,7 @@ Eine gute Trainingswoche ist deshalb nicht nur sportlich sinnvoll, sondern auch 
 
 ## Warum Wochenplanung wichtig ist
 
-Ausdauertraining wirkt nicht durch einzelne isolierte Einheiten. Entscheidend ist, wie Einheiten innerhalb einer Woche zusammenwirken.
+Ausdauertraining wirkt nicht durch einzelne isolierte Einheiten. Entscheidend ist, wie Einheiten innerhalb einer Woche zusammenwirken. [[1]](#quelle-1)
 
 Eine harte Intervalleinheit kann sinnvoll sein. Wenn sie aber direkt nach einem langen Lauf, schlechtem Schlaf und hoher Alltagsbelastung geplant wird, kann sie schlecht verarbeitet werden. Ein lockerer Dauerlauf kann sinnvoll sein. Wenn er aber zu schnell gelaufen wird, stört er möglicherweise die nächste Schlüsselsession.
 
@@ -47,7 +47,7 @@ Der wichtigste Gedanke lautet: Nicht jeder Tag muss einen starken Trainingsreiz 
 
 Eine gute Wochenplanung verteilt Belastung so, dass der Körper Reize verarbeiten kann.
 
-Harte Einheiten, lange Läufe, intensive Bergreize, Tempodauerläufe oder schweres Krafttraining sollten nicht beliebig aneinandergereiht werden. Sie erzeugen Ermüdung und brauchen Abstand.
+Harte Einheiten, lange Läufe, intensive Bergreize, Tempodauerläufe oder schweres Krafttraining sollten nicht beliebig aneinandergereiht werden. Sie erzeugen Ermüdung und brauchen Abstand. [[2]](#quelle-2) [[5]](#quelle-5)
 
 Lockere Tage, Ruhetage oder sehr leichte Einheiten sind keine Lücken im Plan. Sie ermöglichen, dass die harten Reize überhaupt wirken.
 
@@ -75,7 +75,7 @@ Nicht jede Woche braucht viele Schlüsselsessions. Für viele Athleten reichen e
 
 Lockere Einheiten bilden die Grundlage vieler Trainingswochen. Sie verbessern aerobe Basis, Belastungsverträglichkeit und Wiederholbarkeit, ohne zu viel zusätzliche Ermüdung zu erzeugen.
 
-Wichtig ist, dass lockere Einheiten wirklich locker bleiben. Wenn sie regelmäßig zu schnell gelaufen werden, verschieben sie die gesamte Wochenbelastung nach oben.
+Wichtig ist, dass lockere Einheiten wirklich locker bleiben. [[4]](#quelle-4) Wenn sie regelmäßig zu schnell gelaufen werden, verschieben sie die gesamte Wochenbelastung nach oben.
 
 Dann entsteht häufig das Problem, dass harte Einheiten nicht mehr hochwertig ausgeführt werden können und Erholungstage nicht ausreichend wirken.
 
@@ -105,7 +105,7 @@ Besonders bei Einsteigern, älteren Athleten, hoher Alltagsbelastung, steigenden
 
 ## Krafttraining in der Trainingswoche
 
-Krafttraining kann im Ausdauertraining sinnvoll sein, wenn es passend platziert wird. Es kann Rumpfstabilität, Belastbarkeit, Laufökonomie, Sehnenbelastbarkeit und Verletzungsprävention unterstützen.
+Krafttraining kann im Ausdauertraining sinnvoll sein, wenn es passend platziert wird. [[7]](#quelle-7) Es kann Rumpfstabilität, Belastbarkeit, Laufökonomie, Sehnenbelastbarkeit und Verletzungsprävention unterstützen.
 
 In der Wochenplanung sollte Krafttraining aber nicht zufällig ergänzt werden. Schweres Krafttraining kann muskuläre Ermüdung erzeugen und die Qualität von Lauf- oder Radeinheiten beeinflussen.
 
@@ -168,7 +168,7 @@ Der lange Lauf ist oft die zentrale Einheit. Deshalb sollte die restliche Woche 
 
 ## Wochenplanung bei hoher Alltagsbelastung
 
-Training muss zum Leben passen. Beruf, Familie, Schlaf, Stress, Reisen und mentale Belastung beeinflussen die Erholungsfähigkeit.
+Training muss zum Leben passen. Beruf, Familie, Schlaf, Stress, Reisen und mentale Belastung beeinflussen die Erholungsfähigkeit. [[8]](#quelle-8)
 
 Bei hoher Alltagsbelastung sollte die Wochenplanung einfacher und flexibler sein. Harte Einheiten können verschoben, Umfang reduziert oder lockere Alternativen genutzt werden.
 
@@ -184,7 +184,7 @@ Flexibilität bedeutet nicht Beliebigkeit. Sie bedeutet, dass der Plan auf die t
 
 ## Häufige Fehler in der Wochenplanung
 
-Ein häufiger Fehler ist, zu viele harte Einheiten in eine Woche zu legen. Dadurch sinkt die Qualität, und Restermüdung steigt.
+Ein häufiger Fehler ist, zu viele harte Einheiten in eine Woche zu legen. [[5]](#quelle-5) [[6]](#quelle-6) Dadurch sinkt die Qualität, und Restermüdung steigt.
 
 Ein zweiter Fehler ist, lockere Einheiten zu schnell zu laufen. Dadurch wird die gesamte Woche belastender als geplant.
 
@@ -206,8 +206,8 @@ Der wichtigste Merksatz lautet: Eine gute Trainingswoche ist nicht die Woche mit
 
 ```mermaid
 graph TD
-    A(Wochenplanung) --> B(Schlüsselsessions setzen)
-    B --> C(Lockere Einheiten ergaenzen)
+    A(Wochenplanung) --> B(Schluesselsessions setzen)
+    B --> C(Lockere Einheiten ergänzen)
     C --> D(Erholung platzieren)
     D --> E(Alltag prüfen)
     E --> F(Woche umsetzen)
@@ -291,6 +291,34 @@ Eine Wochenplanung funktioniert, wenn wichtige Einheiten mit guter Qualität mö
 ### Wie flexibel sollte eine Trainingswoche sein?
 
 Eine Trainingswoche sollte eine klare Struktur haben, aber auf Schlaf, Stress, Beschwerden und Erholung reagieren können. Gute Planung ist strukturiert, aber nicht starr.
+
+----
+
+## Quellen
+
+### Quelle 1
+Lorenz, D. S., Reiman, M. P., & Walker, J. C. (2010). Periodization: Current Review and Suggested Implementation for Athletic Rehabilitation. Sports Health, 2(6), 509–518. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23015982/)
+
+### Quelle 2
+Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017). Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(Suppl 2), S2-161–S2-170. [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
+
+### Quelle 3
+Impellizzeri, F. M., Marcora, S. M., & Coutts, A. J. (2019). Internal and External Training Load: 15 Years On. International Journal of Sports Physiology and Performance, 14(2), 270–273. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30614348/)
+
+### Quelle 4
+Seiler, S. (2010). What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? International Journal of Sports Physiology and Performance, 5(3), 276–291. [Human Kinetics](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml)
+
+### Quelle 5
+Soligard, T., Schwellnus, M., Alonso, J.-M. et al. (2016). How much is too much? Part 1: IOC consensus statement on load in sport and risk of injury. British Journal of Sports Medicine, 50(17), 1030–1041. [BJSM](https://bjsm.bmj.com/content/50/17/1030)
+
+### Quelle 6
+Meeusen, R., Duclos, M., Foster, C. et al. (2013). Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine. Medicine & Science in Sports & Exercise, 45(1), 186–205. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+
+### Quelle 7
+Blagrove, R. C., Howatson, G., & Hayes, P. R. (2018). Effects of Strength Training on the Physiological Determinants of Middle- and Long-Distance Running Performance: A Systematic Review. Sports Medicine, 48, 1117–1149. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29249083/)
+
+### Quelle 8
+Fullagar, H. H. K., Skorski, S., Duffield, R. et al. (2015). Sleep and Athletic Performance: The Effects of Sleep Loss on Exercise Performance, and Physiological and Cognitive Responses to Exercise. Sports Medicine, 45, 161–186. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25315456/)
 
 ----
 
