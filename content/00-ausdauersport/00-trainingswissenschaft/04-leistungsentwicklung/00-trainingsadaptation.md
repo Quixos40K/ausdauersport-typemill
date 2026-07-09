@@ -1,12 +1,12 @@
 # Trainingsadaptation
 
-Trainingsadaptation beschreibt die körperliche Anpassung an wiederholte Trainingsreize. Im Ausdauertraining bedeutet das zum Beispiel eine bessere Sauerstoffaufnahme, effizientere Energiegewinnung, höhere Belastbarkeit, stabilere Bewegungsökonomie und schnellere Erholung. Anpassung entsteht nicht durch Belastung allein, sondern durch das Zusammenspiel aus Reiz, Erholung und Wiederholung.
+Trainingsadaptation beschreibt die körperliche Anpassung an wiederholte Trainingsreize. Im Ausdauertraining bedeutet das zum Beispiel eine bessere Sauerstoffaufnahme, effizientere Energiegewinnung, höhere Belastbarkeit, stabilere Bewegungsökonomie und schnellere Erholung. Anpassung entsteht nicht durch Belastung allein, sondern durch das Zusammenspiel aus Reiz, Erholung und Wiederholung. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ## Was Trainingsadaptation bedeutet
 
 Trainingsadaptation ist der Prozess, durch den der Körper auf Training reagiert und sich langfristig verändert. Jede Trainingseinheit setzt einen Reiz. Dieser Reiz stört kurzfristig das innere Gleichgewicht des Körpers. In der anschließenden Erholung versucht der Organismus, diese Belastung zu verarbeiten und sich auf ähnliche Anforderungen besser vorzubereiten.
 
-Im Ausdauertraining betrifft diese Anpassung viele Systeme gleichzeitig: Herz-Kreislauf-System, Atmung, Muskulatur, Energiestoffwechsel, Nervensystem, Sehnen, Knochen, Faszien und mentale Belastbarkeit.
+Im Ausdauertraining betrifft diese Anpassung viele Systeme gleichzeitig: Herz-Kreislauf-System, Atmung, Muskulatur, Energiestoffwechsel, Nervensystem, Sehnen, Knochen, Faszien und mentale Belastbarkeit. [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)
 
 Trainingsadaptation ist deshalb kein einzelner Effekt, sondern eine Summe vieler kleiner Veränderungen.
 
@@ -16,7 +16,7 @@ Ohne Anpassung wäre Training nur Ermüdung. Erst durch Trainingsadaptation wird
 
 Ein lockerer Dauerlauf kann zum Beispiel die aerobe Basis verbessern. Ein langer Lauf kann Ermüdungsresistenz aufbauen. Ein Intervalltraining kann starke Reize für Sauerstoffaufnahme und Tempohärte setzen. Krafttraining kann muskuläre Stabilität und Belastbarkeit unterstützen.
 
-Entscheidend ist, dass diese Reize zum aktuellen Leistungsstand passen. Zu schwache Reize lösen kaum Anpassung aus. Zu starke Reize können überfordern. Passende Reize führen zu Fortschritt, wenn genügend Erholung folgt.
+Entscheidend ist, dass diese Reize zum aktuellen Leistungsstand passen. Zu schwache Reize lösen kaum Anpassung aus. Zu starke Reize können überfordern. Passende Reize führen zu Fortschritt, wenn genügend Erholung folgt. [[5]](#quelle-5) [[6]](#quelle-6) [[8]](#quelle-8)
 
 ## Anpassung entsteht nach dem Training
 
@@ -26,7 +26,7 @@ Während der Belastung werden Energiespeicher geleert, Muskelfasern beansprucht,
 
 Der Körper füllt Energiespeicher auf, repariert Gewebe, verbessert Stoffwechselwege, reguliert Enzyme, stärkt Strukturen und optimiert Bewegungsabläufe.
 
-Training liefert den Anlass. Erholung ermöglicht die Anpassung.
+Training liefert den Anlass. Erholung ermöglicht die Anpassung. [[8]](#quelle-8) [[9]](#quelle-9)
 
 ## Zentrale Anpassungen im Ausdauertraining
 
@@ -34,37 +34,37 @@ Training liefert den Anlass. Erholung ermöglicht die Anpassung.
 
 Regelmäßiges Ausdauertraining kann das Herz-Kreislauf-System leistungsfähiger machen. Das Herz kann ökonomischer arbeiten, Blut besser transportieren und die Muskulatur zuverlässiger mit Sauerstoff versorgen.
 
-Wichtige Anpassungen betreffen unter anderem Herzfrequenzregulation, Schlagvolumen, Blutvolumen und Kapillarisierung.
+Wichtige Anpassungen betreffen unter anderem Herzfrequenzregulation, Schlagvolumen, Blutvolumen und Kapillarisierung. [[2]](#quelle-2) [[4]](#quelle-4)
 
 ### Atmung und Sauerstoffaufnahme
 
 Ausdauertraining verbessert die Fähigkeit, Sauerstoff aufzunehmen, zu transportieren und in der Muskulatur zu verwerten. Die VO2max ist dabei ein wichtiger, aber nicht allein entscheidender Leistungsfaktor.
 
-Auch Atemökonomie, ventilatorische Kontrolle und die Fähigkeit, bei höheren Intensitäten stabil zu bleiben, spielen eine Rolle.
+Auch Atemökonomie, ventilatorische Kontrolle und die Fähigkeit, bei höheren Intensitäten stabil zu bleiben, spielen eine Rolle. [[4]](#quelle-4)
 
 ### Energiestoffwechsel
 
 Der Energiestoffwechsel passt sich stark an wiederholtes Training an. Der Körper lernt, Energie effizienter bereitzustellen, Fette und Kohlenhydrate besser zu nutzen und Stoffwechselprodukte besser zu verarbeiten.
 
-Besonders wichtig sind mitochondriale Anpassungen, Fettstoffwechsel, Glykogenspeicherung, Laktatdynamik und Enzymaktivität.
+Besonders wichtig sind mitochondriale Anpassungen, Fettstoffwechsel, Glykogenspeicherung, Laktatdynamik und Enzymaktivität. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ### Muskulatur
 
 Die Muskulatur verändert sich durch Training in Struktur und Funktion. Ausdauertraining verbessert unter anderem die Ermüdungsresistenz, Kapillardichte, mitochondriale Ausstattung und lokale Stoffwechselkapazität.
 
-Intensivere Reize können zusätzlich neuromuskuläre Aktivierung, Tempohärte und Rekrutierung bestimmter Muskelfasern beeinflussen.
+Intensivere Reize können zusätzlich neuromuskuläre Aktivierung, Tempohärte und Rekrutierung bestimmter Muskelfasern beeinflussen. [[1]](#quelle-1) [[4]](#quelle-4)
 
 ### Sehnen, Knochen und Bindegewebe
 
 Nicht nur Herz und Muskeln passen sich an. Auch Sehnen, Knochen, Faszien, Knorpel und Bindegewebe reagieren auf Belastung.
 
-Diese Strukturen passen sich jedoch oft langsamer an als das Herz-Kreislauf-System. Deshalb kann sich ein Athlet konditionell bereit fühlen, obwohl die mechanische Belastbarkeit noch nicht ausreichend entwickelt ist.
+Diese Strukturen passen sich jedoch oft langsamer an als das Herz-Kreislauf-System. Deshalb kann sich ein Athlet konditionell bereit fühlen, obwohl die mechanische Belastbarkeit noch nicht ausreichend entwickelt ist. [[3]](#quelle-3) [[10]](#quelle-10)
 
 Das ist im Lauftraining besonders wichtig, weil zu schnelle Umfangssteigerung Überlastungsprobleme begünstigen kann.
 
 ### Nervensystem und Bewegungsökonomie
 
-Auch das Nervensystem lernt. Bewegungen werden koordinierter, ökonomischer und stabiler. Im Laufen kann das bedeuten, dass weniger Energie für dieselbe Geschwindigkeit benötigt wird.
+Auch das Nervensystem lernt. Bewegungen werden koordinierter, ökonomischer und stabiler. Im Laufen kann das bedeuten, dass weniger Energie für dieselbe Geschwindigkeit benötigt wird. [[4]](#quelle-4)
 
 Diese Anpassung betrifft Muskelkoordination, Schrittfrequenz, Abdruckverhalten, Rumpfstabilität, Technik und die Fähigkeit, unter Ermüdung sauber zu laufen.
 
@@ -84,7 +84,7 @@ Kurzfristige Anpassung entsteht über Tage und Wochen. Dazu gehören bessere Wie
 
 ### Langfristige Anpassung
 
-Langfristige Anpassung entsteht über Monate und Jahre. Dazu gehören robuste aerobe Basis, hohe Ermüdungsresistenz, stabile Sehnen- und Gewebebelastbarkeit, bessere Wettkampfleistung und eine höhere Toleranz gegenüber Trainingsumfang.
+Langfristige Anpassung entsteht über Monate und Jahre. Dazu gehören robuste aerobe Basis, hohe Ermüdungsresistenz, stabile Sehnen- und Gewebebelastbarkeit, bessere Wettkampfleistung und eine höhere Toleranz gegenüber Trainingsumfang. [[2]](#quelle-2) [[3]](#quelle-3) [[5]](#quelle-5)
 
 Gerade im Ausdauersport ist langfristige Anpassung entscheidend. Viele wichtige Veränderungen brauchen Zeit und wiederholte Reize.
 
@@ -106,7 +106,7 @@ Ein einzelner Reiz reicht selten aus. Anpassung braucht wiederholte, ähnliche u
 
 ## Spezifität der Anpassung
 
-Der Körper passt sich spezifisch an das an, was trainiert wird. Wer lange locker läuft, verbessert andere Fähigkeiten als jemand, der kurze intensive Intervalle trainiert. Wer auf flacher Straße trainiert, entwickelt andere Anforderungen als jemand, der regelmäßig Trails, Höhenmeter oder Bergabbelastung nutzt.
+Der Körper passt sich spezifisch an das an, was trainiert wird. Wer lange locker läuft, verbessert andere Fähigkeiten als jemand, der kurze intensive Intervalle trainiert. Wer auf flacher Straße trainiert, entwickelt andere Anforderungen als jemand, der regelmäßig Trails, Höhenmeter oder Bergabbelastung nutzt. [[1]](#quelle-1) [[4]](#quelle-4) [[5]](#quelle-5)
 
 Spezifität bedeutet nicht, dass jedes Training exakt wie der Wettkampf aussehen muss. Es bedeutet, dass die wichtigsten Anforderungen des Ziels im Trainingsprozess zunehmend berücksichtigt werden.
 
@@ -114,7 +114,7 @@ Spezifität bedeutet nicht, dass jedes Training exakt wie der Wettkampf aussehen
 
 Leistungsentwicklung verläuft selten gleichmäßig. Am Anfang können Fortschritte schnell sichtbar werden. Später wird Entwicklung langsamer, weil der Körper bereits an viele Reize angepasst ist.
 
-Auch Alltag, Schlaf, Ernährung, Stress, Krankheit, Verletzungen, Trainingsalter und mentale Belastung beeinflussen die Anpassung. Deshalb kann eine Woche trotz gutem Training schwer wirken und eine andere Woche unerwartet leicht.
+Auch Alltag, Schlaf, Ernährung, Stress, Krankheit, Verletzungen, Trainingsalter und mentale Belastung beeinflussen die Anpassung. [[7]](#quelle-7) [[8]](#quelle-8) [[9]](#quelle-9) Deshalb kann eine Woche trotz gutem Training schwer wirken und eine andere Woche unerwartet leicht.
 
 Trainingsadaptation ist kein gerader Aufstieg, sondern ein langfristiger Prozess mit Fortschritten, Plateaus, Rückschritten und erneuten Entwicklungsschritten.
 
@@ -122,7 +122,7 @@ Trainingsadaptation ist kein gerader Aufstieg, sondern ein langfristiger Prozess
 
 Nicht jede Anpassung ist automatisch positiv. Der Körper passt sich auch an ungünstige Belastungsmuster an.
 
-Wenn Training dauerhaft zu monoton, zu hart, zu umfangreich oder zu wenig erholsam ist, kann der Körper mit chronischer Ermüdung, Schonmustern, sinkender Motivation, schlechterer Schlafqualität oder Überlastungsbeschwerden reagieren.
+Wenn Training dauerhaft zu monoton, zu hart, zu umfangreich oder zu wenig erholsam ist, kann der Körper mit chronischer Ermüdung, Schonmustern, sinkender Motivation, schlechterer Schlafqualität oder Überlastungsbeschwerden reagieren. [[7]](#quelle-7) [[8]](#quelle-8) [[10]](#quelle-10)
 
 Positive Trainingsadaptation entsteht, wenn Belastung, Erholung und Progression zusammenpassen.
 
@@ -144,7 +144,7 @@ Sinnvolle Anpassung im Lauftraining bedeutet daher:
 
 ## Trainingsadaptation und Monitoring
 
-Monitoring hilft, Anpassung sichtbar zu machen. Dabei geht es nicht nur um Bestzeiten oder schnelle Einheiten, sondern um die Entwicklung über Zeit.
+Monitoring hilft, Anpassung sichtbar zu machen. Dabei geht es nicht nur um Bestzeiten oder schnelle Einheiten, sondern um die Entwicklung über Zeit. [[6]](#quelle-6) [[7]](#quelle-7)
 
 Wichtige Hinweise können sein:
 
@@ -179,15 +179,15 @@ Der wichtigste Merksatz lautet: Nicht das Training allein macht besser, sondern 
 
 ```mermaid
 graph TD
-    A(Trainingsreiz) --> B(Ermüdung)
+    A(Trainingsreiz) --> B(Ermuedung)
     B --> C(Erholung)
     C --> D(Anpassung)
-    D --> E(Höhere Belastbarkeit)
+    D --> E(Hoehere Belastbarkeit)
     E --> F(Leistungsentwicklung)
 
     A --> G{Reiz passend?}
     G -->|Zu schwach| H(Kaum Anpassung)
-    G -->|Zu stark| I(Überlastung)
+    G -->|Zu stark| I(Ueberlastung)
     G -->|Passend| B
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
@@ -268,5 +268,58 @@ Der Körper braucht wiederholte Reize, um sich gezielt anzupassen. Zu viel Abwec
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+### Quelle 1
+
+Granata, C., Jamnick, N. A. & Bishop, D. J. (2018): Training-Induced Changes in Mitochondrial Content and Respiratory Function in Human Skeletal Muscle. Sports Medicine, 48, 1809–1828.  
+Quelle: [Springer](https://link.springer.com/article/10.1007/s40279-018-0936-y)
+
+### Quelle 2
+
+Mølmen, K. S., Almquist, N. W. & Skattebo, Ø. (2025): Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression. Sports Medicine, 55, 49–83.  
+Quelle: [Springer](https://link.springer.com/article/10.1007/s40279-024-02120-2)
+
+### Quelle 3
+
+Kjær, M. (2004): Role of Extracellular Matrix in Adaptation of Tendon and Skeletal Muscle to Mechanical Loading. Physiological Reviews, 84(2), 649–698.  
+Quelle: [Physiological Reviews](https://journals.physiology.org/doi/pdf/10.1152/physrev.00031.2003)
+
+### Quelle 4
+
+Midgley, A. W., McNaughton, L. R. & Jones, A. M. (2007): Training to Enhance the Physiological Determinants of Long-Distance Running Performance. Sports Medicine, 37(10), 857–880.  
+Quelle: [Springer](https://link.springer.com/article/10.2165/00007256-200737100-00003)
+
+### Quelle 5
+
+Seiler, S. (2010): What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? International Journal of Sports Physiology and Performance, 5(3), 276–291.  
+Quelle: [Human Kinetics](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml)
+
+### Quelle 6
+
+Impellizzeri, F. M., Marcora, S. M. & Coutts, A. J. (2019): Internal and External Training Load: 15 Years On. International Journal of Sports Physiology and Performance, 14(2), 270–273.  
+Quelle: [PubMed](https://pubmed.ncbi.nlm.nih.gov/30614348/)
+
+### Quelle 7
+
+Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017): Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(s2), S2-161–S2-170.  
+Quelle: [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
+
+### Quelle 8
+
+Meeusen, R., Duclos, M., Foster, C. et al. (2013): Prevention, Diagnosis, and Treatment of the Overtraining Syndrome: Joint Consensus Statement of the ECSS and ACSM. Medicine & Science in Sports & Exercise, 45(1), 186–205.  
+Quelle: [PubMed](https://pubmed.ncbi.nlm.nih.gov/23247672/)
+
+### Quelle 9
+
+Kellmann, M., Bertollo, M., Bosquet, L. et al. (2018): Recovery and Performance in Sport: Consensus Statement. International Journal of Sports Physiology and Performance, 13(2), 240–245.  
+Quelle: [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml)
+
+### Quelle 10
+
+Soligard, T., Schwellnus, M., Alonso, J. M. et al. (2016): How much is too much? (Part 1) International Olympic Committee consensus statement on load in sport and risk of injury. British Journal of Sports Medicine, 50(17), 1030–1041.  
+Quelle: [BMJ/BJSM](https://bjsm.bmj.com/content/50/17/1030)
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
