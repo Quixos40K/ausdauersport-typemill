@@ -1,12 +1,12 @@
 # Leistungsdiagnostik im Verlauf
 
-Leistungsdiagnostik im Verlauf beschreibt die wiederholte Überprüfung der Ausdauerleistung über Wochen, Monate oder Trainingsphasen hinweg. Sie zeigt, ob Training wirkt, wie sich Schwellen, Herzfrequenz, Pace, Watt, VO2max, Laktat oder Belastungsempfinden verändern und ob der Trainingsplan angepasst werden sollte.
+Leistungsdiagnostik im Verlauf beschreibt die wiederholte Überprüfung der Ausdauerleistung über Wochen, Monate oder Trainingsphasen hinweg. Sie zeigt, ob Training wirkt, wie sich Schwellen, Herzfrequenz, Pace, Watt, VO2max, Laktat oder Belastungsempfinden verändern und ob der Trainingsplan angepasst werden sollte. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ## Was Leistungsdiagnostik im Verlauf bedeutet
 
 Leistungsdiagnostik wird oft als einzelner Test verstanden. Für die Trainingssteuerung ist aber vor allem der Verlauf entscheidend. Ein einzelner Test zeigt den aktuellen Zustand. Mehrere Tests über die Zeit zeigen Entwicklung.
 
-Im Ausdauertraining geht es dabei nicht nur um die Frage, ob jemand schneller geworden ist. Wichtiger ist, wie sich die Leistung bei bestimmten Belastungen verändert. Eine gleiche Pace bei niedrigerer Herzfrequenz, eine höhere Schwellenleistung oder eine bessere Erholung nach intensiven Abschnitten können wichtige Hinweise auf Trainingsadaptation sein.
+Im Ausdauertraining geht es dabei nicht nur um die Frage, ob jemand schneller geworden ist. Wichtiger ist, wie sich die Leistung bei bestimmten Belastungen verändert. Eine gleiche Pace bei niedrigerer Herzfrequenz, eine höhere Schwellenleistung oder eine bessere Erholung nach intensiven Abschnitten können wichtige Hinweise auf Trainingsadaptation sein. [[1]](#quelle-1) [[3]](#quelle-3) [[7]](#quelle-7)
 
 Leistungsdiagnostik im Verlauf macht sichtbar, ob Training tatsächlich in die gewünschte Richtung wirkt.
 
@@ -14,7 +14,7 @@ Leistungsdiagnostik im Verlauf macht sichtbar, ob Training tatsächlich in die g
 
 Ein einzelner Leistungswert kann hilfreich sein, aber er ist immer nur eine Momentaufnahme. Tagesform, Schlaf, Stress, Ernährung, Temperatur, Motivation, Vorermüdung und Testbedingungen beeinflussen das Ergebnis.
 
-Der Verlauf ist robuster. Wenn sich mehrere Messwerte über längere Zeit in eine ähnliche Richtung entwickeln, entsteht ein klareres Bild.
+Der Verlauf ist robuster. Wenn sich mehrere Messwerte über längere Zeit in eine ähnliche Richtung entwickeln, entsteht ein klareres Bild. [[4]](#quelle-4) [[6]](#quelle-6) [[8]](#quelle-8)
 
 Beispiel:
 
@@ -26,7 +26,7 @@ Leistungsdiagnostik im Verlauf kann mehrere Aufgaben erfüllen.
 
 ### Trainingszonen bestimmen
 
-Diagnostik hilft, Trainingszonen individueller festzulegen. Statt pauschaler Prozentwerte können Schwellen, Herzfrequenzbereiche, Pacebereiche oder Wattbereiche genutzt werden.
+Diagnostik hilft, Trainingszonen individueller festzulegen. Statt pauschaler Prozentwerte können Schwellen, Herzfrequenzbereiche, Pacebereiche oder Wattbereiche genutzt werden. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ### Fortschritt sichtbar machen
 
@@ -34,7 +34,7 @@ Sie zeigt, ob sich Leistung, Belastbarkeit, Effizienz oder Erholungsfähigkeit v
 
 ### Trainingsplanung anpassen
 
-Wenn sich Werte verändern, sollten Trainingsbereiche angepasst werden. Wer besser wird, braucht manchmal neue Zielbereiche. Wer überlastet ist, braucht möglicherweise Entlastung statt weitere Steigerung.
+Wenn sich Werte verändern, sollten Trainingsbereiche angepasst werden. Wer besser wird, braucht manchmal neue Zielbereiche. Wer überlastet ist, braucht möglicherweise Entlastung statt weitere Steigerung. [[4]](#quelle-4) [[5]](#quelle-5)
 
 ### Plateaus erkennen
 
@@ -50,11 +50,11 @@ Auffällige Veränderungen können Warnsignale sein. Wenn Leistung sinkt, Herzfr
 
 Pace zeigt, wie schnell gelaufen wird. Im Verlauf ist besonders interessant, ob gleiche Intensitäten schneller oder gleiche Geschwindigkeiten leichter werden.
 
-Pace allein reicht aber nicht aus, weil Gelände, Wind, Temperatur, Untergrund und Tagesform die Belastung verändern können.
+Pace allein reicht aber nicht aus, weil Gelände, Wind, Temperatur, Untergrund und Tagesform die Belastung verändern können. [[2]](#quelle-2) [[5]](#quelle-5)
 
 ### Herzfrequenz
 
-Die Herzfrequenz zeigt, wie stark das Herz-Kreislauf-System auf eine Belastung reagiert. Sinkt die Herzfrequenz bei gleicher Pace und ähnlichen Bedingungen, kann das auf bessere aerobe Effizienz hinweisen.
+Die Herzfrequenz zeigt, wie stark das Herz-Kreislauf-System auf eine Belastung reagiert. Sinkt die Herzfrequenz bei gleicher Pace und ähnlichen Bedingungen, kann das auf bessere aerobe Effizienz hinweisen. [[7]](#quelle-7)
 
 Steigt die Herzfrequenz bei gleicher Belastung über längere Zeit, können Hitze, Müdigkeit, Stress, Infekt, Flüssigkeitsmangel oder Überlastung eine Rolle spielen.
 
@@ -66,25 +66,25 @@ Watt kann hilfreich sein, weil Leistung direkter auf Belastungswechsel reagiert 
 
 ### Laktat
 
-Laktatmessungen können helfen, Stoffwechselbereiche und Schwellen einzuordnen. Besonders interessant ist, bei welcher Pace oder Leistung bestimmte Laktatwerte auftreten und wie sich diese über die Zeit verändern.
+Laktatmessungen können helfen, Stoffwechselbereiche und Schwellen einzuordnen. Besonders interessant ist, bei welcher Pace oder Leistung bestimmte Laktatwerte auftreten und wie sich diese über die Zeit verändern. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Wenn bei höherer Pace weniger Laktat entsteht oder eine Schwelle bei höherer Leistung liegt, kann das auf verbesserte Ausdauerleistung hinweisen.
 
 ### VO2max
 
-Die VO2max beschreibt die maximale Sauerstoffaufnahme. Sie ist ein wichtiger Leistungsfaktor, aber nicht allein entscheidend.
+Die VO2max beschreibt die maximale Sauerstoffaufnahme. Sie ist ein wichtiger Leistungsfaktor, aber nicht allein entscheidend. [[3]](#quelle-3)
 
 Im Verlauf kann sie zeigen, ob das aerobe Potenzial steigt. Für die praktische Leistung sind jedoch auch Schwellen, Laufökonomie, Ermüdungsresistenz, Pacing und spezifische Belastbarkeit wichtig.
 
 ### Schwellen
 
-Schwellen sind besonders wertvoll für die Trainingssteuerung. Sie beschreiben Übergangsbereiche im Stoffwechsel oder in der Atmung.
+Schwellen sind besonders wertvoll für die Trainingssteuerung. Sie beschreiben Übergangsbereiche im Stoffwechsel oder in der Atmung. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Wenn sich die aerobe oder anaerobe Schwelle verbessert, kann ein Athlet höhere Intensitäten länger kontrolliert aufrechterhalten. Deshalb sind Schwellenveränderungen oft aussagekräftiger als einzelne Maximalwerte.
 
 ### Subjektives Belastungsempfinden
 
-Das subjektive Belastungsempfinden zeigt, wie hart sich eine Belastung anfühlt. Es ist besonders wichtig, weil objektive Messwerte nicht immer die gesamte innere Belastung abbilden.
+Das subjektive Belastungsempfinden zeigt, wie hart sich eine Belastung anfühlt. Es ist besonders wichtig, weil objektive Messwerte nicht immer die gesamte innere Belastung abbilden. [[10]](#quelle-10) [[11]](#quelle-11)
 
 Wenn sich gleiche Einheiten leichter anfühlen, kann das ein Zeichen für Anpassung sein. Wenn lockere Einheiten plötzlich schwer wirken, sollte die Belastung überprüft werden.
 
@@ -94,7 +94,7 @@ Leistungsdiagnostik kann im Labor oder im Feld stattfinden.
 
 ### Labordiagnostik
 
-Labordiagnostik wird unter kontrollierten Bedingungen durchgeführt. Beispiele sind Spiroergometrie, Laktatstufentest oder Laufbanddiagnostik.
+Labordiagnostik wird unter kontrollierten Bedingungen durchgeführt. Beispiele sind Spiroergometrie, Laktatstufentest oder Laufbanddiagnostik. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Der Vorteil liegt in der Standardisierung. Bedingungen, Belastungsstufen und Messwerte können sehr genau kontrolliert werden. Dadurch lassen sich Schwellen, Sauerstoffaufnahme und Stoffwechselreaktionen detailliert einordnen.
 
@@ -127,7 +127,7 @@ Je besser die Bedingungen vergleichbar sind, desto aussagekräftiger ist der Ver
 
 ## Leistungsdiagnostik im Trainingsprozess
 
-Leistungsdiagnostik sollte nicht zufällig stattfinden, sondern in die Periodisierung eingebunden werden.
+Leistungsdiagnostik sollte nicht zufällig stattfinden, sondern in die Periodisierung eingebunden werden. [[4]](#quelle-4) [[8]](#quelle-8) [[9]](#quelle-9)
 
 ### Vor dem Trainingsblock
 
@@ -185,7 +185,7 @@ Deshalb sollten Trainingszonen regelmäßig überprüft, aber nicht ständig imp
 
 ## Leistungsdiagnostik und Monitoring
 
-Leistungsdiagnostik und Monitoring ergänzen sich.
+Leistungsdiagnostik und Monitoring ergänzen sich. [[4]](#quelle-4) [[5]](#quelle-5) [[6]](#quelle-6)
 
 Leistungsdiagnostik liefert gezielte Standortbestimmungen. Monitoring begleitet den Alltag des Trainingsprozesses.
 
@@ -229,8 +229,8 @@ graph TD
     F --> C
 
     E --> G{Werte verbessern sich?}
-    G -->|Ja| H(Zonen prüfen)
-    G -->|Nein| I(Reiz und Erholung prüfen)
+    G -->|Ja| H(Zonen pruefen)
+    G -->|Nein| I(Reiz und Erholung pruefen)
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
     classDef primary fill:#1A4B54,stroke:#24292E,stroke-width:2px,color:#F4EFEA;
@@ -310,5 +310,63 @@ Leistungsdiagnostik liefert gezielte Standortbestimmungen. Monitoring begleitet 
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+### Quelle 1
+
+Faude, O., Kindermann, W. & Meyer, T. (2009): Lactate Threshold Concepts. Sports Medicine, 39(6), 469–490.  
+Quelle: [Springer](https://link.springer.com/article/10.2165/00007256-200939060-00003)
+
+### Quelle 2
+
+Mann, T., Lamberts, R. P. & Lambert, M. I. (2013): Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations. Sports Medicine, 43, 613–625.  
+Quelle: [Springer](https://link.springer.com/article/10.1007/s40279-013-0045-x)
+
+### Quelle 3
+
+Midgley, A. W., McNaughton, L. R. & Jones, A. M. (2007): Training to Enhance the Physiological Determinants of Long-Distance Running Performance. Sports Medicine, 37(10), 857–880.  
+Quelle: [Springer](https://link.springer.com/article/10.2165/00007256-200737100-00003)
+
+### Quelle 4
+
+Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017): Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(s2), S2-161–S2-170.  
+Quelle: [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
+
+### Quelle 5
+
+Impellizzeri, F. M., Marcora, S. M. & Coutts, A. J. (2019): Internal and External Training Load: 15 Years On. International Journal of Sports Physiology and Performance, 14(2), 270–273.  
+Quelle: [PubMed](https://pubmed.ncbi.nlm.nih.gov/30614348/)
+
+### Quelle 6
+
+Halson, S. L. (2014): Monitoring Training Load to Understand Fatigue in Athletes. Sports Medicine, 44(Suppl 2), 139–147.  
+Quelle: [PubMed](https://pubmed.ncbi.nlm.nih.gov/25200666/)
+
+### Quelle 7
+
+Buchheit, M. (2014): Monitoring training status with HR measures: do all roads lead to Rome? Frontiers in Physiology, 5, 73.  
+Quelle: [Frontiers/PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3936188/)
+
+### Quelle 8
+
+Borresen, J. & Lambert, M. I. (2009): The Quantification of Training Load, the Training Response and the Effect on Performance. Sports Medicine, 39(9), 779–795.  
+Quelle: [Springer](https://link.springer.com/article/10.2165/11317780-000000000-00000)
+
+### Quelle 9
+
+Seiler, S. (2010): What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? International Journal of Sports Physiology and Performance, 5(3), 276–291.  
+Quelle: [Human Kinetics](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml)
+
+### Quelle 10
+
+Foster, C., Florhaug, J. A., Franklin, J. et al. (2001): A New Approach to Monitoring Exercise Training. Journal of Strength and Conditioning Research, 15(1), 109–115.  
+Quelle: [BISp/SURF](https://www.bisp-surf.de/Record/PU199912501542/Details)
+
+### Quelle 11
+
+Borg, G. A. V. (1982): Psychophysical bases of perceived exertion. Medicine & Science in Sports & Exercise, 14(5), 377–381.  
+Quelle: [PubMed](https://pubmed.ncbi.nlm.nih.gov/7154893/)
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
