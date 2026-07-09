@@ -1,12 +1,12 @@
 # Nervensystem und zentrale Ermüdung
 
-Nervensystem und zentrale Ermüdung beschreiben, wie Gehirn, Rückenmark und Nerven die Ausdauerleistung steuern und begrenzen können. Im Ausdauertraining ist das wichtig, weil Ermüdung nicht nur in der Muskulatur entsteht, sondern auch durch Wahrnehmung, Motivation, Schutzmechanismen, Temperatur, Stoffwechselstress und neuronale Signalverarbeitung beeinflusst wird. Entscheidend ist: Leistung wird nicht nur durch den Muskel erzeugt, sondern vom Nervensystem reguliert.
+Nervensystem und zentrale Ermüdung beschreiben, wie Gehirn, Rückenmark und Nerven die Ausdauerleistung steuern und begrenzen können. Im Ausdauertraining ist das wichtig, weil Ermüdung nicht nur in der Muskulatur entsteht, sondern auch durch Wahrnehmung, Motivation, Schutzmechanismen, Temperatur, Stoffwechselstress und neuronale Signalverarbeitung beeinflusst wird. Entscheidend ist: Leistung wird nicht nur durch den Muskel erzeugt, sondern vom Nervensystem reguliert. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ## Was Nervensystem und zentrale Ermüdung bedeutet
 
-Das Nervensystem steuert Bewegung, Muskelaktivierung, Belastungswahrnehmung und viele automatische Körperfunktionen. Beim Laufen entscheidet es unter anderem, welche Muskeln aktiviert werden, wie stark motorische Einheiten rekrutiert werden und wie Bewegung koordiniert bleibt.
+Das Nervensystem steuert Bewegung, Muskelaktivierung, Belastungswahrnehmung und viele automatische Körperfunktionen. Beim Laufen entscheidet es unter anderem, welche Muskeln aktiviert werden, wie stark motorische Einheiten rekrutiert werden und wie Bewegung koordiniert bleibt. [[5]](#quelle-5) [[6]](#quelle-6)
 
-Zentrale Ermüdung meint eine nachlassende Fähigkeit des zentralen Nervensystems, die Muskulatur vollständig oder dauerhaft anzusteuern. Sie unterscheidet sich von peripherer Ermüdung, die direkt im Muskel entsteht, zum Beispiel durch lokale Stoffwechselbelastung, Energiemangel oder Störung der Muskelkontraktion.
+Zentrale Ermüdung meint eine nachlassende Fähigkeit des zentralen Nervensystems, die Muskulatur vollständig oder dauerhaft anzusteuern. Sie unterscheidet sich von peripherer Ermüdung, die direkt im Muskel entsteht, zum Beispiel durch lokale Stoffwechselbelastung, Energiemangel oder Störung der Muskelkontraktion. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 In der Praxis treten zentrale und periphere Ermüdung fast immer gemeinsam auf. Ein langer Lauf ermüdet nicht nur die Beine, sondern auch die Steuerung, Wahrnehmung und Bereitschaft, eine bestimmte Intensität weiter aufrechtzuerhalten.
 
@@ -14,15 +14,15 @@ In der Praxis treten zentrale und periphere Ermüdung fast immer gemeinsam auf. 
 
 Ausdauerleistung entsteht aus dem Zusammenspiel von Körper und Nervensystem. Selbst wenn Muskulatur, Herz-Kreislauf-System und Energiestoffwechsel noch arbeiten können, kann die Belastung subjektiv so schwer werden, dass Tempo, Schrittfrequenz oder Bewegungsqualität abfallen.
 
-Das Nervensystem verarbeitet ständig Rückmeldungen aus dem Körper. Dazu gehören Signale aus Muskeln, Sehnen, Gelenken, Herz-Kreislauf-System, Atmung und Temperaturregulation. Aus diesen Informationen entsteht ein Belastungseindruck.
+Das Nervensystem verarbeitet ständig Rückmeldungen aus dem Körper. Dazu gehören Signale aus Muskeln, Sehnen, Gelenken, Herz-Kreislauf-System, Atmung und Temperaturregulation. Aus diesen Informationen entsteht ein Belastungseindruck. [[3]](#quelle-3) [[4]](#quelle-4) [[5]](#quelle-5)
 
-Dieser Belastungseindruck beeinflusst, wie lange ein Tempo gehalten werden kann. Deshalb ist Ermüdung nicht nur eine objektive Größe, sondern auch eine regulierte Wahrnehmung.
+Dieser Belastungseindruck beeinflusst, wie lange ein Tempo gehalten werden kann. Deshalb ist Ermüdung nicht nur eine objektive Größe, sondern auch eine regulierte Wahrnehmung. [[4]](#quelle-4) [[5]](#quelle-5)
 
 ## Wie zentrale Ermüdung im Training wirkt
 
 Bei steigender Belastung muss das Nervensystem immer mehr koordinieren. Es aktiviert Muskeln, stabilisiert Bewegungen, verarbeitet Schmerz- und Drucksignale und reguliert die Intensität.
 
-Wenn die Belastung lange dauert oder sehr intensiv wird, können zentrale Schutzmechanismen stärker werden. Das kann dazu führen, dass die mögliche Muskelaktivierung reduziert wird. Der Körper versucht dadurch, Überlastung, Überhitzung oder ein zu starkes inneres Ungleichgewicht zu vermeiden.
+Wenn die Belastung lange dauert oder sehr intensiv wird, können zentrale Schutzmechanismen stärker werden. Das kann dazu führen, dass die mögliche Muskelaktivierung reduziert wird. Der Körper versucht dadurch, Überlastung, Überhitzung oder ein zu starkes inneres Ungleichgewicht zu vermeiden. [[3]](#quelle-3) [[4]](#quelle-4)
 
 Das zeigt sich im Training oft als nachlassender Abdruck, schwerere Beine, sinkende Konzentration, schlechtere Koordination oder das Gefühl, „nicht mehr richtig antreiben“ zu können.
 
@@ -30,7 +30,7 @@ Das zeigt sich im Training oft als nachlassender Abdruck, schwerere Beine, sinke
 
 ### Belastungswahrnehmung
 
-Die subjektive Belastungswahrnehmung ist ein wichtiger Hinweis auf zentrale Ermüdung. Sie entsteht nicht nur aus Muskelarbeit, sondern aus vielen Signalen des Körpers.
+Die subjektive Belastungswahrnehmung ist ein wichtiger Hinweis auf zentrale Ermüdung. Sie entsteht nicht nur aus Muskelarbeit, sondern aus vielen Signalen des Körpers. [[5]](#quelle-5) [[6]](#quelle-6)
 
 Ein Tempo kann sich an einem Tag leicht und an einem anderen Tag schwer anfühlen, obwohl Pace und Herzfrequenz ähnlich sind. Schlaf, Stress, Hitze, Ernährung und Vorermüdung verändern, wie Belastung im Nervensystem bewertet wird.
 
@@ -42,7 +42,7 @@ Beim Laufen kann das zu kürzerem Schritt, weniger Abdruck, mehr Bodenkontaktzei
 
 ### Afferente Rückmeldungen
 
-Afferente Rückmeldungen sind Signale aus dem Körper zum Gehirn und Rückenmark. Sie informieren über Muskelspannung, Stoffwechselbelastung, Schmerz, Temperatur und mechanische Beanspruchung.
+Afferente Rückmeldungen sind Signale aus dem Körper zum Gehirn und Rückenmark. Sie informieren über Muskelspannung, Stoffwechselbelastung, Schmerz, Temperatur und mechanische Beanspruchung. [[3]](#quelle-3) [[4]](#quelle-4)
 
 Je stärker diese Signale werden, desto mehr kann das Nervensystem die Belastung als kritisch einordnen. Dadurch kann die weitere Leistungsabgabe begrenzt werden.
 
@@ -50,7 +50,7 @@ Je stärker diese Signale werden, desto mehr kann das Nervensystem die Belastung
 
 Hitze belastet das Nervensystem stark. Der Körper muss nicht nur Bewegung erzeugen, sondern auch die Körpertemperatur regulieren.
 
-Bei hoher Temperatur steigt die Belastungswahrnehmung oft deutlich. Das Tempo fühlt sich früher hart an, die Konzentration kann sinken und die Bereitschaft, hohe Intensität zu halten, nimmt ab.
+Bei hoher Temperatur steigt die Belastungswahrnehmung oft deutlich. Das Tempo fühlt sich früher hart an, die Konzentration kann sinken und die Bereitschaft, hohe Intensität zu halten, nimmt ab. [[5]](#quelle-5) [[6]](#quelle-6)
 
 ### Schlaf und Stress
 
@@ -60,15 +60,15 @@ Das bedeutet nicht, dass jedes Training bei Stress schlecht ist. Aber harte Einh
 
 ## Zentrale Ermüdung und Pacing
 
-Pacing beschreibt die bewusste oder unbewusste Einteilung der Belastung. Das Nervensystem spielt dabei eine zentrale Rolle, weil es aktuelle Rückmeldungen mit der erwarteten Dauer der Belastung verbindet.
+Pacing beschreibt die bewusste oder unbewusste Einteilung der Belastung. Das Nervensystem spielt dabei eine zentrale Rolle, weil es aktuelle Rückmeldungen mit der erwarteten Dauer der Belastung verbindet. [[5]](#quelle-5) [[6]](#quelle-6)
 
 Bei einem Wettkampf wird ein Tempo nicht nur durch die Muskulatur bestimmt. Auch Erfahrung, Motivation, Erwartung, Temperatur, Schmerz, Angst vor Einbruch und Vertrauen in die eigene Belastbarkeit beeinflussen die Intensitätswahl.
 
-Gutes Pacing bedeutet deshalb nicht nur, eine Zielpace zu kennen. Es bedeutet auch, Körpersignale realistisch einzuordnen und nicht zu früh zu viel zentrale und periphere Ermüdung aufzubauen.
+Gutes Pacing bedeutet deshalb nicht nur, eine Zielpace zu kennen. Es bedeutet auch, Körpersignale realistisch einzuordnen und nicht zu früh zu viel zentrale und periphere Ermüdung aufzubauen. [[5]](#quelle-5) [[6]](#quelle-6)
 
 ## Bedeutung für Läufer
 
-Für Läufer ist zentrale Ermüdung besonders relevant, weil Laufleistung stark von Rhythmus, Koordination und mentaler Belastungstoleranz abhängt. Wenn das Nervensystem ermüdet, kann die Bewegung ineffizienter werden, auch wenn die Muskulatur noch nicht vollständig erschöpft ist.
+Für Läufer ist zentrale Ermüdung besonders relevant, weil Laufleistung stark von Rhythmus, Koordination und mentaler Belastungstoleranz abhängt. Wenn das Nervensystem ermüdet, kann die Bewegung ineffizienter werden, auch wenn die Muskulatur noch nicht vollständig erschöpft ist. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)
 
 Lockere Läufe helfen, Bewegungsrhythmus und Belastungsverträglichkeit aufzubauen. Lange Läufe trainieren nicht nur Energiestoffwechsel und Muskulatur, sondern auch die Fähigkeit, über längere Zeit konzentriert und stabil zu bleiben.
 
@@ -78,7 +78,7 @@ Intensive Einheiten fordern das Nervensystem besonders stark. Deshalb brauchen s
 
 Ein häufiger Fehler ist, Ermüdung nur als Muskelproblem zu betrachten. Schwere Beine können muskulär entstehen, aber auch durch Schlafmangel, Hitze, Stress, mentale Erschöpfung oder zentrale Vorermüdung verstärkt werden.
 
-Ein weiterer Fehler ist, mentale Härte mit dauerhaftem Ignorieren von Körpersignalen zu verwechseln. Belastung auszuhalten ist wichtig, aber zentrale Warnsignale dauerhaft zu übergehen, kann Training und Erholung verschlechtern.
+Ein weiterer Fehler ist, mentale Härte mit dauerhaftem Ignorieren von Körpersignalen zu verwechseln. Belastung auszuhalten ist wichtig, aber zentrale Warnsignale dauerhaft zu übergehen, kann Training und Erholung verschlechtern. [[5]](#quelle-5) [[6]](#quelle-6)
 
 Auch Motivation wird manchmal überschätzt. Hohe Motivation kann helfen, Belastung länger zu tolerieren. Sie ersetzt aber keine Energieverfügbarkeit, keinen Schlaf und keine sinnvolle Trainingssteuerung.
 
@@ -141,6 +141,42 @@ Man kann die Belastungstoleranz und das Pacing verbessern. Das geschieht vor all
 ### Was ist ein häufiger Fehler bei zentraler Ermüdung?
 
 Ein häufiger Fehler ist, Warnsignale dauerhaft zu ignorieren und jede Einheit über Willenskraft zu erzwingen. Langfristig braucht das Nervensystem genauso Erholung wie Muskulatur und Energiestoffwechsel.
+
+----
+
+## Quellen
+
+### Quelle 1
+
+[1] Gandevia, S. C. (2001): [Spinal and Supraspinal Factors in Human Muscle Fatigue](https://journals.physiology.org/doi/pdf/10.1152/physrev.2001.81.4.1725). Physiological Reviews.
+
+### Quelle 2
+
+[2] Enoka, R. M., & Duchateau, J. (2008): [Muscle Fatigue: What, Why and How It Influences Muscle Function](https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.2007.139477). The Journal of Physiology.
+
+### Quelle 3
+
+[3] Amann, M. et al. (2011): [Central and Peripheral Fatigue: Interaction During Cycling Exercise in Humans](https://pubmed.ncbi.nlm.nih.gov/21502884/). Medicine & Science in Sports & Exercise.
+
+### Quelle 4
+
+[4] Hureau, T. J., Romer, L. M., & Amann, M. (2018): [The “Sensory Tolerance Limit”: A Hypothetical Construct Determining Exercise Performance?](https://pubmed.ncbi.nlm.nih.gov/29608992/). European Journal of Sport Science.
+
+### Quelle 5
+
+[5] Marcora, S. M., & Staiano, W. (2010): [The Limit to Exercise Tolerance in Humans: Mind Over Muscle?](https://link.springer.com/article/10.1007/s00421-010-1418-6). European Journal of Applied Physiology.
+
+### Quelle 6
+
+[6] Pageaux, B. (2014): [The Psychobiological Model of Endurance Performance](https://link.springer.com/article/10.1007/s40279-014-0198-2). Sports Medicine.
+
+### Quelle 7
+
+[7] Nybo, L., & Nielsen, B. (2001): [Hyperthermia and Central Fatigue During Prolonged Exercise in Humans](https://journals.physiology.org/doi/pdf/10.1152/jappl.2001.91.3.1055?download=true). Journal of Applied Physiology.
+
+### Quelle 8
+
+[8] Maughan, R. J., Shirreffs, S. M., & Watson, P. (2010): [Exercise, Heat, Hydration and the Brain](https://pubmed.ncbi.nlm.nih.gov/21029189/). Scandinavian Journal of Medicine & Science in Sports.
 
 ----
 
