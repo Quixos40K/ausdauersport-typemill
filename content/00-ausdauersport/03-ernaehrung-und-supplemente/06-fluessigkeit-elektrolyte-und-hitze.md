@@ -145,7 +145,7 @@ graph TD
     B --> D(Mehr Schwitzen)
     C --> E(Herz Kreislauf Belastung)
     D --> E
-    E --> F(Pace und Intensitaet anpassen)
+    E --> F(Pace und Intensität anpassen)
     F --> G(Kühlung und Akklimatisation)
 
     classDef default fill:#F4EFEA,stroke:#1A4B54,stroke-width:2px,color:#24292E;
