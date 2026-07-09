@@ -1,28 +1,28 @@
 # Proteinversorgung im Ausdauersport
 
-Proteinversorgung beschreibt, ob dem Körper genügend Eiweißbausteine für Reparatur, Anpassung und Erhalt von Gewebe zur Verfügung stehen. Im Ausdauersport ist Protein nicht nur für Muskeln wichtig, sondern auch für Sehnen, Bindegewebe, Immunsystem und Regeneration. Entscheidend ist, dass Proteinmenge, Energiezufuhr, Kohlenhydrate, Trainingsbelastung und Erholung zusammenpassen.
+Proteinversorgung beschreibt, ob dem Körper genügend Eiweißbausteine für Reparatur, Anpassung und Erhalt von Gewebe zur Verfügung stehen. Im Ausdauersport ist Protein nicht nur für Muskeln wichtig, sondern auch für Sehnen, Bindegewebe, Immunsystem und Regeneration. Entscheidend ist, dass Proteinmenge, Energiezufuhr, Kohlenhydrate, Trainingsbelastung und Erholung zusammenpassen. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Was Proteinversorgung bedeutet
 
-Protein besteht aus Aminosäuren. Diese Aminosäuren nutzt der Körper unter anderem für Muskelproteine, Enzyme, Transportproteine, Immunfunktionen und Gewebereparatur.
+Protein besteht aus Aminosäuren. Diese Aminosäuren nutzt der Körper unter anderem für Muskelproteine, Enzyme, Transportproteine, Immunfunktionen und Gewebereparatur. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Im Ausdauersport wird Protein manchmal unterschätzt, weil der Fokus häufig auf Kohlenhydraten, Fettstoffwechsel und Energieverbrauch liegt. Dabei belastet Ausdauertraining nicht nur das Herz-Kreislauf-System, sondern auch Muskulatur, Sehnen, Knochen und Bindegewebe.
+Im Ausdauersport wird Protein manchmal unterschätzt, weil der Fokus häufig auf Kohlenhydraten, Fettstoffwechsel und Energieverbrauch liegt. Dabei belastet Ausdauertraining nicht nur das Herz-Kreislauf-System, sondern auch Muskulatur, Sehnen, Knochen und Bindegewebe. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Proteinversorgung bedeutet deshalb nicht nur: „genug Eiweiß essen“. Es geht darum, dem Körper regelmäßig genügend Baustoffe zur Verfügung zu stellen, damit Training nicht nur ermüdet, sondern auch verarbeitet werden kann.
+Proteinversorgung bedeutet deshalb nicht nur: „genug Eiweiß essen“. Es geht darum, dem Körper regelmäßig genügend Baustoffe zur Verfügung zu stellen, damit Training nicht nur ermüdet, sondern auch verarbeitet werden kann. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Warum Protein im Ausdauersport wichtig ist
 
 Ausdauertraining erzeugt wiederholte mechanische und metabolische Belastung. Besonders beim Laufen entstehen viele kleine Belastungsreize in Muskulatur, Sehnen und Bindegewebe. Diese Strukturen müssen sich nach dem Training reparieren und anpassen.
 
-Protein unterstützt diesen Prozess. Es hilft beim Erhalt von Muskelmasse, bei Reparaturprozessen und bei der Anpassung an Training. Das ist besonders wichtig bei hohen Umfängen, intensiven Trainingsphasen, Krafttraining, Energiedefizit oder zunehmendem Alter.
+Protein unterstützt diesen Prozess. Es hilft beim Erhalt von Muskelmasse, bei Reparaturprozessen und bei der Anpassung an Training. Das ist besonders wichtig bei hohen Umfängen, intensiven Trainingsphasen, Krafttraining, Energiedefizit oder zunehmendem Alter. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Wichtig ist aber: Protein allein löst keine gute Regeneration aus. Wenn insgesamt zu wenig Energie vorhanden ist oder Kohlenhydrate für harte Einheiten fehlen, kann auch eine hohe Proteinzufuhr die Belastung nicht vollständig ausgleichen.
+Wichtig ist aber: Protein allein löst keine gute Regeneration aus. Wenn insgesamt zu wenig Energie vorhanden ist oder Kohlenhydrate für harte Einheiten fehlen, kann auch eine hohe Proteinzufuhr die Belastung nicht vollständig ausgleichen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Wie Protein im Körper wirkt
 
-Nach der Verdauung werden Proteine in Aminosäuren zerlegt. Diese Aminosäuren gelangen ins Blut und stehen dem Körper als Baustoffe zur Verfügung.
+Nach der Verdauung werden Proteine in Aminosäuren zerlegt. Diese Aminosäuren gelangen ins Blut und stehen dem Körper als Baustoffe zur Verfügung. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Ein Teil wird für die Muskelproteinsynthese genutzt. Das bedeutet: Der Körper baut Muskelprotein auf, repariert beschädigte Strukturen und passt Gewebe an wiederkehrende Belastungen an.
+Ein Teil wird für die Muskelproteinsynthese genutzt. Das bedeutet: Der Körper baut Muskelprotein auf, repariert beschädigte Strukturen und passt Gewebe an wiederkehrende Belastungen an. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Im Ausdauersport betrifft das nicht nur sichtbare Muskulatur. Auch Enzyme des Energiestoffwechsels, Transportstrukturen und regenerative Prozesse hängen von einer ausreichenden Eiweißversorgung ab.
 
@@ -30,63 +30,63 @@ Im Ausdauersport betrifft das nicht nur sichtbare Muskulatur. Auch Enzyme des En
 
 ### Gesamtenergiezufuhr
 
-Protein wirkt am besten, wenn insgesamt genug Energie verfügbar ist. Wenn der Körper dauerhaft zu wenig Energie bekommt, kann Protein teilweise als Energiequelle genutzt werden, statt vollständig für Reparatur und Anpassung bereitzustehen.
+Protein wirkt am besten, wenn insgesamt genug Energie verfügbar ist. Wenn der Körper dauerhaft zu wenig Energie bekommt, kann Protein teilweise als Energiequelle genutzt werden, statt vollständig für Reparatur und Anpassung bereitzustehen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Deshalb sollte Proteinversorgung immer zusammen mit Energieverfügbarkeit betrachtet werden. Eine proteinreiche Ernährung ist nicht automatisch ausreichend, wenn die Gesamtzufuhr zu niedrig bleibt.
+Deshalb sollte Proteinversorgung immer zusammen mit Energieverfügbarkeit betrachtet werden. Eine proteinreiche Ernährung ist nicht automatisch ausreichend, wenn die Gesamtzufuhr zu niedrig bleibt. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ### Trainingsumfang
 
-Je höher der Trainingsumfang, desto größer ist die Belastung für Muskulatur, Sehnen und Stoffwechsel. Lange Läufe, häufige Einheiten, Doppelbelastungen oder zusätzliche Krafteinheiten erhöhen den Bedarf an Regeneration.
+Je höher der Trainingsumfang, desto größer ist die Belastung für Muskulatur, Sehnen und Stoffwechsel. Lange Läufe, häufige Einheiten, Doppelbelastungen oder zusätzliche Krafteinheiten erhöhen den Bedarf an Regeneration. [[1]](#quelle-1) [[2]](#quelle-2)
 
-In solchen Phasen wird regelmäßige Proteinversorgung wichtiger. Nicht, weil Protein das Training ersetzt, sondern weil der Körper mehr Reparatur- und Anpassungsarbeit leisten muss.
+In solchen Phasen wird regelmäßige Proteinversorgung wichtiger. Nicht, weil Protein das Training ersetzt, sondern weil der Körper mehr Reparatur- und Anpassungsarbeit leisten muss. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ### Trainingsintensität
 
 Intensive Einheiten belasten den Körper anders als lockere Dauerläufe. Intervalle, Tempoläufe, Bergläufe und lange Läufe mit höherer Endbelastung erzeugen stärkere Ermüdung und können mehr muskuläre Reparaturprozesse erfordern.
 
-Protein unterstützt die Verarbeitung dieser Reize. Gleichzeitig brauchen solche Einheiten meist auch eine gute Kohlenhydratverfügbarkeit. Protein und Kohlenhydrate erfüllen unterschiedliche Aufgaben und sollten nicht gegeneinander ausgespielt werden.
+Protein unterstützt die Verarbeitung dieser Reize. Gleichzeitig brauchen solche Einheiten meist auch eine gute Kohlenhydratverfügbarkeit. Protein und Kohlenhydrate erfüllen unterschiedliche Aufgaben und sollten nicht gegeneinander ausgespielt werden. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ### Alter
 
-Mit zunehmendem Alter kann die muskuläre Antwort auf Trainings- und Ernährungsreize schwächer werden. Häufig wird dafür der Begriff anabole Resistenz verwendet.
+Mit zunehmendem Alter kann die muskuläre Antwort auf Trainings- und Ernährungsreize schwächer werden. Häufig wird dafür der Begriff anabole Resistenz verwendet. [[1]](#quelle-1) [[3]](#quelle-3) [[5]](#quelle-5)
 
-Das bedeutet nicht, dass Anpassung nicht mehr möglich ist. Es bedeutet eher, dass regelmäßiges Krafttraining, ausreichende Energiezufuhr und eine bewusstere Proteinverteilung wichtiger werden können.
+Das bedeutet nicht, dass Anpassung nicht mehr möglich ist. Es bedeutet eher, dass regelmäßiges Krafttraining, ausreichende Energiezufuhr und eine bewusstere Proteinverteilung wichtiger werden können. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ### Ernährungsform
 
-Protein kann aus tierischen und pflanzlichen Quellen stammen. Entscheidend sind Menge, Verträglichkeit, Alltagstauglichkeit und Aminosäureprofil.
+Protein kann aus tierischen und pflanzlichen Quellen stammen. Entscheidend sind Menge, Verträglichkeit, Alltagstauglichkeit und Aminosäureprofil. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Bei pflanzenbasierter Ernährung kann es sinnvoll sein, verschiedene Proteinquellen zu kombinieren, zum Beispiel Hülsenfrüchte, Sojaprodukte, Getreide, Nüsse, Samen oder andere geeignete Lebensmittel. So lässt sich die Aminosäureversorgung breiter abdecken.
+Bei pflanzenbasierter Ernährung kann es sinnvoll sein, verschiedene Proteinquellen zu kombinieren, zum Beispiel Hülsenfrüchte, Sojaprodukte, Getreide, Nüsse, Samen oder andere geeignete Lebensmittel. So lässt sich die Aminosäureversorgung breiter abdecken. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Protein-Timing
 
 Für viele Freizeitsportler ist die Tagesbilanz wichtiger als ein perfektes Timing. Trotzdem kann die Verteilung über den Tag sinnvoll sein.
 
-Wenn Protein nur einmal am Tag sehr hoch aufgenommen wird, stehen dem Körper nicht über den gesamten Tag gleichmäßig Baustoffe zur Verfügung. Regelmäßige proteinreiche Mahlzeiten können deshalb praktischer sein als eine sehr große Einzelportion.
+Wenn Protein nur einmal am Tag sehr hoch aufgenommen wird, stehen dem Körper nicht über den gesamten Tag gleichmäßig Baustoffe zur Verfügung. Regelmäßige proteinreiche Mahlzeiten können deshalb praktischer sein als eine sehr große Einzelportion. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Nach harten oder langen Einheiten kann eine Mahlzeit mit Protein und Kohlenhydraten sinnvoll sein. Protein unterstützt Reparaturprozesse, Kohlenhydrate helfen bei der Wiederauffüllung der Glykogenspeicher. Beide erfüllen unterschiedliche, aber ergänzende Aufgaben.
+Nach harten oder langen Einheiten kann eine Mahlzeit mit Protein und Kohlenhydraten sinnvoll sein. Protein unterstützt Reparaturprozesse, Kohlenhydrate helfen bei der Wiederauffüllung der Glykogenspeicher. Beide erfüllen unterschiedliche, aber ergänzende Aufgaben. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Protein und Krafttraining
 
-Für Läufer und andere Ausdauersportler ist Krafttraining ein wichtiger Reiz für Muskel- und Sehnenbelastbarkeit. Protein unterstützt die Anpassung an diesen Reiz.
+Für Läufer und andere Ausdauersportler ist Krafttraining ein wichtiger Reiz für Muskel- und Sehnenbelastbarkeit. Protein unterstützt die Anpassung an diesen Reiz. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Das bedeutet nicht, dass Ausdauersportler wie Bodybuilder essen müssen. Es bedeutet, dass Krafttraining ohne ausreichende Baustoffe weniger gut verarbeitet werden kann.
+Das bedeutet nicht, dass Ausdauersportler wie Bodybuilder essen müssen. Es bedeutet, dass Krafttraining ohne ausreichende Baustoffe weniger gut verarbeitet werden kann. [[1]](#quelle-1) [[5]](#quelle-5)
 
-Besonders bei älteren Sportlern, Verletzungsphasen oder hoher Laufbelastung kann die Kombination aus Krafttraining, ausreichender Energiezufuhr und guter Proteinversorgung eine wichtige Grundlage für Belastbarkeit sein.
+Besonders bei älteren Sportlern, Verletzungsphasen oder hoher Laufbelastung kann die Kombination aus Krafttraining, ausreichender Energiezufuhr und guter Proteinversorgung eine wichtige Grundlage für Belastbarkeit sein. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Protein und Regeneration
 
 Regeneration ist mehr als Muskelreparatur. Sie umfasst Schlaf, Nervensystem, Immunsystem, Energiespeicher, Gewebereparatur und psychische Erholung.
 
-Protein ist ein Baustein dieses Systems. Es kann helfen, muskuläre Reparaturprozesse zu unterstützen und den Erhalt von Muskelmasse zu sichern. Es ersetzt aber keinen Schlaf, keine Entlastungswoche und keine ausreichende Energiezufuhr.
+Protein ist ein Baustein dieses Systems. Es kann helfen, muskuläre Reparaturprozesse zu unterstützen und den Erhalt von Muskelmasse zu sichern. Es ersetzt aber keinen Schlaf, keine Entlastungswoche und keine ausreichende Energiezufuhr. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Wenn Müdigkeit, Leistungsabfall oder Verletzungsanfälligkeit zunehmen, sollte Proteinversorgung immer im Gesamtbild betrachtet werden: Trainingsumfang, Intensität, Alltag, Schlaf, Kohlenhydrate, Energieverfügbarkeit und Erholung.
+Wenn Müdigkeit, Leistungsabfall oder Verletzungsanfälligkeit zunehmen, sollte Proteinversorgung immer im Gesamtbild betrachtet werden: Trainingsumfang, Intensität, Alltag, Schlaf, Kohlenhydrate, Energieverfügbarkeit und Erholung. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Proteinquellen
 
-Gute Proteinquellen sind Lebensmittel, die regelmäßig vertragen werden und in den Alltag passen. Dazu können Milchprodukte, Eier, Fisch, Fleisch, Hülsenfrüchte, Sojaprodukte, Getreide, Nüsse und Samen gehören.
+Gute Proteinquellen sind Lebensmittel, die regelmäßig vertragen werden und in den Alltag passen. Dazu können Milchprodukte, Eier, Fisch, Fleisch, Hülsenfrüchte, Sojaprodukte, Getreide, Nüsse und Samen gehören. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
-Proteinshakes oder Proteinpulver können praktisch sein, sind aber nicht automatisch notwendig. Sie sind eher ein Werkzeug, wenn es im Alltag schwierig ist, den Bedarf über normale Mahlzeiten zu decken.
+Proteinshakes oder Proteinpulver können praktisch sein, sind aber nicht automatisch notwendig. Sie sind eher ein Werkzeug, wenn es im Alltag schwierig ist, den Bedarf über normale Mahlzeiten zu decken. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Wichtiger als ein einzelnes Produkt ist die Gesamtstruktur der Ernährung: ausreichend Energie, abwechslungsreiche Lebensmittel, passende Kohlenhydrate, genügend Flüssigkeit und eine regelmäßige Verteilung.
 
@@ -177,7 +177,6 @@ graph TD
 ```
 
 ---
-
 ## Häufige Fragen zu Proteinversorgung im Ausdauersport
 
 ### Warum ist Protein im Ausdauersport wichtig?
@@ -203,6 +202,36 @@ Bei pflanzenbasierter Ernährung ist eine gute Kombination verschiedener Protein
 ### Was ist ein häufiger Fehler bei Proteinversorgung?
 
 Ein häufiger Fehler ist, Protein isoliert zu betrachten. Ohne ausreichende Gesamtenergie, passende Kohlenhydrate, Schlaf und sinnvolle Trainingssteuerung bleibt die Regeneration trotzdem begrenzt.
+
+## Quellen
+
+### Quelle 1
+
+Jäger, R. et al.: [International Society of Sports Nutrition Position Stand: Protein and Exercise](https://pubmed.ncbi.nlm.nih.gov/28642676/), Journal of the International Society of Sports Nutrition, 2017.
+
+### Quelle 2
+
+Thomas, D. T.; Erdman, K. A.; Burke, L. M.: [Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance](https://pubmed.ncbi.nlm.nih.gov/26891166/), Journal of the Academy of Nutrition and Dietetics / Medicine & Science in Sports & Exercise, 2016.
+
+### Quelle 3
+
+Phillips, S. M.; Van Loon, L. J. C.: [Dietary protein for athletes: from requirements to optimum adaptation](https://pubmed.ncbi.nlm.nih.gov/22150425/), Journal of Sports Sciences, 2011.
+
+### Quelle 4
+
+Areta, J. L. et al.: [Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis](https://pubmed.ncbi.nlm.nih.gov/23459753/), Journal of Physiology, 2013.
+
+### Quelle 5
+
+Morton, R. W. et al.: [A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains](https://bjsm.bmj.com/content/52/6/376), British Journal of Sports Medicine, 2018.
+
+### Quelle 6
+
+Moore, D. R.: [Maximizing Post-exercise Anabolism: The Case for Relative Protein Intakes](https://pubmed.ncbi.nlm.nih.gov/24791918/), Frontiers in Nutrition, 2019.
+
+### Quelle 7
+
+Mountjoy, M. et al.: [2023 International Olympic Committee’s consensus statement on Relative Energy Deficiency in Sport (REDs)](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 2023.
 
 ----
 
