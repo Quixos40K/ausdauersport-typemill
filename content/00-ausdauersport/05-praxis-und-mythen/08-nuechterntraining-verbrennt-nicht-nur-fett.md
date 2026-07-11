@@ -1,10 +1,10 @@
 # Nüchterntraining verbrennt nicht nur Fett
 
-Nüchterntraining verbrennt nicht nur Fett. Auch ohne Frühstück nutzt der Körper weiterhin verschiedene Energiequellen, darunter Fettsäuren, gespeicherte Kohlenhydrate und je nach Belastung auch Aminosäuren. Nüchterntraining kann für bestimmte lockere Einheiten sinnvoll sein, ist aber keine automatische Abkürzung zu Fettverlust oder besserer Ausdauerleistung.
+Nüchterntraining verbrennt nicht nur Fett. Auch ohne Frühstück nutzt der Körper weiterhin verschiedene Energiequellen, darunter Fettsäuren, gespeicherte Kohlenhydrate und je nach Belastung auch Aminosäuren. Nüchterntraining kann für bestimmte lockere Einheiten sinnvoll sein, ist aber keine automatische Abkürzung zu Fettverlust oder besserer Ausdauerleistung. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was Nüchterntraining bedeutet
 
-Nüchterntraining bedeutet meistens, morgens vor dem Frühstück zu trainieren. Der Körper hat über Nacht keine neue Energie aufgenommen, und besonders die Leberglykogenspeicher können niedriger sein. Das bedeutet aber nicht, dass alle Kohlenhydratspeicher leer sind.
+Nüchterntraining bedeutet meistens, morgens vor dem Frühstück zu trainieren. Der Körper hat über Nacht keine neue Energie aufgenommen, und besonders die Leberglykogenspeicher können niedriger sein. Das bedeutet aber nicht, dass alle Kohlenhydratspeicher leer sind. [[2]](#quelle-2) [[4]](#quelle-4)
 
 Die Muskulatur verfügt weiterhin über gespeichertes Glykogen. Wie viel davon verfügbar ist, hängt vom Vortag, der letzten Mahlzeit, dem Trainingszustand und der vorherigen Belastung ab.
 
@@ -12,7 +12,7 @@ Nüchterntraining ist deshalb kein Zustand, in dem der Körper ausschließlich F
 
 ## Warum der Mythos entstanden ist
 
-Der Mythos entsteht, weil bei nüchternen lockeren Einheiten der Anteil der Fettverbrennung höher sein kann. Daraus wird oft geschlossen, dass dadurch automatisch mehr Körperfett verloren geht.
+Der Mythos entsteht, weil bei nüchternen lockeren Einheiten der Anteil der Fettverbrennung höher sein kann. Daraus wird oft geschlossen, dass dadurch automatisch mehr Körperfett verloren geht. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Diese Schlussfolgerung ist zu einfach. Der Körper nutzt während einer Einheit zwar unterschiedliche Brennstoffe, aber Körperfettverlust hängt nicht nur davon ab, welcher Brennstoff während genau dieser Einheit anteilig genutzt wurde.
 
@@ -22,7 +22,7 @@ Entscheidend sind die gesamte Energiebilanz, die Ernährung über den Tag, die T
 
 Der Körper arbeitet nicht mit einem einzigen Energietank. Bei niedriger Intensität kann der Fettstoffwechsel stärker beteiligt sein. Mit steigender Intensität steigt aber der Bedarf an schneller Energie, und dafür werden Kohlenhydrate wichtiger.
 
-Auch nüchtern nutzt der Körper Kohlenhydrate, besonders wenn das Tempo höher wird, Anstiege dazukommen oder die Einheit länger dauert. Je härter die Belastung, desto weniger passt die Vorstellung von „nur Fettverbrennung“.
+Auch nüchtern nutzt der Körper Kohlenhydrate, besonders wenn das Tempo höher wird, Anstiege dazukommen oder die Einheit länger dauert. Je härter die Belastung, desto weniger passt die Vorstellung von „nur Fettverbrennung“. [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)
 
 Wenn Energieverfügbarkeit dauerhaft zu niedrig ist, kann das außerdem Regeneration, Trainingsqualität und Anpassung stören. Nüchterntraining sollte deshalb nicht als Methode verstanden werden, den Körper möglichst oft in ein Defizit zu drücken.
 
@@ -30,7 +30,7 @@ Wenn Energieverfügbarkeit dauerhaft zu niedrig ist, kann das außerdem Regenera
 
 ### Intensität
 
-Lockere Einheiten eignen sich eher für nüchternes Training als intensive Einheiten. Bei Intervallen, Tempodauerläufen oder langen belastenden Läufen braucht der Körper meist mehr verfügbare Kohlenhydrate, um die Qualität der Einheit zu sichern.
+Lockere Einheiten eignen sich eher für nüchternes Training als intensive Einheiten. Bei Intervallen, Tempodauerläufen oder langen belastenden Läufen braucht der Körper meist mehr verfügbare Kohlenhydrate, um die Qualität der Einheit zu sichern. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ### Dauer
 
@@ -38,7 +38,7 @@ Kurze, lockere Einheiten sind meist leichter nüchtern umzusetzen. Je länger di
 
 ### Trainingsziel
 
-Wenn das Ziel eine lockere aerobe Einheit ist, kann Nüchterntraining gelegentlich passen. Wenn das Ziel Tempo, VO2max, Schwelle, Wettkampfspezifik oder hohe Laufqualität ist, ist eine gute Energieverfügbarkeit oft wichtiger.
+Wenn das Ziel eine lockere aerobe Einheit ist, kann Nüchterntraining gelegentlich passen. Wenn das Ziel Tempo, VO2max, Schwelle, Wettkampfspezifik oder hohe Laufqualität ist, ist eine gute Energieverfügbarkeit oft wichtiger. [[2]](#quelle-2) [[4]](#quelle-4) [[5]](#quelle-5)
 
 ### Gesamtbelastung
 
@@ -62,7 +62,7 @@ Ein dritter Fehler ist, intensive Einheiten nüchtern durchzuziehen, obwohl Pace
 
 ## Praktische Einordnung
 
-Nüchterntraining kann gelegentlich sinnvoll sein, wenn es zu einer lockeren Einheit, zum Alltag und zur aktuellen Erholung passt. Es ist aber keine magische Fettverbrennungsmethode.
+Nüchterntraining kann gelegentlich sinnvoll sein, wenn es zu einer lockeren Einheit, zum Alltag und zur aktuellen Erholung passt. Es ist aber keine magische Fettverbrennungsmethode. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)
 
 Für die Praxis gilt: Je lockerer und kürzer die Einheit, desto eher kann nüchternes Training passen. Je intensiver, länger oder wichtiger die Einheit ist, desto eher sollte Energieverfügbarkeit priorisiert werden.
 
@@ -135,5 +135,28 @@ Nach der Einheit sollte die Energiezufuhr nicht unnötig verzögert werden. Kohl
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Aird, T. P., Davies, R. W., & Carson, B. P. (2018). Effects of fasted versus fed-state exercise on performance and post-exercise metabolism: a systematic review and meta-analysis. *Scandinavian Journal of Medicine & Science in Sports*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/29315892/
+
+<a id="quelle-2"></a>
+### Quelle 2: Impey, S. G., Hearris, M. A., Hammond, K. M., et al. (2018). Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48, 1035–1048.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/29453741/
+
+<a id="quelle-3"></a>
+### Quelle 3: Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/32747792/
+
+<a id="quelle-4"></a>
+### Quelle 4: Burke, L. M., Hawley, J. A., Wong, S. H. S., & Jeukendrup, A. E. (2011). Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(Suppl 1), S17–S27.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/21660838/
+
+<a id="quelle-5"></a>
+### Quelle 5: Gejl, K. D., Thams, L., Hansen, M., et al. (2017). No superior adaptations to carbohydrate periodization in elite endurance athletes. *Medicine & Science in Sports & Exercise*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/28406835/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
