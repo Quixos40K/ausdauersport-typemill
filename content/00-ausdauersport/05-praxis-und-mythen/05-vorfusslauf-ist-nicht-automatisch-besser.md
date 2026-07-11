@@ -1,12 +1,12 @@
 # Vorfußlauf ist nicht automatisch besser
 
-Vorfußlauf ist nicht automatisch besser als Fersenlauf. Der Fußaufsatz allein entscheidet nicht über Laufökonomie, Verletzungsrisiko oder Geschwindigkeit. Wichtiger ist, ob Lauftechnik, Belastung, Kraft, Beweglichkeit, Trainingsstand und individuelle Anatomie zusammenpassen.
+Vorfußlauf ist nicht automatisch besser als Fersenlauf. Der Fußaufsatz allein entscheidet nicht über Laufökonomie, Verletzungsrisiko oder Geschwindigkeit. Wichtiger ist, ob Lauftechnik, Belastung, Kraft, Beweglichkeit, Trainingsstand und individuelle Anatomie zusammenpassen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[5]](#quelle-5)
 
 ## Was Vorfußlauf bedeutet
 
 Beim Vorfußlauf landet der Fuß zuerst eher auf dem Ballen oder dem vorderen Fußbereich. Beim Mittelfußlauf verteilt sich der erste Bodenkontakt eher über den mittleren Fuß. Beim Fersenlauf setzt zuerst die Ferse auf.
 
-Diese Einteilung klingt eindeutig, ist in der Praxis aber oft fließend. Viele Läufer verändern ihren Fußaufsatz je nach Tempo, Ermüdung, Schuh, Untergrund, Steigung oder Laufstil. Ein langsamer Dauerlauf sieht biomechanisch anders aus als ein Sprint, ein Berglauf oder ein schneller Wettkampf.
+Diese Einteilung klingt eindeutig, ist in der Praxis aber oft fließend. Viele Läufer verändern ihren Fußaufsatz je nach Tempo, Ermüdung, Schuh, Untergrund, Steigung oder Laufstil. Ein langsamer Dauerlauf sieht biomechanisch anders aus als ein Sprint, ein Berglauf oder ein schneller Wettkampf. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Der Fußaufsatz ist deshalb nur ein Merkmal der Lauftechnik. Er erklärt nicht allein, ob jemand effizient oder gesund läuft.
 
@@ -16,15 +16,15 @@ Vorfußlauf wirkt oft dynamisch und sportlich. Viele schnelle Läufer landen bei
 
 Diese Schlussfolgerung ist zu einfach. Schnelle Läufer laufen nicht nur wegen ihres Fußaufsatzes schnell. Sie unterscheiden sich auch in Kraft, Sehnensteifigkeit, Laufökonomie, Trainingsjahren, Schrittfrequenz, Abdruck, Rumpfstabilität und Belastungsverträglichkeit.
 
-Ein Fußaufsatz, der bei einem gut trainierten Athleten funktioniert, muss für einen anderen Läufer nicht automatisch sinnvoll sein.
+Ein Fußaufsatz, der bei einem gut trainierten Athleten funktioniert, muss für einen anderen Läufer nicht automatisch sinnvoll sein. [[3]](#quelle-3) [[5]](#quelle-5)
 
 ## Warum Vorfußlauf nicht automatisch besser ist
 
-Vorfußlauf verschiebt Belastungen. Er reduziert nicht einfach die Gesamtbelastung, sondern verteilt sie anders. Häufig steigt die Beanspruchung von Wadenmuskulatur, Achillessehne, Fußgewölbe und Vorfuß. Dafür können Kniebelastungen oder bestimmte Bremsmuster anders ausfallen.
+Vorfußlauf verschiebt Belastungen. Er reduziert nicht einfach die Gesamtbelastung, sondern verteilt sie anders. Häufig steigt die Beanspruchung von Wadenmuskulatur, Achillessehne, Fußgewölbe und Vorfuß. Dafür können Kniebelastungen oder bestimmte Bremsmuster anders ausfallen. [[1]](#quelle-1) [[3]](#quelle-3) [[5]](#quelle-5)
 
 Das kann sinnvoll sein, wenn der Körper darauf vorbereitet ist. Es kann aber problematisch werden, wenn jemand abrupt von Fersenlauf auf Vorfußlauf umstellt. Dann treffen ungewohnte Kräfte auf Strukturen, die diese Belastung noch nicht regelmäßig verarbeitet haben.
 
-Besonders die Achillessehne und die Wadenmuskulatur brauchen Zeit, um sich an eine stärkere Vorfußbelastung anzupassen. Ein Technikwechsel ist deshalb kein schneller Trick, sondern ein Trainingsreiz.
+Besonders die Achillessehne und die Wadenmuskulatur brauchen Zeit, um sich an eine stärkere Vorfußbelastung anzupassen. Ein Technikwechsel ist deshalb kein schneller Trick, sondern ein Trainingsreiz. [[1]](#quelle-1) [[5]](#quelle-5)
 
 ## Zentrale Einflussfaktoren
 
@@ -34,7 +34,7 @@ Bei höherem Tempo verlagert sich der Fußaufsatz oft automatisch weiter nach vo
 
 ### Schrittfrequenz und Überstriding
 
-Oft ist nicht der Fersenaufsatz selbst das Hauptproblem, sondern ein weit vor dem Körperschwerpunkt aufsetzender Fuß. Dieses Überstriding kann Bremskräfte erhöhen. Eine etwas höhere Schrittfrequenz oder ein kompakterer Schritt kann manchmal sinnvoller sein als ein erzwungener Vorfußaufsatz.
+Oft ist nicht der Fersenaufsatz selbst das Hauptproblem, sondern ein weit vor dem Körperschwerpunkt aufsetzender Fuß. Dieses Überstriding kann Bremskräfte erhöhen. Eine etwas höhere Schrittfrequenz oder ein kompakterer Schritt kann manchmal sinnvoller sein als ein erzwungener Vorfußaufsatz. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ### Kraft und Gewebetoleranz
 
@@ -64,7 +64,7 @@ Ein dritter Fehler ist, nur auf den Fuß zu schauen. Lauftechnik entsteht aus de
 
 Vorfußlauf ist eine mögliche Lauftechnik, aber kein allgemeines Qualitätsmerkmal. Er kann bei bestimmten Tempi, Läufern oder Zielen gut funktionieren. Er ist aber nicht automatisch effizienter, gesünder oder besser.
 
-Für die Praxis ist eine ruhige Einordnung wichtig: Wenn ein Läufer beschwerdefrei, stabil und ökonomisch läuft, muss der Fußaufsatz nicht zwanghaft verändert werden. Wenn Beschwerden, starkes Bremsen oder auffällige Technikprobleme auftreten, sollte die gesamte Laufmechanik betrachtet werden und nicht nur der erste Bodenkontakt.
+Für die Praxis ist eine ruhige Einordnung wichtig: Wenn ein Läufer beschwerdefrei, stabil und ökonomisch läuft, muss der Fußaufsatz nicht zwanghaft verändert werden. Wenn Beschwerden, starkes Bremsen oder auffällige Technikprobleme auftreten, sollte die gesamte Laufmechanik betrachtet werden und nicht nur der erste Bodenkontakt. [[3]](#quelle-3) [[4]](#quelle-4) [[5]](#quelle-5)
 
 Der wichtigste Merksatz lautet: Nicht der Fußaufsatz allein macht den Laufstil gut, sondern die passende Belastung des ganzen Systems.
 
@@ -127,5 +127,28 @@ Wichtiger sind Belastungssteuerung, Schrittfrequenz, stabile Hüfte, Rumpfkontro
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Lieberman, D. E., Venkadesan, M., Werbel, W. A., et al. (2010). Foot strike patterns and collision forces in habitually barefoot versus shod runners. *Nature*, 463, 531–535.
+Quelle: https://www.nature.com/articles/nature08723
+
+<a id="quelle-2"></a>
+### Quelle 2: Daoud, A. I., Geissler, G. J., Wang, F., et al. (2012). Foot strike and injury rates in endurance runners: a retrospective study. *Medicine & Science in Sports & Exercise*, 44(7), 1325–1334.
+Quelle: https://journals.lww.com/acsm-msse/fulltext/2012/07000/foot_strike_and_injury_rates_in_endurance_runners.5.aspx
+
+<a id="quelle-3"></a>
+### Quelle 3: Xu, Y., Yuan, P., Wang, R., et al. (2024). Biomechanical differences between habitual forefoot and rearfoot strike runners: a systematic review. *Sports Medicine and Health Science*.
+Quelle: https://www.sciencedirect.com/science/article/pii/S2950273X24000729
+
+<a id="quelle-4"></a>
+### Quelle 4: Gruber, A. H., Umberger, B. R., Braun, B., & Hamill, J. (2013). Economy and rate of carbohydrate oxidation during running with rearfoot and forefoot strike patterns. *Journal of Applied Physiology*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/24021509/
+
+<a id="quelle-5"></a>
+### Quelle 5: Anderson, L. M., Bonanno, D. R., Hart, H. F., & Barton, C. J. (2020). What are the benefits and risks associated with changing foot strike pattern during running? A systematic review and meta-analysis. *Sports Medicine*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/32157424/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
