@@ -1,10 +1,10 @@
 # Schweiß zeigt nicht die Trainingsqualität
 
-Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt unter anderem von Hitze, Luftfeuchtigkeit, Kleidung, Trainingszustand, Genetik, Körpergröße und Gewöhnung an Wärme ab. Die Trainingsqualität erkennt man besser an Ziel, Intensität, Belastungssteuerung, Technik, Erholung und langfristiger Entwicklung.
+Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt unter anderem von Hitze, Luftfeuchtigkeit, Kleidung, Trainingszustand, Genetik, Körpergröße und Gewöhnung an Wärme ab. Die Trainingsqualität erkennt man besser an Ziel, Intensität, Belastungssteuerung, Technik, Erholung und langfristiger Entwicklung. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Was Schwitzen bedeutet
 
-Schwitzen ist eine wichtige Funktion des Körpers, um Wärme abzugeben. Wenn die Körpertemperatur steigt, produziert der Körper Schweiß. Verdunstet dieser Schweiß auf der Haut, kann Wärme abgeführt werden.
+Schwitzen ist eine wichtige Funktion des Körpers, um Wärme abzugeben. Wenn die Körpertemperatur steigt, produziert der Körper Schweiß. Verdunstet dieser Schweiß auf der Haut, kann Wärme abgeführt werden. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Beim Ausdauertraining entsteht Wärme, weil arbeitende Muskeln Energie umsetzen. Ein Teil dieser Energie wird nicht in Bewegung, sondern in Wärme umgewandelt. Deshalb schwitzt man beim Laufen, Radfahren oder intensiven Training oft mehr als in Ruhe.
 
@@ -20,17 +20,17 @@ Ein Training kann sehr sinnvoll sein, ohne besonders viel Schweiß zu erzeugen. 
 
 ## Warum Schweiß kein Qualitätsmaß ist
 
-Schweißmenge zeigt vor allem die thermische Belastung. Eine lockere Einheit bei hoher Luftfeuchtigkeit kann mehr Schweiß erzeugen als eine intensive Einheit bei kühlem Wetter. Das sagt wenig darüber aus, ob die Einheit zum Trainingsziel gepasst hat.
+Schweißmenge zeigt vor allem die thermische Belastung. Eine lockere Einheit bei hoher Luftfeuchtigkeit kann mehr Schweiß erzeugen als eine intensive Einheit bei kühlem Wetter. Das sagt wenig darüber aus, ob die Einheit zum Trainingsziel gepasst hat. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Auch Kleidung verändert das Bild. Wer warm angezogen läuft oder in schlecht belüfteter Umgebung trainiert, schwitzt mehr. Dadurch wird das Training aber nicht automatisch besser.
 
-Hinzu kommt: Gut trainierte oder hitzegewöhnte Sportler können früher und effizienter schwitzen. Das kann ein Zeichen guter Wärmeregulation sein, aber nicht direkt ein Maß für die Qualität einer einzelnen Einheit.
+Hinzu kommt: Gut trainierte oder hitzegewöhnte Sportler können früher und effizienter schwitzen. Das kann ein Zeichen guter Wärmeregulation sein, aber nicht direkt ein Maß für die Qualität einer einzelnen Einheit. [[3]](#quelle-3)
 
 ## Zentrale Einflussfaktoren
 
 ### Temperatur und Luftfeuchtigkeit
 
-Bei Hitze und hoher Luftfeuchtigkeit steigt die thermische Belastung. Der Körper schwitzt stärker, aber die Verdunstung funktioniert oft schlechter. Dadurch fühlt sich Training härter an, obwohl Pace oder Leistung niedriger sein können.
+Bei Hitze und hoher Luftfeuchtigkeit steigt die thermische Belastung. Der Körper schwitzt stärker, aber die Verdunstung funktioniert oft schlechter. Dadurch fühlt sich Training härter an, obwohl Pace oder Leistung niedriger sein können. [[1]](#quelle-1) [[3]](#quelle-3) [[4]](#quelle-4)
 
 ### Kleidung und Umgebung
 
@@ -42,7 +42,7 @@ Mit besserer Ausdauer und regelmäßiger Hitzeexposition kann der Körper seine 
 
 ### Individuelle Unterschiede
 
-Körpergröße, Körpermasse, Genetik, Geschlecht, Ernährung, Koffein, Stress und Tagesform können beeinflussen, wie stark jemand schwitzt. Deshalb sind Vergleiche zwischen Personen wenig sinnvoll.
+Körpergröße, Körpermasse, Genetik, Geschlecht, Ernährung, Koffein, Stress und Tagesform können beeinflussen, wie stark jemand schwitzt. Deshalb sind Vergleiche zwischen Personen wenig sinnvoll. [[2]](#quelle-2)
 
 ## Bedeutung für Läufer
 
@@ -50,7 +50,7 @@ Für Läufer ist wichtig, Schweiß richtig einzuordnen. Ein stark verschwitzter 
 
 Ein lockerer Dauerlauf soll locker bleiben, auch wenn man bei Hitze stark schwitzt. Ein Intervalltraining soll gezielt fordern, aber nicht nur deshalb als gut gelten, weil die Kleidung danach nass ist.
 
-Schweiß kann trotzdem praktisch wichtig sein. Wer viel schwitzt, verliert Flüssigkeit und Elektrolyte. Besonders bei langen Läufen, Hitze oder Wettkämpfen sollte man deshalb auf Durst, Körpergefühl, Salzverlust, Krämpfe, Leistungseinbruch und Erholung achten.
+Schweiß kann trotzdem praktisch wichtig sein. Wer viel schwitzt, verliert Flüssigkeit und Elektrolyte. Besonders bei langen Läufen, Hitze oder Wettkämpfen sollte man deshalb auf Durst, Körpergefühl, Salzverlust, Krämpfe, Leistungseinbruch und Erholung achten. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)
 
 ## Häufige Fehler
 
@@ -137,5 +137,28 @@ Ja. Viel Schwitzen kann Flüssigkeits- und Elektrolytverluste erhöhen. Besonder
 Besser sind Zielerreichung, passende Intensität, stabile Technik, subjektives Belastungsempfinden, Herzfrequenz oder Pace im Kontext, Erholung und langfristige Entwicklung.
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Sawka, M. N., Burke, L. M., Eichner, E. R., et al. (2007). American College of Sports Medicine position stand: exercise and fluid replacement. *Medicine & Science in Sports & Exercise*, 39(2), 377–390.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/17277604/
+
+<a id="quelle-2"></a>
+### Quelle 2: Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/interindividual variability. *Sports Medicine*, 47(Suppl 1), 111–128.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/28585707/
+
+<a id="quelle-3"></a>
+### Quelle 3: Périard, J. D., Racinais, S., & Sawka, M. N. (2015). Adaptations and mechanisms of human heat acclimation: applications for competitive athletes and sports. *Scandinavian Journal of Medicine & Science in Sports*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/25943654/
+
+<a id="quelle-4"></a>
+### Quelle 4: Bergeron, M. F., Bahr, R., Bärtsch, P., et al. (2012). International Olympic Committee consensus statement on thermoregulatory and altitude challenges for high-level athletes. *British Journal of Sports Medicine*.
+Quelle: https://bjsm.bmj.com/content/46/11/770
+
+<a id="quelle-5"></a>
+### Quelle 5: Maughan, R. J., Shirreffs, S. M., & Watson, P. (2007). Exercise, heat, hydration and the brain. *Journal of the American College of Nutrition*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/17921463/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
