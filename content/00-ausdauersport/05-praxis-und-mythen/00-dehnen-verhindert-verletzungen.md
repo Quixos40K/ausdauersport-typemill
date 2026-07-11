@@ -1,6 +1,6 @@
 # Dehnen verhindert Verletzungen
 
-Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen.
+Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was mit Dehnen gemeint ist
 
@@ -8,7 +8,7 @@ Dehnen beschreibt Maßnahmen, bei denen Muskeln, Sehnen und Gelenke in eine verl
 
 Statisches Dehnen bedeutet, eine Position für einige Sekunden oder Minuten zu halten. Dynamisches Dehnen nutzt kontrollierte Bewegungen, zum Beispiel Beinpendel, Ausfallschritte oder Mobilisationsübungen. Im Ausdauersport wird Dehnen oft eingesetzt, um sich beweglicher zu fühlen, die Vorbereitung auf Training zu unterstützen oder Spannungsgefühl zu reduzieren.
 
-Das Problem entsteht, wenn Dehnen als allgemeiner Schutzmechanismus verstanden wird. Verletzungen entstehen meist nicht durch einen einzelnen fehlenden Dehnreiz, sondern durch ein Zusammenspiel aus Belastungsaufbau, Gewebetoleranz, Ermüdung, Technik, Kraft, Schlaf, Ernährung und individueller Vorgeschichte.
+Das Problem entsteht, wenn Dehnen als allgemeiner Schutzmechanismus verstanden wird. Verletzungen entstehen meist nicht durch einen einzelnen fehlenden Dehnreiz, sondern durch ein Zusammenspiel aus Belastungsaufbau, Gewebetoleranz, Ermüdung, Technik, Kraft, Schlaf, Ernährung und individueller Vorgeschichte. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)
 
 ## Warum der Mythos so verbreitet ist
 
@@ -22,7 +22,7 @@ Im Laufsport sind viele Beschwerden eher eine Frage der wiederholten mechanische
 
 Dehnen kann kurzfristig das Spannungsgefühl verändern. Viele Menschen empfinden danach mehr Bewegungsfreiheit oder weniger Steifigkeit. Das bedeutet aber nicht automatisch, dass Gewebe strukturell länger geworden ist oder dass das Verletzungsrisiko deutlich gesunken ist.
 
-Ein Teil des Effekts entsteht über das Nervensystem. Der Körper toleriert eine Dehnposition besser, die Muskelspannung verändert sich, und Bewegungen fühlen sich freier an. Das kann angenehm und praktisch nützlich sein.
+Ein Teil des Effekts entsteht über das Nervensystem. Der Körper toleriert eine Dehnposition besser, die Muskelspannung verändert sich, und Bewegungen fühlen sich freier an. Das kann angenehm und praktisch nützlich sein. [[3]](#quelle-3)
 
 Für den Verletzungsschutz ist jedoch entscheidend, ob das Gewebe die tatsächlichen Trainingskräfte bewältigen kann. Beim Laufen wirken wiederholt Bodenreaktionskräfte, exzentrische Bremskräfte und elastische Speicherprozesse in Sehnen und Muskeln. Diese Belastungen werden vor allem durch dosiertes Training, Kraft, Technik, Gewöhnung und Erholung beeinflusst.
 
@@ -30,13 +30,13 @@ Für den Verletzungsschutz ist jedoch entscheidend, ob das Gewebe die tatsächli
 
 ### Belastungssteuerung
 
-Viele Laufverletzungen entstehen nicht, weil zu wenig gedehnt wurde, sondern weil Belastung schneller steigt als die Belastbarkeit. Zu schnelle Umfangssteigerung, zu viele intensive Einheiten, zu wenig Erholung oder abrupte Änderungen von Schuhen, Untergrund oder Lauftechnik können das Gewebe überfordern.
+Viele Laufverletzungen entstehen nicht, weil zu wenig gedehnt wurde, sondern weil Belastung schneller steigt als die Belastbarkeit. Zu schnelle Umfangssteigerung, zu viele intensive Einheiten, zu wenig Erholung oder abrupte Änderungen von Schuhen, Untergrund oder Lauftechnik können das Gewebe überfordern. [[2]](#quelle-2) [[5]](#quelle-5)
 
 Dehnen kann diese Fehler nicht ausgleichen. Wer müde, überlastet oder mit zu hoher Intensität trainiert, wird durch zusätzliches Dehnen nicht automatisch robuster.
 
 ### Kraft und Gewebetoleranz
 
-Muskeln, Sehnen und Knochen brauchen dosierte Belastung, um belastbarer zu werden. Krafttraining, Sprungvorbereitung, Lauf-ABC, Hüft- und Wadenkraft oder stabile Rumpfkontrolle können je nach Ziel sinnvoller sein als reines passives Dehnen.
+Muskeln, Sehnen und Knochen brauchen dosierte Belastung, um belastbarer zu werden. Krafttraining, Sprungvorbereitung, Lauf-ABC, Hüft- und Wadenkraft oder stabile Rumpfkontrolle können je nach Ziel sinnvoller sein als reines passives Dehnen. [[1]](#quelle-1) [[6]](#quelle-6)
 
 Das bedeutet nicht, dass Dehnen wertlos ist. Es bedeutet nur, dass Verletzungsprävention eher über aktive Belastbarkeit entsteht als über passive Beweglichkeit allein.
 
@@ -48,7 +48,7 @@ Eine sinnvolle Frage lautet deshalb nicht: „Bin ich beweglich genug?“ Sonder
 
 ### Zeitpunkt des Dehnens
 
-Direkt vor intensiven Einheiten ist langes statisches Dehnen nicht immer ideal, weil es sich kurzfristig auf Spannung, Kraftgefühl und Reaktivität auswirken kann. Vor dem Laufen sind dynamische Mobilisation, lockeres Einlaufen und sportartspezifische Aktivierung oft passender.
+Direkt vor intensiven Einheiten ist langes statisches Dehnen nicht immer ideal, weil es sich kurzfristig auf Spannung, Kraftgefühl und Reaktivität auswirken kann. Vor dem Laufen sind dynamische Mobilisation, lockeres Einlaufen und sportartspezifische Aktivierung oft passender. [[3]](#quelle-3) [[4]](#quelle-4)
 
 Statisches Dehnen kann eher an separaten Tagen, nach lockeren Einheiten oder als ruhige Beweglichkeitseinheit eingesetzt werden, wenn es gut vertragen wird.
 
@@ -70,7 +70,7 @@ Ein dritter Fehler ist, statisches Dehnen direkt mit Aufwärmen gleichzusetzen. 
 
 ## Praktische Einordnung
 
-Dehnen kann im Ausdauersport sinnvoll sein, wenn es gezielt, ruhig und passend eingesetzt wird. Es sollte aber nicht als alleinige Maßnahme zur Verletzungsprävention verstanden werden.
+Dehnen kann im Ausdauersport sinnvoll sein, wenn es gezielt, ruhig und passend eingesetzt wird. Es sollte aber nicht als alleinige Maßnahme zur Verletzungsprävention verstanden werden. [[3]](#quelle-3)
 
 Für die Praxis ist eine einfache Reihenfolge hilfreich: Erst Belastung vernünftig steuern, dann Kraft und Stabilität aufbauen, dann Beweglichkeit dort verbessern, wo sie tatsächlich begrenzt. Dehnen ist dabei ein ergänzender Baustein, nicht die Grundlage der Verletzungsprophylaxe.
 
@@ -167,5 +167,32 @@ Dehnen kann besonders relevant sein, wenn Beweglichkeit tatsächlich eingeschrä
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials. *British Journal of Sports Medicine*, 48(11), 871–877.
+Quelle: https://bjsm.bmj.com/content/48/11/871
+
+<a id="quelle-2"></a>
+### Quelle 2: Yeung, S. S., Yeung, E. W., & Gillespie, L. D. (2011). Interventions for preventing lower limb soft-tissue running injuries. *Cochrane Database of Systematic Reviews*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/21735382/
+
+<a id="quelle-3"></a>
+### Quelle 3: Behm, D. G., Blazevich, A. J., Kay, A. D., & McHugh, M. (2016). Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals: a systematic review. *Applied Physiology, Nutrition, and Metabolism*, 41(1), 1–11.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/26642915/
+
+<a id="quelle-4"></a>
+### Quelle 4: Pope, R. P., Herbert, R. D., Kirwan, J. D., & Graham, B. J. (2000). A randomized trial of preexercise stretching for prevention of lower-limb injury. *Medicine & Science in Sports & Exercise*, 32(2), 271–277.
+Quelle: https://europepmc.org/article/MED/10694106
+
+<a id="quelle-5"></a>
+### Quelle 5: Soligard, T., Schwellnus, M., Alonso, J. M., et al. (2016). How much is too much? International Olympic Committee consensus statement on load in sport and risk of injury. *British Journal of Sports Medicine*, 50(17), 1030–1041.
+Quelle: https://bjsm.bmj.com/content/50/17/1030
+
+<a id="quelle-6"></a>
+### Quelle 6: Eihara, Y., Takao, K., Sugiyama, T., et al. (2024). Effect of strength training programs in middle- and long-distance runners: a systematic review and meta-analysis. *Sports Medicine*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/38165636/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
