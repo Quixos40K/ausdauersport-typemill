@@ -1,12 +1,12 @@
 # Krafttraining macht Läufer nicht langsam
 
-Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Entscheidend ist nicht, ob Krafttraining gemacht wird, sondern ob es passend zum Lauftraining geplant, platziert und gesteigert wird.
+Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Entscheidend ist nicht, ob Krafttraining gemacht wird, sondern ob es passend zum Lauftraining geplant, platziert und gesteigert wird. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)
 
 ## Was Krafttraining für Läufer bedeutet
 
 Krafttraining umfasst Übungen, bei denen Muskeln, Sehnen, Gelenke und das Nervensystem gegen Widerstand arbeiten. Das kann mit dem eigenen Körpergewicht, freien Gewichten, Maschinen, Widerstandsbändern oder Sprungformen geschehen.
 
-Für Läufer geht es dabei nicht darum, möglichst viel Muskelmasse aufzubauen. Wichtiger sind Kraftentwicklung, Rumpfstabilität, Hüftkontrolle, Wadenkraft, Beinachsenkontrolle und die Fähigkeit, wiederholte Laufbelastungen besser zu tolerieren.
+Für Läufer geht es dabei nicht darum, möglichst viel Muskelmasse aufzubauen. Wichtiger sind Kraftentwicklung, Rumpfstabilität, Hüftkontrolle, Wadenkraft, Beinachsenkontrolle und die Fähigkeit, wiederholte Laufbelastungen besser zu tolerieren. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Krafttraining soll das Laufen unterstützen. Es ersetzt keine Ausdauerreize, kann aber helfen, die mechanische Grundlage für dauerhaftes Lauftraining robuster zu machen.
 
@@ -14,7 +14,7 @@ Krafttraining soll das Laufen unterstützen. Es ersetzt keine Ausdauerreize, kan
 
 Der Mythos entsteht aus der Vorstellung, dass zusätzliche Muskulatur automatisch mehr Gewicht bedeutet und mehr Gewicht Läufer langsamer macht. Diese Rechnung ist zu einfach.
 
-Krafttraining für Läufer ist nicht dasselbe wie Bodybuilding. Ein sinnvoll geplantes Krafttraining zielt nicht primär auf maximale Muskelmasse, sondern auf bessere Kraftübertragung, stabile Gelenkpositionen und kontrollierte Bewegungen.
+Krafttraining für Läufer ist nicht dasselbe wie Bodybuilding. Ein sinnvoll geplantes Krafttraining zielt nicht primär auf maximale Muskelmasse, sondern auf bessere Kraftübertragung, stabile Gelenkpositionen und kontrollierte Bewegungen. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Außerdem entsteht Laufleistung nicht nur durch geringes Körpergewicht. Sie entsteht aus dem Zusammenspiel von Ausdauer, Laufökonomie, Technik, Kraft, Sehnenfunktion, Ermüdungsresistenz und Belastungsverträglichkeit.
 
@@ -22,7 +22,7 @@ Außerdem entsteht Laufleistung nicht nur durch geringes Körpergewicht. Sie ent
 
 Beim Laufen muss der Körper bei jedem Schritt Kräfte aufnehmen, stabilisieren und wieder in Vortrieb umsetzen. Dafür braucht es nicht nur Ausdauer, sondern auch aktive Kontrolle.
 
-Stärkere Waden, Hüften, Oberschenkel und ein stabiler Rumpf können helfen, die Laufbewegung auch bei Ermüdung sauberer zu halten. Das kann die Laufökonomie unterstützen, weil weniger Energie in Ausweichbewegungen verloren geht.
+Stärkere Waden, Hüften, Oberschenkel und ein stabiler Rumpf können helfen, die Laufbewegung auch bei Ermüdung sauberer zu halten. Das kann die Laufökonomie unterstützen, weil weniger Energie in Ausweichbewegungen verloren geht. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Langsam macht Krafttraining vor allem dann, wenn es falsch dosiert wird. Zu viele neue Übungen, zu schwere Einheiten, starker Muskelkater oder Krafttraining direkt vor wichtigen Laufeinheiten können die Laufqualität kurzfristig verschlechtern.
 
@@ -30,7 +30,7 @@ Langsam macht Krafttraining vor allem dann, wenn es falsch dosiert wird. Zu viel
 
 ### Dosierung
 
-Krafttraining muss zur gesamten Trainingsbelastung passen. Eine kurze, regelmäßig durchgeführte Einheit kann wertvoller sein als ein zu umfangreiches Kraftprogramm, das ständig Muskelkater erzeugt.
+Krafttraining muss zur gesamten Trainingsbelastung passen. Eine kurze, regelmäßig durchgeführte Einheit kann wertvoller sein als ein zu umfangreiches Kraftprogramm, das ständig Muskelkater erzeugt. [[1]](#quelle-1) [[4]](#quelle-4)
 
 Entscheidend ist, dass Krafttraining die Laufleistung langfristig unterstützt und nicht jede Woche die Qualität der Laufeinheiten stört.
 
@@ -52,7 +52,7 @@ Ein 5-km-Läufer, ein Marathonläufer und ein Trailrunner brauchen nicht exakt d
 
 ## Bedeutung für Läufer
 
-Für Läufer ist Krafttraining ein ergänzender Baustein. Es kann helfen, die wiederholten Kräfte des Laufens besser zu verarbeiten und den Körper auf höhere Umfänge oder intensivere Belastungen vorzubereiten.
+Für Läufer ist Krafttraining ein ergänzender Baustein. Es kann helfen, die wiederholten Kräfte des Laufens besser zu verarbeiten und den Körper auf höhere Umfänge oder intensivere Belastungen vorzubereiten. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4) [[5]](#quelle-5)
 
 Besonders relevant wird das, wenn Laufumfang, Tempoarbeit oder Wettkampfbelastung steigen. Dann reicht es oft nicht, nur mehr zu laufen. Der Körper muss die mechanische Belastung auch stabil tragen können.
 
@@ -68,7 +68,7 @@ Ein dritter Fehler ist, Krafttraining nicht als Teil der Gesamtbelastung zu zäh
 
 ## Praktische Einordnung
 
-Krafttraining macht Läufer nicht langsam, wenn es passend geplant wird. Es kann Stabilität, Kraftübertragung und Belastbarkeit verbessern, sollte aber nicht gegen das Lauftraining arbeiten.
+Krafttraining macht Läufer nicht langsam, wenn es passend geplant wird. Es kann Stabilität, Kraftübertragung und Belastbarkeit verbessern, sollte aber nicht gegen das Lauftraining arbeiten. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)
 
 Für die Praxis ist ein ruhiger Aufbau sinnvoll: wenige Übungen, saubere Technik, moderate Steigerung und gute Platzierung in der Woche. Krafttraining soll nicht möglichst viel Muskelkater erzeugen, sondern langfristig die Laufbewegung unterstützen.
 
@@ -150,5 +150,28 @@ Viele machen zu viel auf einmal. Neue Übungen, hohe Lasten und starker Muskelka
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Blagrove, R. C., Howatson, G., & Hayes, P. R. (2018). Effects of strength training on the physiological determinants of middle- and long-distance running performance: a systematic review. *Sports Medicine*, 48, 1117–1149.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/29249083/
+
+<a id="quelle-2"></a>
+### Quelle 2: Balsalobre-Fernández, C., Santos-Concejero, J., & Grivas, G. V. (2016). Effects of strength training on running economy in highly trained runners: a systematic review with meta-analysis. *Journal of Strength and Conditioning Research*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/26694507/
+
+<a id="quelle-3"></a>
+### Quelle 3: Denadai, B. S., de Aguiar, R. A., de Lima, L. C. R., Greco, C. C., & Caputo, F. (2017). Explosive training and heavy weight training are effective for improving running economy in endurance athletes: a systematic review and meta-analysis. *Sports Medicine*, 47, 545–554.
+Quelle: https://link.springer.com/article/10.1007/s40279-016-0604-z
+
+<a id="quelle-4"></a>
+### Quelle 4: Eihara, Y., Takao, K., Sugiyama, T., et al. (2024). Effect of strength training programs in middle- and long-distance runners: a systematic review and meta-analysis. *Sports Medicine*.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/38165636/
+
+<a id="quelle-5"></a>
+### Quelle 5: Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries. *British Journal of Sports Medicine*, 48(11), 871–877.
+Quelle: https://bjsm.bmj.com/content/48/11/871
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
