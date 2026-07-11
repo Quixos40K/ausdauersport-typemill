@@ -1,10 +1,10 @@
 # Laktat ist kein Abfallprodukt
 
-Laktat ist kein nutzloses Abfallprodukt. Es entsteht bei der Energiebereitstellung, kann weiterverwendet werden und dient dem Körper als Energieträger, Transportform und Signalstoff. Im Ausdauersport ist Laktat deshalb nicht der Feind, sondern ein Hinweis darauf, wie stark der Stoffwechsel gerade arbeitet.
+Laktat ist kein nutzloses Abfallprodukt. Es entsteht bei der Energiebereitstellung, kann weiterverwendet werden und dient dem Körper als Energieträger, Transportform und Signalstoff. Im Ausdauersport ist Laktat deshalb nicht der Feind, sondern ein Hinweis darauf, wie stark der Stoffwechsel gerade arbeitet. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Was Laktat bedeutet
 
-Laktat entsteht, wenn Kohlenhydrate über die Glykolyse zur schnellen Energiebereitstellung genutzt werden. Dabei wird Glukose schrittweise abgebaut, um ATP bereitzustellen. Ein Zwischenprodukt dieses Prozesses ist Pyruvat. Wenn die Belastung steigt, wird ein Teil dieses Pyruvats zu Laktat umgewandelt.
+Laktat entsteht, wenn Kohlenhydrate über die Glykolyse zur schnellen Energiebereitstellung genutzt werden. Dabei wird Glukose schrittweise abgebaut, um ATP bereitzustellen. Ein Zwischenprodukt dieses Prozesses ist Pyruvat. Wenn die Belastung steigt, wird ein Teil dieses Pyruvats zu Laktat umgewandelt. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 Früher wurde Laktat oft als Abfallstoff verstanden, der sich im Muskel ansammelt und Leistung begrenzt. Diese Sicht ist zu einfach. Laktat kann aus der arbeitenden Muskulatur ins Blut abgegeben, zu anderen Geweben transportiert und dort wieder als Energiequelle genutzt werden.
 
@@ -14,13 +14,13 @@ Besonders wichtig ist: Laktat ist nicht einfach ein Zeichen dafür, dass der Kö
 
 Der Mythos kommt daher, dass hohe Laktatwerte oft zusammen mit intensiver Belastung, Brennen in der Muskulatur und schneller Ermüdung auftreten. Daraus wurde lange abgeleitet, Laktat selbst sei der schädliche Stoff.
 
-Tatsächlich ist die Situation komplexer. Bei hoher Intensität verändern sich viele Dinge gleichzeitig: Die Energienachfrage steigt stark, Wasserstoffionen nehmen zu, die Pufferkapazität wird gefordert, die Muskelkontraktion wird schwieriger, und das Nervensystem muss mehr motorische Einheiten aktivieren.
+Tatsächlich ist die Situation komplexer. Bei hoher Intensität verändern sich viele Dinge gleichzeitig: Die Energienachfrage steigt stark, Wasserstoffionen nehmen zu, die Pufferkapazität wird gefordert, die Muskelkontraktion wird schwieriger, und das Nervensystem muss mehr motorische Einheiten aktivieren. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Laktat ist dabei eher ein Begleiter und Zwischenprodukt intensiver Energiebereitstellung. Es ist nicht einfach die Ursache aller Ermüdung.
 
 ## Wie Laktat im Körper genutzt wird
 
-Laktat kann innerhalb des Körpers transportiert und wiederverwertet werden. Dieses Prinzip wird häufig als Laktat-Shuttle beschrieben. Dabei kann Laktat von Zellen, die viel davon produzieren, zu Zellen gelangen, die es gut oxidieren können.
+Laktat kann innerhalb des Körpers transportiert und wiederverwertet werden. Dieses Prinzip wird häufig als Laktat-Shuttle beschrieben. Dabei kann Laktat von Zellen, die viel davon produzieren, zu Zellen gelangen, die es gut oxidieren können. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Gut trainierte Ausdauersportler können Laktat oft effizienter nutzen. Ihre Muskulatur ist besser darin, Laktat aufzunehmen, in den Mitochondrien zu verarbeiten und als Energiequelle einzusetzen. Dadurch kann bei gleicher Belastung weniger Laktat im Blut sichtbar werden oder ein höheres Tempo länger kontrollierbar bleiben.
 
@@ -28,7 +28,7 @@ Auch die Leber kann Laktat nutzen, um daraus wieder Glukose aufzubauen. Laktat i
 
 ## Bedeutung für Trainingszonen und Schwellen
 
-Laktat ist in der Leistungsdiagnostik wichtig, weil es Hinweise auf die Stoffwechsellage gibt. Bei niedriger Intensität bleibt die Laktatkonzentration meist relativ stabil. Produktion und Abbau halten sich gut die Waage.
+Laktat ist in der Leistungsdiagnostik wichtig, weil es Hinweise auf die Stoffwechsellage gibt. Bei niedriger Intensität bleibt die Laktatkonzentration meist relativ stabil. Produktion und Abbau halten sich gut die Waage. [[3]](#quelle-3)
 
 Mit steigender Intensität nimmt die Laktatbildung zu. Irgendwann wird ein Bereich erreicht, in dem Laktat stärker ansteigt. Diese Übergänge werden häufig mit Begriffen wie aerobe Schwelle, anaerobe Schwelle, LT1, LT2 oder MLSS beschrieben.
 
@@ -38,7 +38,7 @@ Für das Training ist entscheidend: Ein Laktatwert ist kein Urteil über gut ode
 
 ### Trainingszustand
 
-Gut trainierte Sportler können Laktat oft besser verarbeiten. Das liegt unter anderem an mehr mitochondrialer Kapazität, besserer Durchblutung, angepassten Transportmechanismen und einer höheren aeroben Leistungsfähigkeit.
+Gut trainierte Sportler können Laktat oft besser verarbeiten. Das liegt unter anderem an mehr mitochondrialer Kapazität, besserer Durchblutung, angepassten Transportmechanismen und einer höheren aeroben Leistungsfähigkeit. [[1]](#quelle-1) [[4]](#quelle-4) [[5]](#quelle-5)
 
 ### Intensität
 
@@ -72,7 +72,7 @@ Ein dritter Fehler ist, Laktatwerte ohne Kontext zu interpretieren. Pace, Herzfr
 
 Laktat ist kein Abfallprodukt, sondern ein Zwischenprodukt und Energieträger. Es zeigt, wie stark der Körper Kohlenhydrate nutzt und wie gut Produktion, Transport und Verwertung zusammenarbeiten.
 
-Für die Trainingspraxis bedeutet das: Laktatwerte können helfen, Intensitäten besser einzuordnen. Sie ersetzen aber nicht das Gesamtbild aus Gefühl, Herzfrequenz, Pace, Leistung, Erholung und langfristiger Entwicklung.
+Für die Trainingspraxis bedeutet das: Laktatwerte können helfen, Intensitäten besser einzuordnen. Sie ersetzen aber nicht das Gesamtbild aus Gefühl, Herzfrequenz, Pace, Leistung, Erholung und langfristiger Entwicklung. [[3]](#quelle-3)
 
 Der wichtigste Merksatz lautet: Laktat ist nicht der Gegner, sondern ein Signal dafür, wie dein Stoffwechsel unter Belastung arbeitet.
 
@@ -137,5 +137,28 @@ Laktat hilft, Belastungsbereiche und Schwellen besser einzuordnen. Besonders int
 Ja, gut trainierte Ausdauersportler können Laktat oft effizienter transportieren und verwerten. Das hängt unter anderem mit mitochondrialer Kapazität, Durchblutung und Stoffwechselanpassungen zusammen.
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Brooks, G. A. (2018). The science and translation of lactate shuttle theory. *Cell Metabolism*, 27(4), 757–785.
+Quelle: https://www.sciencedirect.com/science/article/pii/S1550413118301864
+
+<a id="quelle-2"></a>
+### Quelle 2: Gladden, L. B. (2004). Lactate metabolism: a new paradigm for the third millennium. *The Journal of Physiology*, 558(Pt 1), 5–30.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/15131240/
+
+<a id="quelle-3"></a>
+### Quelle 3: Faude, O., Kindermann, W., & Meyer, T. (2009). Lactate threshold concepts: how valid are they? *Sports Medicine*, 39(6), 469–490.
+Quelle: https://link.springer.com/article/10.2165/00007256-200939060-00003
+
+<a id="quelle-4"></a>
+### Quelle 4: Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/32747792/
+
+<a id="quelle-5"></a>
+### Quelle 5: Bishop, D. J., Botella, J., Genders, A. J., et al. (2019). High-intensity exercise and mitochondrial biogenesis: current controversies and future research directions. *Physiology*, 34(1), 56–70.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/30540233/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
