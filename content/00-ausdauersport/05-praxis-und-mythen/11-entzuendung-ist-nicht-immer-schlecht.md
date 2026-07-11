@@ -1,10 +1,10 @@
 # Entzündung ist nicht immer schlecht
 
-Entzündung ist nicht automatisch schlecht. Nach Training kann eine kontrollierte Entzündungsreaktion Teil von Reparatur, Anpassung und Gewebeumbau sein. Problematisch wird Entzündung vor allem dann, wenn sie zu stark, zu lange, wiederkehrend oder mit Schmerzen, Krankheitssymptomen und schlechter Erholung verbunden ist.
+Entzündung ist nicht automatisch schlecht. Nach Training kann eine kontrollierte Entzündungsreaktion Teil von Reparatur, Anpassung und Gewebeumbau sein. Problematisch wird Entzündung vor allem dann, wenn sie zu stark, zu lange, wiederkehrend oder mit Schmerzen, Krankheitssymptomen und schlechter Erholung verbunden ist. [[1]](#quelle-1) [[2]](#quelle-2)
 
 ## Was Entzündung bedeutet
 
-Entzündung ist eine Schutz- und Regulationsreaktion des Körpers. Sie kann nach Belastung, Gewebereizung, Infektion oder Verletzung auftreten. Dabei werden Immunzellen, Botenstoffe und Reparaturprozesse aktiviert.
+Entzündung ist eine Schutz- und Regulationsreaktion des Körpers. Sie kann nach Belastung, Gewebereizung, Infektion oder Verletzung auftreten. Dabei werden Immunzellen, Botenstoffe und Reparaturprozesse aktiviert. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Im Sport wird Entzündung oft negativ verstanden, weil sie mit Schmerz, Schwellung, Müdigkeit oder Verletzung verbunden sein kann. Diese Sicht ist aber zu einfach. Nicht jede Entzündungsreaktion ist ein Problem. Manche Entzündungsprozesse helfen dem Körper, Belastung zu verarbeiten und Gewebe anzupassen.
 
@@ -14,17 +14,17 @@ Entscheidend ist deshalb nicht nur, ob Entzündung vorhanden ist, sondern wie st
 
 Der Mythos entsteht, weil Entzündung häufig mit Beschwerden verbunden wird. Wenn etwas weh tut, warm ist, geschwollen wirkt oder schlechter belastbar ist, klingt Entzündung wie etwas, das grundsätzlich unterdrückt werden sollte.
 
-Im Training ist die Lage komplexer. Belastung erzeugt kleine Störungen im Gewebe und im Stoffwechsel. Der Körper reagiert darauf mit Reparatur- und Anpassungsprozessen. Entzündungsbotenstoffe können dabei Signale setzen, damit Umbau, Heilung und Anpassung organisiert werden.
+Im Training ist die Lage komplexer. Belastung erzeugt kleine Störungen im Gewebe und im Stoffwechsel. Der Körper reagiert darauf mit Reparatur- und Anpassungsprozessen. Entzündungsbotenstoffe können dabei Signale setzen, damit Umbau, Heilung und Anpassung organisiert werden. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Wer Entzündung immer nur als Feind versteht, übersieht diese Funktion. Training wirkt nicht, weil der Körper ungestört bleibt, sondern weil er auf einen dosierten Reiz reagiert.
 
 ## Warum Entzündung nicht immer schlecht ist
 
-Eine akute, kontrollierte Entzündungsreaktion kann sinnvoll sein. Nach intensiven oder ungewohnten Einheiten können Muskeln, Sehnen, Bindegewebe und Immunsystem vorübergehend reagieren. Das kann Teil des normalen Anpassungsprozesses sein.
+Eine akute, kontrollierte Entzündungsreaktion kann sinnvoll sein. Nach intensiven oder ungewohnten Einheiten können Muskeln, Sehnen, Bindegewebe und Immunsystem vorübergehend reagieren. Das kann Teil des normalen Anpassungsprozesses sein. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Diese Reaktion hilft, beschädigte Strukturen zu erkennen, Abbau- und Reparaturprozesse zu starten und das Gewebe langfristig robuster zu machen. Ohne solche Signale wäre Training weniger wirksam.
 
-Problematisch wird es, wenn die Belastung zu groß ist oder die Erholung nicht ausreicht. Dann kann die Entzündungsreaktion nicht sauber abklingen. Aus einem normalen Anpassungssignal kann ein Hinweis auf Überlastung werden.
+Problematisch wird es, wenn die Belastung zu groß ist oder die Erholung nicht ausreicht. Dann kann die Entzündungsreaktion nicht sauber abklingen. Aus einem normalen Anpassungssignal kann ein Hinweis auf Überlastung werden. [[4]](#quelle-4) [[5]](#quelle-5)
 
 ## Zentrale Einflussfaktoren
 
@@ -38,7 +38,7 @@ Schlaf, Ruhetage, lockere Einheiten und ausreichende Ernährung helfen, Belastun
 
 ### Energieverfügbarkeit
 
-Reparatur und Anpassung brauchen Energie und Baustoffe. Wer dauerhaft zu wenig isst oder nach harten Einheiten schlecht versorgt ist, kann Entzündungs- und Regenerationsprozesse ungünstig beeinflussen.
+Reparatur und Anpassung brauchen Energie und Baustoffe. Wer dauerhaft zu wenig isst oder nach harten Einheiten schlecht versorgt ist, kann Entzündungs- und Regenerationsprozesse ungünstig beeinflussen. [[1]](#quelle-1) [[4]](#quelle-4)
 
 ### Wiederholung ohne Anpassung
 
@@ -62,7 +62,7 @@ Ein dritter Fehler ist, Erholung als passiv oder unwichtig zu betrachten. Gerade
 
 ## Praktische Einordnung
 
-Entzündung ist im Ausdauersport weder grundsätzlich gut noch grundsätzlich schlecht. Sie ist ein Regulationssignal. Akut, kontrolliert und passend zur Belastung kann sie Teil der Anpassung sein. Anhaltend, stark oder mit Beschwerden verbunden kann sie ein Warnsignal sein.
+Entzündung ist im Ausdauersport weder grundsätzlich gut noch grundsätzlich schlecht. Sie ist ein Regulationssignal. Akut, kontrolliert und passend zur Belastung kann sie Teil der Anpassung sein. Anhaltend, stark oder mit Beschwerden verbunden kann sie ein Warnsignal sein. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 Für die Praxis zählt deshalb die Einordnung: Was war der Trainingsreiz? Wie fühlt sich der Körper danach an? Klingt die Reaktion ab? Wird die Belastbarkeit besser oder schlechter?
 
@@ -131,5 +131,28 @@ Viele bewerten Entzündung entweder immer als schlecht oder ignorieren sie kompl
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Peake, J. M., Neubauer, O., Della Gatta, P. A., & Nosaka, K. (2017). Muscle damage and inflammation during recovery from exercise. *Journal of Applied Physiology*, 122(3), 559–570.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/28035017/
+
+<a id="quelle-2"></a>
+### Quelle 2: Tidball, J. G. (2017). Regulation of muscle growth and regeneration by the immune system. *Nature Reviews Immunology*, 17, 165–178.
+Quelle: https://www.nature.com/articles/nri.2016.150
+
+<a id="quelle-3"></a>
+### Quelle 3: Hyldahl, R. D., & Hubal, M. J. (2014). Lengthening our perspective: morphological, cellular and molecular responses to eccentric exercise. *Muscle & Nerve*, 49(2), 155–170.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/24030987/
+
+<a id="quelle-4"></a>
+### Quelle 4: Kellmann, M., Bertollo, M., Bosquet, L., et al. (2018). Recovery and performance in sport: consensus statement. *International Journal of Sports Physiology and Performance*, 13(2), 240–245.
+Quelle: https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml
+
+<a id="quelle-5"></a>
+### Quelle 5: Meeusen, R., Duclos, M., Foster, C., et al. (2013). Prevention, diagnosis, and treatment of the overtraining syndrome. *Medicine & Science in Sports & Exercise*, 45(1), 186–205.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/23247672/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
