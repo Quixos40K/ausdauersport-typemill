@@ -1,10 +1,10 @@
 # Open Window ist zu einfach gedacht
 
-Das Open-Window-Modell ist zu einfach gedacht. Nach langen oder sehr intensiven Belastungen verändert sich die Immunaktivität vorübergehend, aber das bedeutet nicht automatisch, dass das Immunsystem einfach „offen“ oder geschwächt ist. Häufig geht es eher um Umverteilung, Aktivierung, Erholung, Energieverfügbarkeit und Gesamtstress.
+Das Open-Window-Modell ist zu einfach gedacht. Nach langen oder sehr intensiven Belastungen verändert sich die Immunaktivität vorübergehend, aber das bedeutet nicht automatisch, dass das Immunsystem einfach „offen“ oder geschwächt ist. Häufig geht es eher um Umverteilung, Aktivierung, Erholung, Energieverfügbarkeit und Gesamtstress. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was mit Open Window gemeint ist
 
-Der Open-Window-Effekt beschreibt die Vorstellung, dass nach intensiver oder langer Ausdauerbelastung ein vorübergehendes Zeitfenster entsteht, in dem Infektionen leichter auftreten können. Gemeint ist meist eine Phase nach dem Training, in der bestimmte Immunmarker verändert sind.
+Der Open-Window-Effekt beschreibt die Vorstellung, dass nach intensiver oder langer Ausdauerbelastung ein vorübergehendes Zeitfenster entsteht, in dem Infektionen leichter auftreten können. Gemeint ist meist eine Phase nach dem Training, in der bestimmte Immunmarker verändert sind. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)
 
 Diese Idee war lange sehr einprägsam: Harte Belastung, danach geschwächtes Immunsystem, dann höheres Infektrisiko. Für die Praxis klingt das logisch, ist aber zu grob.
 
@@ -12,7 +12,7 @@ Das Immunsystem arbeitet nicht wie eine Tür, die nach dem Training einfach offe
 
 ## Warum der Mythos entstanden ist
 
-Der Mythos entstand, weil nach intensiven Ausdauerbelastungen Veränderungen im Blut messbar sind. Manche Immunzellen sinken nach der Belastung vorübergehend im Blut ab. Früher wurde das oft als direkte Immunsuppression interpretiert.
+Der Mythos entstand, weil nach intensiven Ausdauerbelastungen Veränderungen im Blut messbar sind. Manche Immunzellen sinken nach der Belastung vorübergehend im Blut ab. Früher wurde das oft als direkte Immunsuppression interpretiert. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Heute wird diese Interpretation vorsichtiger gesehen. Wenn weniger Immunzellen im Blut gemessen werden, heißt das nicht automatisch, dass sie verschwunden oder funktionslos sind. Sie können auch in Gewebe wandern, dort überwachen, reparieren oder regulieren.
 
@@ -20,7 +20,7 @@ Hinzu kommt: Viele Infekte nach Wettkämpfen oder harten Trainingsphasen entsteh
 
 ## Warum Open Window zu einfach ist
 
-Das Open-Window-Modell reduziert ein komplexes System auf eine einfache Ursache-Wirkung-Kette. In Wirklichkeit hängt die Immunreaktion auf Training stark vom Kontext ab.
+Das Open-Window-Modell reduziert ein komplexes System auf eine einfache Ursache-Wirkung-Kette. In Wirklichkeit hängt die Immunreaktion auf Training stark vom Kontext ab. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Eine harte Einheit nach guter Erholung, ausreichender Energiezufuhr und stabilem Schlaf ist anders zu bewerten als dieselbe Einheit nach mehreren stressigen Tagen, wenig Schlaf und zu geringer Kohlenhydrataufnahme. Der Trainingsreiz ist also nicht allein entscheidend.
 
@@ -34,7 +34,7 @@ Lange, sehr harte oder ungewohnte Einheiten erzeugen eine stärkere akute Stress
 
 ### Energieverfügbarkeit
 
-Zu wenig Energie oder zu wenig Kohlenhydrate rund um harte Belastungen können die Stressreaktion verstärken. Das Immunsystem benötigt Energie, Baustoffe und Mikronährstoffe, um gut zu funktionieren.
+Zu wenig Energie oder zu wenig Kohlenhydrate rund um harte Belastungen können die Stressreaktion verstärken. Das Immunsystem benötigt Energie, Baustoffe und Mikronährstoffe, um gut zu funktionieren. [[2]](#quelle-2) [[4]](#quelle-4)
 
 ### Schlaf und Erholung
 
@@ -42,7 +42,7 @@ Schlaf ist ein zentraler Regenerationsfaktor. Wer schlecht schläft, sehr viel t
 
 ### Exposition
 
-Infekte entstehen nicht nur durch veränderte Immunmarker, sondern auch durch Kontakt mit Erregern. Wettkämpfe, Reisen, Gruppen, öffentliche Verkehrsmittel oder Menschenmengen können das Risiko unabhängig vom Training erhöhen.
+Infekte entstehen nicht nur durch veränderte Immunmarker, sondern auch durch Kontakt mit Erregern. Wettkämpfe, Reisen, Gruppen, öffentliche Verkehrsmittel oder Menschenmengen können das Risiko unabhängig vom Training erhöhen. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ## Bedeutung für Läufer
 
@@ -62,7 +62,7 @@ Ein dritter Fehler ist, Warnsignale zu ignorieren. Wenn Müdigkeit, Halsschmerze
 
 ## Praktische Einordnung
 
-Open Window ist als Bild leicht verständlich, aber fachlich zu grob. Besser ist die Vorstellung einer vorübergehenden Immunumverteilung und Stressreaktion, die je nach Kontext gut verarbeitet oder problematisch werden kann.
+Open Window ist als Bild leicht verständlich, aber fachlich zu grob. Besser ist die Vorstellung einer vorübergehenden Immunumverteilung und Stressreaktion, die je nach Kontext gut verarbeitet oder problematisch werden kann. [[1]](#quelle-1) [[3]](#quelle-3)
 
 Für die Praxis zählt nicht die Angst vor einem „offenen Fenster“, sondern die Steuerung der Gesamtbelastung. Training, Schlaf, Energiezufuhr, Infektexposition und Erholung müssen zusammen betrachtet werden.
 
@@ -135,5 +135,28 @@ Wenn Krankheitsgefühl, Halsschmerzen, Fieber, ungewöhnliche Müdigkeit, deutli
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Campbell, J. P., & Turner, J. E. (2018). Debunking the myth of exercise-induced immune suppression: redefining the impact of exercise on immunological health across the lifespan. *Frontiers in Immunology*, 9, 648.
+Quelle: https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/
+
+<a id="quelle-2"></a>
+### Quelle 2: Nieman, D. C., & Wentz, L. M. (2019). The compelling link between physical activity and the body's defense system. *Journal of Sport and Health Science*, 8(3), 201–217.
+Quelle: https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/
+
+<a id="quelle-3"></a>
+### Quelle 3: Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). Recovery of the immune system after exercise. *Journal of Applied Physiology*, 122(5), 1077–1087.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/27909225/
+
+<a id="quelle-4"></a>
+### Quelle 4: Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). Position statement. Part one: immune function and exercise. *Exercise Immunology Review*, 17, 6–63.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/21446352/
+
+<a id="quelle-5"></a>
+### Quelle 5: Gleeson, M. (2007). Immune function in sport and exercise. *Journal of Applied Physiology*, 103(2), 693–699.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/17303714/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
