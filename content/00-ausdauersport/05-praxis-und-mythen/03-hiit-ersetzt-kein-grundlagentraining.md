@@ -1,10 +1,10 @@
 # HIIT ersetzt kein Grundlagentraining
 
-HIIT kann ein wirksamer Trainingsreiz sein, ersetzt aber kein Grundlagentraining. Hochintensive Intervalle verbessern bestimmte Leistungsbereiche, setzen aber viel Ermüdung frei und bauen keine stabile aerobe Basis allein auf. Für Ausdauerleistung braucht es beides: viele gut verträgliche Grundlagenreize und gezielte intensive Einheiten.
+HIIT kann ein wirksamer Trainingsreiz sein, ersetzt aber kein Grundlagentraining. Hochintensive Intervalle verbessern bestimmte Leistungsbereiche, setzen aber viel Ermüdung frei und bauen keine stabile aerobe Basis allein auf. Für Ausdauerleistung braucht es beides: viele gut verträgliche Grundlagenreize und gezielte intensive Einheiten. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4)
 
 ## Was HIIT bedeutet
 
-HIIT steht für High-Intensity Interval Training. Gemeint sind kurze bis längere Belastungsabschnitte mit hoher Intensität, die durch Pausen oder lockere Abschnitte unterbrochen werden. Typische Beispiele sind kurze Berganläufe, schnelle Intervalle, VO2max-Intervalle oder sehr intensive Belastungen oberhalb des Wohlfühltempos.
+HIIT steht für High-Intensity Interval Training. Gemeint sind kurze bis längere Belastungsabschnitte mit hoher Intensität, die durch Pausen oder lockere Abschnitte unterbrochen werden. Typische Beispiele sind kurze Berganläufe, schnelle Intervalle, VO2max-Intervalle oder sehr intensive Belastungen oberhalb des Wohlfühltempos. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 Der Vorteil von HIIT liegt darin, dass in relativ kurzer Zeit ein starker Reiz gesetzt werden kann. Herz-Kreislauf-System, Sauerstoffaufnahme, neuromuskuläre Aktivierung und Stoffwechsel werden deutlich gefordert.
 
@@ -12,7 +12,7 @@ Genau deshalb ist HIIT aber auch belastend. Es ist nicht einfach „effizientes 
 
 ## Was Grundlagentraining bedeutet
 
-Grundlagentraining beschreibt überwiegend lockere bis kontrollierte Ausdauerbelastungen. Dazu gehören ruhige Dauerläufe, lange Läufe, lockere Radeinheiten oder andere niedrig bis moderat intensive Belastungen.
+Grundlagentraining beschreibt überwiegend lockere bis kontrollierte Ausdauerbelastungen. Dazu gehören ruhige Dauerläufe, lange Läufe, lockere Radeinheiten oder andere niedrig bis moderat intensive Belastungen. [[5]](#quelle-5)
 
 Diese Einheiten wirken weniger spektakulär als harte Intervalle, sind aber entscheidend für langfristige Ausdauerentwicklung. Sie verbessern die Belastungsverträglichkeit, unterstützen die aerobe Energieversorgung und ermöglichen Trainingsumfang, ohne ständig hohe Ermüdung zu erzeugen.
 
@@ -20,9 +20,9 @@ Grundlagentraining ist also nicht „langsam und unwichtig“, sondern die Basis
 
 ## Warum HIIT das Grundlagentraining nicht ersetzt
 
-HIIT setzt starke Reize, aber nicht alle notwendigen Reize. Ausdauerleistung entsteht nicht nur durch maximale Intensität, sondern durch die Fähigkeit, über lange Zeit effizient Energie bereitzustellen, Ermüdung zu kontrollieren und Belastung regelmäßig zu wiederholen.
+HIIT setzt starke Reize, aber nicht alle notwendigen Reize. Ausdauerleistung entsteht nicht nur durch maximale Intensität, sondern durch die Fähigkeit, über lange Zeit effizient Energie bereitzustellen, Ermüdung zu kontrollieren und Belastung regelmäßig zu wiederholen. [[1]](#quelle-1) [[5]](#quelle-5)
 
-Wer nur intensiv trainiert, sammelt schnell Ermüdung. Dadurch werden lockere Tage zu hart, Qualitätseinheiten schlechter, Technik unsauberer und das Verletzungsrisiko kann steigen. Besonders im Laufsport kommt hinzu, dass hochintensive Einheiten auch mechanisch anspruchsvoll sind.
+Wer nur intensiv trainiert, sammelt schnell Ermüdung. Dadurch werden lockere Tage zu hart, Qualitätseinheiten schlechter, Technik unsauberer und das Verletzungsrisiko kann steigen. Besonders im Laufsport kommt hinzu, dass hochintensive Einheiten auch mechanisch anspruchsvoll sind. [[5]](#quelle-5) [[6]](#quelle-6)
 
 Grundlagentraining baut dagegen die robuste Basis: Sehnen, Muskeln, Herz-Kreislauf-System, Stoffwechsel und Nervensystem gewöhnen sich an regelmäßige Belastung. HIIT kann diese Basis ergänzen, aber nicht vollständig ersetzen.
 
@@ -42,7 +42,7 @@ Das Trainingsziel entscheidet also, wie viel Intensität sinnvoll ist.
 
 ### Erholung
 
-HIIT braucht Erholung. Wer intensive Einheiten zu dicht setzt, trainiert nicht automatisch besser, sondern oft nur müder. Schlaf, Ernährung, lockere Tage und reduzierte Gesamtbelastung bestimmen mit, ob aus dem Reiz eine Anpassung wird.
+HIIT braucht Erholung. Wer intensive Einheiten zu dicht setzt, trainiert nicht automatisch besser, sondern oft nur müder. Schlaf, Ernährung, lockere Tage und reduzierte Gesamtbelastung bestimmen mit, ob aus dem Reiz eine Anpassung wird. [[2]](#quelle-2) [[6]](#quelle-6)
 
 ### Umfang
 
@@ -70,7 +70,7 @@ Ein dritter Fehler ist, lockere Einheiten als wertlos zu sehen. Gerade ruhige L�
 
 HIIT ist sinnvoll, wenn es gezielt eingesetzt wird. Es kann starke Leistungsreize setzen und bestimmte Anpassungen anstoßen. Es sollte aber nicht als Ersatz für Grundlagenarbeit verstanden werden.
 
-Eine robuste Ausdauer entsteht durch Wiederholung, Geduld und passende Belastungsverteilung. Grundlagentraining liefert die Breite. HIIT setzt gezielte Spitzen.
+Eine robuste Ausdauer entsteht durch Wiederholung, Geduld und passende Belastungsverteilung. Grundlagentraining liefert die Breite. HIIT setzt gezielte Spitzen. [[5]](#quelle-5)
 
 Der wichtigste Merksatz lautet: HIIT macht Training intensiver, aber Grundlagentraining macht Ausdauer belastbar.
 
@@ -131,5 +131,32 @@ Meist ist eine Mischung sinnvoll: viele kontrollierte lockere Einheiten, einzeln
 
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Laursen, P. B., & Jenkins, D. G. (2002). The scientific basis for high-intensity interval training. *Sports Medicine*, 32, 53–73.
+Quelle: https://link.springer.com/article/10.2165/00007256-200232010-00003
+
+<a id="quelle-2"></a>
+### Quelle 2: Buchheit, M., & Laursen, P. B. (2013). High-intensity interval training, solutions to the programming puzzle. Part I: cardiopulmonary emphasis. *Sports Medicine*, 43, 313–338.
+Quelle: https://link.springer.com/article/10.1007/s40279-013-0029-x
+
+<a id="quelle-3"></a>
+### Quelle 3: Buchheit, M., & Laursen, P. B. (2013). High-intensity interval training, solutions to the programming puzzle. Part II: anaerobic energy, neuromuscular load and practical applications. *Sports Medicine*, 43, 927–954.
+Quelle: https://link.springer.com/article/10.1007/s40279-013-0066-5
+
+<a id="quelle-4"></a>
+### Quelle 4: Milanović, Z., Sporiš, G., & Weston, M. (2015). Effectiveness of high-intensity interval training for improving VO2max: a systematic review and meta-analysis. *Sports Medicine*, 45, 1469–1481.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/26243014/
+
+<a id="quelle-5"></a>
+### Quelle 5: Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276–291.
+Quelle: https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml
+
+<a id="quelle-6"></a>
+### Quelle 6: Bourdon, P. C., Cardinale, M., Murray, A., et al. (2017). Monitoring athlete training loads: consensus statement. *International Journal of Sports Physiology and Performance*, 12(Suppl 2), S2-161–S2-170.
+Quelle: https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
