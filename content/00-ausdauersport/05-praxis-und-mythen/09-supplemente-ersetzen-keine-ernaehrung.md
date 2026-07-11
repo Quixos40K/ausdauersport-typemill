@@ -1,6 +1,6 @@
 # Supplemente ersetzen keine Ernährung
 
-Supplemente können im Ausdauersport sinnvoll sein, ersetzen aber keine gute Ernährung. Entscheidend bleiben ausreichende Energiezufuhr, Kohlenhydrate, Protein, Fette, Mikronährstoffe, Flüssigkeit und regelmäßige Mahlzeiten. Supplemente sind Ergänzungen für konkrete Situationen, nicht die Grundlage der Leistungsentwicklung.
+Supplemente können im Ausdauersport sinnvoll sein, ersetzen aber keine gute Ernährung. Entscheidend bleiben ausreichende Energiezufuhr, Kohlenhydrate, Protein, Fette, Mikronährstoffe, Flüssigkeit und regelmäßige Mahlzeiten. Supplemente sind Ergänzungen für konkrete Situationen, nicht die Grundlage der Leistungsentwicklung. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was Supplemente bedeuten
 
@@ -20,11 +20,11 @@ Der Mythos entsteht, wenn einzelne Produkte wichtiger genommen werden als die Ba
 
 ## Warum Supplemente Ernährung nicht ersetzen
 
-Der Körper braucht nicht nur einzelne isolierte Stoffe. Er braucht Energie, Flüssigkeit, Makronährstoffe, Mikronährstoffe, Ballaststoffe, sekundäre Pflanzenstoffe und eine insgesamt passende Ernährung. Lebensmittel liefern diese Dinge in einem komplexen Zusammenhang.
+Der Körper braucht nicht nur einzelne isolierte Stoffe. Er braucht Energie, Flüssigkeit, Makronährstoffe, Mikronährstoffe, Ballaststoffe, sekundäre Pflanzenstoffe und eine insgesamt passende Ernährung. Lebensmittel liefern diese Dinge in einem komplexen Zusammenhang. [[1]](#quelle-1) [[2]](#quelle-2)
 
 Supplemente liefern meistens nur einen Ausschnitt. Ein Proteinpulver ersetzt keine dauerhaft ausreichende Gesamtenergie. Ein Elektrolytgetränk ersetzt keine passende Flüssigkeitsstrategie. Ein Vitaminpräparat ersetzt keine ausgewogene Ernährung. Koffein ersetzt keine Erholung.
 
-Besonders im Ausdauersport ist Energieverfügbarkeit entscheidend. Wer dauerhaft zu wenig isst, kann Training schlechter verarbeiten, Regeneration stören und Anpassungen begrenzen. Supplemente können dieses Grundproblem nicht lösen.
+Besonders im Ausdauersport ist Energieverfügbarkeit entscheidend. Wer dauerhaft zu wenig isst, kann Training schlechter verarbeiten, Regeneration stören und Anpassungen begrenzen. Supplemente können dieses Grundproblem nicht lösen. [[1]](#quelle-1) [[5]](#quelle-5)
 
 ## Zentrale Einflussfaktoren
 
@@ -34,7 +34,7 @@ Ohne ausreichend Energie kann der Körper Trainingsreize schlechter verarbeiten.
 
 ### Kohlenhydrate
 
-Kohlenhydrate sind für viele Ausdauerbelastungen ein wichtiger Energieträger. Besonders bei langen oder intensiven Einheiten kann die Kohlenhydratverfügbarkeit entscheidend sein. Gels oder Sportgetränke können hier praktisch sein, ersetzen aber keine sinnvolle Ernährung im Alltag.
+Kohlenhydrate sind für viele Ausdauerbelastungen ein wichtiger Energieträger. Besonders bei langen oder intensiven Einheiten kann die Kohlenhydratverfügbarkeit entscheidend sein. Gels oder Sportgetränke können hier praktisch sein, ersetzen aber keine sinnvolle Ernährung im Alltag. [[1]](#quelle-1) [[5]](#quelle-5)
 
 ### Protein
 
@@ -42,7 +42,7 @@ Protein unterstützt Reparatur- und Anpassungsprozesse. Proteinpulver kann prakt
 
 ### Mikronährstoffe
 
-Vitamine und Mineralstoffe sind wichtig, sollten aber nicht blind ergänzt werden. Bei Verdacht auf Mangel, besonderer Ernährungsform oder auffälliger Müdigkeit ist eine gezielte Abklärung sinnvoller als pauschales Supplementieren.
+Vitamine und Mineralstoffe sind wichtig, sollten aber nicht blind ergänzt werden. Bei Verdacht auf Mangel, besonderer Ernährungsform oder auffälliger Müdigkeit ist eine gezielte Abklärung sinnvoller als pauschales Supplementieren. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ### Timing und Alltag
 
@@ -62,7 +62,7 @@ Ein häufiger Fehler ist, Supplemente als Abkürzung zu sehen. Wer schlecht schl
 
 Ein zweiter Fehler ist blindes Stapeln. Viele Produkte gleichzeitig zu nehmen macht die Ernährung nicht automatisch besser und erschwert die Einordnung, was wirklich hilft.
 
-Ein dritter Fehler ist, Mängel zu vermuten und ohne Prüfung hoch dosiert zu ergänzen. Gerade bei Mineralstoffen oder fettlöslichen Vitaminen kann unkritische Einnahme problematisch sein.
+Ein dritter Fehler ist, Mängel zu vermuten und ohne Prüfung hoch dosiert zu ergänzen. Gerade bei Mineralstoffen oder fettlöslichen Vitaminen kann unkritische Einnahme problematisch sein. [[4]](#quelle-4)
 
 ## Praktische Einordnung
 
@@ -144,5 +144,28 @@ Ja, besonders bei langen oder intensiven Einheiten und im Wettkampf können Kohl
 Viele erwarten von Supplementen eine Abkürzung. Wenn Ernährung, Schlaf, Erholung und Trainingssteuerung nicht passen, kann ein Supplement diese Grundlage nicht ersetzen.
 ----
 
-*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+## Quellen
 
+<a id="quelle-1"></a>
+### Quelle 1: Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: nutrition and athletic performance. *Medicine & Science in Sports & Exercise*, 48(3), 543–568.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/26891166/
+
+<a id="quelle-2"></a>
+### Quelle 2: Maughan, R. J., Burke, L. M., Dvorak, J., et al. (2018). IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439–455.
+Quelle: https://bjsm.bmj.com/content/52/7/439
+
+<a id="quelle-3"></a>
+### Quelle 3: Australian Institute of Sport. AIS Sports Supplement Framework. ABCD classification system for sports foods and supplements.
+Quelle: https://www.ausport.gov.au/ais/nutrition/supplements
+
+<a id="quelle-4"></a>
+### Quelle 4: World Anti-Doping Agency. The 2026 Prohibited List: International Standard.
+Quelle: https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/prohibited-list
+
+<a id="quelle-5"></a>
+### Quelle 5: Jeukendrup, A. E. (2011). Nutrition for endurance sports: marathon, triathlon, and road cycling. *Journal of Sports Sciences*, 29(Suppl 1), S91–S99.
+Quelle: https://pubmed.ncbi.nlm.nih.gov/21660839/
+
+----
+
+*Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
