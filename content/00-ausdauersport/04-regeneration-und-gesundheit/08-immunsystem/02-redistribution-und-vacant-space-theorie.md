@@ -162,40 +162,33 @@ Der häufigste Denkfehler ist, Blutwerte nach Training isoliert zu betrachten. D
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.
+### Quelle 1
 
-Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
+Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
-<a id="quelle-2"></a>
-### Quelle 2: Recovery of the immune system after exercise.
+### Quelle 2
 
-Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
 
-<a id="quelle-3"></a>
-### Quelle 3: The compelling link between physical activity and the body's defense system.
+### Quelle 3
 
-Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-4"></a>
-### Quelle 4: Exercise and the Regulation of Immune Functions.
+### Quelle 4
 
-Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380.
+Exercise and the Regulation of Immune Functions. Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380.
 
-<a id="quelle-5"></a>
-### Quelle 5: Is immunosenescence influenced by our lifetime “dose” of exercise?
+### Quelle 5
 
-Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
+Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
 
-<a id="quelle-6"></a>
-### Quelle 6: Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.
+### Quelle 6
 
-Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
+Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
 
-<a id="quelle-7"></a>
-### Quelle 7: Position statement. Part one: Immune function and exercise.
+### Quelle 7
 
-Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63.
+Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63.
 
 ----
 
