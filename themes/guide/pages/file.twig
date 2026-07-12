@@ -1,0 +1,49 @@
+<div class="content w-100 w-70-l pv3 ph4-l pt0-l lh-copy f5 fw3">
+
+	{% if (theme.breadcrumb) or (theme.edit) or (theme.print) %}
+
+		{% include 'partials/headerline.twig' %}	
+
+	{% endif %}
+
+	<article>
+
+		<header>
+			<h1>{{ title|e }}</h1>
+		</header>
+
+		{{ content }}
+
+		{% if (theme.dateIntro) or (theme.author) %}
+
+			{% include 'partials/footerline.twig' %}
+
+		{% endif %}
+
+	</article>
+
+    {% if theme.edit %}
+
+        <div class="editbox f5 w-full pa3 mt5 mb5">
+
+            {{ markdown(theme.editintro) }}
+
+            <p>
+            	<a class="underline-off link mv1 pv2 ph3 ba dim dib" title="edit" href="{{ theme.edit }}{{ item.path }}">{{ theme.editlabel|default('Edit this page')|e }}</a>
+            <p>
+        </div>
+
+    {% endif %}
+
+	{% if theme.paging %}
+
+		{% include 'partials/paging.twig' %}
+		
+	{% endif %}
+
+</div>
+
+<!-- Content Navigation (Sticky on the Right) -->
+<div class="dn db-l w-30-l sticky overflow-y-auto vh100 pa2 self-start top-2">
+    <nav id="content-nav" class="list pa0"></nav>
+</div>

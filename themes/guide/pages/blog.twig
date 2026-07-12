@@ -1,0 +1,45 @@
+{% set pagesize = 10 %}
+{% set pages = ( item.folderContent|length / pagesize)|round(0, 'ceil') %}
+{% set currentpage = currentpage ? currentpage : 1 %}
+{% set currentposts = (currentpage - 1) * pagesize %}
+
+<div class="content w-100 w-70-l pv3 ph4-l pt0-l lh-copy f5 fw3 center">
+
+	<ul class="post list pa0">
+
+		{% for element in item.folderContent|slice(currentposts, pagesize) %}
+
+			{% set post = getPageMeta(settings, element) %}
+			{% set date = element.order[0:4] ~ '-' ~ element.order[4:2] ~ '-' ~ element.order[6:2] %}
+
+			<li class="post-entry newsbox dib list pa0 w-100 mh0 mv4">
+				{% if settings.themes.guide.blogimage and post.meta.heroimage != '' %}		
+					<figure class="ma0">
+						<img src="{{ assets.image(post.meta.heroimage).resize(820,500).src() }}"{% if post.meta.heroimagealt and post.meta.heroimagealt != '' %} alt="{{ post.meta.heroimagealt }}"{% endif %} />
+					</figure>
+				{% endif %}
+				<div class="pa2 ph4-ns pb4-ns">
+					<header>
+						<a class="link f-link underline-hover" href="{{ element.urlAbs }}"><h2 class="mt4 mb2">{{ post.meta.title|e }}</h2></a>
+						<div class="mt3"><small><time datetime="{{date}}">{{ date | date("d.m.Y") }}</time> | {{ post.meta.author | default(post.meta.owner)|e }}</small></div>
+					</header>
+					<p>{{ post.meta.description|e }}</p>
+				</div>
+			</li>
+		{% endfor %}
+
+		{% if pages > 1 %}
+			<hr class="mv4">
+			<p>Page: 
+				{% for i in 1 .. pages %}
+					{% if i == currentpage %}
+						{{i}}
+					{% else %}
+						<a class="page" href="{{ item.urlAbs }}/p/{{i}}">{{i}}</a>
+					{% endif %}
+				{% endfor %}
+			</p>
+		{% endif %}
+
+	</ul>
+</div>

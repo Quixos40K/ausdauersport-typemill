@@ -1,0 +1,10 @@
+{% set published = meta.manualdate ? meta.manualdate : meta.modified %}
+
+<div class="footerline f5 pv3">
+    {% if theme.dateIntro %}
+        <p><time pubdate datetime="{{ published }}">{{ theme.dateIntro|e }} {{ published|date(theme.dateFormat)  }}</time></p>
+    {% endif %}
+    {% if theme.author %}
+        <p><adress class="pr2">{{ theme.author|e }} {{ meta.author|default(settings.author)|e }}</adress></p>
+    {% endif %}
+</div>

@@ -1,0 +1,39 @@
+{% extends '/layout.twig' %}
+{% set theme = settings.themes.guide %}
+{% set meta = metatabs.meta %}
+
+{% block title %}{{ meta.title }}{% endblock %}
+
+{% block content %}
+
+	{% if home %}
+
+		{% include 'pages/home.twig' %}
+
+	{% elseif project and ('/' ~ project == item.urlRelWoF) %}
+	
+		{% include 'pages/home.twig' %}
+
+	{% elseif item.elementType == 'file' %}
+		
+		{% include 'pages/file.twig' %}
+
+	{% elseif item.elementType == 'folder' and meta.glossary %}
+
+		{% include 'pages/glossary.twig' %}
+	
+	{% elseif item.elementType == 'folder' and item.contains == 'pages' %}
+
+		{% include 'pages/folder.twig' %}
+
+	{% elseif item.elementType == 'folder' and item.contains == 'posts' %}
+
+		{% include 'pages/blog.twig' %}
+
+	{% else %}
+
+		{% include 'pages/file.twig' %}
+
+	{% endif %}
+
+{% endblock %}

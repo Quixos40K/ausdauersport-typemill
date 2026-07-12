@@ -1,0 +1,35 @@
+{% macro loop_over(foldernav, depth) %}
+
+    {% import _self as macros %}
+
+    {% for element in foldernav %}
+
+		<li class="margin-bottom-1 {{ element.elementType }} level-{{ depth }} no-transition" data-id="{{ element.urlRelWoF }}">
+        
+		{% if (element.elementType == 'folder') and (element.folderContent|length > 0) and (element.contains == 'pages') %}	
+			<div class="folder-header relative">
+				<div class="absolute top-0 left--2 pv1 folder-toggle arrow-left w2"></div>
+				<a class="link dib w-100 relative fw7 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2{% if element.active %} b--yellow{% else %} b--transparent{% endif %}" href="{{ element.urlAbs }}">{{ element.name|e }}</a>
+			</div>
+           	<ul class="list pa0">
+               {{ macros.loop_over(element.folderContent, depth+1) }}
+            </ul>
+        {% elseif (element.elementType == 'folder') %}
+			<a class="link dib w-100 relative fw7 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2 b--transparent" href="{{ element.urlAbs }}">{{ element.name|e }}</a>
+        {% else %}
+			<a class="link dib w-100 relative fw3 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2 b--transparent" href="{{ element.urlAbs }}">{{ element.name|e }}</a>
+        {% endif %}
+
+      	</li>
+
+    {% endfor %}
+{% endmacro %}
+
+{% import _self as macros %}
+
+<ul id="foldernav" class="foldernav list mt5 pa0 menu f5">
+
+	<h4 class="readmore">{{ settings.themes.guide.readmore|default('read more') }}</h4>
+
+    {{ macros.loop_over(item.folderContent, 0) }}
+</ul>

@@ -1,0 +1,612 @@
+name: Guide Theme
+version: 1.3.4
+description: Guide is a an elegant and modern theme for documentations, manuals and knowledge bases. 
+author: Sebastian
+homepage: https://trendschau.net
+license: MAKER
+
+settings:
+    logotext: true
+    logoimg: true
+
+readymades:
+  standard:
+    name: 'STANDARD'
+    description: 'Standard settings with decent colors and an elegant look and feel.'
+    settings:
+      logoimg: true
+      logotext: true
+      font: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      fontheadline: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      colorBrand: lightseagreen
+      colorLeftColumnBackground: '#f5f5f5'
+      colorRightColumnBackground: '#ffffff'
+      colorLeftColumnLinks: '#333333'
+      colorRightColumnLinks: '#007acc'
+      colorLeftColumnHover: '#e0e0e0'
+      colorRightColumnText: '#333333'
+      colorFooterBackground: '#333333'
+      colorFooterText: '#f5f5f5'
+      colorFooterLinks: '#00aced'
+      colorBrandDark: darkseagreen
+      colorLeftColumnBackgroundDark: '#2c2c2c'
+      colorRightColumnBackgroundDark: '#1e1e1e'
+      colorLeftColumnLinksDark: '#ccccc'
+      colorRightColumnTextDark: '#d3d3d3'
+      colorLeftColumnHoverDark: '#444444'
+      colorRightColumnLinksDark: '#4da8da'
+      colorFooterBackgroundDark: '#1a1a1a'
+      colorFooterTextDark: '#d3d3d3'
+      colorFooterLinksDark: '#ffae00'
+      blogimage: true
+      chapnum: false
+      breadcrumb: true
+      paging: true
+      foldernav: true
+      print: false
+      edit: ''
+      author: ''
+      dateIntro: ''
+      dateFormat: ''
+      footercolumns:
+        - footer1
+        - footer2
+        - footer3
+      footer1: "### About This Website\n\nThis website provides insights, updates, and resources for Typemill, a CMS for creating user manuals and documentation."
+      footer2: "### Useful Links\n\n-  [Home](#)\n-  [Features](#)\n-  [Plugins](#)\n-  [Themes](#)\n-  [Roadmap](#)"
+      footer3: "### Support & Contact\n\n- [Help Center](#)\n- [Community Forum](#)\n- [Contact Us](#)\n- [Follow Us on Twitter](#)\n- [GitHub Repository](#)"
+  pastel: 
+    name: 'PASTEL'
+    description: 'A theme with pastel colors and all additional infos activated.'
+    settings:
+      logoimg: true
+      logotext: true
+      colorBrand: '#98d7c2' # Soft mint green for branding
+      colorLeftColumnBackground: '#f8f3eb' # Warm creamy beige
+      colorRightColumnBackground: '#ffffff' # Bright white for main content
+      colorLeftColumnLinks: '#5a8770' # Muted sage green for links
+      colorRightColumnLinks: '#88c0ad' # Gentle mint for links
+      colorLeftColumnHover: '#cfeadf' # Pastel green for hover effects
+      colorRightColumnText: '#4e4e4e' # Neutral gray for readability
+      colorFooterBackground: '#f3ece4' # Light cream for the footer
+      colorFooterText: '#7a7a7a' # Medium gray for footer text
+      colorFooterLinks: '#5a8770' # Match left-column link color
+      colorBrandDark: '#82c7af' # Soft pastel mint for branding
+      colorLeftColumnBackgroundDark: '#2c2c28' # Deep warm gray with a green tint
+      colorRightColumnBackgroundDark: '#1e1e1b' # Darker background for contrast
+      colorLeftColumnLinksDark: '#98d7c2' # Bright pastel mint for links
+      colorRightColumnLinksDark: '#b3e4d1' # Softer pastel mint for main content links
+      colorLeftColumnHoverDark: '#5f756b' # Muted sage green for hover effects
+      colorLeftColumnTextDark: '#dad8d6' # Light gray for text on dark background
+      colorFooterBackgroundDark: '#34312c' # Warm charcoal beige
+      colorFooterTextDark: '#b8b4ae' # Soft warm gray for footer text
+      colorFooterLinksDark: '#98d7c2' # Match left-column link color
+      blogimage: true
+      chapnum: true
+      breadcrumb: true
+      paging: true
+      print: true
+      edit: 'https://github.com/typemill/typemill'
+      author: 'Author: '
+      dateIntro: 'Last updated: '
+      dateFormat: ''
+  neon: 
+    name: 'NEON'
+    description: 'Make a party with a neon theme and some funky colors.'
+    settings:
+      logotext: true
+      logoimg: true
+      font: 'avenir,sans-serif'
+      fontheadline: 'helvetica,sans-serif'
+      colorBrand: '#00b8ff'
+      colorLeftColumnBackground: '#ffffff'
+      colorRightColumnBackground: '#f0faff'
+      colorLeftColumnLinks: '#ff007f'
+      colorRightColumnLinks: '#39ff14'
+      colorLeftColumnHover: '#ffae00'
+      colorRightColumnText: '#1a1a1a'
+      colorFooterBackground: '#f5f5f5'
+      colorFooterText: '#333333'
+      colorFooterLinks: '#00e0ff'
+      colorBrandDark: '#00ffcc'
+      colorLeftColumnBackgroundDark: '#121212'
+      colorRightColumnBackgroundDark: '#1a1a1a'
+      colorLeftColumnLinksDark: '#39ff14'
+      colorRightColumnLinksDark: '#ff4500'
+      colorLeftColumnHoverDark: '#ff007f'
+      colorLeftColumnTextDark: '#ffffff'
+      colorFooterBackgroundDark: '#0d0d0d'
+      colorFooterTextDark: '#00ffcc'
+      colorFooterLinksDark: '#ffae00'
+      blogimage: true
+      chapnum: false
+      breadcrumb: false
+      paging: false
+      print: false
+      edit: ''
+      author: ''
+      dateIntro: ''
+      dateFormat: ''
+  notion: 
+    name: 'NOTION-LIKE'
+    description: 'Clean black&white design with centered content, a header navigation, and an expand button'
+    settings:
+      containersize: 'mw9 center'
+      rightcolumnsize: mw9
+      logoimg: true
+      logotext: true
+      headernav: true
+      headernavitems:
+          Typemill: 'https://typemill.net'
+          Start: /getting-started
+          News: /news
+      leftcolumnheight: true
+      collapseNav: true
+      font: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      fontheadline: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      colorBrand: lightseagreen
+      colorBodyBackground: '#ffffff'
+      colorLeftColumnBackground: '#ffffff'
+      colorRightColumnBackground: '#ffffff'
+      colorLeftColumnLinks: '#333333'
+      colorRightColumnLinks: '#007acc'
+      colorLeftColumnHover: '#e0e0e0'
+      colorRightColumnText: '#333333'
+      colorFooterBackground: '#ffffff'
+      colorFooterText: '#333333'
+      colorFooterLinks: '#007acc'
+      colorBrandDark: darkseagreen
+      colorLeftColumnBackgroundDark: '#2c2c2c'
+      colorRightColumnBackgroundDark: '#1e1e1e'
+      colorLeftColumnLinksDark: '#ccccc'
+      colorRightColumnTextDark: '#d3d3d3'
+      colorLeftColumnHoverDark: '#444444'
+      colorRightColumnLinksDark: '#4da8da'
+      colorFooterBackgroundDark: '#1a1a1a'
+      colorFooterTextDark: '#d3d3d3'
+      colorFooterLinksDark: '#ffae00'
+      blogimage: true
+      chapnum: false
+      breadcrumb: true
+      paging: true
+      foldernav: true
+      print: false
+      edit: ''
+      author: ''
+      dateIntro: ''
+      dateFormat: ''
+      footercolumns:
+        - footer1
+        - footer2
+        - footer3
+      footer1: "### About This Website\n\nThis website provides insights, updates, and resources for Typemill, a CMS for creating user manuals and documentation."
+      footer2: "### Useful Links\n\n-  [Home](#)\n-  [Features](#)\n-  [Plugins](#)\n-  [Themes](#)\n-  [Roadmap](#)"
+      footer3: "### Support & Contact\n\n- [Help Center](#)\n- [Community Forum](#)\n- [Contact Us](#)\n- [Follow Us on Twitter](#)\n- [GitHub Repository](#)"
+  compactblue: 
+    name: 'COMPACT BLUE'
+    description: 'A centered and compact layout with a cadetblue background.'
+    settings:
+      containersize: 'mw9 center'
+      rightcolumnsize: mw8
+      logoimg: true
+      logotext: true
+      font: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      fontheadline: 'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif'
+      colorBrand: cadetblue
+      colorBodyBackground: cadetblue
+      colorLeftColumnBackground: '#f5f5f5'
+      colorRightColumnBackground: '#ffffff'
+      colorLeftColumnLinks: '#333333'
+      colorRightColumnLinks: '#007acc'
+      colorLeftColumnHover: '#e0e0e0'
+      colorRightColumnText: '#333333'
+      colorFooterBackground: '#333333'
+      colorFooterText: '#f5f5f5'
+      colorFooterLinks: '#00aced'
+      colorBrandDark: cadetblue
+      colorBodyBackgroundDark: '#1e1e1e'
+      colorLeftColumnBackgroundDark: '#2c2c2c'
+      colorRightColumnBackgroundDark: '#1e1e1e'
+      colorLeftColumnLinksDark: '#ccccc'
+      colorRightColumnTextDark: '#d3d3d3'
+      colorLeftColumnHoverDark: '#444444'
+      colorRightColumnLinksDark: '#4da8da'
+      colorFooterBackgroundDark: '#1a1a1a'
+      colorFooterTextDark: '#d3d3d3'
+      colorFooterLinksDark: '#ffae00'
+      blogimage: true
+      chapnum: false
+      breadcrumb: false
+      paging: false
+      print: false
+      edit: ''
+      author: ''
+      dateIntro: ''
+      dateFormat: ''
+      footercolumns:
+          - footer1
+          - footer2
+          - footer3
+      footer1: "### About This Website\n\nThis website provides insights, updates, and resources for Typemill, a CMS for creating user manuals and documentation."
+      footer2: "### Useful Links\n\n-  [Home](#)\n-  [Features](#)\n-  [Plugins](#)\n-  [Themes](#)\n-  [Roadmap](#)"
+      footer3: "### Support & Contact\n\n- [Help Center](#)\n- [Community Forum](#)\n- [Contact Us](#)\n- [Follow Us on Twitter](#)\n- [GitHub Repository](#)"
+
+forms:
+  fields:
+
+    fieldsetlayout:
+      type: fieldset
+      legend: 'Layout'
+      fields:
+        containersize:
+          type: radio
+          label: 'Size of website layout'
+          css: 'lg:w-full'
+          options:
+            'w-full': 'full size'
+            'mw10 center': 'centered wide (116rem)'
+            'mw9 center': 'centered narrow (96rem)'
+        rightcolumnsize:
+          type: radio
+          label: 'Size of right content column'
+          css: 'lg:w-full'
+          options:
+            'mw9': 'centered wide (96rem)'
+            'mw8': 'centered narrow (64rem)'
+
+    fieldsetLogo:
+      type: fieldset
+      legend: 'Logo'
+      fields:
+        logoimg:
+          type: checkbox
+          label: 'Show Image Logo'
+          checkboxlabel: 'Show the image logo from the media tab in the system settings.'
+          css: 'lg:w-full'
+        logotext:
+          type: checkbox
+          label: 'Show Text Logo'
+          checkboxlabel: 'Show the website title as logo from the system settings.'
+          css: 'lg:w-full'
+
+    fieldsetheadernav:
+      type: fieldset
+      legend: 'Header Navigation'
+      fields:
+        headernav:
+          type: checkbox
+          label: 'Header Navigation'
+          checkboxlabel: 'Add a header navigation at the top of the right column with individual links.'
+          css: 'lg:w-full'
+        headernavitems:
+          type: customfields
+          label: 'Add links with label and url'
+          description: 'Please insert link-labels in the left field (keys) and urls in the right field (values).'
+          keypattern: '[a-zA-Z0-9_ -]+'
+
+    fieldsetsidenav:
+      type: fieldset
+      legend: 'Side Navigation'
+      fields:
+        leftcolumnheight:
+          type: checkbox
+          label: 'Navigation Full Height'
+          checkboxlabel: 'Enable this option to extend the navigation in the left column to full height and remove its scrollbar.'
+          css: 'lg:w-full'
+        collapseNav:
+          type: checkbox
+          label: 'Collapse navigation'
+          checkboxlabel: 'Add a button to collapse and expand navigation'
+          css: 'lg:w-full'
+        expand:
+          type: text
+          label: 'Label for expand button'
+          placeholder: 'expand navigation'
+          css: 'lg:w-full'
+        collapse:
+          type: text
+          label: 'Label for collapse button'
+          placeholder: 'collapse navigation'
+          css: 'lg:w-full'
+
+    fieldsetFonts:
+      type: fieldset
+      legend: 'Font Families'
+      fields:
+        font:
+          type: select
+          label: 'General font-family'
+          description: 'All fonts are system fonts with fallbacks'
+          options:
+            'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif': 'sans-serif'
+            'georgia,times,serif': 'serif'
+            'courier,sans-serif': 'courier (sans-serif)'
+            'helvetica,sans-serif': 'helvetica (sans-serif)'
+            'avenir,sans-serif': 'avenir (sans-serif)'
+            'athelas,serif': 'athelas (serif)'
+            'georgia,serif': 'georgia (serif)'
+            'times,serif': 'times (serif)'
+            'bodoni,serif': 'bodoni (serif)'
+            'calisto,serif': 'calisto (serif)'
+            'garamond,serif': 'garamond (serif)'
+            'baskerville,serif': 'baskerville (serif)'
+        fontheadline:
+          type: select
+          label: 'Font-family for headlines'
+          options:
+            'BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif': 'sans-serif'
+            'georgia,times,serif': 'serif'
+            'courier,sans-serif': 'courier (sans-serif)'
+            'helvetica,sans-serif': 'helvetica (sans-serif)'
+            'avenir,sans-serif': 'avenir (sans-serif)'
+            'athelas,serif': 'athelas (serif)'
+            'georgia,serif': 'georgia (serif)'
+            'times,serif': 'times (serif)'
+            'bodoni,serif': 'bodoni (serif)'
+            'calisto,serif': 'calisto (serif)'
+            'garamond,serif': 'garamond (serif)'
+            'baskerville,serif': 'baskerville (serif)'
+
+    fieldsetColors:
+      type: fieldset
+      legend: 'Colors (Light Mode)'
+      fields:
+        colorNoticeGrayscale:
+          type: checkbox
+          label: 'Grayscale for notices'
+          checkboxlabel: 'Use grayscale colors for notices 1-3'
+          css: 'lg:w-full'
+       
+        colorBrand:
+          type: text
+          label: 'BRAND COLOR'
+          placeholder: 'lightseagreen'
+          css: 'lg:w-full'
+
+        colorBodyBackground:
+          type: text
+          label: 'BODY: background color (only visibly for centered layouts)'
+          placeholder: '#ffffff'
+          css: 'lg:w-full'
+
+        colorLeftColumnBackground:
+          type: text
+          label: 'LEFT COLUMN: background color'
+          placeholder: '#f5f5f5'
+          css: 'lg:w-half'
+        colorRightColumnBackground:
+          type: text
+          label: 'RIGHT COLUMN: background color'
+          placeholder: '#ffffff'
+          css: 'lg:w-half'
+
+        colorLeftColumnLinks:
+          type: text
+          label: 'LEFT COLUMN: link color'
+          placeholder: '#333333'
+          css: 'lg:w-half'
+        colorRightColumnLinks:
+          type: text
+          label: 'RIGHT COLUMN: link color'
+          placeholder: '#007acc'
+          css: 'lg:w-half'
+
+        colorLeftColumnHover:
+          type: text
+          label: 'LEFT COLUMN: hover background color'
+          placeholder: '#e0e0e0'
+          css: 'lg:w-half'
+        colorRightColumnText:
+          type: text
+          label: 'RIGHT COLUMN: text color'
+          placeholder: '#333333'
+          css: 'lg:w-half'
+
+        colorFooterBackground:
+          type: text
+          label: 'FOOTER: background color'
+          placeholder: '#333333'
+          css: 'lg:w-full'
+        colorFooterText:
+          type: text
+          label: 'FOOTER: text color'
+          placeholder: '#f5f5f5'
+          css: 'lg:w-full'
+        colorFooterLinks:
+          type: text
+          label: 'FOOTER: link color'
+          placeholder: '#00aced'
+          css: 'lg:w-full'
+
+    fieldsetColorsDark:
+      type: fieldset
+      legend: 'Colors (Dark Mode)'
+      fields:
+        colorBrandDark:
+          type: text
+          label: 'BRAND COLOR'
+          placeholder: 'darkseagreen'
+          css: 'lg:w-full'
+
+        colorBodyBackgroundDark:
+          type: text
+          label: 'BODY: background color (only visibly for centered layouts)'
+          placeholder: '#1e1e1e'
+          css: 'lg:w-full'
+
+        colorLeftColumnBackgroundDark:
+          type: text
+          label: 'LEFT COLUMN: background color'
+          placeholder: '#2c2c2c'
+          css: 'lg:w-half'
+        colorRightColumnBackgroundDark:
+          type: text
+          label: 'RIGHT COLUMN: background color'
+          placeholder: '#1e1e1e'
+          css: 'lg:w-half'
+
+        colorLeftColumnLinksDark:
+          type: text
+          label: 'LEFT COLUMN: link color'
+          placeholder: '#cccccc'
+          css: 'lg:w-half'
+        colorRightColumnTextDark:
+          type: text
+          label: 'RIGHT COLUMN: text color'
+          placeholder: '#d3d3d3'
+          css: 'lg:w-half'
+
+        colorLeftColumnHoverDark:
+          type: text
+          label: 'LEFT COLUMN: hover background color'
+          placeholder: '#444444'
+          css: 'lg:w-half'
+        colorRightColumnLinksDark:
+          type: text
+          label: 'RIGHT COLUMN: link color'
+          placeholder: '#4da8da'
+          css: 'lg:w-half'
+
+        colorFooterBackgroundDark:
+          type: text
+          label: 'FOOTER: background color'
+          placeholder: '#1a1a1a'
+          css: 'lg:w-full'
+        colorFooterTextDark:
+          type: text
+          label: 'FOOTER: text color'
+          placeholder: '#d3d3d3'
+          css: 'lg:w-full'
+        colorFooterLinksDark:
+          type: text
+          label: 'FOOTER: link color'
+          placeholder: '#00acee'
+          css: 'lg:w-full'
+
+    fieldsetToolbar:
+      type: fieldset
+      legend: 'Toolbar'
+      fields:
+        defaultmode:
+          type: radio
+          label: 'Default mode'
+          options:
+            'lightmode': 'Light mode'
+            'darkmode': 'dark mode'
+        print:
+          type: checkbox
+          label: 'Print Icon'
+          checkboxlabel: 'Add a print icon.'
+        editorlink:
+          type: checkbox
+          label: 'Editor Icon'
+          checkboxlabel: 'Add a an icon for authors to switch to the editor.'
+          description: 'IMPORTANT: You have to activate the page restrictions in > system > access to make this work.'
+
+    fieldsetContent:
+      type: fieldset
+      legend: 'Content'
+      fields:
+        blogimage:
+          type: checkbox
+          label: 'Hero Images'
+          checkboxlabel: 'Show hero images in lists of posts or news'        
+        chapnum:
+          type: checkbox
+          label: 'Navigation Chapter Numbers'
+          checkboxlabel: 'Show chapter numbers in navigation'
+        breadcrumb:
+          type: checkbox
+          label: 'Breadcrumb'
+          checkboxlabel: 'Add a breadcrumb above the content'
+        paging:
+          type: checkbox
+          label: 'Paging'
+          checkboxlabel: 'Add previous/next-links below the content'
+        homenav:
+          type: checkbox
+          label: 'Home Navigation'
+          checkboxlabel: 'Below the content on the home page add a link-tree with subpages and subfolders.'
+        foldernav:
+          type: checkbox
+          label: 'Folder Navigation'
+          checkboxlabel: 'Below the content in folders add a link-tree with subpages and subfolders.'
+        readmore:
+          type: text
+          label: 'Text for read more'
+          placeholder: 'read more'
+          description: 'Text for read more above the folder navigation'
+        author:
+          type: text
+          label: 'Author line'
+          placeholder: 'Author: '
+          description: 'Add intro text for an author line below the headline. Leave blank to skip it.'
+        dateIntro:
+          type: text
+          label: 'Date line'
+          placeholder: 'Last Updated: '
+          description: 'Add intro text for a date line below the headline. Leave blank to skip it.'
+        dateFormat:
+          type: select
+          label: Date format
+          css: 'lg:w-full'
+          options:
+            'm/d/Y': 01/20/2020
+            'd.m.Y': 20.01.2020
+
+    fieldsetGit:
+      type: fieldset
+      legend: 'Edit on Git'
+      fields:
+        edit:
+          type: text
+          label: 'Link to Git Repository'
+          placeholder: 'https://github.com/typemill/documentation'
+          description: 'Add the base url to the content repository (e.g. github).'
+        editlabel:
+          type: text
+          label: 'Link label'
+          placeholder: 'Edit on GitHub'
+        editintro:
+          type: textarea
+          label: 'Intro text (markdown)'
+          placeholder: "## Improve on GitHub\n\nHelp us to improve this page and edit it on GitHub."
+          description: 'Text in box above the link-button'
+
+    fieldsetfooter:
+      type: fieldset
+      legend: 'Footer'
+      fields:
+        footercolumns:
+          type: checkboxlist
+          label: 'Activate footer columns'
+          options:
+            footer1: 'Column 1'
+            footer2: 'Column 2'
+            footer3: 'Column 3'
+        footer1:
+          type: textarea
+          label: 'footer column 1 (use markdown)'
+        footer2:
+          type: textarea
+          label: 'footer column 2 (use markdown)'
+        footer3:
+          type: textarea
+          label: 'footer column 3 (use markdown)'
+        copyrightline:
+          type: checkbox
+          checkboxlabel: 'Overwrite the copyright line'
+        copyrightlinetext:
+          type: textarea
+          label: 'Overwrite Copyright Line (use markdown)'
+          description: 'If you overwrite the copyright line with the link to Typemill, then please support Typemill with a recommendtion, mention or link.'
+
+metatabs:
+  meta:
+    fields:
+      fieldsetfolder:
+        fields:
+          glossary:
+            type: checkbox
+            label: 'Glossary List'
+            checkboxlabel: 'List pages or posts of this folder as glossary (only for folders)'

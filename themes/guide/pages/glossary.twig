@@ -1,0 +1,29 @@
+<div class="content w-100 w-70-l center pv3 ph4-l pt0-l lh-copy f5 fw3">
+
+	<h1>{{ title|e }}</h1>
+			
+	{{ content }}
+
+	{% macro loop_over(navigation) %}
+
+	    {% import _self as macros %}
+	    {% set alphabet = 'ß' %}
+
+	    {% for element in navigation|sort((a, b) => a.name <=> b.name) %}
+	        {% if element.name|first|upper != alphabet %}
+	            {% set alphabet = element.name|first|upper %}
+	            <h2>{{ alphabet }}</h2>
+	        {% endif %}
+			<li class="w-100 pa3 pa0-l">
+				<a class="link relative dib w-100" href="{{ element.urlAbs }}">{{ element.name|e }}</a>
+	        </li>
+	    {% endfor %}
+	{% endmacro %}
+
+	{% import _self as macros %}
+
+	<ul class="list pa0 flex-m flex-l flex-wrap tl justify-between">
+	    {{ macros.loop_over(item.folderContent) }}
+	</ul>
+	
+</div>

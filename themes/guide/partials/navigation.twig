@@ -1,0 +1,47 @@
+{% macro loop_over(navigation,chapnum) %}
+
+    {% import _self as macros %}
+
+    {% for element in navigation %}
+
+		{% set depth = element.keyPathArray|length %}
+
+        {% if element.activeParent %}
+			<li class="margin-bottom-1 {{ element.elementType }} level-{{ depth }} no-transition activeParent" data-id="{{ element.urlRelWoF }}">
+		{% elseif element.active %}
+			<li class="margin-bottom-1 {{ element.elementType }} level-{{ depth }} no-transition active" data-id="{{ element.urlRelWoF }}">
+		{% else %}
+			<li class="margin-bottom-1 {{ element.elementType }} level-{{ depth }} no-transition" data-id="{{ element.urlRelWoF }}">
+		{% endif %}
+        
+			{% if (element.elementType == 'folder') and (element.folderContent|length > 0) and (element.contains == 'pages') %}	
+				<div class="folder-header flex justify-between">
+					<a class="link dib w-100 relative fw7 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2{% if element.active %} b--yellow{% else %} b--transparent{% endif %}" href="{{ element.urlAbs }}">{% if chapnum %}{{ element.chapter }}. {% endif %}{{ element.name|e }}</a>
+					<div class="folder-toggle arrow-left w2"></div>
+				</div>
+                <ul class="list pa0">
+                    {{ macros.loop_over(element.folderContent, chapnum) }}
+                </ul>
+        	{% elseif (element.elementType == 'folder') %}
+				<a class="link dib w-100 relative fw7 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2 b--transparent" href="{{ element.urlAbs }}">{% if chapnum %}{{ element.chapter }}. {% endif %}{{ element.name|e }}</a>
+        	{% else %}
+				<a class="link dib w-100 relative fw3 pv2 pr2 indent-l-{{depth}} margin-bottom-1 bl bw2 b--transparent" href="{{ element.urlAbs }}">{% if chapnum %}{{ element.chapter }} {% endif %}{{ element.name|e }}</a>
+        	{% endif %}
+      	</li>
+    {% endfor %}
+{% endmacro %}
+
+{% import _self as macros %}
+
+{% if theme.collapseNav %}
+    <button 
+    	id = "expander" 
+    	data-expandlabel = "{{ theme.expand|default('expand navigation')|e }}" 
+    	data-collapselabel = "{{ theme.collapse|default('collapse navigation')|e }}" 
+    	class = "expandButton dim dn db-l link pointer w-100 ba pa2 mb3 f6"
+    	>{{ theme.expand|default('expand navigation')|e }}</button>
+{% endif %}
+
+<ul class="cy-nav mainnavigation list pa0 menu f5">
+    {{ macros.loop_over(navigation, settings.themes.guide.chapnum ) }}
+</ul>
