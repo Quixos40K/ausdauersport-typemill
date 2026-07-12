@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - main
+      - master # Wir fangen jetzt beide Namen ab!
     paths:
-      - 'content/**/*.md' # Reagiert nur, wenn sich Markdown-Dateien ändern
+      - 'content/**/*.md'
+  workflow_dispatch: # 👈 Das ist der magische Play-Button für manuelle Starts!
 
 jobs:
+
   update-quellen:
     runs-on: ubuntu-latest
     permissions:
