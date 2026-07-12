@@ -183,40 +183,33 @@ Ein häufiger Fehler ist die Annahme, mehr Training sei automatisch besser für 
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.
+### Quelle 1
 
-Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
+Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
 
-<a id="quelle-2"></a>
-### Quelle 2: Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity?
+### Quelle 2
 
-Duggal, N. A., Niemiro, G., Harridge, S. D. R., Simpson, R. J., & Lord, J. M. (2019). [Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity?](https://www.nature.com/articles/s41577-019-0177-9), Nature Reviews Immunology, 19, 563–572.
+Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity? Duggal, N. A., Niemiro, G., Harridge, S. D. R., Simpson, R. J., & Lord, J. M. (2019). [Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity?](https://www.nature.com/articles/s41577-019-0177-9), Nature Reviews Immunology, 19, 563–572.
 
-<a id="quelle-3"></a>
-### Quelle 3: Is immunosenescence influenced by our lifetime “dose” of exercise?
+### Quelle 3
 
-Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
+Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
 
-<a id="quelle-4"></a>
-### Quelle 4: The compelling link between physical activity and the body's defense system.
+### Quelle 4
 
-Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-5"></a>
-### Quelle 5: Exercise immunology: Future directions.
+### Quelle 5
 
-Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445.
+Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445.
 
-<a id="quelle-6"></a>
-### Quelle 6: Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.
+### Quelle 6
 
-Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
+Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
-<a id="quelle-7"></a>
-### Quelle 7: Inflammaging: a new immune–metabolic viewpoint for age-related diseases.
+### Quelle 7
 
-Franceschi, C., Garagnani, P., Parini, P., Giuliani, C., & Santoro, A. (2018). [Inflammaging: a new immune–metabolic viewpoint for age-related diseases.](https://www.nature.com/articles/s41574-018-0059-4), Nature Reviews Endocrinology, 14, 576–590.
+Inflammaging: a new immune–metabolic viewpoint for age-related diseases. Franceschi, C., Garagnani, P., Parini, P., Giuliani, C., & Santoro, A. (2018). [Inflammaging: a new immune–metabolic viewpoint for age-related diseases.](https://www.nature.com/articles/s41574-018-0059-4), Nature Reviews Endocrinology, 14, 576–590.
 
 ----
 
