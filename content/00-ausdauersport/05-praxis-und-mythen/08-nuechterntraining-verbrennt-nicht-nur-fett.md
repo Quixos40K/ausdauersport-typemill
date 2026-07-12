@@ -137,24 +137,24 @@ Nach der Einheit sollte die Energiezufuhr nicht unnötig verzögert werden. Kohl
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Aird, T. P., Davies, R. W., & Carson, B. P. (2018). Effects of fasted versus fed-state exercise on performance and post-exercise metabolism: a systematic review and meta-analysis. *Scandinavian Journal of Medicine & Science in Sports*.
+### Quelle 1
+Aird, T. P., Davies, R. W., & Carson, B. P. (2018). Effects of fasted versus fed-state exercise on performance and post-exercise metabolism: a systematic review and meta-analysis. *Scandinavian Journal of Medicine & Science in Sports*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/29315892/
 
-<a id="quelle-2"></a>
-### Quelle 2: Impey, S. G., Hearris, M. A., Hammond, K. M., et al. (2018). Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48, 1035–1048.
+### Quelle 2
+Impey, S. G., Hearris, M. A., Hammond, K. M., et al. (2018). Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48, 1035–1048.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/29453741/
 
-<a id="quelle-3"></a>
-### Quelle 3: Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
+### Quelle 3
+Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/32747792/
 
-<a id="quelle-4"></a>
-### Quelle 4: Burke, L. M., Hawley, J. A., Wong, S. H. S., & Jeukendrup, A. E. (2011). Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(Suppl 1), S17–S27.
+### Quelle 4
+Burke, L. M., Hawley, J. A., Wong, S. H. S., & Jeukendrup, A. E. (2011). Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(Suppl 1), S17–S27.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/21660838/
 
-<a id="quelle-5"></a>
-### Quelle 5: Gejl, K. D., Thams, L., Hansen, M., et al. (2017). No superior adaptations to carbohydrate periodization in elite endurance athletes. *Medicine & Science in Sports & Exercise*.
+### Quelle 5
+Gejl, K. D., Thams, L., Hansen, M., et al. (2017). No superior adaptations to carbohydrate periodization in elite endurance athletes. *Medicine & Science in Sports & Exercise*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/28406835/
 
 ----
