@@ -2,17 +2,43 @@ import os
 import glob
 import re
 
-# Er durchsucht weiterhin alles im Ordner "content" ...
 CONTENT_DIR = "content"
-# ... aber er speichert die fertige Datei jetzt exakt hier:
 OUTPUT_FILE = "content/00-ausdauersport/99-quellenverzeichnis.md"
+
+def absolute_cleaner(text):
+    # 1. HTML-Tags entfernen
+    text = re.sub(r'<[^>]+>', '', text)
+    
+    # 2. Die brutale Schleife für den Anfang des Textes
+    while True:
+        original = text
+        text = text.strip()
+        
+        # Entfernt alle Markdown-Sonderzeichen am Anfang (#, *, -, >)
+        text = re.sub(r'^[\#\*\-\>\s]+', '', text)
+        
+        # Entfernt das Wort "Quelle" mit eventuellen Zahlen und Sonderzeichen (z.B. "Quelle 1:", "Quelle 1 -")
+        text = re.sub(r'^Quelle\s*\d*\s*[:\-–]?\s*', '', text, flags=re.IGNORECASE)
+        
+        # Entfernt eckige oder runde Klammern mit Zahlen am Anfang (z.B. "[9]", "(12)")
+        text = re.sub(r'^[\(\[]\s*\d+\s*[\)\]]\s*[:\-–]?\s*', '', text)
+        
+        # Entfernt nackte Zahlen mit Punkt oder Bindestrich am Anfang (z.B. "1. ", "9 - ")
+        text = re.sub(r'^\d+\s*[\.\-–\:]\s+', '', text)
+        
+        # Wenn die Schleife nichts mehr findet, brich ab
+        if text == original:
+            break
+            
+    return text.strip()
 
 def extract_sources():
     all_sources = set()
     md_files = glob.glob(f"{CONTENT_DIR}/**/*.md", recursive=True)
     
     for filepath in md_files:
-        if "99-quellenverzeichnis.md" in filepath or "disclaimer" in filepath.lower() or "externe_quellen" in filepath.lower():
+        # Systemdateien überspringen
+        if "99-quellenverzeichnis" in filepath.lower() or "disclaimer" in filepath.lower() or "externe_quellen" in filepath.lower():
             continue
             
         with open(filepath, 'r', encoding='utf-8') as file:
@@ -24,27 +50,24 @@ def extract_sources():
             if 'Hinweis: Dieser Artikel' in quellen_block:
                 quellen_block = quellen_block.split('Hinweis: Dieser Artikel')[0]
                 
-            lines = quellen_block.split('\n')
-            current_source = ""
+            # Zerteilen in einzelne Absätze
+            blocks = quellen_block.split('\n\n')
             
-            for line in lines:
-                line = line.strip()
-                if line.startswith("Quelle") or line.startswith("### Quelle") or line.startswith("[") or line.startswith("* **"):
-                    if current_source and "http" in current_source:
-                        all_sources.add(current_source.strip())
-                    current_source = line
-                elif line:
-                    current_source += " " + line
-            
-            if current_source and "http" in current_source:
-                all_sources.add(current_source.strip())
+            for block in blocks:
+                # Zeilenumbrüche innerhalb eines Absatzes entfernen
+                block = block.replace('\n', ' ').strip()
+                
+                # Wenn der Block einen Link enthält, jagen wir ihn durch den Cleaner
+                if "http" in block:
+                    cleaned = absolute_cleaner(block)
+                    if cleaned:
+                        all_sources.add(cleaned)
 
     return all_sources
 
 def write_master_file(sources):
+    # Sortiere alphabetisch
     sorted_sources = sorted(list(sources))
-    
-    # Zur Sicherheit: Falls der Ordner mal nicht existiert, legt er ihn an
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
@@ -54,12 +77,10 @@ def write_master_file(sources):
         f.write("---\n\n")
         
         for source in sorted_sources:
-            clean_source = re.sub(r'^###\s*Quelle\s*\d*:\s*', '', source)
-            clean_source = re.sub(r'^Quelle\s*\d*:\s*', '', clean_source)
-            f.write(f"* {clean_source}\n\n")
+            f.write(f"* {source}\n\n")
 
 if __name__ == "__main__":
-    print("Starte Quellen-Extraktion...")
+    print("Starte die finale Quellen-Reinigung...")
     extracted = extract_sources()
     write_master_file(extracted)
-    print(f"Erfolgreich {len(extracted)} Quellen extrahiert und in {OUTPUT_FILE} gespeichert.")
+    print(f"Erfolgreich {len(extracted)} makellose Quellen extrahiert.")
