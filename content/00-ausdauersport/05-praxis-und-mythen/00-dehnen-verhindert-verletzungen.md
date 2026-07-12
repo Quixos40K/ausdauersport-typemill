@@ -170,30 +170,36 @@ Dehnen kann besonders relevant sein, wenn Beweglichkeit tatsächlich eingeschrä
 ## Quellen
 
 ### Quelle 1
+
 Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials. *British Journal of Sports Medicine*, 48(11), 871–877.
 Quelle: https://bjsm.bmj.com/content/48/11/871
 
 ### Quelle 2
+
 Yeung, S. S., Yeung, E. W., & Gillespie, L. D. (2011). Interventions for preventing lower limb soft-tissue running injuries. *Cochrane Database of Systematic Reviews*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/21735382/
 
 
 ### Quelle 3
+
 Behm, D. G., Blazevich, A. J., Kay, A. D., & McHugh, M. (2016). Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals: a systematic review. *Applied Physiology, Nutrition, and Metabolism*, 41(1), 1–11.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/26642915/
 
 
 ### Quelle 4
+
 Pope, R. P., Herbert, R. D., Kirwan, J. D., & Graham, B. J. (2000). A randomized trial of preexercise stretching for prevention of lower-limb injury. *Medicine & Science in Sports & Exercise*, 32(2), 271–277.
 Quelle: https://europepmc.org/article/MED/10694106
 
 
 ### Quelle 5
+
 Soligard, T., Schwellnus, M., Alonso, J. M., et al. (2016). How much is too much? International Olympic Committee consensus statement on load in sport and risk of injury. *British Journal of Sports Medicine*, 50(17), 1030–1041.
 Quelle: https://bjsm.bmj.com/content/50/17/1030
 
 
 ### Quelle 6
+
 Eihara, Y., Takao, K., Sugiyama, T., et al. (2024). Effect of strength training programs in middle- and long-distance runners: a systematic review and meta-analysis. *Sports Medicine*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/38165636/
 
