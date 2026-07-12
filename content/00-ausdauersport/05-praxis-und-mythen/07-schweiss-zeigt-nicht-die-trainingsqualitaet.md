@@ -139,24 +139,24 @@ Besser sind Zielerreichung, passende Intensität, stabile Technik, subjektives B
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Sawka, M. N., Burke, L. M., Eichner, E. R., et al. (2007). American College of Sports Medicine position stand: exercise and fluid replacement. *Medicine & Science in Sports & Exercise*, 39(2), 377–390.
+### Quelle 1
+Sawka, M. N., Burke, L. M., Eichner, E. R., et al. (2007). American College of Sports Medicine position stand: exercise and fluid replacement. *Medicine & Science in Sports & Exercise*, 39(2), 377–390.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/17277604/
 
-<a id="quelle-2"></a>
-### Quelle 2: Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/interindividual variability. *Sports Medicine*, 47(Suppl 1), 111–128.
+### Quelle 2
+Baker, L. B. (2017). Sweating rate and sweat sodium concentration in athletes: a review of methodology and intra/interindividual variability. *Sports Medicine*, 47(Suppl 1), 111–128.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/28585707/
 
-<a id="quelle-3"></a>
-### Quelle 3: Périard, J. D., Racinais, S., & Sawka, M. N. (2015). Adaptations and mechanisms of human heat acclimation: applications for competitive athletes and sports. *Scandinavian Journal of Medicine & Science in Sports*.
+### Quelle 3
+Périard, J. D., Racinais, S., & Sawka, M. N. (2015). Adaptations and mechanisms of human heat acclimation: applications for competitive athletes and sports. *Scandinavian Journal of Medicine & Science in Sports*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/25943654/
 
-<a id="quelle-4"></a>
-### Quelle 4: Bergeron, M. F., Bahr, R., Bärtsch, P., et al. (2012). International Olympic Committee consensus statement on thermoregulatory and altitude challenges for high-level athletes. *British Journal of Sports Medicine*.
+### Quelle 4
+Bergeron, M. F., Bahr, R., Bärtsch, P., et al. (2012). International Olympic Committee consensus statement on thermoregulatory and altitude challenges for high-level athletes. *British Journal of Sports Medicine*.
 Quelle: https://bjsm.bmj.com/content/46/11/770
 
-<a id="quelle-5"></a>
-### Quelle 5: Maughan, R. J., Shirreffs, S. M., & Watson, P. (2007). Exercise, heat, hydration and the brain. *Journal of the American College of Nutrition*.
+### Quelle 5
+Maughan, R. J., Shirreffs, S. M., & Watson, P. (2007). Exercise, heat, hydration and the brain. *Journal of the American College of Nutrition*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/17921463/
 
 ----
