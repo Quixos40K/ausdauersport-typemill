@@ -1,6 +1,6 @@
 # Dehnen verhindert Verletzungen
 
-Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
+Dehnen  verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)
 
 ## Was mit Dehnen gemeint ist
 
