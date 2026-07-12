@@ -137,24 +137,24 @@ Wenn Krankheitsgefühl, Halsschmerzen, Fieber, ungewöhnliche Müdigkeit, deutli
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Campbell, J. P., & Turner, J. E. (2018). Debunking the myth of exercise-induced immune suppression: redefining the impact of exercise on immunological health across the lifespan. *Frontiers in Immunology*, 9, 648.
+### Quelle 1
+Campbell, J. P., & Turner, J. E. (2018). Debunking the myth of exercise-induced immune suppression: redefining the impact of exercise on immunological health across the lifespan. *Frontiers in Immunology*, 9, 648.
 Quelle: https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/
 
-<a id="quelle-2"></a>
-### Quelle 2: Nieman, D. C., & Wentz, L. M. (2019). The compelling link between physical activity and the body's defense system. *Journal of Sport and Health Science*, 8(3), 201–217.
+### Quelle 2
+Nieman, D. C., & Wentz, L. M. (2019). The compelling link between physical activity and the body's defense system. *Journal of Sport and Health Science*, 8(3), 201–217.
 Quelle: https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/
 
-<a id="quelle-3"></a>
-### Quelle 3: Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). Recovery of the immune system after exercise. *Journal of Applied Physiology*, 122(5), 1077–1087.
+### Quelle 3
+Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). Recovery of the immune system after exercise. *Journal of Applied Physiology*, 122(5), 1077–1087.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/27909225/
 
-<a id="quelle-4"></a>
-### Quelle 4: Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). Position statement. Part one: immune function and exercise. *Exercise Immunology Review*, 17, 6–63.
+### Quelle 4
+Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). Position statement. Part one: immune function and exercise. *Exercise Immunology Review*, 17, 6–63.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/21446352/
 
-<a id="quelle-5"></a>
-### Quelle 5: Gleeson, M. (2007). Immune function in sport and exercise. *Journal of Applied Physiology*, 103(2), 693–699.
+### Quelle 5
+Gleeson, M. (2007). Immune function in sport and exercise. *Journal of Applied Physiology*, 103(2), 693–699.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/17303714/
 
 ----
