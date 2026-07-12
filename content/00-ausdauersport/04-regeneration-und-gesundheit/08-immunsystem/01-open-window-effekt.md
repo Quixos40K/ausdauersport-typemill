@@ -143,45 +143,37 @@ Nein. Hartes Training kann sinnvoll sein, wenn es richtig dosiert und gut eingeb
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.
+### Quelle 1
 
-Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
+Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
-<a id="quelle-2"></a>
-### Quelle 2: The compelling link between physical activity and the body's defense system.
+### Quelle 2
 
-Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-3"></a>
-### Quelle 3: Recovery of the immune system after exercise.
+### Quelle 3
 
-Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
 
-<a id="quelle-4"></a>
-### Quelle 4: Position statement. Part one: Immune function and exercise.
+### Quelle 4
 
-Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63.
+Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63.
 
-<a id="quelle-5"></a>
-### Quelle 5: Position statement. Part two: Maintaining immune health.
+### Quelle 5
 
-Walsh, N. P., Gleeson, M., Pyne, D. B., et al. (2011). [Position statement. Part two: Maintaining immune health.](https://europepmc.org/abstract/MED/21446353), Exercise Immunology Review, 17, 64–103.
+Position statement. Part two: Maintaining immune health. Walsh, N. P., Gleeson, M., Pyne, D. B., et al. (2011). [Position statement. Part two: Maintaining immune health.](https://europepmc.org/abstract/MED/21446353), Exercise Immunology Review, 17, 64–103.
 
-<a id="quelle-6"></a>
-### Quelle 6: Exercise, upper respiratory tract infection, and the immune system.
+### Quelle 6
 
-Nieman, D. C. (1994). [Exercise, upper respiratory tract infection, and the immune system.](https://europepmc.org/abstract/MED/8164529), Medicine & Science in Sports & Exercise, 26(2), 128–139.
+Exercise, upper respiratory tract infection, and the immune system. Nieman, D. C. (1994). [Exercise, upper respiratory tract infection, and the immune system.](https://europepmc.org/abstract/MED/8164529), Medicine & Science in Sports & Exercise, 26(2), 128–139.
 
-<a id="quelle-7"></a>
-### Quelle 7: Nutrition for endurance sports: marathon, triathlon, and road cycling.
+### Quelle 7
 
-Jeukendrup, A. E. (2011). [Nutrition for endurance sports: marathon, triathlon, and road cycling.](https://pubmed.ncbi.nlm.nih.gov/21916794/), Journal of Sports Sciences, 29 Suppl 1, S91–S99.
+Nutrition for endurance sports: marathon, triathlon, and road cycling. Jeukendrup, A. E. (2011). [Nutrition for endurance sports: marathon, triathlon, and road cycling.](https://pubmed.ncbi.nlm.nih.gov/21916794/), Journal of Sports Sciences, 29 Suppl 1, S91–S99.
 
-<a id="quelle-8"></a>
-### Quelle 8: 2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).
+### Quelle 8
 
-Mountjoy, M., Ackerman, K. E., Bailey, D. M., et al. (2023). [2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 57(17), 1073–1097.
+2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs). Mountjoy, M., Ackerman, K. E., Bailey, D. M., et al. (2023). [2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 57(17), 1073–1097.
 
 ----
 
