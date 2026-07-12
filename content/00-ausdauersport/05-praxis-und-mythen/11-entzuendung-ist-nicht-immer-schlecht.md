@@ -134,22 +134,27 @@ Viele bewerten Entzündung entweder immer als schlecht oder ignorieren sie kompl
 ## Quellen
 
 ### Quelle 1
+
 Peake, J. M., Neubauer, O., Della Gatta, P. A., & Nosaka, K. (2017). Muscle damage and inflammation during recovery from exercise. *Journal of Applied Physiology*, 122(3), 559–570.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/28035017/
 
 ### Quelle 2
+
 Tidball, J. G. (2017). Regulation of muscle growth and regeneration by the immune system. *Nature Reviews Immunology*, 17, 165–178.
 Quelle: https://www.nature.com/articles/nri.2016.150
 
 ### Quelle 3
+
 Hyldahl, R. D., & Hubal, M. J. (2014). Lengthening our perspective: morphological, cellular and molecular responses to eccentric exercise. *Muscle & Nerve*, 49(2), 155–170.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/24030987/
 
 ### Quelle 4
+
 Kellmann, M., Bertollo, M., Bosquet, L., et al. (2018). Recovery and performance in sport: consensus statement. *International Journal of Sports Physiology and Performance*, 13(2), 240–245.
 Quelle: https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml
 
 ### Quelle 5
+
 Meeusen, R., Duclos, M., Foster, C., et al. (2013). Prevention, diagnosis, and treatment of the overtraining syndrome. *Medicine & Science in Sports & Exercise*, 45(1), 186–205.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/23247672/
 
