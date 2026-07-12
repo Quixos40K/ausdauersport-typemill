@@ -148,22 +148,28 @@ Viele erwarten von Supplementen eine Abkürzung. Wenn Ernährung, Schlaf, Erholu
 ## Quellen
 
 ### Quelle 1
+
+
 Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the ACSM: nutrition and athletic performance. *Medicine & Science in Sports & Exercise*, 48(3), 543–568.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/26891166/
 
 ### Quelle 2
+
 Maughan, R. J., Burke, L. M., Dvorak, J., et al. (2018). IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439–455.
 Quelle: https://bjsm.bmj.com/content/52/7/439
 
 ### Quelle 3
+
 Australian Institute of Sport. AIS Sports Supplement Framework. ABCD classification system for sports foods and supplements.
 Quelle: https://www.ausport.gov.au/ais/nutrition/supplements
 
 ### Quelle 4
+
 World Anti-Doping Agency. The 2026 Prohibited List: International Standard.
 Quelle: https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/prohibited-list
 
 ### Quelle 5
+
 Jeukendrup, A. E. (2011). Nutrition for endurance sports: marathon, triathlon, and road cycling. *Journal of Sports Sciences*, 29(Suppl 1), S91–S99.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/21660839/
 
