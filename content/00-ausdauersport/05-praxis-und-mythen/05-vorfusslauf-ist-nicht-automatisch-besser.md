@@ -129,24 +129,24 @@ Wichtiger sind Belastungssteuerung, Schrittfrequenz, stabile Hüfte, Rumpfkontro
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Lieberman, D. E., Venkadesan, M., Werbel, W. A., et al. (2010). Foot strike patterns and collision forces in habitually barefoot versus shod runners. *Nature*, 463, 531–535.
+### Quelle 1
+Lieberman, D. E., Venkadesan, M., Werbel, W. A., et al. (2010). Foot strike patterns and collision forces in habitually barefoot versus shod runners. *Nature*, 463, 531–535.
 Quelle: https://www.nature.com/articles/nature08723
 
-<a id="quelle-2"></a>
-### Quelle 2: Daoud, A. I., Geissler, G. J., Wang, F., et al. (2012). Foot strike and injury rates in endurance runners: a retrospective study. *Medicine & Science in Sports & Exercise*, 44(7), 1325–1334.
+### Quelle 2
+Daoud, A. I., Geissler, G. J., Wang, F., et al. (2012). Foot strike and injury rates in endurance runners: a retrospective study. *Medicine & Science in Sports & Exercise*, 44(7), 1325–1334.
 Quelle: https://journals.lww.com/acsm-msse/fulltext/2012/07000/foot_strike_and_injury_rates_in_endurance_runners.5.aspx
 
-<a id="quelle-3"></a>
-### Quelle 3: Xu, Y., Yuan, P., Wang, R., et al. (2024). Biomechanical differences between habitual forefoot and rearfoot strike runners: a systematic review. *Sports Medicine and Health Science*.
+### Quelle 3
+Xu, Y., Yuan, P., Wang, R., et al. (2024). Biomechanical differences between habitual forefoot and rearfoot strike runners: a systematic review. *Sports Medicine and Health Science*.
 Quelle: https://www.sciencedirect.com/science/article/pii/S2950273X24000729
 
-<a id="quelle-4"></a>
-### Quelle 4: Gruber, A. H., Umberger, B. R., Braun, B., & Hamill, J. (2013). Economy and rate of carbohydrate oxidation during running with rearfoot and forefoot strike patterns. *Journal of Applied Physiology*.
+### Quelle 4
+Gruber, A. H., Umberger, B. R., Braun, B., & Hamill, J. (2013). Economy and rate of carbohydrate oxidation during running with rearfoot and forefoot strike patterns. *Journal of Applied Physiology*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/24021509/
 
-<a id="quelle-5"></a>
-### Quelle 5: Anderson, L. M., Bonanno, D. R., Hart, H. F., & Barton, C. J. (2020). What are the benefits and risks associated with changing foot strike pattern during running? A systematic review and meta-analysis. *Sports Medicine*.
+### Quelle 5
+Anderson, L. M., Bonanno, D. R., Hart, H. F., & Barton, C. J. (2020). What are the benefits and risks associated with changing foot strike pattern during running? A systematic review and meta-analysis. *Sports Medicine*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/32157424/
 
 ----
