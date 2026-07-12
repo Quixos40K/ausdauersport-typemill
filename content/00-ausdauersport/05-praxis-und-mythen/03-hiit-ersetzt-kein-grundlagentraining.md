@@ -134,26 +134,32 @@ Meist ist eine Mischung sinnvoll: viele kontrollierte lockere Einheiten, einzeln
 ## Quellen
 
 ### Quelle 1
+
 Laursen, P. B., & Jenkins, D. G. (2002). The scientific basis for high-intensity interval training. *Sports Medicine*, 32, 53–73.
 Quelle: https://link.springer.com/article/10.2165/00007256-200232010-00003
 
 ### Quelle 2
+
 Buchheit, M., & Laursen, P. B. (2013). High-intensity interval training, solutions to the programming puzzle. Part I: cardiopulmonary emphasis. *Sports Medicine*, 43, 313–338.
 Quelle: https://link.springer.com/article/10.1007/s40279-013-0029-x
 
 ### Quelle 3
+
 Buchheit, M., & Laursen, P. B. (2013). High-intensity interval training, solutions to the programming puzzle. Part II: anaerobic energy, neuromuscular load and practical applications. *Sports Medicine*, 43, 927–954.
 Quelle: https://link.springer.com/article/10.1007/s40279-013-0066-5
 
 ### Quelle 4
+
 Milanović, Z., Sporiš, G., & Weston, M. (2015). Effectiveness of high-intensity interval training for improving VO2max: a systematic review and meta-analysis. *Sports Medicine*, 45, 1469–1481.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/26243014/
 
 ### Quelle 5
+
 Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276–291.
 Quelle: https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml
 
 ### Quelle 6
+
 Bourdon, P. C., Cardinale, M., Murray, A., et al. (2017). Monitoring athlete training loads: consensus statement. *International Journal of Sports Physiology and Performance*, 12(Suppl 2), S2-161–S2-170.
 Quelle: https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml
 
