@@ -141,9 +141,7 @@ Vorsicht ist sinnvoll bei Fieber, starkem Krankheitsgefühl, ungewöhnlicher Ers
 
 ----
 
-----
-
-## Quellen
+*## Quellen
 
 ### Quelle 1
 The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
@@ -152,17 +150,11 @@ The compelling link between physical activity and the body's defense system. Nie
 Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
 ### Quelle 3
-
-Exercise and the Regulation of Immune Functions.
-
-Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380.
+Exercise and the Regulation of Immune Functions. Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380.
 
 
 ### Quelle 4
-
-Recovery of the immune system after exercise.
-
-Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
 
 ### Quelle 5
 Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63.
@@ -177,10 +169,8 @@ Exercise, upper respiratory tract infection, and the immune system. Nieman, D. C
 ### Quelle 8
 2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs). Mountjoy, M., Ackerman, K. E., Bailey, D. M., et al. (2023). [2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 57(17), 1073–1097.
 
-<a id="quelle-9"></a>
-### Quelle 9: Sleep Hygiene for Optimizing Recovery in Athletes: Review and Recommendations.
-
-Vitale, K. C., Owens, R., Hopkins, S. R., & Malhotra, A. (2019). [Sleep Hygiene for Optimizing Recovery in Athletes: Review and Recommendations.](https://pubmed.ncbi.nlm.nih.gov/31129048/), International Journal of Sports Medicine, 40(8), 535–543.
+### Quelle 9
+Sleep Hygiene for Optimizing Recovery in Athletes: Review and Recommendations. Vitale, K. C., Owens, R., Hopkins, S. R., & Malhotra, A. (2019). [Sleep Hygiene for Optimizing Recovery in Athletes: Review and Recommendations.](https://pubmed.ncbi.nlm.nih.gov/31129048/), International Journal of Sports Medicine, 40(8), 535–543.*
 
 ----
 
