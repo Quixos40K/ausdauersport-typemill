@@ -139,24 +139,25 @@ Ja, gut trainierte Ausdauersportler können Laktat oft effizienter transportiere
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Brooks, G. A. (2018). The science and translation of lactate shuttle theory. *Cell Metabolism*, 27(4), 757–785.
+### Quelle 1
+Brooks, G. A. (2018). The science and translation of lactate shuttle theory. *Cell Metabolism*, 27(4), 757–785.
 Quelle: https://www.sciencedirect.com/science/article/pii/S1550413118301864
 
-<a id="quelle-2"></a>
-### Quelle 2: Gladden, L. B. (2004). Lactate metabolism: a new paradigm for the third millennium. *The Journal of Physiology*, 558(Pt 1), 5–30.
+
+### Quelle 2
+Gladden, L. B. (2004). Lactate metabolism: a new paradigm for the third millennium. *The Journal of Physiology*, 558(Pt 1), 5–30.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/15131240/
 
-<a id="quelle-3"></a>
-### Quelle 3: Faude, O., Kindermann, W., & Meyer, T. (2009). Lactate threshold concepts: how valid are they? *Sports Medicine*, 39(6), 469–490.
+### Quelle 3
+Faude, O., Kindermann, W., & Meyer, T. (2009). Lactate threshold concepts: how valid are they? *Sports Medicine*, 39(6), 469–490.
 Quelle: https://link.springer.com/article/10.2165/00007256-200939060-00003
 
-<a id="quelle-4"></a>
-### Quelle 4: Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
+### Quelle 4
+Hargreaves, M., & Spriet, L. L. (2020). Skeletal muscle energy metabolism during exercise. *Nature Metabolism*, 2, 817–828.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/32747792/
 
-<a id="quelle-5"></a>
-### Quelle 5: Bishop, D. J., Botella, J., Genders, A. J., et al. (2019). High-intensity exercise and mitochondrial biogenesis: current controversies and future research directions. *Physiology*, 34(1), 56–70.
+### Quelle 5
+Bishop, D. J., Botella, J., Genders, A. J., et al. (2019). High-intensity exercise and mitochondrial biogenesis: current controversies and future research directions. *Physiology*, 34(1), 56–70.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/30540233/
 
 ----
