@@ -58,8 +58,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 12 Larson-Meyer, D. E.; Willis, K. S.: [Vitamin D and athletes](https://pubmed.ncbi.nlm.nih.gov/20622540/), Current Sports Medicine Reports, 2010. ---- *
 
-* Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648. <a id="quelle-2"></a>
-
 * Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition. Minuzzi, L. G., Batatinha, H., Weyh, C., et al. (2025). [Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259902/), Scientific Reports, 15, 06057. <a id="quelle-2"></a>
 
 * The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-2"></a>
@@ -100,6 +98,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 2 Philpott, J. D. et al.: [Omega-3 Fatty Acids for Sport Performance—Are They Equally Beneficial for Athletes and Amateurs?](https://www.mdpi.com/2072-6643/12/12/3712), Nutrients, 2020.
 
+* ### Quelle 2 Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+
 * ### Quelle 2 Seiler, S. (2010). What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? International Journal of Sports Physiology and Performance, 5(3), 276–291. [Human Kinetics](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml)
 
 * ### Quelle 2 Stephen Seiler: [What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml), International Journal of Sports Physiology and Performance, 2010.
@@ -115,8 +115,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells. Bigley, A. B., Rezvani, K., Pistillo, M., et al. (2014). [Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells.](https://www.sciencedirect.com/science/article/pii/S0889159113005291), Brain, Behavior, and Immunity, 39, 160–171. <a id="quelle-3"></a>
 
 * Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445. <a id="quelle-3"></a>
-
-* Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087. <a id="quelle-3"></a>
 
 * ### Quelle 3 Bourdon, P. C. et al.: [Monitoring Athlete Training Loads: Consensus Statement](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml), International Journal of Sports Physiology and Performance, 2017.
 
@@ -164,6 +162,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 3 Stephen Seiler, Glenn Øvrevik Kjerland: [Quantifying training intensity distribution in elite endurance athletes: is there evidence for an optimal distribution?](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2004.00418.x), Scandinavian Journal of Medicine & Science in Sports, 2006.
 
+* ### Quelle 3 The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+
 * ### Quelle 3 Wang J, Li N, Li J, et al. Effects of tapering on performance in endurance athletes: A systematic review and meta-analysis. PLOS ONE. 2023;18(5):e0282838. doi: 10.1371/journal.pone.0282838. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282838
 
 * ### Quelle 3 World Anti-Doping Agency: [The 2026 Prohibited List](https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/prohibited-list), WADA, 2026.
@@ -171,8 +171,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * Immunometabolism and natural killer cell responses. O'Sullivan, T. E., Sun, J. C., & Lanier, L. L. (2019). [Immunometabolism and natural killer cell responses.](https://www.nature.com/articles/s41577-019-0139-2), Nature Reviews Immunology, 19, 282–290. <a id="quelle-4"></a>
 
 * Metabolic Instruction of Immunity. Buck, M. D., Sowell, R. T., Kaech, S. M., & Pearce, E. L. (2017). [Metabolic Instruction of Immunity.](https://pubmed.ncbi.nlm.nih.gov/28475890/), Cell, 169(4), 570–586. <a id="quelle-4"></a>
-
-* The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-4"></a>
 
 * ### Quelle 4 ACSM 2011 – Quantity and Quality of Exercise, Flexibilität als Trainingsbestandteil. Garber CE, Blissmer B, Deschenes MR, Franklin BA, Lamonte MJ, Lee IM, Nieman DC, Swain DP. *Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise.* Medicine & Science in Sports & Exercise. 2011;43(7):1334–1359. doi: 10.1249/MSS.0b013e318213fefb. https://academiccommons.columbia.edu/doi/10.7916/D8CR5T2R
 
@@ -187,6 +185,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 4 Cheatham, S. W. et al.: [The effects of self-myofascial release using a foam roll or roller massager on joint range of motion, muscle recovery, and performance](https://pubmed.ncbi.nlm.nih.gov/26618062/), International Journal of Sports Physical Therapy, 2015.
 
 * ### Quelle 4 Dupuy, O. et al.: [An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques](https://pubmed.ncbi.nlm.nih.gov/29755363/), Frontiers in Physiology, 2018.
+
+* ### Quelle 4 Exercise and the Regulation of Immune Functions. Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380.
 
 * ### Quelle 4 Foster, C., Florhaug, J. A., Franklin, J. et al. (2001). A New Approach to Monitoring Exercise Training. Journal of Strength and Conditioning Research, 15(1), 109–115. [BISp-SURF](https://www.bisp-surf.de/Record/PU199912501542)
 
@@ -222,8 +222,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * A guide to immunometabolism for immunologists. O'Neill, L. A. J., Kishton, R. J., & Rathmell, J. (2016). [A guide to immunometabolism for immunologists.](https://www.nature.com/articles/nri.2016.70), Nature Reviews Immunology, 16, 553–565. <a id="quelle-5"></a>
 
-* Exercise and the Regulation of Immune Functions. Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380. <a id="quelle-5"></a>
-
 * What Fuels Natural Killers? Metabolism and NK Cell Responses. Keating, S. E., Zaiatz-Bittencourt, V., Loftus, R. M., et al. (2016). [What Fuels Natural Killers? Metabolism and NK Cell Responses.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5376555/), Frontiers in Immunology, 7, 580. <a id="quelle-5"></a>
 
 * ### Quelle 5 Bourdon PC, Cardinale M, Murray A, et al. Monitoring athlete training loads: consensus statement. International Journal of Sports Physiology and Performance. 2017;12(Suppl 2):S2-161-S2-170. doi: 10.1123/IJSPP.2017-0208. https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml
@@ -243,6 +241,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 5 Hew-Butler, T. et al.: [Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference](https://bjsm.bmj.com/content/49/22/1432), British Journal of Sports Medicine, 2015.
 
 * ### Quelle 5 Impey, S. G. et al.: [Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis](https://link.springer.com/article/10.1007/s40279-018-0867-7), Sports Medicine, 2018.
+
+* ### Quelle 5 Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
 
 * ### Quelle 5 Jäger, R. et al.: [International Society of Sports Nutrition Position Stand: Protein and Exercise](https://pubmed.ncbi.nlm.nih.gov/28642676/), Journal of the International Society of Sports Nutrition, 2017.
 
@@ -272,8 +272,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 5 Walsh, N. P. et al.: [Sleep and the athlete: narrative review and 2021 expert consensus recommendations](https://bjsm.bmj.com/content/55/7/356), British Journal of Sports Medicine, 2021.
 
-* Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602. <a id="quelle-6"></a>
-
 * Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087. <a id="quelle-6"></a>
 
 * The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-6"></a>
@@ -295,6 +293,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 6 Jones, A. M.: [Influence of dietary nitrate on the physiological determinants of exercise performance: a critical review](https://pubmed.ncbi.nlm.nih.gov/26880770/), Applied Physiology, Nutrition, and Metabolism, 2016.
 
 * ### Quelle 6 Kellmann, M. et al.: [Recovery and Performance in Sport: Consensus Statement](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml), International Journal of Sports Physiology and Performance, 2018. ---- *
+
+* ### Quelle 6 Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
 
 * ### Quelle 6 Mann, T., Lamberts, R. P., & Lambert, M. I. (2013). Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations. Sports Medicine, 43, 613–625. [Springer](https://link.springer.com/article/10.1007/s40279-013-0045-x)
 
@@ -330,8 +330,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * Low energy availability increases immune cell formation of reactive oxygen species and systemic inflammation in female endurance athletes. Jeppesen, J. S., Caldwell, H. G., Lossius, L. O., et al. (2024). [Low energy availability increases immune cell formation of reactive oxygen species and impairs exercise performance in female endurance athletes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11260862/), Redox Biology, 75, 103250. <a id="quelle-7"></a>
 
-* Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750. <a id="quelle-7"></a>
-
 * ### Quelle 7 Blagrove, R. C., Howatson, G., & Hayes, P. R. (2018). Effects of Strength Training on the Physiological Determinants of Middle- and Long-Distance Running Performance: A Systematic Review. Sports Medicine, 48, 1117–1149. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29249083/)
 
 * ### Quelle 7 Exercise, upper respiratory tract infection, and the immune system. Nieman, D. C. (1994). [Exercise, upper respiratory tract infection, and the immune system.](https://europepmc.org/abstract/MED/8164529), Medicine & Science in Sports & Exercise, 26(2), 128–139.
@@ -360,6 +358,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 7 Pitre C. Bourdon et al.: [Monitoring Athlete Training Loads: Consensus Statement](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml), International Journal of Sports Physiology and Performance, 2017.
 
+* ### Quelle 7 Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63. ---- *
+
 * ### Quelle 7 Soligard, T. et al.: [How much is too much? International Olympic Committee consensus statement on load in sport and risk of injury](https://bjsm.bmj.com/content/50/17/1030), British Journal of Sports Medicine, 2016. ---- *
 
 * ### Quelle 7 Soligard, T., Schwellnus, M., Alonso, J.-M. et al. (2016). How much is too much? Part 1: IOC consensus statement on load in sport and risk of injury. British Journal of Sports Medicine, 50(17), 1030–1041. [BJSM](https://bjsm.bmj.com/content/50/17/1030)
@@ -369,8 +369,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 7 Zhang, Y. et al.: [Effects of magnesium supplementation on muscle soreness in different type of physical activities: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11227245/), Journal of Translational Medicine, 2024.
 
 * Acute exercise rewires the proteomic landscape of human immune cells. Walzik, D., Joisten, N., Metcalfe, A. J., et al. (2026). [Acute exercise rewires the proteomic landscape of human immune cells.](https://www.nature.com/articles/s41467-025-68101-9), Nature Communications, 17, 130. <a id="quelle-8"></a>
-
-* Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63. ---- *
 
 * Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087. <a id="quelle-8"></a>
 
