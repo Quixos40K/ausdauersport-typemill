@@ -170,45 +170,40 @@ Ein häufiger Fehler ist, nur einzelne Nährstoffe oder Supplemente zu betrachte
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: The compelling link between physical activity and the body's defense system.
+### Quelle 1
 
-Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-2"></a>
-### Quelle 2: Exercise immunology: Future directions.
 
-Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445.
+### Quelle 2
 
-<a id="quelle-3"></a>
-### Quelle 3: Metabolic Instruction of Immunity.
+Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445.
 
-Buck, M. D., Sowell, R. T., Kaech, S. M., & Pearce, E. L. (2017). [Metabolic Instruction of Immunity.](https://pubmed.ncbi.nlm.nih.gov/28475890/), Cell, 169(4), 570–586.
+### Quelle 3
 
-<a id="quelle-4"></a>
-### Quelle 4: A guide to immunometabolism for immunologists.
+Metabolic Instruction of Immunity. Buck, M. D., Sowell, R. T., Kaech, S. M., & Pearce, E. L. (2017). [Metabolic Instruction of Immunity.](https://pubmed.ncbi.nlm.nih.gov/28475890/), Cell, 169(4), 570–586.
 
-O'Neill, L. A. J., Kishton, R. J., & Rathmell, J. (2016). [A guide to immunometabolism for immunologists.](https://www.nature.com/articles/nri.2016.70), Nature Reviews Immunology, 16, 553–565.
+### Quelle 4
 
-<a id="quelle-5"></a>
-### Quelle 5: Recovery of the immune system after exercise.
+A guide to immunometabolism for immunologists. O'Neill, L. A. J., Kishton, R. J., & Rathmell, J. (2016). [A guide to immunometabolism for immunologists.](https://www.nature.com/articles/nri.2016.70), Nature Reviews Immunology, 16, 553–565.
 
-Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
 
-<a id="quelle-6"></a>
-### Quelle 6: Low energy availability increases immune cell formation of reactive oxygen species and systemic inflammation in female endurance athletes.
+### Quelle 5
 
-Jeppesen, J. S., Caldwell, H. G., Lossius, L. O., et al. (2024). [Low energy availability increases immune cell formation of reactive oxygen species and impairs exercise performance in female endurance athletes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11260862/), Redox Biology, 75, 103250.
+Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
 
-<a id="quelle-7"></a>
-### Quelle 7: Acute exercise rewires the proteomic landscape of human immune cells.
+### Quelle 6
 
-Walzik, D., Joisten, N., Metcalfe, A. J., et al. (2026). [Acute exercise rewires the proteomic landscape of human immune cells.](https://www.nature.com/articles/s41467-025-68101-9), Nature Communications, 17, 130.
+Low energy availability increases immune cell formation of reactive oxygen species and systemic inflammation in female endurance athletes. Jeppesen, J. S., Caldwell, H. G., Lossius, L. O., et al. (2024). [Low energy availability increases immune cell formation of reactive oxygen species and impairs exercise performance in female endurance athletes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11260862/), Redox Biology, 75, 103250.
 
-<a id="quelle-8"></a>
-### Quelle 8: 2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).
+### Quelle 7
 
-Mountjoy, M., Ackerman, K. E., Bailey, D. M., et al. (2023). [2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 57(17), 1073–1097.
+Acute exercise rewires the proteomic landscape of human immune cells. Walzik, D., Joisten, N., Metcalfe, A. J., et al. (2026). [Acute exercise rewires the proteomic landscape of human immune cells.](https://www.nature.com/articles/s41467-025-68101-9), Nature Communications, 17, 130.
+
+
+### Quelle 8
+
+2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs). Mountjoy, M., Ackerman, K. E., Bailey, D. M., et al. (2023). [2023 International Olympic Committee's consensus statement on Relative Energy Deficiency in Sport (REDs).](https://bjsm.bmj.com/content/57/17/1073), British Journal of Sports Medicine, 57(17), 1073–1097.
 
 ----
 
