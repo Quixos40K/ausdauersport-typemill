@@ -1,0 +1,35 @@
+name: Auto-Generate Master Quellen
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/**/*.md' # Reagiert nur, wenn sich Markdown-Dateien ändern
+
+jobs:
+  update-quellen:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Quellen-Skript ausführen
+        run: python .github/scripts/build_quellen.py
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          # Prüft, ob es Änderungen gibt, bevor er speichert
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-Update: Master-Quellenverzeichnis generiert"
+          git push
