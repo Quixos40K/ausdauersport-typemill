@@ -174,45 +174,41 @@ Ein häufiger Fehler ist, NK-Zellen nur als Abwehrzellen zu sehen. Sie sind auch
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition.
+### Quelle 1
 
-Minuzzi, L. G., Batatinha, H., Weyh, C., et al. (2025). [Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259902/), Scientific Reports, 15, 06057.
+Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition. Minuzzi, L. G., Batatinha, H., Weyh, C., et al. (2025). [Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259902/), Scientific Reports, 15, 06057.
 
-<a id="quelle-2"></a>
-### Quelle 2: Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells.
+### Quelle 2
 
-Bigley, A. B., Rezvani, K., Pistillo, M., et al. (2014). [Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells.](https://www.sciencedirect.com/science/article/pii/S0889159113005291), Brain, Behavior, and Immunity, 39, 160–171.
+Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells. Bigley, A. B., Rezvani, K., Pistillo, M., et al. (2014). [Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells.](https://www.sciencedirect.com/science/article/pii/S0889159113005291), Brain, Behavior, and Immunity, 39, 160–171.
 
-<a id="quelle-3"></a>
-### Quelle 3: Immunometabolism and natural killer cell responses.
 
-O'Sullivan, T. E., Sun, J. C., & Lanier, L. L. (2019). [Immunometabolism and natural killer cell responses.](https://www.nature.com/articles/s41577-019-0139-2), Nature Reviews Immunology, 19, 282–290.
+### Quelle 3
 
-<a id="quelle-4"></a>
-### Quelle 4: What Fuels Natural Killers? Metabolism and NK Cell Responses.
+Immunometabolism and natural killer cell responses. O'Sullivan, T. E., Sun, J. C., & Lanier, L. L. (2019). [Immunometabolism and natural killer cell responses.](https://www.nature.com/articles/s41577-019-0139-2), Nature Reviews Immunology, 19, 282–290.
 
-Keating, S. E., Zaiatz-Bittencourt, V., Loftus, R. M., et al. (2016). [What Fuels Natural Killers? Metabolism and NK Cell Responses.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5376555/), Frontiers in Immunology, 7, 580.
+### Quelle 4
 
-<a id="quelle-5"></a>
-### Quelle 5: The compelling link between physical activity and the body's defense system.
+What Fuels Natural Killers? Metabolism and NK Cell Responses. Keating, S. E., Zaiatz-Bittencourt, V., Loftus, R. M., et al. (2016). [What Fuels Natural Killers? Metabolism and NK Cell Responses.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5376555/), Frontiers in Immunology, 7, 580.
 
-Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-6"></a>
-### Quelle 6: Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.
+### Quelle 5
 
-Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
+The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
 
-<a id="quelle-7"></a>
-### Quelle 7: Recovery of the immune system after exercise.
+### Quelle 6
 
-Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
-<a id="quelle-8"></a>
-### Quelle 8: Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.
 
-Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
+### Quelle 7
+
+Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087.
+
+
+### Quelle 8
+
+Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
 
 ----
 
