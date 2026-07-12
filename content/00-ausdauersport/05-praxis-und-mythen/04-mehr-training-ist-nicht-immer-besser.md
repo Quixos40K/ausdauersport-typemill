@@ -128,26 +128,32 @@ Besser ist eine passende Belastungsverteilung: viele gut verträgliche Einheiten
 ## Quellen
 
 ### Quelle 1
+
 Impellizzeri, F. M., Marcora, S. M., & Coutts, A. J. (2019). Internal and external training load: 15 years on. *International Journal of Sports Physiology and Performance*, 14(2), 270–273.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/30614348/
 
 ### Quelle 2
+
 Bourdon, P. C., Cardinale, M., Murray, A., et al. (2017). Monitoring athlete training loads: consensus statement. *International Journal of Sports Physiology and Performance*, 12(Suppl 2), S2-161–S2-170.
 Quelle: https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml
 
 ### Quelle 3
+
 Soligard, T., Schwellnus, M., Alonso, J. M., et al. (2016). How much is too much? International Olympic Committee consensus statement on load in sport and risk of injury. *British Journal of Sports Medicine*, 50(17), 1030–1041.
 Quelle: https://bjsm.bmj.com/content/50/17/1030
 
 ### Quelle 4
+
 Meeusen, R., Duclos, M., Foster, C., et al. (2013). Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the ECSS and ACSM. *Medicine & Science in Sports & Exercise*, 45(1), 186–205.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/23247672/
 
 ### Quelle 5
+
 Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276–291.
 Quelle: https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml
 
 ### Quelle 6
+
 Kellmann, M., Bertollo, M., Bosquet, L., et al. (2018). Recovery and performance in sport: consensus statement. *International Journal of Sports Physiology and Performance*, 13(2), 240–245.
 Quelle: https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml
 
