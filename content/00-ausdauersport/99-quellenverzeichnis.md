@@ -22,6 +22,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 1 Lorenz, D. S., Reiman, M. P., & Walker, J. C. (2010). Periodization: Current Review and Suggested Implementation for Athletic Rehabilitation. Sports Health, 2(6), 509–518. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23015982/)
 
+* ### Quelle 1 Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750.
+
 * ### Quelle 1 Maughan, R. J. et al.: [IOC Consensus Statement: Dietary Supplements and the High-Performance Athlete](https://bjsm.bmj.com/content/52/7/439), British Journal of Sports Medicine, 2018.
 
 * ### Quelle 1 Mujika I, Padilla S. Scientific bases for precompetition tapering strategies. Medicine & Science in Sports & Exercise. 2003;35(7):1182-1187. doi: 10.1249/01.MSS.0000074448.73931.11. https://doi.org/10.1249/01.MSS.0000074448.73931.11
@@ -58,8 +60,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648. <a id="quelle-2"></a>
 
-* Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood. Duggal, N. A., Pollock, R. D., Lazarus, N. R., et al. (2018). [Major features of immunesenescence, including reduced thymic output, are ameliorated by high levels of physical activity in adulthood.](https://europepmc.org/article/pmc/5847865), Aging Cell, 17(2), e12750. <a id="quelle-2"></a>
-
 * Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition. Minuzzi, L. G., Batatinha, H., Weyh, C., et al. (2025). [Natural killer cells from endurance-trained older adults show improved functional and metabolic responses to adrenergic blockade and mTOR inhibition.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12259902/), Scientific Reports, 15, 06057. <a id="quelle-2"></a>
 
 * The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-2"></a>
@@ -73,6 +73,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 2 Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017). Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(Suppl 2), S2-161–S2-170. [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
 
 * ### Quelle 2 Burke, L. M. et al.: [Toward a Common Understanding of Diet–Exercise Strategies to Manipulate Fuel Availability for Training and Competition Preparation in Endurance Sport](https://journals.humankinetics.com/view/journals/ijsnem/28/5/article-p451.xml), International Journal of Sport Nutrition and Exercise Metabolism, 2018.
+
+* ### Quelle 2 Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity? Duggal, N. A., Niemiro, G., Harridge, S. D. R., Simpson, R. J., & Lord, J. M. (2019). [Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity?](https://www.nature.com/articles/s41577-019-0177-9), Nature Reviews Immunology, 19, 563–572.
 
 * ### Quelle 2 Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
@@ -112,8 +114,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells. Bigley, A. B., Rezvani, K., Pistillo, M., et al. (2014). [Acute exercise preferentially redeploys NK-cells with a highly-differentiated phenotype and augments cytotoxicity against lymphoma and multiple myeloma target cells.](https://www.sciencedirect.com/science/article/pii/S0889159113005291), Brain, Behavior, and Immunity, 39, 160–171. <a id="quelle-3"></a>
 
-* Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity? Duggal, N. A., Niemiro, G., Harridge, S. D. R., Simpson, R. J., & Lord, J. M. (2019). [Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity?](https://www.nature.com/articles/s41577-019-0177-9), Nature Reviews Immunology, 19, 563–572. <a id="quelle-3"></a>
-
 * Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445. <a id="quelle-3"></a>
 
 * Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087. <a id="quelle-3"></a>
@@ -135,6 +135,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 3 Impellizzeri, F. M., Marcora, S. M., & Coutts, A. J. (2019). Internal and External Training Load: 15 Years On. International Journal of Sports Physiology and Performance, 14(2), 270–273. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30614348/)
 
 * ### Quelle 3 Impey, S. G. et al.: [Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis](https://link.springer.com/article/10.1007/s40279-018-0867-7), Sports Medicine, 2018.
+
+* ### Quelle 3 Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602.
 
 * ### Quelle 3 Kjaer, M.: [Role of extracellular matrix in adaptation of tendon and skeletal muscle to mechanical loading](https://pubmed.ncbi.nlm.nih.gov/15084669/), Physiological Reviews, 2004.
 
@@ -167,8 +169,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 3 World Anti-Doping Agency: [The 2026 Prohibited List](https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/prohibited-list), WADA, 2026.
 
 * Immunometabolism and natural killer cell responses. O'Sullivan, T. E., Sun, J. C., & Lanier, L. L. (2019). [Immunometabolism and natural killer cell responses.](https://www.nature.com/articles/s41577-019-0139-2), Nature Reviews Immunology, 19, 282–290. <a id="quelle-4"></a>
-
-* Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602. <a id="quelle-4"></a>
 
 * Metabolic Instruction of Immunity. Buck, M. D., Sowell, R. T., Kaech, S. M., & Pearce, E. L. (2017). [Metabolic Instruction of Immunity.](https://pubmed.ncbi.nlm.nih.gov/28475890/), Cell, 169(4), 570–586. <a id="quelle-4"></a>
 
@@ -216,13 +216,13 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 4 Seiler, S. (2010). What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? International Journal of Sports Physiology and Performance, 5(3), 276–291. [Human Kinetics](https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml)
 
+* ### Quelle 4 The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217.
+
 * ### Quelle 4 Which Training Intensity Distribution Intervention will Produce the Greatest Improvements in Maximal Oxygen Uptake and Time-Trial Performance? Sports Medicine. [Springer](https://link.springer.com/article/10.1007/s40279-024-02149-3)
 
 * A guide to immunometabolism for immunologists. O'Neill, L. A. J., Kishton, R. J., & Rathmell, J. (2016). [A guide to immunometabolism for immunologists.](https://www.nature.com/articles/nri.2016.70), Nature Reviews Immunology, 16, 553–565. <a id="quelle-5"></a>
 
 * Exercise and the Regulation of Immune Functions. Simpson, R. J., Campbell, J. P., Gleeson, M., et al. (2015). [Exercise and the Regulation of Immune Functions.](https://pubmed.ncbi.nlm.nih.gov/26477922/), Progress in Molecular Biology and Translational Science, 135, 355–380. <a id="quelle-5"></a>
-
-* The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-5"></a>
 
 * What Fuels Natural Killers? Metabolism and NK Cell Responses. Keating, S. E., Zaiatz-Bittencourt, V., Loftus, R. M., et al. (2016). [What Fuels Natural Killers? Metabolism and NK Cell Responses.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5376555/), Frontiers in Immunology, 7, 580. <a id="quelle-5"></a>
 
@@ -233,6 +233,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 5 Bourdon, P. C., Cardinale, M., Murray, A. et al. (2017). Monitoring Athlete Training Loads: Consensus Statement. International Journal of Sports Physiology and Performance, 12(Suppl 2), S2-161–S2-170. [Human Kinetics](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml)
 
 * ### Quelle 5 Buchheit, M. (2014). Monitoring training status with HR measures: do all roads lead to Rome? Frontiers in Physiology, 5, 73. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3936188/)
+
+* ### Quelle 5 Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445.
 
 * ### Quelle 5 Guest, N. S. et al.: [International Society of Sports Nutrition Position Stand: Caffeine and Exercise Performance](https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00383-4), Journal of the International Society of Sports Nutrition, 2021.
 
@@ -270,8 +272,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 5 Walsh, N. P. et al.: [Sleep and the athlete: narrative review and 2021 expert consensus recommendations](https://bjsm.bmj.com/content/55/7/356), British Journal of Sports Medicine, 2021.
 
-* Exercise immunology: Future directions. Nieman, D. C., & Pence, B. D. (2020). [Exercise immunology: Future directions.](https://www.sciencedirect.com/science/article/pii/S2095254619301528), Journal of Sport and Health Science, 9(5), 432–445. <a id="quelle-6"></a>
-
 * Is immunosenescence influenced by our lifetime “dose” of exercise? Turner, J. E. (2016). [Is immunosenescence influenced by our lifetime “dose” of exercise?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4889625/), Biogerontology, 17, 581–602. <a id="quelle-6"></a>
 
 * Recovery of the immune system after exercise. Peake, J. M., Neubauer, O., Walsh, N. P., & Simpson, R. J. (2017). [Recovery of the immune system after exercise.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00622.2016), Journal of Applied Physiology, 122(5), 1077–1087. <a id="quelle-6"></a>
@@ -279,6 +279,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * The compelling link between physical activity and the body's defense system. Nieman, D. C., & Wentz, L. M. (2019). [The compelling link between physical activity and the body's defense system.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523821/), Journal of Sport and Health Science, 8(3), 201–217. <a id="quelle-6"></a>
 
 * ### Quelle 6 Afonso et al. 2021 – Post-Exercise Stretching und Recovery. Afonso J, Clemente FM, Nakamura FY, Morouço P, Sarmento H, Inman RA, Ramirez-Campillo R. *The effectiveness of post-exercise stretching in short-term and delayed recovery of strength, range of motion and delayed onset muscle soreness: a systematic review and meta-analysis of randomized controlled trials.* Frontiers in Physiology. 2021;12:677581. doi: 10.3389/fphys.2021.677581. https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.677581/full ---- *
+
+* ### Quelle 6 Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan. Campbell, J. P., & Turner, J. E. (2018). [Debunking the Myth of Exercise-Induced Immune Suppression: Redefining the Impact of Exercise on Immunological Health Across the Lifespan.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5911985/), Frontiers in Immunology, 9, 648.
 
 * ### Quelle 6 Dupuy, O. et al.: [An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques](https://pubmed.ncbi.nlm.nih.gov/29755363/), Frontiers in Physiology, 2018. ---- *
 
@@ -338,6 +340,8 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 
 * ### Quelle 7 Grgic, J. et al.: [International Society of Sports Nutrition Position Stand: Sodium Bicarbonate and Exercise Performance](https://jissn.biomedcentral.com/articles/10.1186/s12970-021-00458-w), Journal of the International Society of Sports Nutrition, 2021.
 
+* ### Quelle 7 Inflammaging: a new immune–metabolic viewpoint for age-related diseases. Franceschi, C., Garagnani, P., Parini, P., Giuliani, C., & Santoro, A. (2018). [Inflammaging: a new immune–metabolic viewpoint for age-related diseases.](https://www.nature.com/articles/s41574-018-0059-4), Nature Reviews Endocrinology, 14, 576–590. ---- *
+
 * ### Quelle 7 Jäger, R. et al.: [International Society of Sports Nutrition Position Stand: Protein and Exercise](https://pubmed.ncbi.nlm.nih.gov/28642676/), Journal of the International Society of Sports Nutrition, 2017.
 
 * ### Quelle 7 Maughan, R. J. et al.: [IOC Consensus Statement: Dietary Supplements and the High-Performance Athlete](https://bjsm.bmj.com/content/52/7/439), British Journal of Sports Medicine, 2018. ---- *
@@ -365,8 +369,6 @@ Dieses Lexikon basiert auf der aktuellen sportmedizinischen, physiologischen und
 * ### Quelle 7 Zhang, Y. et al.: [Effects of magnesium supplementation on muscle soreness in different type of physical activities: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11227245/), Journal of Translational Medicine, 2024.
 
 * Acute exercise rewires the proteomic landscape of human immune cells. Walzik, D., Joisten, N., Metcalfe, A. J., et al. (2026). [Acute exercise rewires the proteomic landscape of human immune cells.](https://www.nature.com/articles/s41467-025-68101-9), Nature Communications, 17, 130. <a id="quelle-8"></a>
-
-* Inflammaging: a new immune–metabolic viewpoint for age-related diseases. Franceschi, C., Garagnani, P., Parini, P., Giuliani, C., & Santoro, A. (2018). [Inflammaging: a new immune–metabolic viewpoint for age-related diseases.](https://www.nature.com/articles/s41574-018-0059-4), Nature Reviews Endocrinology, 14, 576–590. ---- *
 
 * Position statement. Part one: Immune function and exercise. Walsh, N. P., Gleeson, M., Shephard, R. J., et al. (2011). [Position statement. Part one: Immune function and exercise.](https://europepmc.org/article/MED/21446352), Exercise Immunology Review, 17, 6–63. ---- *
 
