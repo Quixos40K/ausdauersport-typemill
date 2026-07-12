@@ -157,27 +157,21 @@ Ein gutes Zeichen ist, wenn man sich am nächsten Tag frischer, ruhiger und bela
 ## Quellen
 
 ### Quelle 1
-
 Kellmann, M. et al.: [Recovery and Performance in Sport: Consensus Statement](https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml), International Journal of Sports Physiology and Performance, 2018.
 
 ### Quelle 2
-
 Dupuy, O. et al.: [An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques](https://pubmed.ncbi.nlm.nih.gov/29755363/), Frontiers in Physiology, 2018.
 
 ### Quelle 3
-
 Bourdon, P. C. et al.: [Monitoring Athlete Training Loads: Consensus Statement](https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml), International Journal of Sports Physiology and Performance, 2017.
 
 ### Quelle 4
-
 Impellizzeri, F. M.; Marcora, S. M.; Coutts, A. J.: [Internal and External Training Load: 15 Years On](https://pubmed.ncbi.nlm.nih.gov/30614348/), International Journal of Sports Physiology and Performance, 2019.
 
 ### Quelle 5
-
 Meeusen, R. et al.: [Prevention, diagnosis, and treatment of the overtraining syndrome](https://pubmed.ncbi.nlm.nih.gov/23247672/), Medicine & Science in Sports & Exercise, 2013.
 
 ### Quelle 6
-
 Soligard, T. et al.: [How much is too much? International Olympic Committee consensus statement on load in sport and risk of injury](https://bjsm.bmj.com/content/50/17/1030), British Journal of Sports Medicine, 2016.
 
 ----
