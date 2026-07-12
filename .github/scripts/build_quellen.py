@@ -2,29 +2,25 @@ import os
 import glob
 import re
 
-# Wir suchen direkt im Ordner "content" und all seinen Unterordnern
+# Er durchsucht weiterhin alles im Ordner "content" ...
 CONTENT_DIR = "content"
-OUTPUT_FILE = os.path.join(CONTENT_DIR, "99-quellenverzeichnis.md")
+# ... aber er speichert die fertige Datei jetzt exakt hier:
+OUTPUT_FILE = "content/00-ausdauersport/99-quellenverzeichnis.md"
 
 def extract_sources():
     all_sources = set()
-    
-    # Finde alle .md Dateien im content-Ordner (rekursiv)
     md_files = glob.glob(f"{CONTENT_DIR}/**/*.md", recursive=True)
     
     for filepath in md_files:
-        # Die Ausgabedatei selbst und den Disclaimer überspringen
         if "99-quellenverzeichnis.md" in filepath or "disclaimer" in filepath.lower() or "externe_quellen" in filepath.lower():
             continue
             
         with open(filepath, 'r', encoding='utf-8') as file:
             content = file.read()
             
-        # Suche nach dem Wort "Quellen" als Überschrift
         if '## Quellen' in content:
             quellen_block = content.split('## Quellen')[1]
             
-            # Schneide den Disclaimer am Ende weg, falls vorhanden
             if 'Hinweis: Dieser Artikel' in quellen_block:
                 quellen_block = quellen_block.split('Hinweis: Dieser Artikel')[0]
                 
@@ -47,6 +43,9 @@ def extract_sources():
 
 def write_master_file(sources):
     sorted_sources = sorted(list(sources))
+    
+    # Zur Sicherheit: Falls der Ordner mal nicht existiert, legt er ihn an
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write("# Wissenschaftliches Quellenverzeichnis\n\n")
