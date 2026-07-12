@@ -153,23 +153,28 @@ Viele machen zu viel auf einmal. Neue Übungen, hohe Lasten und starker Muskelka
 ## Quellen
 
 ### Quelle 1
+
 Blagrove, R. C., Howatson, G., & Hayes, P. R. (2018). Effects of strength training on the physiological determinants of middle- and long-distance running performance: a systematic review. *Sports Medicine*, 48, 1117–1149.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/29249083/
 
 ### Quelle 2
+
 Balsalobre-Fernández, C., Santos-Concejero, J., & Grivas, G. V. (2016). Effects of strength training on running economy in highly trained runners: a systematic review with meta-analysis. *Journal of Strength and Conditioning Research*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/26694507/
 
 
 ### Quelle 3
+
 Denadai, B. S., de Aguiar, R. A., de Lima, L. C. R., Greco, C. C., & Caputo, F. (2017). Explosive training and heavy weight training are effective for improving running economy in endurance athletes: a systematic review and meta-analysis. *Sports Medicine*, 47, 545–554.
 Quelle: https://link.springer.com/article/10.1007/s40279-016-0604-z
 
 ### Quelle 4
+
 Eihara, Y., Takao, K., Sugiyama, T., et al. (2024). Effect of strength training programs in middle- and long-distance runners: a systematic review and meta-analysis. *Sports Medicine*.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/38165636/
 
 ### Quelle 5
+
 Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries. *British Journal of Sports Medicine*, 48(11), 871–877.
 Quelle: https://bjsm.bmj.com/content/48/11/871
 
