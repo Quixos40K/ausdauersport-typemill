@@ -166,3 +166,4 @@ Belastung und Erholung müssen zusammen geplant werden. Harte Einheiten, lange L
 
 *Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
 
+ 
