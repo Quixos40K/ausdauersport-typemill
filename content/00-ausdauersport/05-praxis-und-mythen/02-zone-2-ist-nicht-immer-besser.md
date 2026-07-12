@@ -135,28 +135,28 @@ Training außerhalb von Zone 2 wird wichtig, wenn Ziele wie höhere VO2max, bess
 
 ## Quellen
 
-<a id="quelle-1"></a>
-### Quelle 1: Bishop, D. J., Botella, J., Genders, A. J., et al. (2025). Physical activity and exercise intensity terminology: a joint ACSM expert statement and ESSA consensus statement. *Journal of Science and Medicine in Sport*.
+### Quelle 1
+Bishop, D. J., Botella, J., Genders, A. J., et al. (2025). Physical activity and exercise intensity terminology: a joint ACSM expert statement and ESSA consensus statement. *Journal of Science and Medicine in Sport*.
 Quelle: https://www.sciencedirect.com/science/article/pii/S1440244024005590
 
-<a id="quelle-2"></a>
-### Quelle 2: Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276–291.
+### Quelle 2
+Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276–291.
 Quelle: https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml
 
-<a id="quelle-3"></a>
-### Quelle 3: Mann, T., Lamberts, R. P., & Lambert, M. I. (2013). Methods of prescribing relative exercise intensity: physiological and practical considerations. *Sports Medicine*, 43, 613–625.
+### Quelle 3
+Mann, T., Lamberts, R. P., & Lambert, M. I. (2013). Methods of prescribing relative exercise intensity: physiological and practical considerations. *Sports Medicine*, 43, 613–625.
 Quelle: https://link.springer.com/article/10.1007/s40279-013-0045-x
 
-<a id="quelle-4"></a>
-### Quelle 4: Stöggl, T., & Sperlich, B. (2014). Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training. *Frontiers in Physiology*, 5, 33.
+### Quelle 4
+Stöggl, T., & Sperlich, B. (2014). Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training. *Frontiers in Physiology*, 5, 33.
 Quelle: https://pubmed.ncbi.nlm.nih.gov/24550842/
 
-<a id="quelle-5"></a>
-### Quelle 5: Faude, O., Kindermann, W., & Meyer, T. (2009). Lactate threshold concepts: how valid are they? *Sports Medicine*, 39(6), 469–490.
+### Quelle 5
+Faude, O., Kindermann, W., & Meyer, T. (2009). Lactate threshold concepts: how valid are they? *Sports Medicine*, 39(6), 469–490.
 Quelle: https://link.springer.com/article/10.2165/00007256-200939060-00003
 
-<a id="quelle-6"></a>
-### Quelle 6: Laursen, P. B., & Jenkins, D. G. (2002). The scientific basis for high-intensity interval training. *Sports Medicine*, 32, 53–73.
+### Quelle 6
+Laursen, P. B., & Jenkins, D. G. (2002). The scientific basis for high-intensity interval training. *Sports Medicine*, 32, 53–73.
 Quelle: https://link.springer.com/article/10.2165/00007256-200232010-00003
 
 ----
