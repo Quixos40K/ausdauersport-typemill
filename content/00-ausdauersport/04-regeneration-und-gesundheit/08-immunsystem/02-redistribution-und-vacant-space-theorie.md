@@ -158,8 +158,6 @@ Der häufigste Denkfehler ist, Blutwerte nach Training isoliert zu betrachten. D
 
 ----
 
-----
-
 ## Quellen
 
 ### Quelle 1
