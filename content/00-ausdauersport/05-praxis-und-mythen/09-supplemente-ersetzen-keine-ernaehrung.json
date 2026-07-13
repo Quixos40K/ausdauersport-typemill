@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/supplemente-ersetzen-keine-ernaehrung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/supplemente-ersetzen-keine-ernaehrung",
+      "headline": "Supplemente ersetzen keine Ernährung",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "mainEntity": {
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/supplemente-ersetzen-keine-ernaehrung#content"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/supplemente-ersetzen-keine-ernaehrung#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/supplemente-ersetzen-keine-ernaehrung#webpage"
+      },
+      "headline": "Supplemente ersetzen keine Ernährung",
+      "description": "Supplemente können im Ausdauersport sinnvoll sein, ersetzen aber keine gute Ernährung. Entscheidend bleiben ausreichende Energiezufuhr, Kohlenhydrate, Protei...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}

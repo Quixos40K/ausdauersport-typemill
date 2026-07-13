@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage",
+      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe",
+      "headline": "Mikronährstoffe und Mineralstoffe",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "mainEntity": {
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage"
+      },
+      "headline": "Mikronährstoffe und Mineralstoffe",
+      "description": "Mikronährstoffe und Mineralstoffe liefern keine direkte Trainingsenergie, sind aber für viele Prozesse im Ausdauersport wichtig. Sie unterstützen Sauerstofft...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}

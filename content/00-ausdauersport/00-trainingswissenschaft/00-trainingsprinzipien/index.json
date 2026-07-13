@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien",
+      "headline": "Trainingsprinzipien",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage"
+      },
+      "headline": "Trainingsprinzipien",
+      "description": "Gutes Ausdauertraining entsteht nicht durch möglichst viele harte Einheiten, sondern durch das richtige Verhältnis aus Reiz, Erholung und Anpassung. Das Them...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}

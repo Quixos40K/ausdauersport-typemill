@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett",
+      "headline": "Nüchterntraining verbrennt nicht nur Fett",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "mainEntity": {
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage"
+      },
+      "headline": "Nüchterntraining verbrennt nicht nur Fett",
+      "description": "Nüchterntraining verbrennt nicht nur Fett. Auch ohne Frühstück nutzt der Körper weiterhin verschiedene Energiequellen, darunter Fettsäuren, gespeicherte Kohl...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}

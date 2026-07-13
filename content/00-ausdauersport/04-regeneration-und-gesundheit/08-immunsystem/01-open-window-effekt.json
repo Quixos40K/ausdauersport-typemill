@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt",
+      "headline": "Open-Window-Effekt",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "mainEntity": {
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage"
+      },
+      "headline": "Open-Window-Effekt",
+      "description": "Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}

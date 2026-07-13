@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://deine-domain.de/#website",
+      "url": "https://deine-domain.de/",
+      "name": "Ausdauersport Lexikon",
+      "publisher": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung",
+      "headline": "Periodisierung",
+      "isPartOf": {
+        "@id": "https://deine-domain.de/#website"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#content",
+      "mainEntityOfPage": {
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#webpage"
+      },
+      "headline": "Periodisierung",
+      "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird. Gutes Ausdauertraining besteht nich...",
+      "author": {
+        "@id": "https://deine-domain.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://deine-domain.de/#website"
+      },
+      "inLanguage": "de-DE"
+    }
+  ]
+}
