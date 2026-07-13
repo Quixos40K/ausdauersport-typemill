@@ -10,3 +10,215 @@ meta:
     time: 21-24-05
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/",
+              "name": "Makrozyklus",
+              "headline": "Makrozyklus",
+              "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Im Ausdauertraining umfasst er häufig mehrere Monate bis zu einer ganzen Saison. Er verbindet Grundlagenaufbau, spezifische Vorbereitung, Wettkampfphase und Erholung zu einer geplanten Gesamtstruktur.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage"
+              },
+              "headline": "Makrozyklus",
+              "name": "Makrozyklus",
+              "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Im Ausdauertraining umfasst er häufig mehrere Monate bis zu einer ganzen Saison. Er verbindet Grundlagenaufbau, spezifische Vorbereitung, Wettkampfphase und Erholung zu einer geplanten Gesamtstruktur.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-26",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Periodisierung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Makrozyklus",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein Makrozyklus einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Makrozyklus ist der große Trainingsrahmen über mehrere Monate oder eine Saison. Er legt fest, wie Training langfristig aufgebaut, gesteigert, zugespitzt und wieder entlastet wird. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie lange dauert ein Makrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Makrozyklus kann mehrere Monate bis zu einem ganzen Jahr dauern. Die genaue Länge hängt vom Ziel, der Sportart, dem Trainingsstand und der Anzahl wichtiger Wettkämpfe ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Makrozyklus, Mesozyklus und Mikrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der Makrozyklus ist der große Gesamtplan. Der Mesozyklus ist ein mehrwöchiger Abschnitt innerhalb dieses Plans. Der Mikrozyklus ist meist eine einzelne Trainingswoche oder ein kurzer Belastungsrhythmus. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Braucht jeder Ausdauerathlet einen Makrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht jeder braucht einen komplexen Jahresplan. Aber jeder Athlet profitiert von einer langfristigen Struktur, wenn Fortschritt, Belastbarkeit und Erholung gezielt entwickelt werden sollen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie sieht ein Makrozyklus im Marathontraining aus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Marathon-Makrozyklus enthält meist Grundlagenaufbau, längere Läufe, spezifische Marathonpace-Abschnitte, Verpflegungstraining, Tapering und eine Erholungsphase nach dem Wettkampf. [[7]](quelle-7) [[10]](quelle-10)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie sieht ein Makrozyklus für 5 Kilometer aus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein 5-km-Makrozyklus kann stärker auf Laufökonomie, VO2max, kurze Intervalle, Renntempo, Schwellenarbeit und Tempowechselfähigkeit ausgerichtet sein. [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum gehört eine Entlastungsphase in den Makrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Entlastungsphasen helfen, Ermüdung abzubauen und Anpassung zu ermöglichen. Ohne geplante Entlastung kann sich Restermüdung aufbauen und die Leistung stagnieren. [[4]](quelle-4) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Tapering und Übergangsphase?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tapering findet vor einem Wettkampf statt und reduziert Ermüdung bei Erhalt der Form. Die Übergangsphase folgt nach einem Wettkampf oder Zielblock und dient der körperlichen und mentalen Erholung. [[5]](quelle-5) [[6]](quelle-6) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann ein Makrozyklus mehrere Wettkämpfe enthalten?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Ein Makrozyklus kann mehrere Wettkämpfe enthalten. Meist gibt es dann Hauptwettkämpfe und weniger wichtige Vorbereitungswettkämpfe, damit die Belastung sinnvoll gesteuert bleibt."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was passiert, wenn ein Makrozyklus zu starr geplant ist?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein zu starrer Makrozyklus berücksichtigt Krankheit, Stress, Verletzungen oder unerwartete Leistungsentwicklung zu wenig. Gute Planung braucht Struktur, aber auch Anpassungsfähigkeit."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler bei einem Makrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Häufig wird zu früh zu hart oder zu spezifisch trainiert. Dadurch entstehen Plateaus, Restermüdung oder Überlastung, bevor die wichtigste Trainingsphase überhaupt erreicht ist. [[1]](quelle-1) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Woran erkenne ich einen guten Makrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein guter Makrozyklus hat ein klares Ziel, sinnvolle Trainingsphasen, geplante Entlastung, zunehmende Spezifität und genug Flexibilität, um auf die tatsächliche Entwicklung des Athleten zu reagieren. [[1]](quelle-1) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                }
+              ]
+            }
+          ]
+        }

@@ -10,3 +10,231 @@ meta:
     time: 19-21-30
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/",
+              "name": "Plateaus",
+              "headline": "Plateaus",
+              "description": "Ein Plateau beschreibt eine Phase, in der sich die Leistung trotz regelmäßigem Training kaum weiterentwickelt. Im Ausdauertraining kann das durch monotone Reize, zu wenig Erholung, zu schnelle Belastungssteigerung, fehlende Spezifität, zu viel mittlere Intensität, Alltagsstress oder unpassende Trainingssteuerung entstehen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#webpage"
+              },
+              "headline": "Plateaus",
+              "name": "Plateaus",
+              "description": "Ein Plateau beschreibt eine Phase, in der sich die Leistung trotz regelmäßigem Training kaum weiterentwickelt. Im Ausdauertraining kann das durch monotone Reize, zu wenig Erholung, zu schnelle Belastungssteigerung, fehlende Spezifität, zu viel mittlere Intensität, Alltagsstress oder unpassende Trainingssteuerung entstehen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-27",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Leistungsentwicklung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Plateaus",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein Plateau im Training?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Plateau ist eine Phase, in der sich die Leistung trotz regelmäßigem Training kaum verbessert. Pace, Herzfrequenz, Belastbarkeit oder Wettkampfleistung bleiben über längere Zeit ähnlich."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind Plateaus im Ausdauertraining normal?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Leistungsentwicklung verläuft nicht linear. Plateaus können normale Stabilisierungsphasen sein, sie können aber auch auf monotone Reize, zu wenig Erholung oder unpassende Trainingssteuerung hinweisen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum entsteht ein Plateau?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Plateau kann durch monotones Training, fehlende Progression, zu viel Restermüdung, zu viel mittlere Intensität, fehlende Spezifität, Alltagsstress, Schlafmangel oder unzureichende Energiezufuhr entstehen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte ich bei einem Plateau mehr trainieren?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Wenn das Plateau durch Ermüdung entsteht, kann mehr Training die Stagnation verschlimmern. Zuerst sollte geprüft werden, ob mehr Reiz oder mehr Erholung nötig ist."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann zu viel Training ein Plateau verursachen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Zu viel Umfang, zu viele harte Einheiten oder zu wenig Entlastung können dazu führen, dass der Körper Trainingsreize nicht mehr ausreichend verarbeitet."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann zu wenig Training ein Plateau verursachen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Wenn der Trainingsreiz zu schwach oder zu gleichförmig ist, bekommt der Körper keinen ausreichenden Anlass für weitere Anpassung."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was hat die Grauzone mit Plateaus zu tun?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Zu viel mittlere Intensität kann viel Ermüdung erzeugen, ohne klare Reizqualität zu liefern. Dadurch werden lockere Einheiten zu hart und harte Einheiten zu schlecht, was Plateaus begünstigen kann."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie erkenne ich, ob ein Plateau durch Ermüdung entsteht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hinweise sind schwere Beine, schlechter Schlaf, sinkende Motivation, erhöhte Anstrengung bei lockerer Belastung, schlechtere Intervallqualität, auffällig niedrige HRV oder wiederkehrende Beschwerden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie erkenne ich, ob ein Plateau durch zu wenig Reiz entsteht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hinweise sind stabile Erholung, wenig Ermüdung, aber keine Entwicklung über längere Zeit. Dann können gezielte Progression, Variation oder ein neuer Trainingsschwerpunkt sinnvoll sein."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie lange dauert ein Plateau?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das ist unterschiedlich. Manche Plateaus dauern wenige Wochen, andere länger. Entscheidend ist, ob die Ursache erkannt und die Trainingsstruktur passend angepasst wird."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist ein Plateau immer schlecht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Manchmal stabilisiert der Körper gerade eine neue Belastbarkeit. Wenn höhere Umfänge besser vertragen werden oder gleiche Leistung leichter fällt, kann trotzdem Fortschritt stattfinden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielt Erholung bei Plateaus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Erholung ist zentral. Ohne ausreichende Verarbeitung werden Trainingsreize nicht zu Anpassung, sondern zu Restermüdung. Ein Deload kann helfen, wenn Ermüdung die Ursache ist."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielt Spezifität bei Plateaus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Wenn das Training nicht zum Ziel passt, kann die Leistung stagnieren. Marathon, 5 Kilometer, Trailrunning oder Triathlon benötigen unterschiedliche spezifische Reize."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler bei einem Plateau?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der häufigste Fehler ist, sofort mehr oder härter zu trainieren. Sinnvoller ist zuerst eine Analyse, ob das Problem durch Unterforderung, Überforderung oder falsche Reize entsteht. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

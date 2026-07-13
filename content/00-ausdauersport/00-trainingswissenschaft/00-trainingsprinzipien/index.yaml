@@ -11,3 +11,104 @@ meta:
     hide: false
     noindex: false
     contains: pages
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/",
+              "name": "Trainingsprinzipien",
+              "headline": "Trainingsprinzipien",
+              "description": "→ In diesem Bereich geht es um Superkompensation, progressive Überlastung, Spezifität und Individualisierung, also um die Grundlagen, nach denen Training geplant, gesteuert und sinnvoll angepasst wird.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#content"
+              }
+            },
+            {
+              "@type": [
+                "CollectionPage"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#webpage"
+              },
+              "headline": "Trainingsprinzipien",
+              "name": "Trainingsprinzipien",
+              "description": "→ In diesem Bereich geht es um Superkompensation, progressive Überlastung, Spezifität und Individualisierung, also um die Grundlagen, nach denen Training geplant, gesteuert und sinnvoll angepasst wird.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-26",
+              "dateModified": "2026-06-27"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Trainingsprinzipien",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+                }
+              ]
+            }
+          ]
+        }

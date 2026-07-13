@@ -10,3 +10,167 @@ meta:
     time: 21-18-57
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/",
+              "name": "Redistribution und Vacant-Space-Theorie",
+              "headline": "Redistribution und Vacant-Space-Theorie",
+              "description": "Redistribution und Vacant-Space-Theorie beschreiben, wie Immunzellen durch Ausdauerbelastung vorübergehend umverteilt werden und wie dadurch langfristig Raum für eine erneuerte Immunzellbalance entstehen könnte. Im Ausdauertraining ist das wichtig, weil die sinkende Zellzahl im Blut nach Belastung nicht automatisch Immunschwäche bedeutet. Entscheidend ist: Viele Immunzellen verschwinden nicht, sondern wechseln ihren Ort.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#webpage"
+              },
+              "headline": "Redistribution und Vacant-Space-Theorie",
+              "name": "Redistribution und Vacant-Space-Theorie",
+              "description": "Redistribution und Vacant-Space-Theorie beschreiben, wie Immunzellen durch Ausdauerbelastung vorübergehend umverteilt werden und wie dadurch langfristig Raum für eine erneuerte Immunzellbalance entstehen könnte. Im Ausdauertraining ist das wichtig, weil die sinkende Zellzahl im Blut nach Belastung nicht automatisch Immunschwäche bedeutet. Entscheidend ist: Viele Immunzellen verschwinden nicht, sondern wechseln ihren Ort.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Immunsystem",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Redistribution und Vacant-Space-Theorie",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Redistribution einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Redistribution bedeutet, dass Immunzellen durch Training ihren Ort verändern. Sie erscheinen während der Belastung vermehrt im Blut und wandern danach wieder in Gewebe, Schleimhäute oder andere immunologisch aktive Bereiche. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind weniger Immunzellen im Blut nach Training schlecht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Weniger Immunzellen im Blut bedeuten nicht zwingend, dass das Immunsystem geschwächt ist. Viele Zellen können aus dem Blut in andere Körperbereiche umverteilt worden sein. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was beschreibt die Vacant-Space-Theorie?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Die Vacant-Space-Theorie beschreibt die Idee, dass wiederholte Mobilisierung von Immunzellen langfristig Raum für eine erneuerte oder flexiblere Immunzellbalance schaffen könnte. Sie wird vor allem im Zusammenhang mit Immunalterung diskutiert. [[5]](quelle-5) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Hat die Vacant-Space-Theorie etwas mit Anti-Aging zu tun?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sie kann helfen, mögliche Zusammenhänge zwischen Bewegung und Immunalterung einzuordnen. Sie ist aber kein Beweis dafür, dass Training das Immunsystem automatisch verjüngt. Entscheidend bleiben Trainingsdosis, Regeneration und Gesamtgesundheit. [[5]](quelle-5) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist das für Läufer relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Läufer erleben nach langen oder intensiven Einheiten oft deutliche körperliche Reaktionen. Redistribution erklärt, warum Immunveränderungen nach Belastung nicht nur als Schwäche, sondern auch als normale Umorganisation verstanden werden können. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Denkfehler?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der häufigste Denkfehler ist, Blutwerte nach Training isoliert zu betrachten. Das Immunsystem arbeitet nicht nur im Blut, sondern auch in Gewebe, Schleimhäuten, Lymphsystem und Organen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

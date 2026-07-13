@@ -10,3 +10,167 @@ meta:
     time: 21-18-43
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/",
+              "name": "Immunantwort auf Ausdauertraining",
+              "headline": "Immunantwort auf Ausdauertraining",
+              "description": "Die Immunantwort auf Ausdauertraining beschreibt, wie das Immunsystem auf körperliche Belastung reagiert. Im Ausdauertraining ist das wichtig, weil Training nicht nur Muskeln, Herz und Stoffwechsel fordert, sondern auch Immunzellen, Entzündungssignale und Regenerationsprozesse beeinflusst. Entscheidend ist die Dosis: Angemessenes Training kann die Immunfunktion unterstützen, während zu hohe Gesamtbelastung die Infektanfälligkeit vorübergehend erhöhen kann.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#webpage"
+              },
+              "headline": "Immunantwort auf Ausdauertraining",
+              "name": "Immunantwort auf Ausdauertraining",
+              "description": "Die Immunantwort auf Ausdauertraining beschreibt, wie das Immunsystem auf körperliche Belastung reagiert. Im Ausdauertraining ist das wichtig, weil Training nicht nur Muskeln, Herz und Stoffwechsel fordert, sondern auch Immunzellen, Entzündungssignale und Regenerationsprozesse beeinflusst. Entscheidend ist die Dosis: Angemessenes Training kann die Immunfunktion unterstützen, während zu hohe Gesamtbelastung die Infektanfälligkeit vorübergehend erhöhen kann.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Immunsystem",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Immunantwort auf Ausdauertraining",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist die Immunantwort auf Ausdauertraining einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Die Immunantwort auf Ausdauertraining beschreibt, wie das Immunsystem auf körperliche Belastung reagiert. Während und nach dem Training verändern sich Immunzellen, Entzündungssignale, Stresshormone und Regenerationsprozesse. [[6]](quelle-6) [[8]](quelle-8) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Ausdauertraining gut oder schlecht für das Immunsystem?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ausdauertraining ist nicht pauschal gut oder schlecht für das Immunsystem. Regelmäßiges, gut dosiertes Training kann die Immunfunktion unterstützen. Zu viel Belastung ohne ausreichende Erholung kann den Körper dagegen vorübergehend anfälliger machen. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum bin ich nach harten Trainingsphasen manchmal anfälliger?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nach sehr langen oder intensiven Belastungen ist der Körper mit Reparatur, Energieausgleich und Regulation beschäftigt. Wenn zusätzlich Schlafmangel, Stress oder geringe Energiezufuhr dazukommen, kann die Belastbarkeit des Immunsystems sinken. [[6]](quelle-6) [[8]](quelle-8) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Bedeutet Entzündung nach Training immer etwas Schlechtes?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Entzündung ist ein normaler Teil von Reparatur und Anpassung. Problematisch wird sie eher, wenn sie dauerhaft erhöht bleibt oder wenn der Körper zwischen den Belastungen nicht ausreichend regenerieren kann. [[1]](quelle-1) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielt Ernährung für die Immunantwort?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ernährung liefert Energie und Baustoffe für Training, Reparatur und Immunfunktion. Besonders bei hoher Trainingsbelastung kann zu geringe Energie- oder Kohlenhydratzufuhr die Regeneration und Immunbalance belasten. [[6]](quelle-6) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann sollte man mit Training vorsichtig sein?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Vorsicht ist sinnvoll bei Fieber, starkem Krankheitsgefühl, ungewöhnlicher Erschöpfung, deutlichen Infektzeichen oder Symptomen im Brustbereich. In solchen Situationen sollte Training nicht erzwungen werden. [[6]](quelle-6) [[8]](quelle-8) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

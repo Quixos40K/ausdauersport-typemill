@@ -10,3 +10,161 @@ meta:
     time: 21-06-15
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/",
+              "name": "Atmung und Sauerstoffaufnahme",
+              "headline": "Atmung und Sauerstoffaufnahme",
+              "description": "Atmung und Sauerstoffaufnahme beschreiben, wie Sauerstoff aus der Umgebungsluft über Lunge, Blut und Herz-Kreislauf-System zu den arbeitenden Muskeln gelangt. Im Ausdauertraining ist das wichtig, weil die Sauerstoffversorgung eine zentrale Grundlage für aerobe Energieproduktion, Belastbarkeit und Leistungsfähigkeit ist. Entscheidend ist nicht nur, wie viel Luft eingeatmet wird, sondern wie gut Sauerstoff aufgenommen, transportiert und in der Muskulatur genutzt werden kann.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#webpage"
+              },
+              "headline": "Atmung und Sauerstoffaufnahme",
+              "name": "Atmung und Sauerstoffaufnahme",
+              "description": "Atmung und Sauerstoffaufnahme beschreiben, wie Sauerstoff aus der Umgebungsluft über Lunge, Blut und Herz-Kreislauf-System zu den arbeitenden Muskeln gelangt. Im Ausdauertraining ist das wichtig, weil die Sauerstoffversorgung eine zentrale Grundlage für aerobe Energieproduktion, Belastbarkeit und Leistungsfähigkeit ist. Entscheidend ist nicht nur, wie viel Luft eingeatmet wird, sondern wie gut Sauerstoff aufgenommen, transportiert und in der Muskulatur genutzt werden kann.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-07-04"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Atmung und Sauerstoffaufnahme",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Atmung und Sauerstoffaufnahme einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Atmung und Sauerstoffaufnahme beschreiben, wie Sauerstoff aus der Luft in die Lunge gelangt, ins Blut aufgenommen, zum Muskel transportiert und dort für die Energieproduktion genutzt wird."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Sauerstoffaufnahme im Ausdauertraining wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sauerstoffaufnahme ist wichtig, weil längere Belastungen überwiegend aerob ablaufen. Je besser Sauerstoff transportiert und genutzt werden kann, desto stabiler kann der Körper Ausdauerleistung erbringen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist die Lunge beim Laufen immer der limitierende Faktor?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht unbedingt. Bei vielen gesunden Sportlern liegt die Begrenzung eher im Zusammenspiel aus Herz-Kreislauf-System, Bluttransport, muskulärer Sauerstoffnutzung und Belastungssteuerung."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet VO2max?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "VO2max beschreibt die maximale Menge Sauerstoff, die der Körper pro Minute aufnehmen und verwerten kann. Sie ist ein wichtiger Marker für das aerobe Potenzial, erklärt die Ausdauerleistung aber nicht allein."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann man Sauerstoffaufnahme trainieren?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja, regelmäßiges Ausdauertraining kann die Sauerstoffaufnahme, den Sauerstofftransport und die Sauerstoffnutzung verbessern. Je nach Trainingsform werden dabei unterschiedliche Teile der aeroben Leistungsfähigkeit angesprochen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Woran merkt man eine zu hohe Belastung über die Atmung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Wenn ruhiges Sprechen kaum noch möglich ist, die Atmung stark beschleunigt und die Belastung dauerhaft schwer kontrollierbar wird, liegt die Intensität meist deutlich höher. Das kann für intensive Einheiten sinnvoll sein, sollte aber nicht jede Trainingseinheit prägen. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

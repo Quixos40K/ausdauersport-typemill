@@ -10,3 +10,169 @@ meta:
     time: 21-47-12
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/",
+              "name": "Muskelkater und Gewebereparatur",
+              "headline": "Muskelkater und Gewebereparatur",
+              "description": "Muskelkater und Gewebereparatur beschreiben die Reaktion des Körpers auf ungewohnte oder hohe muskuläre Belastung. Im Ausdauertraining tritt Muskelkater besonders nach Bergabläufen, langen Läufen, Tempowechseln, Krafttraining oder neuen Bewegungen auf. Entscheidend ist, Muskelkater nicht als Trainingsqualität zu verwechseln, sondern als Zeichen erhöhter Gewebebelastung einzuordnen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#webpage"
+              },
+              "headline": "Muskelkater und Gewebereparatur",
+              "name": "Muskelkater und Gewebereparatur",
+              "description": "Muskelkater und Gewebereparatur beschreiben die Reaktion des Körpers auf ungewohnte oder hohe muskuläre Belastung. Im Ausdauertraining tritt Muskelkater besonders nach Bergabläufen, langen Läufen, Tempowechseln, Krafttraining oder neuen Bewegungen auf. Entscheidend ist, Muskelkater nicht als Trainingsqualität zu verwechseln, sondern als Zeichen erhöhter Gewebebelastung einzuordnen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Muskelkater und Gewebereparatur",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Muskelkater einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Muskelkater ist eine verzögerte Muskelbeschwerde nach ungewohnter oder hoher Belastung. Er entsteht meist einige Stunden nach dem Training und kann ein bis mehrere Tage spürbar bleiben. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Muskelkater ein Zeichen für gutes Training?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Muskelkater zeigt vor allem, dass das Gewebe ungewohnt oder stark belastet wurde. Training kann auch ohne Muskelkater sehr wirksam sein. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kommt Muskelkater von Laktat?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Muskelkater wird nicht dadurch erklärt, dass Laktat im Muskel bleibt. Er hängt eher mit Gewebebelastung, Entzündungsreaktion und Reparaturprozessen zusammen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Darf man mit Muskelkater laufen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bei leichtem Muskelkater kann lockere Bewegung möglich sein. Bei starkem Muskelkater, veränderter Lauftechnik oder Schmerzen sollte die Einheit angepasst oder verschoben werden. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was hilft bei Muskelkater?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hilfreich sind meist Schlaf, ausreichende Energiezufuhr, Protein, Flüssigkeit, lockere Bewegung und Zeit. Aggressive Maßnahmen sind selten nötig. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist Muskelkater ein Warnsignal?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Warnzeichen sind stechende Schmerzen, einseitige Beschwerden, Schwellung, deutlicher Kraftverlust, zunehmender Schmerz während Belastung oder veränderte Lauftechnik. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie kann man starken Muskelkater vermeiden?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Neue Reize sollten schrittweise aufgebaut werden. Besonders Bergabläufe, Sprints, Krafttraining, Sprünge und ungewohnte Untergründe sollten dosiert eingeführt werden. [[1]](quelle-1) [[2]](quelle-2) [[5]](quelle-5) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

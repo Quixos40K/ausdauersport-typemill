@@ -10,3 +10,169 @@ meta:
     time: 21-46-05
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/",
+              "name": "Ruhetag und aktive Erholung",
+              "headline": "Ruhetag und aktive Erholung",
+              "description": "Ruhetag und aktive Erholung beschreiben zwei unterschiedliche Wege, Belastung zu verarbeiten. Ein Ruhetag bedeutet, bewusst keinen Trainingsreiz zu setzen. Aktive Erholung nutzt sehr leichte Bewegung, um Durchblutung, Beweglichkeit und subjektives Wohlbefinden zu unterstützen. Entscheidend ist, dass Erholung nicht als Trainingsausfall verstanden wird, sondern als Teil der Anpassung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#webpage"
+              },
+              "headline": "Ruhetag und aktive Erholung",
+              "name": "Ruhetag und aktive Erholung",
+              "description": "Ruhetag und aktive Erholung beschreiben zwei unterschiedliche Wege, Belastung zu verarbeiten. Ein Ruhetag bedeutet, bewusst keinen Trainingsreiz zu setzen. Aktive Erholung nutzt sehr leichte Bewegung, um Durchblutung, Beweglichkeit und subjektives Wohlbefinden zu unterstützen. Entscheidend ist, dass Erholung nicht als Trainingsausfall verstanden wird, sondern als Teil der Anpassung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Ruhetag und aktive Erholung",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein Ruhetag einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Ruhetag ist ein geplanter Tag ohne Training. Er soll Belastung verarbeiten, Energiereserven auffüllen und Körper sowie Nervensystem entlasten. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist aktive Erholung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Aktive Erholung ist sehr leichte Bewegung ohne Leistungsziel. Dazu können Spaziergänge, lockeres Radfahren, entspanntes Schwimmen oder Mobilität gehören. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist ein Ruhetag verlorene Trainingszeit?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Ein Ruhetag ist Teil der Trainingsanpassung. Er hilft, dass vorher gesetzte Reize verarbeitet werden und die nächste belastende Einheit wieder sinnvoll möglich ist. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist aktive Erholung sinnvoll?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Aktive Erholung kann sinnvoll sein, wenn leichte Bewegung das Körpergefühl verbessert und keine zusätzliche Müdigkeit erzeugt. Sie sollte sehr locker bleiben. [[1]](quelle-1) [[2]](quelle-2) [[5]](quelle-5) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist vollständige Ruhe besser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Vollständige Ruhe ist oft besser nach sehr harten Einheiten, Wettkämpfen, starkem Muskelkater, Schlafmangel, hoher Alltagsbelastung oder beginnenden Beschwerden. [[1]](quelle-1)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei aktiver Erholung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, aktive Erholung zu intensiv zu gestalten. Wenn Pace, Kilometer, Puls oder Leistung wieder wichtig werden, wird aus Erholung schnell zusätzliche Belastung. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie erkenne ich, ob Erholung funktioniert?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein gutes Zeichen ist, wenn man sich am nächsten Tag frischer, ruhiger und belastbarer fühlt. Wenn aktive Erholung zusätzlich müde macht, war sie wahrscheinlich zu intensiv. [[1]](quelle-1) [[2]](quelle-2) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

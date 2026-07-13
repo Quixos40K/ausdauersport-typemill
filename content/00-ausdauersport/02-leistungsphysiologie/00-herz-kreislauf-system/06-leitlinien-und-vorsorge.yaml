@@ -8,3 +8,167 @@ meta:
     pageid: b0cae25067c57875
     title: 'Leitlinien und Vorsorge'
     description: Content
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/",
+              "name": "Leitlinien und Vorsorge",
+              "headline": "Leitlinien und Vorsorge",
+              "description": "Content",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#webpage"
+              },
+              "headline": "Leitlinien und Vorsorge",
+              "name": "Leitlinien und Vorsorge",
+              "description": "Content",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Herz Kreislauf System",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Leitlinien und Vorsorge",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was bedeuten Leitlinien im Sport einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Leitlinien sind fachliche Orientierungshilfen. Sie helfen dabei, Beschwerden, Risiken, Untersuchungen und sportliche Belastung nachvollziehbar einzuordnen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Vorsorge für Läufer wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Laufen fordert das Herz-Kreislauf-System regelmäßig. Vorsorge kann helfen, Risikofaktoren, Warnzeichen oder unklare Beschwerden frühzeitig zu erkennen und Training besser einzuordnen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wer sollte vor dem Training besonders auf Vorsorge achten?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Besonders relevant ist Vorsorge für Wiedereinsteiger, ältere Sportler, Personen mit bekannten Risikofaktoren, familiärer Vorbelastung, Vorerkrankungen oder Beschwerden unter Belastung. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Warnzeichen sollte man ernst nehmen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Brustdruck, Brustschmerz, Ohnmacht, Schwindel unter Belastung, ungeklärte Luftnot, Herzrasen, anhaltendes Herzstolpern oder plötzlicher Leistungseinbruch sollten medizinisch abgeklärt werden. [[1]](quelle-1) [[2]](quelle-2) [[7]](quelle-7) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Reicht eine Sportuhr zur Vorsorge aus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Wearables können Hinweise liefern, ersetzen aber keine medizinische Untersuchung. Auffällige Werte sollten immer im Zusammenhang mit Symptomen und Belastung bewertet werden. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Bedeutet Vorsorge, dass man weniger trainieren muss?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Vorsorge soll helfen, Training sicherer und langfristiger zu gestalten. Sie kann auch bestätigen, dass ein geplanter Trainingsaufbau gut vertretbar ist. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

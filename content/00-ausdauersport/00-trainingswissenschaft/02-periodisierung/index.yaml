@@ -11,3 +11,104 @@ meta:
     hide: false
     noindex: false
     contains: pages
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/",
+              "name": "Periodisierung",
+              "headline": "Periodisierung",
+              "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird. Gutes Ausdauertraining besteht nicht nur aus einzelnen sinnvollen Einheiten, sondern aus einer langfristigen Abfolge von Belastung, Erholung, Aufbau, Zuspitzung und Entlastung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#content"
+              }
+            },
+            {
+              "@type": [
+                "CollectionPage"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#webpage"
+              },
+              "headline": "Periodisierung",
+              "name": "Periodisierung",
+              "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird. Gutes Ausdauertraining besteht nicht nur aus einzelnen sinnvollen Einheiten, sondern aus einer langfristigen Abfolge von Belastung, Erholung, Aufbau, Zuspitzung und Entlastung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-26",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Periodisierung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+                }
+              ]
+            }
+          ]
+        }

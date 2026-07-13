@@ -8,3 +8,167 @@ meta:
     pageid: a9d48dc115eb1c20
     title: 'Arrhythmogene Risiken'
     description: Content
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/",
+              "name": "Arrhythmogene Risiken",
+              "headline": "Arrhythmogene Risiken",
+              "description": "Content",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#webpage"
+              },
+              "headline": "Arrhythmogene Risiken",
+              "name": "Arrhythmogene Risiken",
+              "description": "Content",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Herz Kreislauf System",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Arrhythmogene Risiken",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/arrhythmogene-risiken/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was sind arrhythmogene Risiken einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Arrhythmogene Risiken sind Faktoren, die Herzrhythmusstörungen begünstigen können. Dazu gehören zum Beispiel strukturelle Veränderungen des Herzmuskels, Entzündungen, Elektrolytverschiebungen, genetische Faktoren oder Belastungssituationen mit hoher sympathischer Aktivierung. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Ausdauertraining schlecht für den Herzrhythmus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Regelmäßiges Ausdauertraining wirkt in vielen Fällen herzschützend. Bei sehr hohen Umfängen, bestimmten Vorerkrankungen, Infekten oder strukturellen Auffälligkeiten muss das Risiko aber differenzierter eingeordnet werden. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Trigger und Substrat?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Trigger ist der Auslöser, zum Beispiel intensive Belastung, Hitze oder Stress. Ein Substrat ist die Grundlage, die eine Rhythmusstörung begünstigen kann, zum Beispiel Narbengewebe, Myokarditis oder myokardiale Fibrose. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Warnzeichen sollten Läufer ernst nehmen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Brustschmerz, Brustdruck, Ohnmacht, Schwindel unter Belastung, ungeklärte Luftnot, anhaltendes Herzrasen, auffälliges Herzstolpern oder plötzlicher Leistungseinbruch sollten medizinisch abgeklärt werden. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Training mit Infekt problematisch?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Infekt kann den Körper systemisch belasten. Wenn das Herz mitbetroffen ist oder eine Entzündung vorliegt, kann Training das Risiko erhöhen. Besonders bei Fieber, Brustbeschwerden, Herzstolpern oder deutlichem Krankheitsgefühl sollte nicht trainiert werden. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Können Wearables Rhythmusstörungen sicher erkennen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Wearables können Hinweise liefern, ersetzen aber keine medizinische Diagnostik. Auffällige Werte sollten im Zusammenhang mit Symptomen, Belastung und professioneller Untersuchung eingeordnet werden. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

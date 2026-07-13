@@ -10,3 +10,161 @@ meta:
     time: 21-36-15
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/",
+              "name": "Entzündung ist nicht immer schlecht",
+              "headline": "Entzündung ist nicht immer schlecht",
+              "description": "Entzündung ist nicht automatisch schlecht. Nach Training kann eine kontrollierte Entzündungsreaktion Teil von Reparatur, Anpassung und Gewebeumbau sein. Problematisch wird Entzündung vor allem dann, wenn sie zu stark, zu lange, wiederkehrend oder mit Schmerzen, Krankheitssymptomen und schlechter Erholung verbunden ist.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#webpage"
+              },
+              "headline": "Entzündung ist nicht immer schlecht",
+              "name": "Entzündung ist nicht immer schlecht",
+              "description": "Entzündung ist nicht automatisch schlecht. Nach Training kann eine kontrollierte Entzündungsreaktion Teil von Reparatur, Anpassung und Gewebeumbau sein. Problematisch wird Entzündung vor allem dann, wenn sie zu stark, zu lange, wiederkehrend oder mit Schmerzen, Krankheitssymptomen und schlechter Erholung verbunden ist.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Praxis Und Mythen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Entzündung ist nicht immer schlecht",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Ist Entzündung nach Training normal?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja, eine leichte und vorübergehende Entzündungsreaktion kann nach Training normal sein. Sie kann Teil von Reparatur, Anpassung und Gewebeumbau sein."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann wird Entzündung problematisch?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Problematisch wird sie, wenn Beschwerden stark sind, länger anhalten, zunehmen oder mit Schwellung, Hinken, Krankheitsgefühl oder Leistungseinbruch verbunden sind."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte man Entzündung immer unterdrücken?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht pauschal. Entzündung ist auch ein Signal für Reparatur und Anpassung. Ob Maßnahmen sinnvoll sind, hängt vom Kontext, den Beschwerden und der Ursache ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was hilft bei normaler Belastungsreaktion?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oft helfen Schlaf, ausreichende Energiezufuhr, lockere Bewegung, reduzierte Belastung und Zeit. Entscheidend ist, dass die Reaktion abklingt und die Belastbarkeit wieder steigt."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Anpassung und Überlastung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bei Anpassung klingt die Reaktion ab und der Körper wird belastbarer. Bei Überlastung bleiben Beschwerden bestehen, nehmen zu oder kehren bei ähnlicher Belastung immer wieder zurück."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Viele bewerten Entzündung entweder immer als schlecht oder ignorieren sie komplett. Sinnvoller ist die Einordnung: akut und kontrolliert kann sie hilfreich sein, anhaltend oder schmerzhaft kann sie ein Warnsignal sein. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

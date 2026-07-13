@@ -10,3 +10,161 @@ meta:
     time: 21-06-21
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/",
+              "name": "Energiestoffwechsel",
+              "headline": "Energiestoffwechsel",
+              "description": "Energiestoffwechsel beschreibt, wie der Körper aus gespeicherter oder zugeführter Energie nutzbare Bewegungsenergie gewinnt. Im Ausdauertraining ist das wichtig, weil jede Belastung Energie benötigt und unterschiedliche Intensitäten verschiedene Stoffwechselwege stärker beanspruchen. Entscheidend ist, dass Fettstoffwechsel, Kohlenhydratstoffwechsel und kurzfristige Energiesysteme immer zusammenarbeiten, aber je nach Belastung unterschiedlich stark beteiligt sind.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#webpage"
+              },
+              "headline": "Energiestoffwechsel",
+              "name": "Energiestoffwechsel",
+              "description": "Energiestoffwechsel beschreibt, wie der Körper aus gespeicherter oder zugeführter Energie nutzbare Bewegungsenergie gewinnt. Im Ausdauertraining ist das wichtig, weil jede Belastung Energie benötigt und unterschiedliche Intensitäten verschiedene Stoffwechselwege stärker beanspruchen. Entscheidend ist, dass Fettstoffwechsel, Kohlenhydratstoffwechsel und kurzfristige Energiesysteme immer zusammenarbeiten, aber je nach Belastung unterschiedlich stark beteiligt sind.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Energiestoffwechsel",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Energiestoffwechsel einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Energiestoffwechsel beschreibt, wie der Körper aus Kohlenhydraten, Fetten und anderen Energiequellen ATP bildet. ATP ist die unmittelbar nutzbare Energieform für Muskelarbeit."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Energiestoffwechsel im Ausdauertraining wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Er erklärt, warum unterschiedliche Intensitäten unterschiedlich wirken. Lockere Läufe beanspruchen den Stoffwechsel anders als Intervalle, Tempodauerläufe oder lange Läufe."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Verbrennt man beim lockeren Laufen nur Fett?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Der Körper nutzt fast immer Fett und Kohlenhydrate gleichzeitig. Bei niedriger Intensität ist der relative Fettanteil höher, bei steigender Intensität nimmt der Kohlenhydratanteil zu."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Laktat ein Abfallprodukt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Laktat ist kein reines Abfallprodukt. Es entsteht bei intensiverem Kohlenhydratstoffwechsel und kann im Körper weiter als Energiequelle genutzt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum sind Kohlenhydrate bei hoher Intensität wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kohlenhydrate können schneller Energie bereitstellen als Fette. Deshalb werden sie bei höherer Intensität wichtiger, besonders bei Tempoarbeit, Intervallen und Wettkämpfen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler beim Energiestoffwechsel?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, einzelne Stoffwechselwege isoliert zu betrachten. In der Praxis arbeiten Fettstoffwechsel, Kohlenhydratstoffwechsel, Laktatverarbeitung und Sauerstoffnutzung immer zusammen. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

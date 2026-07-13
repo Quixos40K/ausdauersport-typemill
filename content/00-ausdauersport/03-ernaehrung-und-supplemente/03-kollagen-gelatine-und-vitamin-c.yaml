@@ -10,3 +10,161 @@ meta:
     time: 19-29-28
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/",
+              "name": "Kollagen, Gelatine und Vitamin C",
+              "headline": "Kollagen, Gelatine und Vitamin C",
+              "description": "Kollagen, Gelatine und Vitamin C werden im Ausdauersport häufig im Zusammenhang mit Sehnen, Bändern, Knorpel und Bindegewebe diskutiert. Kollagen und Gelatine liefern bestimmte Aminosäuren, Vitamin C ist an der körpereigenen Kollagenbildung beteiligt. Entscheidend ist aber: Supplemente ersetzen keinen passenden Trainingsreiz, keine ausreichende Energiezufuhr und keine langfristige Belastungssteuerung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#webpage"
+              },
+              "headline": "Kollagen, Gelatine und Vitamin C",
+              "name": "Kollagen, Gelatine und Vitamin C",
+              "description": "Kollagen, Gelatine und Vitamin C werden im Ausdauersport häufig im Zusammenhang mit Sehnen, Bändern, Knorpel und Bindegewebe diskutiert. Kollagen und Gelatine liefern bestimmte Aminosäuren, Vitamin C ist an der körpereigenen Kollagenbildung beteiligt. Entscheidend ist aber: Supplemente ersetzen keinen passenden Trainingsreiz, keine ausreichende Energiezufuhr und keine langfristige Belastungssteuerung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Ernaehrung Und Supplemente",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Kollagen, Gelatine und Vitamin C",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Kollagen einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kollagen ist ein Strukturprotein des Körpers. Es kommt unter anderem in Sehnen, Bändern, Faszien, Knorpel, Knochen und Haut vor."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Kollagen und Gelatine?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Gelatine ist eine verarbeitete Form von Kollagen. Kollagenpeptide sind weiter aufgespaltene Formen, die meist besser löslich sind. Alle liefern kollagentypische Aminosäuren."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum wird Vitamin C zusammen mit Kollagen genannt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Vitamin C ist an Prozessen beteiligt, die für die körpereigene Kollagenbildung und die Stabilität von Kollagenstrukturen wichtig sind."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Können Kollagen oder Gelatine Sehnenprobleme lösen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht allein. Sehnenprobleme hängen stark mit Belastungssteuerung, mechanischem Reiz, Regeneration und individueller Situation zusammen. Beschwerden sollten bei Bedarf ärztlich oder therapeutisch abgeklärt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ersetzt Kollagen normales Protein?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Kollagen liefert bestimmte Aminosäuren, ist aber kein vollständiger Ersatz für eine ausgewogene Proteinversorgung aus unterschiedlichen Quellen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei Kollagen-Supplementen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, Kollagen als Abkürzung zu sehen. Ohne passenden Trainingsreiz, ausreichende Energie und gute Regeneration bleibt die Wirkung begrenzt."
+                  }
+                }
+              ]
+            }
+          ]
+        }

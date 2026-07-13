@@ -10,3 +10,167 @@ meta:
     time: 21-20-33
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/",
+              "name": "Kardiale Lastquantifizierung",
+              "headline": "Kardiale Lastquantifizierung",
+              "description": "Kardiale Lastquantifizierung beschreibt, wie die Belastung des Herz-Kreislauf-Systems während des Trainings eingeordnet wird. Im Ausdauertraining ist das wichtig, weil nicht nur Tempo oder Kilometer zählen, sondern auch Herzfrequenz, Dauer, Intensität, Erholung und individuelle Reaktion. Entscheidend ist, zwischen äußerer Trainingsleistung und innerer kardialer Beanspruchung zu unterscheiden.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#webpage"
+              },
+              "headline": "Kardiale Lastquantifizierung",
+              "name": "Kardiale Lastquantifizierung",
+              "description": "Kardiale Lastquantifizierung beschreibt, wie die Belastung des Herz-Kreislauf-Systems während des Trainings eingeordnet wird. Im Ausdauertraining ist das wichtig, weil nicht nur Tempo oder Kilometer zählen, sondern auch Herzfrequenz, Dauer, Intensität, Erholung und individuelle Reaktion. Entscheidend ist, zwischen äußerer Trainingsleistung und innerer kardialer Beanspruchung zu unterscheiden.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Herz Kreislauf System",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Kardiale Lastquantifizierung",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Kardiale Lastquantifizierung einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kardiale Lastquantifizierung beschreibt, wie stark ein Training das Herz-Kreislauf-System beansprucht. Dafür werden nicht nur Tempo oder Kilometer betrachtet, sondern auch Herzfrequenz, Dauer, Intensität, Erholung und individuelle Reaktion. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum reicht Pace allein nicht aus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pace zeigt nur die äußere Leistung. Die innere Belastung kann bei gleicher Pace stark unterschiedlich sein, zum Beispiel durch Hitze, Müdigkeit, Stress, Höhenmeter oder Flüssigkeitsverlust. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist eine hohe Herzfrequenz immer ein gutes Zeichen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Eine hohe Herzfrequenz zeigt zunächst nur eine hohe Beanspruchung. Ob der Reiz sinnvoll ist, hängt vom Trainingsziel, vom aktuellen Zustand und von der Erholung ab. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielt die Trainingsdauer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Die Trainingsdauer bestimmt, wie lange das Herz-Kreislauf-System erhöht arbeiten muss. Lange ruhige Einheiten können eine relevante kumulative kardiale Last erzeugen, auch wenn sie sich nicht sehr intensiv anfühlen. [[1]](quelle-1) [[2]](quelle-2) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Herzfrequenzdrift?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Herzfrequenzdrift bedeutet, dass die Herzfrequenz bei gleichbleibender Belastung allmählich ansteigt. Das kann auf Ermüdung, Hitze, Flüssigkeitsverlust oder steigende innere Beanspruchung hinweisen. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ersetzt kardiale Lastquantifizierung eine sportmedizinische Untersuchung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Sie hilft bei der Einordnung von Training, ersetzt aber keine medizinische Abklärung, besonders bei Beschwerden, auffälligen Symptomen oder bekannten Herz-Kreislauf-Erkrankungen. [[1]](quelle-1) [[2]](quelle-2) [[7]](quelle-7) [[8]](quelle-8) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

@@ -10,3 +10,167 @@ meta:
     time: 21-20-41
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/",
+              "name": "Herzvolumina und Sportherz",
+              "headline": "Herzvolumina und Sportherz",
+              "description": "Herzvolumina beschreiben, wie viel Blut die Herzkammern aufnehmen und auswerfen können. Im Ausdauertraining ist das wichtig, weil ein trainiertes Herz bei gleicher Belastung oft ökonomischer arbeitet. Das Sportherz beschreibt dabei eine meist physiologische Anpassung an regelmäßiges Ausdauertraining, muss aber immer von krankhaften Veränderungen unterschieden werden.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#webpage"
+              },
+              "headline": "Herzvolumina und Sportherz",
+              "name": "Herzvolumina und Sportherz",
+              "description": "Herzvolumina beschreiben, wie viel Blut die Herzkammern aufnehmen und auswerfen können. Im Ausdauertraining ist das wichtig, weil ein trainiertes Herz bei gleicher Belastung oft ökonomischer arbeitet. Das Sportherz beschreibt dabei eine meist physiologische Anpassung an regelmäßiges Ausdauertraining, muss aber immer von krankhaften Veränderungen unterschieden werden.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-07-02"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Herz Kreislauf System",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Herzvolumina und Sportherz",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was sind Herzvolumina einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Herzvolumina beschreiben, wie viel Blut die Herzkammern aufnehmen und auswerfen können. Besonders wichtig sind das Füllungsvolumen vor dem Herzschlag, das Restvolumen nach dem Herzschlag und das daraus entstehende Schlagvolumen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Sportherz?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sportherz beschreibt eine meist physiologische Anpassung des Herzens an regelmäßiges Training. Bei Ausdauersportlern können größere Herzkammern, ein höheres Schlagvolumen und eine niedrigere Ruheherzfrequenz auftreten. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist ein Sportherz gefährlich?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Sportherz ist häufig eine normale Anpassung an Training. Es muss aber von krankhaften Veränderungen unterschieden werden. Deshalb sind Symptome, Familiengeschichte, Trainingshistorie und kardiologische Diagnostik wichtig. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum haben Ausdauersportler oft eine niedrigere Ruheherzfrequenz?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein trainiertes Herz kann pro Schlag häufig mehr Blut auswerfen. Dadurch muss es in Ruhe oft weniger häufig schlagen, um den Körper ausreichend zu versorgen. [[1]](quelle-1)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind größere Herzvolumina automatisch besser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Größere Herzvolumina können eine sinnvolle Anpassung sein, erklären aber nicht allein die Leistungsfähigkeit. Auch Laufökonomie, Stoffwechsel, Schwellenleistung, Regeneration und Trainingssteuerung sind wichtig. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann sollte man Herzbeschwerden abklären lassen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Brustschmerz, ungeklärte Luftnot, Ohnmacht, Schwindel unter Belastung, auffälliges Herzstolpern oder plötzlicher Leistungsabfall sollten medizinisch abgeklärt werden. Training sollte solche Warnzeichen nicht einfach überdecken. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6) [[3]](quelle-3) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

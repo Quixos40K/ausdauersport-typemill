@@ -11,3 +11,98 @@ meta:
     contains: pages
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/",
+              "name": "Trainingswissenschaft",
+              "headline": "Trainingswissenschaft",
+              "description": "Trainingswissenschaft beschreibt, wie Training geplant, gesteuert und ausgewertet wird. Gutes Ausdauertraining entsteht nicht durch einzelne harte Einheiten, sondern durch ein sinnvolles Zusammenspiel aus Trainingsprinzipien, Intensitäten, Periodisierung, Belastungsverteilung und langfristiger Leistungsentwicklung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#content"
+              }
+            },
+            {
+              "@type": [
+                "CollectionPage"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#webpage"
+              },
+              "headline": "Trainingswissenschaft",
+              "name": "Trainingswissenschaft",
+              "description": "Trainingswissenschaft beschreibt, wie Training geplant, gesteuert und ausgewertet wird. Gutes Ausdauertraining entsteht nicht durch einzelne harte Einheiten, sondern durch ein sinnvolles Zusammenspiel aus Trainingsprinzipien, Intensitäten, Periodisierung, Belastungsverteilung und langfristiger Leistungsentwicklung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-29"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                }
+              ]
+            }
+          ]
+        }

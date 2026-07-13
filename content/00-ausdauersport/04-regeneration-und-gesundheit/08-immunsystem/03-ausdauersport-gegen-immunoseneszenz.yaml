@@ -10,3 +10,167 @@ meta:
     time: 21-19-05
     hide: false
     noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/",
+              "name": "Ausdauersport gegen Immunoseneszenz",
+              "headline": "Ausdauersport gegen Immunoseneszenz",
+              "description": "Ausdauersport gegen Immunoseneszenz beschreibt, wie regelmäßige aerobe Belastung altersbedingte Veränderungen des Immunsystems günstig beeinflussen kann. Im Ausdauertraining ist das wichtig, weil Immunalterung nicht nur mit Infektanfälligkeit, sondern auch mit chronisch erhöhter Entzündungsaktivität, schlechterer Zellregulation und verlangsamter Erholung zusammenhängen kann.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#webpage"
+              },
+              "headline": "Ausdauersport gegen Immunoseneszenz",
+              "name": "Ausdauersport gegen Immunoseneszenz",
+              "description": "Ausdauersport gegen Immunoseneszenz beschreibt, wie regelmäßige aerobe Belastung altersbedingte Veränderungen des Immunsystems günstig beeinflussen kann. Im Ausdauertraining ist das wichtig, weil Immunalterung nicht nur mit Infektanfälligkeit, sondern auch mit chronisch erhöhter Entzündungsaktivität, schlechterer Zellregulation und verlangsamter Erholung zusammenhängen kann.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Immunsystem",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Ausdauersport gegen Immunoseneszenz",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Immunoseneszenz einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Immunoseneszenz beschreibt altersbedingte Veränderungen des Immunsystems. Immunzellen können weniger flexibel reagieren, entzündliche Signale können länger bestehen bleiben und die Immunregulation verändert sich. [[1]](quelle-1) [[2]](quelle-2) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann Ausdauersport Immunoseneszenz verhindern?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ausdauersport kann Immunoseneszenz nicht verhindern oder rückgängig machen. Regelmäßige, gut dosierte Bewegung kann aber helfen, Immunzellen zu mobilisieren, Entzündung besser zu regulieren und die Anpassungsfähigkeit des Körpers zu unterstützen. [[1]](quelle-1) [[2]](quelle-2) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist regelmäßiges Training wichtiger als einzelne harte Einheiten?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das Immunsystem passt sich vor allem an wiederholte Reize an. Einzelne sehr harte Einheiten können stark belasten, während regelmäßige, gut verkraftete Einheiten langfristig eher eine stabile Immunbalance unterstützen. [[2]](quelle-2) [[4]](quelle-4) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielt Entzündung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Entzündung ist nicht automatisch schlecht. Sie gehört zu Reparatur und Anpassung. Problematisch wird sie eher, wenn sie dauerhaft erhöht bleibt oder durch zu viel Training, Schlafmangel und Energiemangel verstärkt wird. [[2]](quelle-2) [[4]](quelle-4) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet das für ältere Läufer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Für ältere Läufer ist Belastungsverträglichkeit besonders wichtig. Sinnvoll sind regelmäßige Ausdauerreize, ausreichend Erholung, gute Energieversorgung und eine Trainingssteuerung, die Warnzeichen ernst nimmt. [[1]](quelle-1) [[2]](quelle-2) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei diesem Thema?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist die Annahme, mehr Training sei automatisch besser für das Immunsystem. Entscheidend ist nicht maximale Belastung, sondern die Balance aus Reiz, Regeneration und langfristiger Regelmäßigkeit. [[2]](quelle-2) [[4]](quelle-4) [[5]](quelle-5) ---- ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }
