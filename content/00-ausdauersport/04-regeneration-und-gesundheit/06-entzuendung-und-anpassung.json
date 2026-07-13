@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung",
       "headline": "Entzündung und Anpassung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/entzuendung-und-anpassung#webpage"
       },
       "headline": "Entzündung und Anpassung",
       "description": "Entzündung und Anpassung beschreiben, wie der Körper auf Trainingsbelastung reagiert. Eine kurzfristige Entzündungsreaktion nach Training ist nicht automatis...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

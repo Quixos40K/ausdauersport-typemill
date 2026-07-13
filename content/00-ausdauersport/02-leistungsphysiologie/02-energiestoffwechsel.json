@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/energiestoffwechsel",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel",
       "headline": "Energiestoffwechsel",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#content"
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#content",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#webpage"
       },
       "headline": "Energiestoffwechsel",
       "description": "Energiestoffwechsel beschreibt, wie der Körper aus gespeicherter oder zugeführter Energie nutzbare Bewegungsenergie gewinnt. Im Ausdauertraining ist das wich...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,28 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/#webpage",
-      "url": "https://deine-domain.de/",
+      "@id": "https://oliver-nix.de/#webpage",
+      "url": "https://oliver-nix.de/",
       "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       }
     },
     {
       "@type": [
         "CollectionPage"
       ],
-      "@id": "https://deine-domain.de/#content",
+      "@id": "https://oliver-nix.de/#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/#webpage"
+        "@id": "https://oliver-nix.de/#webpage"
       },
       "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
       "description": "Ich konzipiere und steuere hochperformante digitale Architekturen, die auf messbarer Marktdominanz, kaufmännischer P&L-Strenge und kompromissloser Answer Eng...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung",
       "headline": "Ruhetag und aktive Erholung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage"
       },
       "headline": "Ruhetag und aktive Erholung",
       "description": "Ruhetag und aktive Erholung beschreiben zwei unterschiedliche Wege, Belastung zu verarbeiten. Ein Ruhetag bedeutet, bewusst keinen Trainingsreiz zu setzen. A...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

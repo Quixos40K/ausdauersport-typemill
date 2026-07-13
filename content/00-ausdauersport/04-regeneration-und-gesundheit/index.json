@@ -25,28 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit",
       "headline": "Regeneration und Gesundheit",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       }
     },
     {
       "@type": [
         "CollectionPage"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit#webpage"
       },
       "headline": "Regeneration und Gesundheit",
       "description": "Regeneration und Gesundheit beschreibt, wie Erholung, Schlaf, Ernährung, Entzündung, Immunsystem und Gesamtbelastung die langfristige Belastbarkeit im Ausdau...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

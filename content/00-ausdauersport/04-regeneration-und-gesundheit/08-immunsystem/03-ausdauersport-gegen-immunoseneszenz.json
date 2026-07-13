@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz",
       "headline": "Ausdauersport gegen Immunoseneszenz",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/ausdauersport-gegen-immunoseneszenz#webpage"
       },
       "headline": "Ausdauersport gegen Immunoseneszenz",
       "description": "Ausdauersport gegen Immunoseneszenz beschreibt, wie regelmäßige aerobe Belastung altersbedingte Veränderungen des Immunsystems günstig beeinflussen kann. Im ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

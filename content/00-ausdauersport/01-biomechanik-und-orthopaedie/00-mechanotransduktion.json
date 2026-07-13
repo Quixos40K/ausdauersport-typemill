@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#webpage",
-      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion",
       "headline": "Mechanotransduktion",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#content"
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#content",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#webpage"
       },
       "headline": "Mechanotransduktion",
       "description": "Mechanotransduktion beschreibt, wie Zellen mechanische Reize in biologische Signale übersetzen. Im Ausdauersport ist das wichtig, weil Sehnen, Knochen, Knorp...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

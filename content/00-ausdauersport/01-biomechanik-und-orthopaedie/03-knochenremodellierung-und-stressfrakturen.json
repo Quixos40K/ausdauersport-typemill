@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#webpage",
-      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen",
       "headline": "Knochenremodellierung und Stressfrakturen",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#content"
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#content",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#webpage"
       },
       "headline": "Knochenremodellierung und Stressfrakturen",
       "description": "Knochenremodellierung beschreibt, wie Knochengewebe fortlaufend abgebaut, erneuert und an mechanische Belastung angepasst wird. Im Ausdauersport ist das wich...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

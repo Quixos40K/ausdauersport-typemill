@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training",
       "headline": "Polarisiertes Training",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#content"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/polarisiertes-training#webpage"
       },
       "headline": "Polarisiertes Training",
       "description": "Polarisiertes Training ist eine Belastungsverteilung, bei der der größte Teil des Trainings sehr locker und ein kleiner Teil sehr intensiv durchgeführt wird....",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

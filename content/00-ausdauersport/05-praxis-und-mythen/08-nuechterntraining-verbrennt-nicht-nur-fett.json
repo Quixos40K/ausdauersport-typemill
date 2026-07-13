@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage",
-      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett",
       "headline": "Nüchterntraining verbrennt nicht nur Fett",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content"
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/nuechterntraining-verbrennt-nicht-nur-fett#webpage"
       },
       "headline": "Nüchterntraining verbrennt nicht nur Fett",
       "description": "Nüchterntraining verbrennt nicht nur Fett. Auch ohne Frühstück nutzt der Körper weiterhin verschiedene Energiequellen, darunter Fettsäuren, gespeicherte Kohl...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

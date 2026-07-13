@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring",
       "headline": "Monitoring",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#content"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/monitoring#webpage"
       },
       "headline": "Monitoring",
       "description": "Monitoring beschreibt die regelmäßige Beobachtung von Training, Erholung und Körperreaktionen. Im Ausdauertraining hilft Monitoring zu erkennen, ob Belastung...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

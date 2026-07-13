@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit",
       "headline": "Trainingshäufigkeit",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#content"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#webpage"
       },
       "headline": "Trainingshäufigkeit",
       "description": "Trainingshäufigkeit beschreibt, wie oft innerhalb eines bestimmten Zeitraums trainiert wird. [[1]](#quelle-1) Im Ausdauertraining ist das wichtig, weil nicht...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

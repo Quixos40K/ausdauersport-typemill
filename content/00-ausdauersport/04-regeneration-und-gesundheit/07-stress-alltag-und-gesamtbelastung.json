@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung",
       "headline": "Stress, Alltag und Gesamtbelastung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#webpage"
       },
       "headline": "Stress, Alltag und Gesamtbelastung",
       "description": "Stress, Alltag und Gesamtbelastung beschreiben, dass der Körper Training nicht isoliert verarbeitet. Beruf, Schlaf, Ernährung, Familie, mentale Belastung und...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

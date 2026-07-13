@@ -25,28 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport#webpage",
-      "url": "https://deine-domain.de/ausdauersport",
+      "@id": "https://oliver-nix.de/ausdauersport#webpage",
+      "url": "https://oliver-nix.de/ausdauersport",
       "headline": "Ausdauersport: Faszination, Struktur und Wissenschaft",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       }
     },
     {
       "@type": [
         "CollectionPage"
       ],
-      "@id": "https://deine-domain.de/ausdauersport#content",
+      "@id": "https://oliver-nix.de/ausdauersport#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport#webpage"
       },
       "headline": "Ausdauersport: Faszination, Struktur und Wissenschaft",
       "description": "Ausdauersport ist meine absolute Leidenschaft, ein langfristiges Projekt und ein Thema, das mich immer wieder neugierig macht. Ich bin kein Elite-Athlet, der...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5",
       "headline": "Zone 1–5",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#content"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#webpage"
       },
       "headline": "Zone 1–5",
       "description": "Trainingszonen helfen, Ausdauertraining gezielter zu steuern. Sie teilen Belastungen in unterschiedliche Intensitätsbereiche ein und machen sichtbar, ob eine...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

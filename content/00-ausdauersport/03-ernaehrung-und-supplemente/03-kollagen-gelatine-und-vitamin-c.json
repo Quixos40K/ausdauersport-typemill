@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#webpage",
-      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c",
       "headline": "Kollagen, Gelatine und Vitamin C",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#content"
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#content",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#webpage"
       },
       "headline": "Kollagen, Gelatine und Vitamin C",
       "description": "Kollagen, Gelatine und Vitamin C werden im Ausdauersport häufig im Zusammenhang mit Sehnen, Bändern, Knorpel und Bindegewebe diskutiert. Kollagen und Gelatin...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

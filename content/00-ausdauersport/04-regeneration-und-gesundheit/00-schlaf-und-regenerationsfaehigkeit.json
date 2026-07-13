@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit",
       "headline": "Schlaf und Regenerationsfähigkeit",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/schlaf-und-regenerationsfaehigkeit#webpage"
       },
       "headline": "Schlaf und Regenerationsfähigkeit",
       "description": "Schlaf und Regenerationsfähigkeit beschreiben, wie gut der Körper nach Training, Alltag und mentaler Belastung wieder in einen belastbaren Zustand zurückkehr...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

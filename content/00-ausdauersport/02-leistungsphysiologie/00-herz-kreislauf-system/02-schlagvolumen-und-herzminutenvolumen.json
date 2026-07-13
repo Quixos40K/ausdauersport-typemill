@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen",
       "headline": "Schlagvolumen und Herzminutenvolumen",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content"
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage"
       },
       "headline": "Schlagvolumen und Herzminutenvolumen",
       "description": "Das Schlagvolumen beschreibt, wie viel Blut das Herz mit einem einzelnen Herzschlag auswirft. Das Herzminutenvolumen beschreibt, wie viel Blut pro Minute dur...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

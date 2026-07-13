@@ -25,28 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung",
       "headline": "Periodisierung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       }
     },
     {
       "@type": [
         "CollectionPage"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung#webpage"
       },
       "headline": "Periodisierung",
       "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird. Gutes Ausdauertraining besteht nich...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

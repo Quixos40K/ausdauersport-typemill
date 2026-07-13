@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#webpage",
-      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser",
       "headline": "Zone 2 ist nicht immer besser",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#content"
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#content",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/zone-2-ist-nicht-immer-besser#webpage"
       },
       "headline": "Zone 2 ist nicht immer besser",
       "description": "Zone 2 ist ein wichtiger Trainingsbereich, aber nicht automatisch die beste Lösung für jedes Ziel. Lockere aerobe Belastung kann Grundlagenausdauer, Fettstof...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

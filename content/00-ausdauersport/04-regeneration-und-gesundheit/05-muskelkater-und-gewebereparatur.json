@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur",
       "headline": "Muskelkater und Gewebereparatur",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage"
       },
       "headline": "Muskelkater und Gewebereparatur",
       "description": "Muskelkater und Gewebereparatur beschreiben die Reaktion des Körpers auf ungewohnte oder hohe muskuläre Belastung. Im Ausdauertraining tritt Muskelkater beso...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

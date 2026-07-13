@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag",
       "headline": "Dehnen als Trainingseinheit",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#content"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#content",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag#webpage"
       },
       "headline": "Dehnen als Trainingseinheit",
       "description": "Dehnen als Trainingseinheit bedeutet, Beweglichkeitsarbeit bewusst von intensiven Lauf- oder Krafteinheiten zu trennen. Im Ausdauertraining ist das sinnvoll,...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

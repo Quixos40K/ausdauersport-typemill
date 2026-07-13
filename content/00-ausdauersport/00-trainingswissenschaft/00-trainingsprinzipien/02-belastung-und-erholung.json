@@ -25,14 +25,14 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung",
       "headline": "Belastung und Erholung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#content"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#content"
       }
     },
     {
@@ -40,17 +40,17 @@
         "MedicalWebPage",
         "Article"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung#webpage"
       },
       "headline": "Belastung und Erholung",
       "description": "Belastung und Erholung sind zwei Seiten desselben Trainingsprozesses. Die Belastung setzt den Reiz, die Erholung ermöglicht die Anpassung. Fortschritt entste...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }

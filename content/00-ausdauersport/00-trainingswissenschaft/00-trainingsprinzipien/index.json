@@ -25,28 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien",
       "headline": "Trainingsprinzipien",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       }
     },
     {
       "@type": [
         "CollectionPage"
       ],
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#content",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien#webpage"
       },
       "headline": "Trainingsprinzipien",
       "description": "Gutes Ausdauertraining entsteht nicht durch möglichst viele harte Einheiten, sondern durch das richtige Verhältnis aus Reiz, Erholung und Anpassung. Das Them...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
     }
