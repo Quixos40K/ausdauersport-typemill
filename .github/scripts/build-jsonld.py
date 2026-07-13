@@ -6,39 +6,62 @@ import yaml
 
 CONTENT_DIR = "content"
 SCHEMA_DIR = "schema"
-BASE_URL = "https://oliver-nix.de" # Hier deine echte Domain eintragen
+BASE_URL = "https://oliver-nix.de"
 PERSON_ID = f"{BASE_URL}/#oliver-nix"
 SITE_ID = f"{BASE_URL}/#website"
 
 def load_central_entities():
+    """Lädt die globalen Konstanten und korrigiert die URIs auf die Ziel-Domain."""
     entities = []
     for name in ["person", "site"]:
         path = os.path.join(SCHEMA_DIR, f"{name}.json")
         if os.path.exists(path):
             with open(path, 'r', encoding='utf-8') as f:
-                entities.append(json.load(f))
+                data = json.load(f)
+                # Domänenspezifische Umschreibung zur Absicherung der SSOT
+                if "@id" in data:
+                    data["@id"] = data["@id"].replace("https://deine-domain.de", BASE_URL)
+                if "url" in data:
+                    data["url"] = data["url"].replace("https://deine-domain.de", BASE_URL)
+                if "sameAs" in data:
+                    data["sameAs"] = [link.replace("https://deine-domain.de", BASE_URL) for link in data["sameAs"]]
+                if "publisher" in data and isinstance(data["publisher"], dict) and "@id" in data["publisher"]:
+                    data["publisher"]["@id"] = data["publisher"]["@id"].replace("https://deine-domain.de", BASE_URL)
+                entities.append(data)
     return entities
 
 def extract_faqs(md_content):
-    """Extrahiert FAQs absolut robust über Splitting, unabhängig von Formatierungsvarianten."""
+    """Extrahiert FAQs vollautomatisch und fehlertolerant über Regex-Splitting."""
     faqs = []
-    if '## Häufige Fragen' in md_content:
-        # Extrahiere den Block bis zur nächsten H2-Überschrift oder zum Dateiende
-        faq_block = md_content.split('## Häufige Fragen')[1].split('\n##')[0]
+    # Erkennt flexibel: '## Häufige Fragen', '## FAQ', '## FAQs', '## Häufige Fragen zur...'
+    heading_match = re.search(r'##\s*(?:Häufige\s+Fragen|FAQ)[^\n]*', md_content, re.IGNORECASE)
+    
+    if heading_match:
+        post_heading = md_content[heading_match.end():]
+        # Trennt den Block sauber bei der nächsten H2-Überschrift ab
+        faq_block = re.split(r'\n##\s+', post_heading)[0]
         
-        # Aufteilen an der Kennzeichnung '**Frage'
-        items = faq_block.split('**Frage')
-        for item in items[1:]: # Erste Splittung vor der ersten Frage ignorieren
-            if '**Antwort' in item:
-                parts = item.split('**Antwort')
-                q_part = parts[0]
-                a_part = parts[1]
+        # Splittet den Block bei allen erdenklichen Varianten von "Frage" (fett, H3, mit Zahlen)
+        raw_items = re.split(r'(?:\#\#\#\s*Frage|__Frage__|__Frage\s*\d+__|__Frage:__|__Frage\s*\d+:__|\*\*Frage|\*\*Frage\s*\d+|\*\*Frage:|\*\*Frage\s*\d+:)', faq_block, flags=re.IGNORECASE)
+        
+        for item in raw_items[1:]:
+            # Sucht den passenden Antwort-Marker innerhalb dieses Abschnitts
+            answer_match = re.search(r'(?:\#\#\#\s*Antwort|__Antwort__|__Antwort:__|\*\*Antwort|\*\*Antwort:)', item, flags=re.IGNORECASE)
+            if answer_match:
+                q_part = item[:answer_match.start()]
+                a_part = item[answer_match.end():]
                 
-                # Bereinige Doppelpunkte, Zahlen und verbliebene Sterne/Rauten am Anfang
-                q_clean = re.sub(r'^[\d\s\:\*\#\-]+', '', q_part).strip()
-                a_clean = re.sub(r'^[\s\:\*\#\-]+', '', a_part).strip()
+                # Bereinigt nackte Zahlen, Doppelpunkte und Formatierungszeichen am Anfang der Frage
+                q_clean = re.sub(r'^[\d\s\:\*\#\-\_\?]+', '', q_part).strip()
+                q_clean = q_clean.rstrip('*_ :?')
+                if q_clean:
+                    q_clean += "?" # Standardisiertes Satzzeichen für Entitäten-Titel
                 
-                if q_clean and a_clean:
+                # Bereinigt die dazugehörige Antwort von führenden Sonderzeichen
+                a_clean = re.sub(r'^[\d\s\:\*\#\-\_]+', '', a_part).strip()
+                a_clean = a_clean.rstrip('*_ ')
+                
+                if q_clean and a_clean and len(q_clean) > 3:
                     faqs.append({"q": q_clean, "a": a_clean})
     return faqs
 
@@ -76,6 +99,7 @@ def build_graph(md_path, yaml_path, central_entities):
         paragraphs = [p.strip() for p in md_content.split('\n\n') if p.strip() and not p.startswith('#') and not p.startswith('![')]
         description = paragraphs[0][:157] + "..." if paragraphs else f"Sportwissenschaftliche Evidenz zu {title}."
 
+    # Pfad-Normalisierung (Entfernung der Typemill-Sortierungspräfixe wie 00-)
     clean_path = re.sub(r'\d{2}-', '', md_path.replace('content/', '').replace('.md', ''))
     filename = os.path.basename(md_path)
     is_index = filename == "index.md"
@@ -122,7 +146,7 @@ def build_graph(md_path, yaml_path, central_entities):
 
     graph.append(main_entity)
 
-    # FAQs extrahieren und an den Graphen hängen
+    # Fehlertolerante FAQ-Extraktion ausführen
     faqs = extract_faqs(md_content)
     if faqs:
         faq_entities = [{"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in faqs]
