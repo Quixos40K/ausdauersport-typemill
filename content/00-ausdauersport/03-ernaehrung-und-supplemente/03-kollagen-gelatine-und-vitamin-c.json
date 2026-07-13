@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Kollagen einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kollagen ist ein Strukturprotein des Körpers. Es kommt unter anderem in Sehnen, Bändern, Faszien, Knorpel, Knochen und Haut vor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Kollagen und Gelatine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gelatine ist eine verarbeitete Form von Kollagen. Kollagenpeptide sind weiter aufgespaltene Formen, die meist besser löslich sind. Alle liefern kollagentypische Aminosäuren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum wird Vitamin C zusammen mit Kollagen genannt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vitamin C ist an Prozessen beteiligt, die für die körpereigene Kollagenbildung und die Stabilität von Kollagenstrukturen wichtig sind."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Kollagen oder Gelatine Sehnenprobleme lösen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht allein. Sehnenprobleme hängen stark mit Belastungssteuerung, mechanischem Reiz, Regeneration und individueller Situation zusammen. Beschwerden sollten bei Bedarf ärztlich oder therapeutisch abgeklärt werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ersetzt Kollagen normales Protein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Kollagen liefert bestimmte Aminosäuren, ist aber kein vollständiger Ersatz für eine ausgewogene Proteinversorgung aus unterschiedlichen Quellen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Kollagen-Supplementen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, Kollagen als Abkürzung zu sehen. Ohne passenden Trainingsreiz, ausreichende Energie und gute Regeneration bleibt die Wirkung begrenzt."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kollagen-gelatine-und-vitamin-c#webpage"
+      }
     }
   ]
 }

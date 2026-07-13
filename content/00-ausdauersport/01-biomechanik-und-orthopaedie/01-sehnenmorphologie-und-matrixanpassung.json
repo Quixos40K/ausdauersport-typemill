@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Sehnenmorphologie einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sehnenmorphologie beschreibt den Aufbau und die Struktur einer Sehne. Dazu gehören Kollagenfasern, Sehnendicke, Querschnitt, Wassergehalt, Steifigkeit und die Organisation der extrazellulären Matrix. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6) [[3]](#quelle-3)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist Matrixanpassung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrixanpassung bedeutet, dass sich das bindegewebige Grundgerüst der Sehne an Belastung anpasst. Dazu gehören Veränderungen im Kollagenaufbau, in der Faserordnung und in der mechanischen Belastbarkeit. [[1]](#quelle-1) [[3]](#quelle-3) [[2]](#quelle-2) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist das für Läufer wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Läufer belasten ihre Sehnen bei jedem Schritt. Besonders Achillessehne, Patellarsehne und Plantarfaszie müssen wiederholte Zugbelastungen und elastische Speicherarbeit tolerieren. [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4) [[1]](#quelle-1)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Passen sich Sehnen schnell an Training an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sehnen passen sich meist langsamer an als Muskeln und das Herz-Kreislauf-System. Deshalb kann sich ein Läufer fit fühlen, obwohl die Sehnenbelastbarkeit noch nicht ausreichend mitgewachsen ist. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Sehnenbelastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist eine zu schnelle Steigerung von Umfang, Tempo, Bergläufen oder intensiven Einheiten. Auch neue Schuhe oder veränderte Lauftechnik können die Sehnenbelastung abrupt verändern. [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte man Sehnenbeschwerden abklären lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wiederkehrende, zunehmende oder belastungsabhängige Sehnenschmerzen sollten medizinisch oder therapeutisch abgeklärt werden. Das gilt besonders, wenn Beschwerden über mehrere Tage bestehen oder das Laufbild verändern. [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4) [[5]](#quelle-5)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#webpage"
+      }
     }
   ]
 }

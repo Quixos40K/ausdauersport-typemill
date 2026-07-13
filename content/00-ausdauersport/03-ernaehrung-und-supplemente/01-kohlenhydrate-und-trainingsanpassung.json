@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Energieverfügbarkeit einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training noch für grundlegende Funktionen, Regeneration und Anpassung bleibt. Sie ist deshalb mehr als nur die tägliche Kalorienmenge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Energieverfügbarkeit im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ausdauertraining erzeugt Belastung. Damit daraus Anpassung entsteht, braucht der Körper genügend Energie für Muskeln, Knochen, Immunsystem, Hormonhaushalt und Reparaturprozesse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Rolle spielen Kohlenhydrate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kohlenhydrate sind besonders wichtig für intensive Belastungen, Tempoläufe, Intervalle, lange Läufe und Wettkämpfe. Sie helfen, Trainingsqualität und Leistungsfähigkeit zu sichern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Reicht viel Protein für gute Regeneration?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Protein ist wichtig für Reparatur und Anpassung, aber ohne ausreichende Gesamtenergie und passende Kohlenhydratversorgung bleibt Regeneration oft unvollständig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Fette für Ausdauersportler wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Fette liefern Energie, unterstützen hormonelle Funktionen und sind wichtig für Zellstrukturen sowie die Aufnahme fettlöslicher Vitamine. Sehr niedrige Fettzufuhr kann problematisch werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Makronährstoffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, einzelne Nährstoffe isoliert zu bewerten. Entscheidend ist nicht nur Kohlenhydrat, Protein oder Fett allein, sondern ob die gesamte Ernährung zur Trainingsbelastung passt."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#webpage"
+      }
     }
   ]
 }

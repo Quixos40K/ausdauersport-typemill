@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Laufökonomie einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laufökonomie beschreibt, wie viel Sauerstoff oder Energie ein Läufer benötigt, um eine bestimmte Geschwindigkeit zu laufen. Je weniger Energie bei gleichem Tempo benötigt wird, desto ökonomischer ist der Lauf. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Laufökonomie dasselbe wie VO2max?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die VO2max beschreibt die maximale Sauerstoffaufnahme. Die Laufökonomie beschreibt, wie effizient dieser Sauerstoff bei submaximalem Tempo in Vortrieb umgesetzt wird. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Laufökonomie für Langstreckenläufer wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf langen Strecken entscheidet nicht nur die maximale Leistungsfähigkeit, sondern auch der Energieverbrauch. Eine gute Laufökonomie kann helfen, Ermüdung hinauszuzögern und ein Tempo länger stabil zu halten. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man Laufökonomie trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber meist langfristig. Regelmäßiges Lauftraining, Krafttraining, Technikübungen, plyometrische Reize, passende Intensitätsverteilung und Erholung können die Laufökonomie unterstützen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Vorfußlauf automatisch ökonomischer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Ein anderer Fußaufsatz ist nicht automatisch besser. Ein erzwungener Wechsel kann die Laufökonomie zunächst verschlechtern und Belastung auf Wade, Achillessehne und Fuß verlagern. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkennt man eine bessere Laufökonomie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hinweise können ein niedrigerer Puls bei gleichem Tempo, ein geringeres Belastungsempfinden, stabilere Technik bei Ermüdung oder bessere Leistungsdiagnostik-Werte bei submaximaler Geschwindigkeit sein. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#webpage"
+      }
     }
   ]
 }

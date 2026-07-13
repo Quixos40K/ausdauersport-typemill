@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Energiestoffwechsel einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Energiestoffwechsel beschreibt, wie der Körper aus Kohlenhydraten, Fetten und anderen Energiequellen ATP bildet. ATP ist die unmittelbar nutzbare Energieform für Muskelarbeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Energiestoffwechsel im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Er erklärt, warum unterschiedliche Intensitäten unterschiedlich wirken. Lockere Läufe beanspruchen den Stoffwechsel anders als Intervalle, Tempodauerläufe oder lange Läufe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Verbrennt man beim lockeren Laufen nur Fett?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Der Körper nutzt fast immer Fett und Kohlenhydrate gleichzeitig. Bei niedriger Intensität ist der relative Fettanteil höher, bei steigender Intensität nimmt der Kohlenhydratanteil zu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Laktat ein Abfallprodukt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laktat ist kein reines Abfallprodukt. Es entsteht bei intensiverem Kohlenhydratstoffwechsel und kann im Körper weiter als Energiequelle genutzt werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Kohlenhydrate bei hoher Intensität wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kohlenhydrate können schneller Energie bereitstellen als Fette. Deshalb werden sie bei höherer Intensität wichtiger, besonders bei Tempoarbeit, Intervallen und Wettkämpfen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler beim Energiestoffwechsel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, einzelne Stoffwechselwege isoliert zu betrachten. In der Praxis arbeiten Fettstoffwechsel, Kohlenhydratstoffwechsel, Laktatverarbeitung und Sauerstoffnutzung immer zusammen."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/energiestoffwechsel#webpage"
+      }
     }
   ]
 }

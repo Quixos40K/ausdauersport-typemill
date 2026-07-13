@@ -53,6 +53,87 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Zone 1 bis 5 im Ausdauertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 1 bis 5 beschreibt unterschiedliche Intensitätsbereiche im Ausdauertraining. Zone 1 ist sehr locker, Zone 2 ruhig aerob, Zone 3 moderat, Zone 4 schwellennahe Belastung und Zone 5 hochintensiv. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Zone ist für Grundlagenausdauer wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für die Grundlagenausdauer sind vor allem Zone 1 und Zone 2 wichtig. Besonders Zone 2 wird häufig genutzt, um die aerobe Basis, den Fettstoffwechsel und die Belastungsverträglichkeit zu verbessern. [[4]](#quelle-4) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sollte nicht jedes Training hart sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Harte Einheiten setzen starke Reize, erzeugen aber auch viel Ermüdung. Wenn zu oft hart trainiert wird, fehlt dem Körper die Erholung, um sich anzupassen. Fortschritt entsteht durch das Verhältnis aus Belastung und Regeneration. [[8]](#quelle-8) [[10]](#quelle-10)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Zone 3 schlecht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 3 ist nicht schlecht. Sie wird nur problematisch, wenn sie unbewusst zu häufig trainiert wird. Dann kann sie viel Ermüdung erzeugen, ohne dass lockere oder intensive Einheiten ihre volle Wirkung entfalten. [[4]](#quelle-4) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wofür ist Zone 4 sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 4 ist sinnvoll, um die Schwellenleistung und Tempohärte zu verbessern. Sie hilft dabei, ein hohes Tempo über längere Zeit kontrolliert aufrechtzuerhalten. [[2]](#quelle-2) [[7]](#quelle-7)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wofür ist Zone 5 sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 5 wird für sehr intensive Reize genutzt, zum Beispiel in Intervallen. Sie kann die maximale Sauerstoffaufnahme, die neuromuskuläre Aktivierung und die Leistungsfähigkeit bei hohen Intensitäten verbessern. [[7]](#quelle-7) [[8]](#quelle-8)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bestimme ich meine Trainingszonen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingszonen können über Herzfrequenz, Pace, Watt, Laktat, Atemverhalten oder subjektives Belastungsempfinden bestimmt werden. Am genauesten sind individuelle Tests, aber auch einfache Orientierung über Atmung und Gefühl kann im Alltag hilfreich sein. [[2]](#quelle-2) [[3]](#quelle-3)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Trainingszonen exakt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Trainingszonen sind Orientierungshilfen. Die Übergänge sind fließend und können durch Tagesform, Müdigkeit, Hitze, Stress, Schlaf, Ernährung oder Gelände beeinflusst werden. [[2]](#quelle-2) [[9]](#quelle-9)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Zone sollte ich am meisten trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei vielen Ausdauersportlern liegt der größte Anteil des Trainings im niedrigen Intensitätsbereich, also vor allem in Zone 1 und Zone 2. Die genaue Verteilung hängt aber von Ziel, Leistungsstand, Trainingsumfang und Regenerationsfähigkeit ab. [[4]](#quelle-4) [[6]](#quelle-6) [[10]](#quelle-10)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5#webpage"
+      }
     }
   ]
 }

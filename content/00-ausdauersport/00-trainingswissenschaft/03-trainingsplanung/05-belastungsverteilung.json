@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Belastungsverteilung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Belastungsverteilung beschreibt, wie lockere, moderate, intensive und erholende Trainingsanteile über eine Woche, einen Block oder ein Trainingsjahr verteilt werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Belastungsverteilung im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie hilft, Trainingsreize sinnvoll zu setzen und Ermüdung zu kontrollieren. Dadurch können Belastung und Erholung besser zusammenwirken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist eine harte Trainingswoche automatisch besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Eine harte Woche kann kurzfristig fordern, ist aber nicht automatisch wirksamer. Entscheidend ist, ob der Körper die Belastung verarbeiten kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei der Belastungsverteilung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, zu viele Einheiten im mittleren Bereich zu absolvieren. Dadurch entsteht oft viel Ermüdung, ohne dass lockere oder intensive Reize klar getrennt sind."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie verteilt man harte Einheiten sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Harte Einheiten sollten bewusst geplant und mit ausreichend Abstand zu anderen belastenden Reizen kombiniert werden. Dazwischen braucht es lockere Einheiten oder Erholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Belastungsverteilung besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Belastungsverteilung ist besonders relevant für Läufer mit mehreren Einheiten pro Woche, steigenden Umfängen, Wettkampfzielen oder wiederkehrender Müdigkeit."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#webpage"
+      }
     }
   ]
 }

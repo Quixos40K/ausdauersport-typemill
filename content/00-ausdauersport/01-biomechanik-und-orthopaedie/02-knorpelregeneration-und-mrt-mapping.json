@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knorpelregeneration-und-mrt-mapping#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Knorpelregeneration einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Knorpelregeneration beschreibt die Fähigkeit von Gelenkknorpel, auf Belastung, Entlastung und Stoffwechselreize zu reagieren. Im Sport meint das meist keine vollständige Neubildung von geschädigtem Knorpel, sondern Anpassung, Flüssigkeitsaustausch und Erhalt der Matrixfunktion. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist MRT-Mapping?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MRT-Mapping ist eine spezielle Form der Magnetresonanztomographie. Sie kann Hinweise auf Eigenschaften der Knorpelmatrix geben, zum Beispiel Wassergehalt, Kollagenorganisation oder frühe strukturelle Veränderungen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Knorpel im Ausdauersport wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Knorpel verteilt Druck im Gelenk und ermöglicht reibungsarme Bewegung. Beim Laufen wird er bei jedem Schritt belastet und braucht deshalb eine sinnvolle Balance aus Belastung und Erholung. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Laufen schlecht für den Knorpel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laufen ist nicht automatisch schlecht für den Knorpel. Entscheidend sind Belastungsdosis, Trainingsaufbau, Gelenkstatus, Muskulatur, Technik, Körpergewicht, Erholung und individuelle Vorgeschichte. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Knorpelbelastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist eine zu schnelle Steigerung von Umfang, Tempo oder Bergabbelastung. Auch MRT-Befunde sollten nicht isoliert bewertet werden, sondern immer zusammen mit Beschwerden und Funktion. [[3]](#quelle-3) [[4]](#quelle-4) [[6]](#quelle-6) [[1]](#quelle-1)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte man Gelenkbeschwerden abklären lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wiederkehrende Schmerzen, Schwellungen, Blockierungen, Instabilität oder zunehmende Beschwerden unter Belastung sollten medizinisch abgeklärt werden. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knorpelregeneration-und-mrt-mapping#webpage"
+      }
     }
   ]
 }

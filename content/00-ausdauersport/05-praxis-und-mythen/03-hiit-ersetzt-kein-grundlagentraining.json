@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/hiit-ersetzt-kein-grundlagentraining#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kann HIIT Ausdauer verbessern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. HIIT kann die Ausdauerleistung verbessern, besonders in Bereichen wie VO2max, Tempoverträglichkeit und intensiver Belastungstoleranz. Es ersetzt aber nicht die langfristige aerobe Basis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum reicht HIIT allein nicht aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIIT ist sehr belastend und kann nicht beliebig oft wiederholt werden. Grundlagentraining ermöglicht Umfang, verbessert Belastungsverträglichkeit und schafft die Basis für langfristige Anpassung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie oft sollte man HIIT machen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt von Trainingsstand, Ziel und Gesamtbelastung ab. Für viele Läufer reicht eine gezielte intensive Einheit pro Woche oder pro Trainingsblock bereits aus. Entscheidend ist, dass genug Erholung bleibt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Grundlagentraining nur langsames Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Grundlagentraining wirkt weniger spektakulär, ist aber zentral für aerobe Entwicklung, Ermüdungsresistenz und langfristige Belastbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist HIIT besonders riskant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIIT kann problematisch sein, wenn die Grundlage fehlt, Beschwerden bestehen, zu wenig Erholung vorhanden ist oder bereits sehr viel Alltagsstress und Trainingsbelastung zusammenkommen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist die beste Kombination?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meist ist eine Mischung sinnvoll: viele kontrollierte lockere Einheiten, einzelne gezielte intensive Reize und ausreichend Erholung. Die genaue Verteilung hängt vom Ziel und Trainingsstand ab."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/hiit-ersetzt-kein-grundlagentraining#webpage"
+      }
     }
   ]
 }

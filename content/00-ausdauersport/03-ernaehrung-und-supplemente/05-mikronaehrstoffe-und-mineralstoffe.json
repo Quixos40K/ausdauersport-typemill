@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was sind Mikronährstoffe einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mikronährstoffe sind Vitamine, Mineralstoffe und Spurenelemente. Sie liefern keine direkte Energie, sind aber an vielen Stoffwechselprozessen beteiligt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Mineralstoffe im Ausdauersport wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mineralstoffe unterstützen unter anderem Muskelfunktion, Flüssigkeitshaushalt, Knochenstoffwechsel und Nervenleitung. Beim Schwitzen können besonders Wasser und Elektrolyte relevant werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Mikronährstoffe sind für Läufer besonders wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Häufig relevant sind Eisen, Calcium, Vitamin D, Natrium, Magnesium, Zink, Selen und B-Vitamine. Welche davon wirklich kritisch sind, hängt von Ernährung, Belastung, Schweißverlusten und individueller Situation ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte man Mikronährstoffe vorsorglich supplementieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht pauschal. Supplemente können sinnvoll sein, wenn ein konkreter Bedarf oder Mangel besteht. Ohne Anlass ist eine breite Einnahme nicht automatisch besser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Eisen im Ausdauersport wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eisen ist wichtig für den Sauerstofftransport im Blut und in der Muskulatur. Bei Verdacht auf niedrige Eisenversorgung sollte der Status medizinisch abgeklärt werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Mikronährstoffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, Müdigkeit oder Leistungsabfall sofort einem einzelnen Nährstoff zuzuschreiben. Training, Schlaf, Energieverfügbarkeit, Stress und Gesundheit müssen immer mit betrachtet werden."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage"
+      }
     }
   ]
 }

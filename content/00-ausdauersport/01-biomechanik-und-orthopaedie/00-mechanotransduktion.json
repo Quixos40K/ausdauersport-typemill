@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Mechanotransduktion einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mechanotransduktion bedeutet, dass Zellen mechanische Belastung wahrnehmen und daraus biologische Signale erzeugen. Dadurch können sich Gewebe wie Sehnen, Knochen, Knorpel und Muskeln an Training anpassen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Mechanotransduktion im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie erklärt, warum regelmäßige Belastung Gewebe belastbarer machen kann. Gleichzeitig zeigt sie, warum zu schnelle oder zu einseitige Belastungssteigerungen Überlastungen begünstigen können. [[1]](#quelle-1) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie wirkt sich Mechanotransduktion praktisch aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beim Laufen entstehen bei jedem Schritt mechanische Reize. Diese Reize können Anpassung fördern, wenn Umfang, Intensität und Erholung sinnvoll dosiert sind. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Mechanotransduktion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, nur die Ausdauerleistung zu betrachten und die langsamere Anpassung von Sehnen, Knochen und Knorpel zu unterschätzen. [[3]](#quelle-3) [[4]](#quelle-4) [[5]](#quelle-5) [[7]](#quelle-7)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Mechanotransduktion besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Besonders relevant ist sie für Läufer, Wiedereinsteiger, ältere Ausdauersportler und Personen, die Trainingsumfang, Tempo, Untergrund oder Schuhe verändern. [[1]](#quelle-1) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkennt man Probleme bei mechanischer Belastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Warnzeichen können wiederkehrende Schmerzen, zunehmende Beschwerden während oder nach Belastung, lokale Druckempfindlichkeit oder eine schlechtere Belastungsverträglichkeit sein. Solche Beschwerden sollten bei Bedarf medizinisch oder therapeutisch abgeklärt werden. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/mechanotransduktion#webpage"
+      }
     }
   ]
 }

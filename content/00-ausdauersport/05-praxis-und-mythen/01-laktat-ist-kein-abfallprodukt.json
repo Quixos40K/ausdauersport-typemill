@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist Laktat ein Abfallprodukt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Laktat ist kein nutzloser Abfallstoff, sondern ein normales Zwischenprodukt des Energiestoffwechsels. Es kann transportiert, weiterverarbeitet und als Energiequelle genutzt werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum steigt Laktat bei intensiver Belastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei höherer Intensität steigt die schnelle Kohlenhydratverwertung. Dadurch entsteht mehr Laktat. Wenn die Bildung stärker zunimmt als die Verwertung, steigt die Laktatkonzentration im Blut."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Macht Laktat die Beine sauer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laktat ist nicht allein verantwortlich für das Brennen oder die Ermüdung. Bei hoher Intensität verändern sich viele Stoffwechselprozesse gleichzeitig. Dazu gehören auch Säure-Basen-Balance, Pufferung, Ionenverschiebungen und neuromuskuläre Ermüdung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein niedriger Laktatwert immer besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht automatisch. Ein niedriger Laktatwert kann bei lockeren Einheiten sinnvoll sein. Bei intensiven Intervallen kann ein höherer Wert aber zur Belastungsform passen. Entscheidend ist das Trainingsziel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Laktat für die Schwelle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laktat hilft, Belastungsbereiche und Schwellen besser einzuordnen. Besonders interessant ist, ab welcher Intensität Laktat stärker ansteigt und wie lange ein Tempo stabil gehalten werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können trainierte Läufer Laktat besser nutzen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, gut trainierte Ausdauersportler können Laktat oft effizienter transportieren und verwerten. Das hängt unter anderem mit mitochondrialer Kapazität, Durchblutung und Stoffwechselanpassungen zusammen."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#webpage"
+      }
     }
   ]
 }

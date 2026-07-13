@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Zellmetabolismus einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zellmetabolismus beschreibt die Stoffwechselprozesse in einer Zelle. Im Ausdauertraining geht es vor allem darum, wie Muskelzellen Energie bereitstellen, Sauerstoff nutzen und sich an Belastung anpassen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Epigenetik im Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Epigenetik beschreibt Mechanismen, die beeinflussen können, wie stark bestimmte Gene abgelesen werden. Training kann solche Regulationsprozesse anstoßen, ohne die DNA-Sequenz selbst zu verändern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Verändert Ausdauertraining die Gene?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ausdauertraining verändert nicht einfach die DNA. Es kann aber beeinflussen, welche genetischen Programme stärker oder schwächer aktiv sind."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Mitochondrien wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mitochondrien sind zentrale Orte der aeroben Energiegewinnung. Sie helfen der Muskulatur, Sauerstoff, Fette und Kohlenhydrate für ATP-Bildung zu nutzen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Epigenetik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, Epigenetik als einfache Biohacking-Abkürzung zu verstehen. In der Praxis zählen vor allem regelmäßiges Training, passende Belastung, Erholung, Schlaf und ausreichende Energieverfügbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Zellmetabolismus und Epigenetik besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Thema ist für alle Ausdauersportler relevant, die verstehen möchten, warum Training langfristige Anpassungen erzeugt und warum Reiz, Ernährung und Erholung zusammengehören."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#webpage"
+      }
     }
   ]
 }

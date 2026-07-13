@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was sind Herzvolumina einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Herzvolumina beschreiben, wie viel Blut die Herzkammern aufnehmen und auswerfen können. Besonders wichtig sind das Füllungsvolumen vor dem Herzschlag, das Restvolumen nach dem Herzschlag und das daraus entstehende Schlagvolumen. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Sportherz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sportherz beschreibt eine meist physiologische Anpassung des Herzens an regelmäßiges Training. Bei Ausdauersportlern können größere Herzkammern, ein höheres Schlagvolumen und eine niedrigere Ruheherzfrequenz auftreten. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Sportherz gefährlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Sportherz ist häufig eine normale Anpassung an Training. Es muss aber von krankhaften Veränderungen unterschieden werden. Deshalb sind Symptome, Familiengeschichte, Trainingshistorie und kardiologische Diagnostik wichtig. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum haben Ausdauersportler oft eine niedrigere Ruheherzfrequenz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein trainiertes Herz kann pro Schlag häufig mehr Blut auswerfen. Dadurch muss es in Ruhe oft weniger häufig schlagen, um den Körper ausreichend zu versorgen. [[1]](#quelle-1)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind größere Herzvolumina automatisch besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Größere Herzvolumina können eine sinnvolle Anpassung sein, erklären aber nicht allein die Leistungsfähigkeit. Auch Laufökonomie, Stoffwechsel, Schwellenleistung, Regeneration und Trainingssteuerung sind wichtig. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte man Herzbeschwerden abklären lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brustschmerz, ungeklärte Luftnot, Ohnmacht, Schwindel unter Belastung, auffälliges Herzstolpern oder plötzlicher Leistungsabfall sollten medizinisch abgeklärt werden. Training sollte solche Warnzeichen nicht einfach überdecken. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6) [[3]](#quelle-3)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/herzvolumina-und-sportherz#webpage"
+      }
     }
   ]
 }

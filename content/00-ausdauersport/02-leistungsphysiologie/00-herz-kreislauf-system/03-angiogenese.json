@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/angiogenese#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Angiogenese einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Angiogenese ist die Bildung neuer Blutgefäße aus bestehenden Gefäßen. Im Ausdauertraining geht es vor allem um kleine Kapillaren, die den Austausch zwischen Blut und Muskelzellen verbessern können. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Angiogenese im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie kann die Versorgung der Muskulatur mit Sauerstoff und Nährstoffen unterstützen. Dadurch wird die Grundlage für längere aerobe Belastungen und bessere Ermüdungsresistenz verbessert. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entsteht Angiogenese durch lockeres oder hartes Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beides kann unterschiedliche Signale setzen. Lange lockere und moderate Einheiten liefern wiederholte, gut verträgliche Ausdauerreize. Intensive Einheiten erzeugen stärkere metabolische Signale, benötigen aber mehr Erholung. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie schnell entstehen neue Kapillaren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Solche Anpassungen entstehen nicht sofort. Sie entwickeln sich langfristig durch regelmäßiges Training, passende Belastungssteuerung und ausreichende Regeneration. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Angiogenese dasselbe wie bessere VO2max?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Angiogenese kann die Sauerstoffversorgung der Muskulatur unterstützen, ist aber nur ein Teil der Ausdauerleistung. VO2max, Herzminutenvolumen, Mitochondrien, Laufökonomie und Schwellenleistung spielen ebenfalls eine Rolle. [[1]](#quelle-1) [[2]](#quelle-2) [[3]](#quelle-3) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Angiogenese?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, nur harte Einheiten als wirksam zu betrachten. Auch ruhige und moderate Dauerbelastungen können wichtige periphere Anpassungen unterstützen, wenn sie regelmäßig und sinnvoll dosiert eingesetzt werden. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/angiogenese#webpage"
+      }
     }
   ]
 }

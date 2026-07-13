@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Trainingshäufigkeit einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingshäufigkeit beschreibt, wie oft innerhalb einer Woche oder eines Trainingsblocks trainiert wird. Im Lauftraining meint das meist die Anzahl der Laufeinheiten pro Woche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Trainingshäufigkeit im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie bestimmt, wie regelmäßig Trainingsreize gesetzt und wie Belastungen über die Woche verteilt werden. Dadurch beeinflusst sie Anpassung, Erholung und Belastbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist häufiger trainieren automatisch besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Mehr Einheiten sind nur sinnvoll, wenn sie zum Ziel passen und ausreichend verarbeitet werden können. Zu hohe Trainingshäufigkeit kann Müdigkeit und Überlastung begünstigen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erhöht man Trainingshäufigkeit sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingshäufigkeit sollte schrittweise erhöht werden. Eine zusätzliche Einheit sollte zunächst eher kurz und locker sein, bevor Umfang oder Intensität weiter gesteigert werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Trainingshäufigkeit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, zusätzliche Trainingstage sofort mit harten oder langen Einheiten zu füllen. Dadurch steigt die Gesamtbelastung oft schneller als die Belastbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Trainingshäufigkeit besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingshäufigkeit ist besonders relevant für Läufer mit steigenden Umfängen, Wettkampfzielen, Wiedereinstieg nach Pause oder dem Wunsch nach langfristiger Leistungsentwicklung."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingshaeufigkeit#webpage"
+      }
     }
   ]
 }

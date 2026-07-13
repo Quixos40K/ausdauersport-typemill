@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Kardiale Lastquantifizierung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kardiale Lastquantifizierung beschreibt, wie stark ein Training das Herz-Kreislauf-System beansprucht. Dafür werden nicht nur Tempo oder Kilometer betrachtet, sondern auch Herzfrequenz, Dauer, Intensität, Erholung und individuelle Reaktion. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum reicht Pace allein nicht aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pace zeigt nur die äußere Leistung. Die innere Belastung kann bei gleicher Pace stark unterschiedlich sein, zum Beispiel durch Hitze, Müdigkeit, Stress, Höhenmeter oder Flüssigkeitsverlust. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist eine hohe Herzfrequenz immer ein gutes Zeichen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Eine hohe Herzfrequenz zeigt zunächst nur eine hohe Beanspruchung. Ob der Reiz sinnvoll ist, hängt vom Trainingsziel, vom aktuellen Zustand und von der Erholung ab. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Rolle spielt die Trainingsdauer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Trainingsdauer bestimmt, wie lange das Herz-Kreislauf-System erhöht arbeiten muss. Lange ruhige Einheiten können eine relevante kumulative kardiale Last erzeugen, auch wenn sie sich nicht sehr intensiv anfühlen. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Herzfrequenzdrift?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Herzfrequenzdrift bedeutet, dass die Herzfrequenz bei gleichbleibender Belastung allmählich ansteigt. Das kann auf Ermüdung, Hitze, Flüssigkeitsverlust oder steigende innere Beanspruchung hinweisen. [[1]](#quelle-1) [[2]](#quelle-2) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ersetzt kardiale Lastquantifizierung eine sportmedizinische Untersuchung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Sie hilft bei der Einordnung von Training, ersetzt aber keine medizinische Abklärung, besonders bei Beschwerden, auffälligen Symptomen oder bekannten Herz-Kreislauf-Erkrankungen. [[1]](#quelle-1) [[2]](#quelle-2) [[7]](#quelle-7) [[8]](#quelle-8)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#webpage"
+      }
     }
   ]
 }

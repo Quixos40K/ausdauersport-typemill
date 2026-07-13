@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Trainingssteuerung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingssteuerung bedeutet, Training anhand von Ziel, Belastung, Erholung und aktueller Reaktion des Körpers anzupassen. Sie verbindet den Trainingsplan mit der Realität des Alltags."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Trainingssteuerung im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie hilft, Trainingsreize passend zu dosieren. Dadurch lassen sich Überlastung, unnötige Ermüdung und planloses Training eher vermeiden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Werte helfen bei der Trainingssteuerung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hilfreich sind zum Beispiel Herzfrequenz, Pace, Watt, Trainingsdauer, Umfang, subjektives Belastungsempfinden, Schlaf, Muskelgefühl und Erholungszustand. Kein einzelner Wert reicht allein aus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Trainingsplanung und Trainingssteuerung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsplanung legt den Rahmen fest. Trainingssteuerung passt diesen Rahmen laufend an die tatsächliche Belastbarkeit und Entwicklung an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei der Trainingssteuerung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, nur nach Pace oder Kilometerumfang zu steuern. Wichtig ist auch, wie stark eine Einheit tatsächlich wirkt und wie gut sie verarbeitet wird."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Trainingssteuerung besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingssteuerung ist besonders relevant für Läufer mit Wettkampfzielen, steigenden Umfängen, wiederkehrender Müdigkeit, Verletzungshistorie oder langfristigem Leistungsaufbau."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#webpage"
+      }
     }
   ]
 }

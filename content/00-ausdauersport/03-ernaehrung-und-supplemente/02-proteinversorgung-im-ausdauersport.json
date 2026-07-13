@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Warum ist Protein im Ausdauersport wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Protein unterstützt Reparatur, Anpassung und Erhalt von Gewebe. Im Ausdauersport betrifft das nicht nur Muskeln, sondern auch Sehnen, Bindegewebe, Enzyme, Immunsystem und Regeneration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Brauchen Ausdauersportler Protein oder nur Kohlenhydrate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ausdauersportler brauchen beides. Kohlenhydrate unterstützen vor allem Trainingsqualität und Energieversorgung, während Protein Reparatur und Anpassung unterstützt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Protein direkt nach dem Training Pflicht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht jede Einheit braucht ein perfektes Timing. Nach langen, intensiven oder kraftbetonten Einheiten kann eine Mahlzeit mit Protein und Kohlenhydraten aber sinnvoll sein, um Regeneration und Speicherauffüllung zu unterstützen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Proteinshakes notwendig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Proteinshakes sind nicht zwingend notwendig. Sie können praktisch sein, wenn der Alltag es erschwert, genug Protein über normale Mahlzeiten aufzunehmen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist bei pflanzenbasierter Ernährung wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei pflanzenbasierter Ernährung ist eine gute Kombination verschiedener Proteinquellen wichtig. Hülsenfrüchte, Sojaprodukte, Getreide, Nüsse und Samen können helfen, die Aminosäureversorgung breiter abzudecken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Proteinversorgung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, Protein isoliert zu betrachten. Ohne ausreichende Gesamtenergie, passende Kohlenhydrate, Schlaf und sinnvolle Trainingssteuerung bleibt die Regeneration trotzdem begrenzt."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#webpage"
+      }
     }
   ]
 }

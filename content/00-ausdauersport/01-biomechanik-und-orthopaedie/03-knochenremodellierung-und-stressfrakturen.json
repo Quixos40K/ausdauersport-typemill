@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Knochenremodellierung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Knochenremodellierung bedeutet, dass Knochengewebe fortlaufend erneuert wird. Alte oder belastete Strukturen werden abgebaut, neue Knochenmatrix wird aufgebaut und mineralisiert. [[4]](#quelle-4) [[5]](#quelle-5) [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist eine Stressfraktur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Stressfraktur ist eine Überlastungsverletzung des Knochens. Sie entsteht meist durch wiederholte Mikrobelastungen, wenn die Reparaturfähigkeit des Knochens nicht mehr ausreicht. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5) [[4]](#quelle-4)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Knochenstressreaktion und Stressfraktur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Knochenstressreaktion ist eine frühe Reizung oder Überlastungsreaktion des Knochens. Eine Stressfraktur ist eine weiter fortgeschrittene Form, bei der eine strukturelle Schädigung oder Frakturlinie vorliegen kann. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Läufer besonders betroffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beim Laufen wirken bei jedem Schritt wiederholte Kräfte auf Schienbein, Fuß, Hüfte und Becken. Wenn Umfang, Tempo oder Belastungsdichte zu schnell steigen, kann die knöcherne Anpassung überfordert werden. [[4]](#quelle-4) [[5]](#quelle-5) [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei Stressfrakturen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, punktuelle Knochenschmerzen weiter zu überlaufen. Besonders Schmerzen, die unter Belastung zunehmen oder auch in Ruhe auftreten, sollten ernst genommen werden. [[4]](#quelle-4) [[5]](#quelle-5) [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte man Beschwerden abklären lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Punktuelle, zunehmende oder belastungsabhängige Knochenschmerzen sollten medizinisch abgeklärt werden. Das gilt besonders bei Schmerzen beim Auftreten, Hüpfen, in Ruhe oder nachts. [[4]](#quelle-4) [[5]](#quelle-5) [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen#webpage"
+      }
     }
   ]
 }

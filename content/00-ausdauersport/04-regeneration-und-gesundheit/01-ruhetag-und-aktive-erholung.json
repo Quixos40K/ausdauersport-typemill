@@ -53,6 +53,71 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist ein Ruhetag einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Ruhetag ist ein geplanter Tag ohne Training. Er soll Belastung verarbeiten, Energiereserven auffüllen und Körper sowie Nervensystem entlasten. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist aktive Erholung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aktive Erholung ist sehr leichte Bewegung ohne Leistungsziel. Dazu können Spaziergänge, lockeres Radfahren, entspanntes Schwimmen oder Mobilität gehören. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Ruhetag verlorene Trainingszeit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Ein Ruhetag ist Teil der Trainingsanpassung. Er hilft, dass vorher gesetzte Reize verarbeitet werden und die nächste belastende Einheit wieder sinnvoll möglich ist. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann ist aktive Erholung sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aktive Erholung kann sinnvoll sein, wenn leichte Bewegung das Körpergefühl verbessert und keine zusätzliche Müdigkeit erzeugt. Sie sollte sehr locker bleiben. [[1]](#quelle-1) [[2]](#quelle-2) [[5]](#quelle-5) [[6]](#quelle-6)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann ist vollständige Ruhe besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vollständige Ruhe ist oft besser nach sehr harten Einheiten, Wettkämpfen, starkem Muskelkater, Schlafmangel, hoher Alltagsbelastung oder beginnenden Beschwerden. [[1]](#quelle-1)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei aktiver Erholung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, aktive Erholung zu intensiv zu gestalten. Wenn Pace, Kilometer, Puls oder Leistung wieder wichtig werden, wird aus Erholung schnell zusätzliche Belastung. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erkenne ich, ob Erholung funktioniert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein gutes Zeichen ist, wenn man sich am nächsten Tag frischer, ruhiger und belastbarer fühlt. Wenn aktive Erholung zusätzlich müde macht, war sie wahrscheinlich zu intensiv. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage"
+      }
     }
   ]
 }

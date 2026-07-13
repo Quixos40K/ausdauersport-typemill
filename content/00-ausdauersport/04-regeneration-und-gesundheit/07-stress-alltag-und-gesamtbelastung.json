@@ -53,6 +53,71 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Gesamtbelastung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gesamtbelastung beschreibt die Summe aus Training, Alltag, Schlaf, Ernährung, mentalem Stress und Lebensumständen. Der Körper verarbeitet diese Faktoren gemeinsam. [[1]](#quelle-1) [[2]](#quelle-2) [[4]](#quelle-4) [[7]](#quelle-7)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum beeinflusst Alltagsstress das Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alltagsstress beansprucht Nervensystem, Energie, Schlaf und Erholung. Dadurch kann dieselbe Trainingseinheit schwerer wirken als in einer ruhigeren Lebensphase. [[4]](#quelle-4) [[5]](#quelle-5) [[6]](#quelle-6) [[3]](#quelle-3)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Muss man bei Stress immer weniger trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht immer. Lockere Bewegung kann bei Stress hilfreich sein. Harte oder lange Einheiten sollten aber angepasst werden, wenn Schlaf, Müdigkeit oder Beschwerden dagegen sprechen. [[4]](#quelle-4) [[5]](#quelle-5) [[6]](#quelle-6) [[1]](#quelle-1)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkennt man zu hohe Gesamtbelastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hinweise können schlechter Schlaf, schwere Beine, Reizbarkeit, sinkende Motivation, Leistungsabfall, Infektanfälligkeit oder wiederkehrende Beschwerden sein. [[4]](#quelle-4) [[5]](#quelle-5) [[1]](#quelle-1) [[3]](#quelle-3)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein zusätzlicher Ruhetag bei viel Alltagsstress sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, wenn mehrere Belastungszeichen zusammenkommen. Ein zusätzlicher Ruhetag kann helfen, eine Überlastung zu vermeiden. [[1]](#quelle-1) [[3]](#quelle-3) [[4]](#quelle-4) [[7]](#quelle-7)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte man verpasste Einheiten nachholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht automatisch. Verpasste Einheiten einfach in die nächsten Tage zu schieben, erhöht oft die Belastungsdichte und kann die Regeneration verschlechtern. [[1]](#quelle-1) [[2]](#quelle-2)"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der häufigste Fehler bei Gesamtbelastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der häufigste Fehler ist, nur Trainingsdaten zu betrachten und den Alltag auszublenden. Training wirkt immer im Kontext des gesamten Lebens. [[4]](#quelle-4) [[5]](#quelle-5) [[6]](#quelle-6)"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/stress-alltag-und-gesamtbelastung#webpage"
+      }
     }
   ]
 }

@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist zentrale Ermüdung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zentrale Ermüdung beschreibt, dass Gehirn und Rückenmark die Muskulatur nicht mehr mit gleicher Stärke oder Stabilität ansteuern können. Die Ermüdung sitzt dann nicht nur im Muskel, sondern auch in der Steuerung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist das Nervensystem im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Nervensystem steuert Bewegung, Muskelaktivierung, Koordination und Belastungswahrnehmung. Es beeinflusst deshalb, wie lange ein Tempo gehalten werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Ermüdung immer ein Muskelproblem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Ermüdung kann im Muskel entstehen, aber auch durch zentrale Steuerung, Schlafmangel, Hitze, Stress, Motivation, Schmerzsignale und Belastungswahrnehmung beeinflusst werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie merkt man zentrale Ermüdung beim Laufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typische Hinweise können schwere Beine, nachlassender Abdruck, schlechtere Koordination, sinkende Konzentration oder ein stark erhöhtes Belastungsgefühl sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man zentrale Ermüdung trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Man kann die Belastungstoleranz und das Pacing verbessern. Das geschieht vor allem durch regelmäßiges, sinnvoll gesteuertes Training, ausreichend Erholung und Erfahrung mit unterschiedlichen Belastungen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler bei zentraler Ermüdung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, Warnsignale dauerhaft zu ignorieren und jede Einheit über Willenskraft zu erzwingen. Langfristig braucht das Nervensystem genauso Erholung wie Muskulatur und Energiestoffwechsel."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#webpage"
+      }
     }
   ]
 }

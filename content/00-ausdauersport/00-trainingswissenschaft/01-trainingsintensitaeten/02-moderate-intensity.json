@@ -53,6 +53,87 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet MIT im Ausdauertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT steht für Moderate Intensity Training und beschreibt Training mit mittlerer Intensität. Die Belastung ist deutlich spürbar, aber noch kontrolliert durchhaltbar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In welcher Zone liegt MIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT liegt je nach Modell häufig im Bereich von Zone 3. Die genaue Einordnung hängt vom Zonenmodell, der Sportart und der individuellen Leistungsfähigkeit ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist MIT schlecht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. MIT ist nicht schlecht. Es wird nur problematisch, wenn zu viele Einheiten unbewusst im moderaten Bereich stattfinden und dadurch dauerhaft viel Ermüdung entsteht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wofür ist MIT sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT kann für Tempodauerläufe, längere kontrollierte Belastungen, Schwellenannäherung und wettkampfspezifisches Training sinnvoll sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum wird MIT als graue Zone bezeichnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Begriff graue Zone beschreibt Training, das nicht mehr wirklich locker, aber auch nicht wirklich hochintensiv ist. Wenn zu viel Training dort stattfindet, kann es viel Ermüdung erzeugen, ohne klare Trainingsqualität zu liefern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie fühlt sich MIT an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT fühlt sich kontrolliert anstrengend an. Die Atmung ist deutlich vertieft, eine Unterhaltung ist nur eingeschränkt möglich, aber die Belastung ist noch nicht maximal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen LIT und MIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LIT ist niedrigintensiv, locker und lange gut durchhaltbar. MIT ist spürbar intensiver, belastender und sollte bewusster dosiert werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen MIT und HIIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT ist moderat und länger kontrolliert durchhaltbar. HIIT besteht aus sehr intensiven Belastungsabschnitten, die nur kurz oder intervallartig möglich sind."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie oft sollte MIT trainiert werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt von Ziel, Leistungsstand, Trainingsumfang und Regeneration ab. MIT sollte gezielt eingesetzt werden und nicht automatisch jede lockere Einheit ersetzen."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity#webpage"
+      }
     }
   ]
 }

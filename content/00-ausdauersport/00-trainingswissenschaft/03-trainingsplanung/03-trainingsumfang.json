@@ -53,6 +53,63 @@
         "@id": "https://oliver-nix.de/#website"
       },
       "inLanguage": "de-DE"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Trainingsumfang einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsumfang beschreibt, wie viel trainiert wird. Im Lauftraining meint das häufig Wochenkilometer, im Ausdauertraining allgemein auch Trainingszeit, Anzahl der Einheiten oder Belastungsdauer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Trainingsumfang im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsumfang schafft die Grundlage für viele langfristige Ausdaueranpassungen. Er hilft, Belastbarkeit, aerobe Leistungsfähigkeit und Ermüdungsresistenz aufzubauen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist mehr Trainingsumfang immer besser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Mehr Umfang ist nur sinnvoll, wenn er zum Ziel, zur Erfahrung und zur Erholung passt. Zu viel Umfang kann Überlastung und Stagnation begünstigen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie sollte Trainingsumfang gesteigert werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsumfang sollte schrittweise und kontrolliert gesteigert werden. Wichtig ist, nicht gleichzeitig Umfang, Intensität und Trainingshäufigkeit stark zu erhöhen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein häufiger Fehler beim Trainingsumfang?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein häufiger Fehler ist, sich nur an Wochenkilometern zu orientieren. Entscheidend ist die Gesamtbelastung aus Umfang, Intensität, Erholung, Alltag und individueller Belastbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Für wen ist Trainingsumfang besonders relevant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsumfang ist besonders relevant für Läufer mit Wettkampfzielen, längeren Distanzen, steigendem Trainingspensum oder dem Wunsch nach langfristiger Ausdauerentwicklung."
+          }
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#webpage"
+      }
     }
   ]
 }
