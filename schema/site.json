@@ -1,9 +1,0 @@
-{
-  "@type": "WebSite",
-  "@id": "https://oliver-nix.de/#website",
-  "url": "https://oliver-nix.de/",
-  "name": "Ausdauersport Lexikon",
-  "publisher": {
-    "@id": "https://oliver-nix.de/#oliver-nix"
-  }
-}
