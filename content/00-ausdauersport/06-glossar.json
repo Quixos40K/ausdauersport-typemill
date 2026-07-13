@@ -25,34 +25,36 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/glossar#webpage",
-      "url": "https://oliver-nix/ausdauersport/glossar",
+      "@id": "https://deine-domain.de/ausdauersport/glossar#webpage",
+      "url": "https://deine-domain.de/ausdauersport/glossar",
       "headline": "Glossar",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/glossar#content"
+        "@id": "https://deine-domain.de/ausdauersport/glossar#content"
       }
     },
     {
-      "@type": "DefinedTerm",
-      "@id": "https://oliver-nix/ausdauersport/glossar#content",
+      "@type": [
+        "DefinedTerm"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/glossar#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/glossar#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/glossar#webpage"
       },
       "headline": "Glossar",
       "description": "Dieses Glossar erklärt zentrale Begriffe aus Trainingsphysiologie, Biomechanik, Orthopädie, Leistungsdiagnostik und Ausdauersport....",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE",
       "name": "Glossar",
       "inDefinedTermSet": {
-        "@id": "https://oliver-nix/glossar#content"
+        "@id": "https://deine-domain.de/glossar#content"
       }
     }
   ]

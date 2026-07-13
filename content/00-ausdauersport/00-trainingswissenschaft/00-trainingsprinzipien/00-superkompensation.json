@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation",
       "headline": "00-superkompensation",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage"
       },
       "headline": "00-superkompensation",
       "description": "Superkompensation beschreibt die Vorstellung, dass der Körper nach einem Trainingsreiz zunächst ermüdet, sich anschließend erholt und danach kurzfristig leis...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam",
       "headline": "Krafttraining macht Läufer nicht langsam",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam#webpage"
       },
       "headline": "Krafttraining macht Läufer nicht langsam",
       "description": "Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Ents...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

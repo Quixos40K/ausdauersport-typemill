@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus",
       "headline": "Makrozyklus",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage"
       },
       "headline": "Makrozyklus",
       "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Im Ausdauertraining umfasst er häufig mehrere Monate bis zu einer...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

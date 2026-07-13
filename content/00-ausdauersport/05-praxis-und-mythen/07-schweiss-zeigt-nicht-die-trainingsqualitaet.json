@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet",
       "headline": "Schweiß zeigt nicht die Trainingsqualität",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage"
       },
       "headline": "Schweiß zeigt nicht die Trainingsqualität",
       "description": "Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt ...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

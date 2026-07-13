@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#webpage",
-      "url": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf",
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#webpage",
+      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf",
       "headline": "Vorfußlauf, Ballenlauf und Fersenlauf",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#content"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/vorfusslauf-ballenlauf-und-fersenlauf#webpage"
       },
       "headline": "Vorfußlauf, Ballenlauf und Fersenlauf",
       "description": "Vorfußlauf, Ballenlauf und Fersenlauf beschreiben, welcher Teil des Fußes beim Laufen zuerst den Boden berührt. Im Ausdauersport ist das wichtig, weil der Fu...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

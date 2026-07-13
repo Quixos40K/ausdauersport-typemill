@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training",
       "headline": "LIT (Low Intensity Training)",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training#webpage"
       },
       "headline": "LIT (Low Intensity Training)",
       "description": "Low Intensity Training, kurz LIT, beschreibt Training mit niedriger Intensität. Die Belastung ist kontrolliert, ruhig und über längere Zeit gut durchhaltbar....",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

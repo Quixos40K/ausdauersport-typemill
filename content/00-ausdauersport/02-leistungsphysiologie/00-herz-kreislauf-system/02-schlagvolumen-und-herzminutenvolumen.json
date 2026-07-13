@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen",
       "headline": "Schlagvolumen und Herzminutenvolumen",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/schlagvolumen-und-herzminutenvolumen#webpage"
       },
       "headline": "Schlagvolumen und Herzminutenvolumen",
       "description": "Das Schlagvolumen beschreibt, wie viel Blut das Herz mit einem einzelnen Herzschlag auswirft. Das Herzminutenvolumen beschreibt, wie viel Blut pro Minute dur...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

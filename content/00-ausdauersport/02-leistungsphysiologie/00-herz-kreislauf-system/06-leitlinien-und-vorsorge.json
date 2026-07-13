@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge",
       "headline": "Leitlinien und Vorsorge",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#content"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/leitlinien-und-vorsorge#webpage"
       },
       "headline": "Leitlinien und Vorsorge",
       "description": "Leitlinien und Vorsorge helfen, Ausdauertraining gesundheitlich besser einzuordnen. Sie ersetzen keine individuelle Diagnose, geben aber Orientierung, wann T...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

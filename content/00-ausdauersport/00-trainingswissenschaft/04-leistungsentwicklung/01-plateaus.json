@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus",
       "headline": "Plateaus",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/plateaus#webpage"
       },
       "headline": "Plateaus",
       "description": "Ein Plateau beschreibt eine Phase, in der sich die Leistung trotz regelmäßigem Training kaum weiterentwickelt. Im Ausdauertraining kann das durch monotone Re...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

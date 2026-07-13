@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus",
       "headline": "Mesozyklus",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus#webpage"
       },
       "headline": "Mesozyklus",
       "description": "Ein Mesozyklus ist ein mehrwöchiger Trainingsabschnitt innerhalb eines Makrozyklus. Er bündelt mehrere Mikrozyklen zu einem klaren Trainingsschwerpunkt, zum ...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

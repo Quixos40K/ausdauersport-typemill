@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht",
       "headline": "Entzündung ist nicht immer schlecht",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/entzuendung-ist-nicht-immer-schlecht#webpage"
       },
       "headline": "Entzündung ist nicht immer schlecht",
       "description": "Entzündung ist nicht automatisch schlecht. Nach Training kann eine kontrollierte Entzündungsreaktion Teil von Reparatur, Anpassung und Gewebeumbau sein. Prob...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

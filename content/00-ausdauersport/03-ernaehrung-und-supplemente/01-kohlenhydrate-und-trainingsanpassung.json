@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#webpage",
-      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung",
       "headline": "Kohlenhydrate und Trainingsanpassung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#content"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/kohlenhydrate-und-trainingsanpassung#webpage"
       },
       "headline": "Kohlenhydrate und Trainingsanpassung",
       "description": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training für grundlegende Funktionen, Anpassung und Regeneration bleibt. Makronährstoff...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

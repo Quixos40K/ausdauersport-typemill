@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation",
       "headline": "Trainingsadaptation",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/trainingsadaptation#webpage"
       },
       "headline": "Trainingsadaptation",
       "description": "Trainingsadaptation beschreibt die körperliche Anpassung an wiederholte Trainingsreize. Im Ausdauertraining bedeutet das zum Beispiel eine bessere Sauerstoff...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

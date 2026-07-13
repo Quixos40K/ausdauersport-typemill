@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung",
       "headline": "Kardiale Lastquantifizierung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#content"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/kardiale-lastquantifizierung#webpage"
       },
       "headline": "Kardiale Lastquantifizierung",
       "description": "Kardiale Lastquantifizierung beschreibt, wie die Belastung des Herz-Kreislauf-Systems während des Trainings eingeordnet wird. Im Ausdauertraining ist das wic...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

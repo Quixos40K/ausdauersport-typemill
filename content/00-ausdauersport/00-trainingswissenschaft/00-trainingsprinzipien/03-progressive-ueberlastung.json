@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung",
       "headline": "Progressive Überlastung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung#webpage"
       },
       "headline": "Progressive Überlastung",
       "description": "Progressive Überlastung bedeutet, dass Trainingsreize im Laufe der Zeit schrittweise gesteigert werden, damit der Körper weiterhin Anpassungen entwickeln mus...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

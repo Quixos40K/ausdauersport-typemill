@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung",
       "headline": "Jahresplanung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/jahresplanung#webpage"
       },
       "headline": "Jahresplanung",
       "description": "Jahresplanung beschreibt die grobe Struktur eines Trainingsjahres. [[1]](#quelle-1) Im Ausdauertraining ist das wichtig, weil Belastung, Erholung, Wettkampfv...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

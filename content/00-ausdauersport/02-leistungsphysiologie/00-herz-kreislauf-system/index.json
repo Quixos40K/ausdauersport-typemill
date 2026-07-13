@@ -25,26 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system",
       "headline": "Herz-Kreislauf-System",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       }
     },
     {
-      "@type": "CollectionPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system#content",
+      "@type": [
+        "CollectionPage"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system#webpage"
       },
       "headline": "Herz-Kreislauf-System",
       "description": "Das Herz-Kreislauf-System beschreibt, wie Herz, Blutgefäße und Blutfluss die Ausdauerleistung ermöglichen. Gutes Ausdauertraining entsteht nicht nur durch ei...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

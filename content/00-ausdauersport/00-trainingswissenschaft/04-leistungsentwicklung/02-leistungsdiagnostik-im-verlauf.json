@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf",
       "headline": "Leistungsdiagnostik im Verlauf",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/leistungsdiagnostik-im-verlauf#webpage"
       },
       "headline": "Leistungsdiagnostik im Verlauf",
       "description": "Leistungsdiagnostik im Verlauf beschreibt die wiederholte Überprüfung der Ausdauerleistung über Wochen, Monate oder Trainingsphasen hinweg. Sie zeigt, ob Tra...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

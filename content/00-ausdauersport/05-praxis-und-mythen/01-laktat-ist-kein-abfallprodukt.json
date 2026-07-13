@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt",
       "headline": "Laktat ist kein Abfallprodukt",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/laktat-ist-kein-abfallprodukt#webpage"
       },
       "headline": "Laktat ist kein Abfallprodukt",
       "description": "Laktat ist kein nutzloses Abfallprodukt. Es entsteht bei der Energiebereitstellung, kann weiterverwendet werden und dient dem Körper als Energieträger, Trans...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

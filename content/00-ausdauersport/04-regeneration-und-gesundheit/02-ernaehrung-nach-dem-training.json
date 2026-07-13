@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training",
       "headline": "Ernährung nach dem Training",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ernaehrung-nach-dem-training#webpage"
       },
       "headline": "Ernährung nach dem Training",
       "description": "Ernährung nach dem Training beschreibt, wie der Körper nach einer Belastung wieder mit Energie, Flüssigkeit und Baustoffen versorgt wird. Im Ausdauertraining...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

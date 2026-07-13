@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt",
       "headline": "Open-Window-Effekt",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage"
       },
       "headline": "Open-Window-Effekt",
       "description": "Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

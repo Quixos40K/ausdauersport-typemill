@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/tapering#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/tapering",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/tapering#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/tapering",
       "headline": "Tapering",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/tapering#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/tapering#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/tapering#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/tapering#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/tapering#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/tapering#webpage"
       },
       "headline": "Tapering",
       "description": "Tapering ist die geplante Reduktion der Trainingsbelastung vor einem wichtigen Wettkampf. Ziel ist es, angesammelte Ermüdung abzubauen, ohne die zuvor aufgeb...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

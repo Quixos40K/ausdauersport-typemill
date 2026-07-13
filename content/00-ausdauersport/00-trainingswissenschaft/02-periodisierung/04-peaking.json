@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/peaking#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/peaking",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/peaking#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/peaking",
       "headline": "Peaking",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/peaking#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/peaking#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/peaking#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/peaking#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/peaking#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/peaking#webpage"
       },
       "headline": "Peaking",
       "description": "Peaking beschreibt den Zustand, in dem ein Athlet seine bestmögliche Leistungsfähigkeit zu einem bestimmten Zeitpunkt abrufen kann. Im Ausdauertraining entst...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

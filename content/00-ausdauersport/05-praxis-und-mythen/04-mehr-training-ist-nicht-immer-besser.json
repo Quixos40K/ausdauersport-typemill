@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser",
       "headline": "Mehr Training ist nicht immer besser",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser#webpage"
       },
       "headline": "Mehr Training ist nicht immer besser",
       "description": "Mehr Training führt nicht automatisch zu mehr Leistung. Ausdauer verbessert sich, wenn Belastung und Erholung zusammenpassen. Wer Umfang oder Intensität zu s...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

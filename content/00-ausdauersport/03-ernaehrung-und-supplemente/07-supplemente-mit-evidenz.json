@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#webpage",
-      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#webpage",
+      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz",
       "headline": "Supplemente mit Evidenz",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#content"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz#webpage"
       },
       "headline": "Supplemente mit Evidenz",
       "description": "Supplemente mit Evidenz sind Produkte oder Substanzen, deren Nutzen für bestimmte Situationen im Sport wissenschaftlich besser belegt ist als bei vielen frei...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

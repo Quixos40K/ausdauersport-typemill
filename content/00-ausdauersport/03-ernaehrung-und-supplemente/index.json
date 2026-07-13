@@ -25,26 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente#webpage",
-      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente#webpage",
+      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente",
       "headline": "Ernährung und Supplemente",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       }
     },
     {
-      "@type": "CollectionPage",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente#content",
+      "@type": [
+        "CollectionPage"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente#webpage"
       },
       "headline": "Ernährung und Supplemente",
       "description": "Ernährung und Supplemente beschreibt, wie Energiezufuhr, Makronährstoffe, Mikronährstoffe, Flüssigkeit und gezielte Ergänzungen die Ausdauerleistung, Regener...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

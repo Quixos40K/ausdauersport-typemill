@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung",
       "headline": "Ruhetag und aktive Erholung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/ruhetag-und-aktive-erholung#webpage"
       },
       "headline": "Ruhetag und aktive Erholung",
       "description": "Ruhetag und aktive Erholung beschreiben zwei unterschiedliche Wege, Belastung zu verarbeiten. Ein Ruhetag bedeutet, bewusst keinen Trainingsreiz zu setzen. A...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

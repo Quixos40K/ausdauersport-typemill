@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen",
       "headline": "Dehnen verhindert Verletzungen",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen#webpage"
       },
       "headline": "Dehnen verhindert Verletzungen",
       "description": "Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheide...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

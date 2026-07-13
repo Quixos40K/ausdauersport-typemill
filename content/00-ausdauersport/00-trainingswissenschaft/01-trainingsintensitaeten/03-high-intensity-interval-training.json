@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training",
       "headline": "HIIT (High-Intensity Interval Training)",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training#webpage"
       },
       "headline": "HIIT (High-Intensity Interval Training)",
       "description": "High-Intensity Interval Training, kurz HIIT, beschreibt Training mit sehr intensiven Belastungsabschnitten und geplanten Erholungsphasen. Die Belastungen sin...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

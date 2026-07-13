@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung",
       "headline": "Individualisierung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage"
       },
       "headline": "Individualisierung",
       "description": "Individualisierung bedeutet, dass Training an die konkrete Person angepasst wird: an Leistungsstand, Trainingsalter, Ziel, Alltag, Erholung, Verletzungshisto...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

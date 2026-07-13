@@ -25,26 +25,28 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie#webpage",
-      "url": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie",
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie#webpage",
+      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie",
       "headline": "Biomechanik und Orthopädie",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       }
     },
     {
-      "@type": "CollectionPage",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie#content",
+      "@type": [
+        "CollectionPage"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie#webpage"
       },
       "headline": "Biomechanik und Orthopädie",
       "description": "Biomechanik und Orthopädie beschreibt, wie Bewegungen, Kräfte und Gewebestrukturen im Ausdauersport zusammenwirken. Gutes Lauftraining entsteht nicht nur dur...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

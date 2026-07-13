@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie",
       "headline": "Redistribution und Vacant-Space-Theorie",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage"
       },
       "headline": "Redistribution und Vacant-Space-Theorie",
       "description": "Redistribution und Vacant-Space-Theorie beschreiben, wie Immunzellen durch Ausdauerbelastung vorübergehend umverteilt werden und wie dadurch langfristig Raum...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

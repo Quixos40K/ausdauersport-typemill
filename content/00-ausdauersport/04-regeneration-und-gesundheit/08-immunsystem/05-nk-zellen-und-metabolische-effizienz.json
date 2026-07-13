@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz",
       "headline": "NK-Zellen und metabolische Effizienz",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/nk-zellen-und-metabolische-effizienz#webpage"
       },
       "headline": "NK-Zellen und metabolische Effizienz",
       "description": "NK-Zellen und metabolische Effizienz beschreiben, wie natürliche Killerzellen Energie nutzen, um ihre Immunaufgaben zu erfüllen. Im Ausdauertraining ist das ...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

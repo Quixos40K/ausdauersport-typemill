@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur",
       "headline": "Muskelkater und Gewebereparatur",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/muskelkater-und-gewebereparatur#webpage"
       },
       "headline": "Muskelkater und Gewebereparatur",
       "description": "Muskelkater und Gewebereparatur beschreiben die Reaktion des Körpers auf ungewohnte oder hohe muskuläre Belastung. Im Ausdauertraining tritt Muskelkater beso...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

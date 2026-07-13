@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#webpage",
-      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser",
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#webpage",
+      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser",
       "headline": "Vorfußlauf ist nicht automatisch besser",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#content"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/vorfusslauf-ist-nicht-automatisch-besser#webpage"
       },
       "headline": "Vorfußlauf ist nicht automatisch besser",
       "description": "Vorfußlauf ist nicht automatisch besser als Fersenlauf. Der Fußaufsatz allein entscheidet nicht über Laufökonomie, Verletzungsrisiko oder Geschwindigkeit. Wi...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

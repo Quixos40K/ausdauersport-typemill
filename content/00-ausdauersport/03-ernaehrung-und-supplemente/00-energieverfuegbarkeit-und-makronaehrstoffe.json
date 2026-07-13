@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#webpage",
-      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe",
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#webpage",
+      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe",
       "headline": "Energieverfügbarkeit und Makronährstoffe",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#content"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe#webpage"
       },
       "headline": "Energieverfügbarkeit und Makronährstoffe",
       "description": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training für grundlegende Funktionen, Anpassung und Regeneration bleibt. Makronährstoff...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

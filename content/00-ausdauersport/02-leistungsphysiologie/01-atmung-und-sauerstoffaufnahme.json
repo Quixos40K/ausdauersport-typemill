@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme",
       "headline": "Atmung und Sauerstoffaufnahme",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage"
       },
       "headline": "Atmung und Sauerstoffaufnahme",
       "description": "Atmung und Sauerstoffaufnahme beschreiben, wie Sauerstoff aus der Umgebungsluft über Lunge, Blut und Herz-Kreislauf-System zu den arbeitenden Muskeln gelangt...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

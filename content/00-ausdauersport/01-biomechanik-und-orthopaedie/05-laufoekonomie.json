@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#webpage",
-      "url": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie",
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#webpage",
+      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie",
       "headline": "Laufökonomie",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#content"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie#webpage"
       },
       "headline": "Laufökonomie",
       "description": "Laufökonomie beschreibt, wie viel Energie oder Sauerstoff ein Läufer benötigt, um eine bestimmte Geschwindigkeit aufrechtzuerhalten. Im Ausdauersport ist das...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#webpage",
-      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik",
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#webpage",
+      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik",
       "headline": "Zellmetabolismus und Epigenetik",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#content"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/zellmetabolismus-und-epigenetik#webpage"
       },
       "headline": "Zellmetabolismus und Epigenetik",
       "description": "Zellmetabolismus und Epigenetik beschreiben, wie Muskelzellen Energie verarbeiten und wie Trainingsreize die Aktivität bestimmter Gene beeinflussen können, o...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

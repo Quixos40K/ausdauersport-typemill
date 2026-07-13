@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#webpage",
-      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung",
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung",
       "headline": "Faszienrolle und Faszienbehandlung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#content"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/faszienrolle-und-faszienbehandlung#webpage"
       },
       "headline": "Faszienrolle und Faszienbehandlung",
       "description": "Faszienrolle und Faszienbehandlung beschreiben Formen der Selbstmassage, bei denen Druck auf Muskeln, Bindegewebe und angrenzende Strukturen ausgeübt wird. I...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

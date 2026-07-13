@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#webpage",
-      "url": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung",
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#webpage",
+      "url": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung",
       "headline": "Sehnenmorphologie und Matrixanpassung",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#content"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/biomechanik-und-orthopaedie/sehnenmorphologie-und-matrixanpassung#webpage"
       },
       "headline": "Sehnenmorphologie und Matrixanpassung",
       "description": "Sehnenmorphologie und Matrixanpassung beschreiben, wie sich Sehnenstruktur, Kollagenfasern und extrazelluläre Matrix an mechanische Belastung anpassen. Im Au...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }

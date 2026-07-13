@@ -25,29 +25,32 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/deload#webpage",
-      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/deload",
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/deload#webpage",
+      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/deload",
       "headline": "Deload",
       "isPartOf": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/deload#content"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/deload#content"
       }
     },
     {
-      "@type": "Article",
-      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/deload#content",
+      "@type": [
+        "MedicalWebPage",
+        "Article"
+      ],
+      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/deload#content",
       "mainEntityOfPage": {
-        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/deload#webpage"
+        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/deload#webpage"
       },
       "headline": "Deload",
       "description": "Ein Deload ist eine geplante Entlastungsphase im Training. Dabei werden Umfang, Intensität oder Trainingsdichte vorübergehend reduziert, damit Ermüdung abgeb...",
       "author": {
-        "@id": "https://oliver-nix/#oliver-nix"
+        "@id": "https://deine-domain.de/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://oliver-nix/#website"
+        "@id": "https://deine-domain.de/#website"
       },
       "inLanguage": "de-DE"
     }
