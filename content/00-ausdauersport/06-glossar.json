@@ -44,7 +44,7 @@
         "@id": "https://oliver-nix.de/ausdauersport/glossar#webpage"
       },
       "headline": "Glossar",
-      "description": "Dieses Glossar erklärt zentrale Begriffe aus Trainingsphysiologie, Biomechanik, Orthopädie, Leistungsdiagnostik und Ausdauersport....",
+      "description": "# Glossar...",
       "author": {
         "@id": "https://oliver-nix.de/#oliver-nix"
       },
