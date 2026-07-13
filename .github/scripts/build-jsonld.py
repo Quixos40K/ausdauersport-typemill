@@ -6,7 +6,7 @@ import yaml
 
 CONTENT_DIR = "content"
 SCHEMA_DIR = "schema"
-BASE_URL = "https://deine-domain.de" # Hier deine echte Domain eintragen
+BASE_URL = "https://oliver-nix" # Hier deine echte Domain eintragen
 PERSON_ID = f"{BASE_URL}/#oliver-nix"
 SITE_ID = f"{BASE_URL}/#website"
 
