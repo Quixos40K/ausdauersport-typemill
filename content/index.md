@@ -24,6 +24,7 @@ Theoretische KI-Fähigkeiten und SEO-Strategien müssen sich in der Praxis bewei
 
 ---
 
+
 ## Leadership DNA & Systems Thinking
 
 Komplexe Herausforderungen im E-Commerce – seien es PIM-Datenmigrationen, IT-Infrastruktur-Umbauten oder die Bewältigung der Peak Season – erfordern die Fähigkeit, in ineinandergreifenden Systemen zu denken. 
