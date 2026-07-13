@@ -1,3 +1,5 @@
+{% include 'partials/jsonld.twig' %}
+
 {% set pagesize = 10 %}
 {% set pages = ( item.folderContent|length / pagesize)|round(0, 'ceil') %}
 {% set currentpage = currentpage ? currentpage : 1 %}
