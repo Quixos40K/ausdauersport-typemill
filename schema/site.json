@@ -1,1 +1,9 @@
-
+{
+  "@type": "WebSite",
+  "@id": "https://deine-domain.de/#website",
+  "url": "https://deine-domain.de/",
+  "name": "Ausdauersport Lexikon",
+  "publisher": {
+    "@id": "https://deine-domain.de/#oliver-nix"
+  }
+}
