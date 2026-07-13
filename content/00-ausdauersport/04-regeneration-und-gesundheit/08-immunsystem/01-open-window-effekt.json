@@ -16,11 +16,11 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://deine-domain.de/#website",
-      "url": "https://deine-domain.de/",
+      "@id": "https://oliver-nix.de/#website",
+      "url": "https://oliver-nix.de/",
       "name": "Ausdauersport Lexikon",
       "publisher": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix.de/#oliver-nix"
       }
     },
     {
