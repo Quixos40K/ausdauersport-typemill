@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#webpage",
+      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus",
       "headline": "Immunometabolismus",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#content"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#content",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#webpage"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunometabolismus#webpage"
       },
       "headline": "Immunometabolismus",
       "description": "Immunometabolismus beschreibt, wie der Stoffwechsel von Immunzellen ihre Funktion beeinflusst. Im Ausdauertraining ist das wichtig, weil Immunzellen Energie ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

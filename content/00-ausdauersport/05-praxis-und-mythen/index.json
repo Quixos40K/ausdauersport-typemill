@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen#webpage",
-      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen#webpage",
+      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen",
       "headline": "Praxis und Mythen",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen#content",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen#webpage"
+        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen#webpage"
       },
       "headline": "Praxis und Mythen",
       "description": "Praxis und Mythen beschreibt, wie typische Annahmen, Trainingsregeln und verbreitete Aussagen im Ausdauersport eingeordnet werden können. Gutes Ausdauertrain...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

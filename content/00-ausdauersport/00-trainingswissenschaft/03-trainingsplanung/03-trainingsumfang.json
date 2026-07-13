@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang",
       "headline": "Trainingsumfang",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang#webpage"
       },
       "headline": "Trainingsumfang",
       "description": "Trainingsumfang beschreibt die Menge an Training innerhalb eines bestimmten Zeitraums. [[1]](#quelle-1) Im Ausdauertraining ist das wichtig, weil Umfang ein ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

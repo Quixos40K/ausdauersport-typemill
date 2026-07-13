@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus",
       "headline": "Makrozyklus",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus#webpage"
       },
       "headline": "Makrozyklus",
       "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Im Ausdauertraining umfasst er häufig mehrere Monate bis zu einer...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

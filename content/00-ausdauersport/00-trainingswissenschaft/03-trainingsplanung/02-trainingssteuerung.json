@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung",
       "headline": "Trainingssteuerung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/trainingssteuerung#webpage"
       },
       "headline": "Trainingssteuerung",
       "description": "Trainingssteuerung beschreibt die laufende Anpassung des Trainings an Ziel, Leistungsstand, Belastung und Erholung. [[1]](#quelle-1) [[2]](#quelle-2) Im Ausd...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#webpage",
+      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion",
       "headline": "Endotheliale Protektion",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#content"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#content",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#webpage"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/herz-kreislauf-system/endotheliale-protektion#webpage"
       },
       "headline": "Endotheliale Protektion",
       "description": "Endotheliale Protektion beschreibt den Schutz und die Funktionsfähigkeit der inneren Gefäßauskleidung. Im Ausdauertraining ist das wichtig, weil gesunde Gefä...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

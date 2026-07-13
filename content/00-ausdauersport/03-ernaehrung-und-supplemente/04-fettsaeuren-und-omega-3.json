@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#webpage",
-      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#webpage",
+      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3",
       "headline": "Fettsäuren und Omega-3",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#content"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#content",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#webpage"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/fettsaeuren-und-omega-3#webpage"
       },
       "headline": "Fettsäuren und Omega-3",
       "description": "Fettsäuren sind wichtige Energieträger und Bausteine von Zellmembranen. Im Ausdauersport sind sie relevant für Grundversorgung, Hormonhaushalt, Entzündungsre...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

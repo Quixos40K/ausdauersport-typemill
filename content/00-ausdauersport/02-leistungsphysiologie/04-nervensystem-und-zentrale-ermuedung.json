@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#webpage",
+      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung",
       "headline": "Nervensystem und zentrale Ermüdung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#content"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#content",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/nervensystem-und-zentrale-ermuedung#webpage"
       },
       "headline": "Nervensystem und zentrale Ermüdung",
       "description": "Nervensystem und zentrale Ermüdung beschreiben, wie Gehirn, Rückenmark und Nerven die Ausdauerleistung steuern und begrenzen können. Im Ausdauertraining ist ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung",
       "headline": "Leistungsentwicklung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/leistungsentwicklung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/leistungsentwicklung#webpage"
       },
       "headline": "Leistungsentwicklung",
       "description": "Leistungsentwicklung beschreibt, wie sich Ausdauerleistung durch wiederholte Trainingsreize, ausreichende Erholung und langfristige Anpassung verändert. Fort...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

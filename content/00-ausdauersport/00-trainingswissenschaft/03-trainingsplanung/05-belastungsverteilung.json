@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung",
       "headline": "Belastungsverteilung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung#webpage"
       },
       "headline": "Belastungsverteilung",
       "description": "Belastungsverteilung beschreibt, wie Trainingsumfang, Intensität und Erholung über eine Woche, einen Trainingsblock oder ein Trainingsjahr verteilt werden. [...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

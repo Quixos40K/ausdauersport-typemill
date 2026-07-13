@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation",
       "headline": "00-superkompensation",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation#webpage"
       },
       "headline": "00-superkompensation",
       "description": "Superkompensation beschreibt die Vorstellung, dass der Körper nach einem Trainingsreiz zunächst ermüdet, sich anschließend erholt und danach kurzfristig leis...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

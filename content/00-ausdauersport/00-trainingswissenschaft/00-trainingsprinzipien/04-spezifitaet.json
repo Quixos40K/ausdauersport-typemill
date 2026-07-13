@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet",
       "headline": "Spezifität",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet#webpage"
       },
       "headline": "Spezifität",
       "description": "Spezifität bedeutet: Der Körper passt sich vor allem an die Anforderungen an, die im Training tatsächlich gestellt werden. [[1]](#quelle-1) Ein Trainingsreiz...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

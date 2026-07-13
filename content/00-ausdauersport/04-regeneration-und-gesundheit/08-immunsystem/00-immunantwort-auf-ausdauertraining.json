@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#webpage",
+      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining",
       "headline": "Immunantwort auf Ausdauertraining",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#content"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#content",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#webpage"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/immunantwort-auf-ausdauertraining#webpage"
       },
       "headline": "Immunantwort auf Ausdauertraining",
       "description": "Die Immunantwort auf Ausdauertraining beschreibt, wie das Immunsystem auf körperliche Belastung reagiert. Im Ausdauertraining ist das wichtig, weil Training ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

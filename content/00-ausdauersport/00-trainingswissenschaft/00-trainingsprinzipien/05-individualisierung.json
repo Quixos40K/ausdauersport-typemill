@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung",
       "headline": "Individualisierung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung#webpage"
       },
       "headline": "Individualisierung",
       "description": "Individualisierung bedeutet, dass Training an die konkrete Person angepasst wird: an Leistungsstand, Trainingsalter, Ziel, Alltag, Erholung, Verletzungshisto...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

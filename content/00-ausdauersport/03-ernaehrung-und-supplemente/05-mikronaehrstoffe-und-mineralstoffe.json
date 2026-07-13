@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage",
-      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage",
+      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe",
       "headline": "Mikronährstoffe und Mineralstoffe",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe#webpage"
       },
       "headline": "Mikronährstoffe und Mineralstoffe",
       "description": "Mikronährstoffe und Mineralstoffe liefern keine direkte Trainingsenergie, sind aber für viele Prozesse im Ausdauersport wichtig. Sie unterstützen Sauerstofft...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

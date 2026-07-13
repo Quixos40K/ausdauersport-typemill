@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#webpage",
-      "url": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#webpage",
+      "url": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport",
       "headline": "Proteinversorgung im Ausdauersport",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#content"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#content",
+      "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#webpage"
+        "@id": "https://oliver-nix/ausdauersport/ernaehrung-und-supplemente/proteinversorgung-im-ausdauersport#webpage"
       },
       "headline": "Proteinversorgung im Ausdauersport",
       "description": "Proteinversorgung beschreibt, ob dem Körper genügend Eiweißbausteine für Reparatur, Anpassung und Erhalt von Gewebe zur Verfügung stehen. Im Ausdauersport is...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

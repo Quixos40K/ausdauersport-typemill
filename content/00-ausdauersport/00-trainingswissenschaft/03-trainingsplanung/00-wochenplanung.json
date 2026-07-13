@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung",
       "headline": "Wochenplanung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung/wochenplanung#webpage"
       },
       "headline": "Wochenplanung",
       "description": "Wochenplanung beschreibt die konkrete Organisation einer Trainingswoche. Sie legt fest, wann lockere Einheiten, Qualitätseinheiten, lange Läufe, Krafttrainin...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

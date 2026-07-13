@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage",
+      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt",
       "headline": "Open-Window-Effekt",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt#webpage"
       },
       "headline": "Open-Window-Effekt",
       "description": "Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

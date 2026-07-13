@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung",
       "headline": "Trainingsplanung",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsplanung#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsplanung#webpage"
       },
       "headline": "Trainingsplanung",
       "description": "Trainingsplanung beschreibt, wie einzelne Einheiten, Trainingswochen und längere Trainingsphasen sinnvoll organisiert werden. Gutes Ausdauertraining entsteht...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

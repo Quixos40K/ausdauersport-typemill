@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem#webpage",
+      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem",
       "headline": "Immunsystem",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem#content",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem#webpage"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem#webpage"
       },
       "headline": "Immunsystem",
       "description": "Das Immunsystem beschreibt, wie der Körper auf Belastung, Erholung, Entzündungsprozesse und wiederholtes Ausdauertraining reagiert. Gutes Ausdauertraining en...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize",
       "headline": "Trainingsreize",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#content"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize#webpage"
       },
       "headline": "Trainingsreize",
       "description": "Ein Trainingsreiz ist eine gezielte Belastung, die den Körper aus seinem Gleichgewicht bringt und dadurch Anpassungsprozesse auslöst. [[1]](#quelle-1) Im Aus...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage",
-      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage",
+      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet",
       "headline": "Schweiß zeigt nicht die Trainingsqualität",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content"
+        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage"
+        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet#webpage"
       },
       "headline": "Schweiß zeigt nicht die Trainingsqualität",
       "description": "Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt ...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

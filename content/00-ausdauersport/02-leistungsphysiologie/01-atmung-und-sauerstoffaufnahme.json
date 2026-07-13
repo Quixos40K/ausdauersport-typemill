@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage",
+      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme",
       "headline": "Atmung und Sauerstoffaufnahme",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie/atmung-und-sauerstoffaufnahme#webpage"
       },
       "headline": "Atmung und Sauerstoffaufnahme",
       "description": "Atmung und Sauerstoffaufnahme beschreiben, wie Sauerstoff aus der Umgebungsluft über Lunge, Blut und Herz-Kreislauf-System zu den arbeitenden Muskeln gelangt...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

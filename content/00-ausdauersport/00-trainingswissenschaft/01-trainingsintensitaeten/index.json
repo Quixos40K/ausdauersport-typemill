@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten#webpage",
-      "url": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten#webpage",
+      "url": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten",
       "headline": "Trainingsintensitäten",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten#content",
+      "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten#webpage"
+        "@id": "https://oliver-nix/ausdauersport/trainingswissenschaft/trainingsintensitaeten#webpage"
       },
       "headline": "Trainingsintensitäten",
       "description": "Trainingsintensitäten bestimmen, wie stark ein Trainingsreiz auf den Körper wirkt. Gutes Ausdauertraining entsteht nicht dadurch, jede Einheit möglichst hart...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

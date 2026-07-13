@@ -25,26 +25,26 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie#webpage",
-      "url": "https://deine-domain.de/ausdauersport/leistungsphysiologie",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie#webpage",
+      "url": "https://oliver-nix/ausdauersport/leistungsphysiologie",
       "headline": "Leistungsphysiologie",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie#content",
+      "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/leistungsphysiologie#webpage"
+        "@id": "https://oliver-nix/ausdauersport/leistungsphysiologie#webpage"
       },
       "headline": "Leistungsphysiologie",
       "description": "Leistungsphysiologie beschreibt, wie Herz, Kreislauf, Atmung, Sauerstoffaufnahme, Energiestoffwechsel, Zellprozesse und Nervensystem die Ausdauerleistung bee...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

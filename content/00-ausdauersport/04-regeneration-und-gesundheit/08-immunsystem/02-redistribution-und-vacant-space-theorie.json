@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage",
-      "url": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage",
+      "url": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie",
       "headline": "Redistribution und Vacant-Space-Theorie",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content",
+      "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage"
+        "@id": "https://oliver-nix/ausdauersport/regeneration-und-gesundheit/immunsystem/redistribution-und-vacant-space-theorie#webpage"
       },
       "headline": "Redistribution und Vacant-Space-Theorie",
       "description": "Redistribution und Vacant-Space-Theorie beschreiben, wie Immunzellen durch Ausdauerbelastung vorübergehend umverteilt werden und wie dadurch langfristig Raum...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }

@@ -25,29 +25,29 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#webpage",
-      "url": "https://deine-domain.de/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#webpage",
+      "url": "https://oliver-nix/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht",
       "headline": "Open Window ist zu einfach gedacht",
       "isPartOf": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "mainEntity": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#content"
+        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#content"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#content",
+      "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#content",
       "mainEntityOfPage": {
-        "@id": "https://deine-domain.de/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#webpage"
+        "@id": "https://oliver-nix/ausdauersport/praxis-und-mythen/open-window-ist-zu-einfach-gedacht#webpage"
       },
       "headline": "Open Window ist zu einfach gedacht",
       "description": "Das Open-Window-Modell ist zu einfach gedacht. Nach langen oder sehr intensiven Belastungen verändert sich die Immunaktivität vorübergehend, aber das bedeute...",
       "author": {
-        "@id": "https://deine-domain.de/#oliver-nix"
+        "@id": "https://oliver-nix/#oliver-nix"
       },
       "publisher": {
-        "@id": "https://deine-domain.de/#website"
+        "@id": "https://oliver-nix/#website"
       },
       "inLanguage": "de-DE"
     }
