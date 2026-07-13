@@ -25,10 +25,10 @@ jobs:
       - name: PyYAML Abhängigkeit installieren
         run: pip install pyyaml
 
-      - name: Pipeline 1: Master-Quellenverzeichnis extrahieren
+      - name: "Pipeline 1: Master-Quellenverzeichnis extrahieren"
         run: python .github/scripts/build_quellen.py
 
-      - name: Pipeline 2: Entity Graph (JSON-LD) Sidecars generieren
+      - name: "Pipeline 2: Entity Graph (JSON-LD) Sidecars generieren"
         run: python .github/scripts/build-jsonld.py
 
       - name: Ergebnisse im Main-Branch sichern
