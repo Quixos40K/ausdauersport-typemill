@@ -1,0 +1,3 @@
+{% if meta.json_ld is defined and meta.json_ld|trim is not empty %}
+<script type="application/ld+json">{{ meta.json_ld|raw }}</script>
+{% endif %}
