@@ -1,0 +1,10 @@
+{
+  "@type": "Person",
+  "@id": "https://deine-domain.de/#oliver-nix",
+  "name": "Oliver Nix",
+  "jobTitle": "Director E-Commerce & AEO Strategist",
+  "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+  "sameAs": [
+    "https://www.linkedin.com/in/oliver-nix/"
+  ]
+}
