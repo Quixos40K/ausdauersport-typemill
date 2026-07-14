@@ -1,0 +1,114 @@
+meta:
+    pageid: c0100328581ea6b5
+    navtitle: Herz-Kreislauf-System
+    title: Herz-Kreislauf-System
+    description: 'Das Herz-Kreislauf-System beschreibt, wie Herz, Blutgefäße und Blutfluss die Ausdauerleistung ermöglichen. Gutes Ausdauertraining entsteht nicht nur durch eine hohe Herzfrequenz im Training, sondern durch langfristige Anpassungen, die Sauerstofftransport, Durchblutung und Belastbarkeit verbessern können.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-29'
+    created: '2026-06-28'
+    time: 21-20-17
+    contains: pages
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/",
+              "name": "Herz-Kreislauf-System",
+              "headline": "Herz-Kreislauf-System",
+              "description": "Das Herz-Kreislauf-System beschreibt, wie Herz, Blutgefäße und Blutfluss die Ausdauerleistung ermöglichen. Gutes Ausdauertraining entsteht nicht nur durch eine hohe Herzfrequenz im Training, sondern durch langfristige Anpassungen, die Sauerstofftransport, Durchblutung und Belastbarkeit verbessern können.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#content"
+              }
+            },
+            {
+              "@type": [
+                "CollectionPage"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#webpage"
+              },
+              "headline": "Herz-Kreislauf-System",
+              "name": "Herz-Kreislauf-System",
+              "description": "Das Herz-Kreislauf-System beschreibt, wie Herz, Blutgefäße und Blutfluss die Ausdauerleistung ermöglichen. Gutes Ausdauertraining entsteht nicht nur durch eine hohe Herzfrequenz im Training, sondern durch langfristige Anpassungen, die Sauerstofftransport, Durchblutung und Belastbarkeit verbessern können.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-29"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Leistungsphysiologie",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Herz-Kreislauf-System",
+                  "item": "https://oliver-nix.de/ausdauersport/leistungsphysiologie/herz-kreislauf-system/"
+                }
+              ]
+            }
+          ]
+        }

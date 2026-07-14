@@ -1,0 +1,170 @@
+meta:
+    pageid: 360d21c10c3c7448
+    navtitle: 'Supplemente mit Evidenz'
+    title: 'Supplemente mit Evidenz'
+    description: 'Supplemente mit Evidenz sind Produkte oder Substanzen, deren Nutzen für bestimmte Situationen im Sport wissenschaftlich besser belegt ist als bei vielen frei beworbenen Präparaten. Im Ausdauersport betrifft das vor allem Kohlenhydrate, Elektrolyte, Koffein, Nitrat, bestimmte Pufferstoffe, Protein bei Bedarf und einzelne Mikronährstoffe bei nachgewiesenem Mangel. Entscheidend ist aber: Ein Supplement wirkt nur dann sinnvoll, wenn Ernährung, Training, Regeneration, Sicherheit und Zielsetzung zusammenpassen.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-07-05'
+    created: '2026-06-28'
+    time: 19-30-14
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/",
+              "name": "Supplemente mit Evidenz",
+              "headline": "Supplemente mit Evidenz",
+              "description": "Supplemente mit Evidenz sind Produkte oder Substanzen, deren Nutzen für bestimmte Situationen im Sport wissenschaftlich besser belegt ist als bei vielen frei beworbenen Präparaten. Im Ausdauersport betrifft das vor allem Kohlenhydrate, Elektrolyte, Koffein, Nitrat, bestimmte Pufferstoffe, Protein bei Bedarf und einzelne Mikronährstoffe bei nachgewiesenem Mangel. Entscheidend ist aber: Ein Supplement wirkt nur dann sinnvoll, wenn Ernährung, Training, Regeneration, Sicherheit und Zielsetzung zusammenpassen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#webpage"
+              },
+              "headline": "Supplemente mit Evidenz",
+              "name": "Supplemente mit Evidenz",
+              "description": "Supplemente mit Evidenz sind Produkte oder Substanzen, deren Nutzen für bestimmte Situationen im Sport wissenschaftlich besser belegt ist als bei vielen frei beworbenen Präparaten. Im Ausdauersport betrifft das vor allem Kohlenhydrate, Elektrolyte, Koffein, Nitrat, bestimmte Pufferstoffe, Protein bei Bedarf und einzelne Mikronährstoffe bei nachgewiesenem Mangel. Entscheidend ist aber: Ein Supplement wirkt nur dann sinnvoll, wenn Ernährung, Training, Regeneration, Sicherheit und Zielsetzung zusammenpassen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-07-05"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Ernaehrung Und Supplemente",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Supplemente mit Evidenz",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/supplemente-mit-evidenz/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was sind Supplemente mit Evidenz?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Supplemente mit Evidenz sind Ergänzungen, für die es in bestimmten Situationen wissenschaftliche Hinweise auf Nutzen gibt. Das bedeutet aber nicht, dass sie immer oder bei jedem Sportler wirken."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Supplemente sind im Ausdauersport besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Häufig relevant sind Kohlenhydrate, Elektrolyte, Koffein, Nitrat, bestimmte Pufferstoffe, Protein bei Bedarf und einzelne Mikronährstoffe bei nachgewiesenem Mangel."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind Supplemente notwendig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Viele Ausdauersportler können sehr gut ohne viele Supplemente trainieren. Sinnvoll werden sie vor allem, wenn ein konkretes Ziel oder ein konkreter Bedarf besteht."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Macht Koffein schneller?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Koffein kann bei bestimmten Belastungen die Leistungsfähigkeit oder Belastungswahrnehmung verbessern. Die Reaktion ist aber individuell unterschiedlich und sollte im Training getestet werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind natürliche Supplemente automatisch sicher?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Natürlich bedeutet nicht automatisch wirksam oder risikofrei. Auch natürliche Produkte können unverträglich sein, falsch dosiert werden oder problematische Inhaltsstoffe enthalten."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei Supplementen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, Supplemente ohne klares Ziel einzunehmen. Sinnvoller ist es, zuerst Ernährung, Training und Regeneration zu prüfen und dann gezielt zu entscheiden."
+                  }
+                }
+              ]
+            }
+          ]
+        }

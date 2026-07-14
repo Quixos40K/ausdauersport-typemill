@@ -1,0 +1,170 @@
+meta:
+    pageid: 2623e8ff161fde40
+    navtitle: 'Mikronährstoffe und Mineralstoffe'
+    title: 'Mikronährstoffe und Mineralstoffe'
+    description: 'Mikronährstoffe und Mineralstoffe liefern keine direkte Trainingsenergie, sind aber für viele Prozesse im Ausdauersport wichtig. Sie unterstützen Sauerstofftransport, Energiestoffwechsel, Muskelfunktion, Knochenstoffwechsel, Immunsystem und Regeneration. Entscheidend ist nicht, möglichst viele Präparate einzunehmen, sondern Ernährung, Energieverfügbarkeit, Trainingsbelastung und individuelle Versorgung sinnvoll einzuordnen.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 19-29-46
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/",
+              "name": "Mikronährstoffe und Mineralstoffe",
+              "headline": "Mikronährstoffe und Mineralstoffe",
+              "description": "Mikronährstoffe und Mineralstoffe liefern keine direkte Trainingsenergie, sind aber für viele Prozesse im Ausdauersport wichtig. Sie unterstützen Sauerstofftransport, Energiestoffwechsel, Muskelfunktion, Knochenstoffwechsel, Immunsystem und Regeneration. Entscheidend ist nicht, möglichst viele Präparate einzunehmen, sondern Ernährung, Energieverfügbarkeit, Trainingsbelastung und individuelle Versorgung sinnvoll einzuordnen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#webpage"
+              },
+              "headline": "Mikronährstoffe und Mineralstoffe",
+              "name": "Mikronährstoffe und Mineralstoffe",
+              "description": "Mikronährstoffe und Mineralstoffe liefern keine direkte Trainingsenergie, sind aber für viele Prozesse im Ausdauersport wichtig. Sie unterstützen Sauerstofftransport, Energiestoffwechsel, Muskelfunktion, Knochenstoffwechsel, Immunsystem und Regeneration. Entscheidend ist nicht, möglichst viele Präparate einzunehmen, sondern Ernährung, Energieverfügbarkeit, Trainingsbelastung und individuelle Versorgung sinnvoll einzuordnen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Ernaehrung Und Supplemente",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Mikronährstoffe und Mineralstoffe",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/mikronaehrstoffe-und-mineralstoffe/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was sind Mikronährstoffe einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mikronährstoffe sind Vitamine, Mineralstoffe und Spurenelemente. Sie liefern keine direkte Energie, sind aber an vielen Stoffwechselprozessen beteiligt."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum sind Mineralstoffe im Ausdauersport wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mineralstoffe unterstützen unter anderem Muskelfunktion, Flüssigkeitshaushalt, Knochenstoffwechsel und Nervenleitung. Beim Schwitzen können besonders Wasser und Elektrolyte relevant werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Mikronährstoffe sind für Läufer besonders wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Häufig relevant sind Eisen, Calcium, Vitamin D, Natrium, Magnesium, Zink, Selen und B-Vitamine. Welche davon wirklich kritisch sind, hängt von Ernährung, Belastung, Schweißverlusten und individueller Situation ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte man Mikronährstoffe vorsorglich supplementieren?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht pauschal. Supplemente können sinnvoll sein, wenn ein konkreter Bedarf oder Mangel besteht. Ohne Anlass ist eine breite Einnahme nicht automatisch besser."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Eisen im Ausdauersport wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Eisen ist wichtig für den Sauerstofftransport im Blut und in der Muskulatur. Bei Verdacht auf niedrige Eisenversorgung sollte der Status medizinisch abgeklärt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei Mikronährstoffen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, Müdigkeit oder Leistungsabfall sofort einem einzelnen Nährstoff zuzuschreiben. Training, Schlaf, Energieverfügbarkeit, Stress und Gesundheit müssen immer mit betrachtet werden."
+                  }
+                }
+              ]
+            }
+          ]
+        }

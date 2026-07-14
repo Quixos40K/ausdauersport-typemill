@@ -1,0 +1,170 @@
+meta:
+    pageid: 6bd135a670813af1
+    navtitle: 'Energieverfügbarkeit und Makronährstoffe'
+    title: 'Energieverfügbarkeit und Makronährstoffe'
+    description: 'Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training für grundlegende Funktionen, Anpassung und Regeneration bleibt. Makronährstoffe liefern diese Energie und erfüllen unterschiedliche Aufgaben: Kohlenhydrate unterstützen intensive Belastungen, Proteine helfen bei Reparatur und Anpassung, Fette sichern langfristige Energieversorgung und hormonelle Funktionen. '
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 19-29-04
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/",
+              "name": "Energieverfügbarkeit und Makronährstoffe",
+              "headline": "Energieverfügbarkeit und Makronährstoffe",
+              "description": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training für grundlegende Funktionen, Anpassung und Regeneration bleibt. Makronährstoffe liefern diese Energie und erfüllen unterschiedliche Aufgaben: Kohlenhydrate unterstützen intensive Belastungen, Proteine helfen bei Reparatur und Anpassung, Fette sichern langfristige Energieversorgung und hormonelle Funktionen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#webpage"
+              },
+              "headline": "Energieverfügbarkeit und Makronährstoffe",
+              "name": "Energieverfügbarkeit und Makronährstoffe",
+              "description": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training für grundlegende Funktionen, Anpassung und Regeneration bleibt. Makronährstoffe liefern diese Energie und erfüllen unterschiedliche Aufgaben: Kohlenhydrate unterstützen intensive Belastungen, Proteine helfen bei Reparatur und Anpassung, Fette sichern langfristige Energieversorgung und hormonelle Funktionen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Ernaehrung Und Supplemente",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Energieverfügbarkeit und Makronährstoffe",
+                  "item": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/ernaehrung-und-supplemente/energieverfuegbarkeit-und-makronaehrstoffe/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Energieverfügbarkeit einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Energieverfügbarkeit beschreibt, wie viel Energie dem Körper nach dem Training noch für grundlegende Funktionen, Regeneration und Anpassung bleibt. Sie ist deshalb mehr als nur die tägliche Kalorienmenge."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Energieverfügbarkeit im Ausdauertraining wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ausdauertraining erzeugt Belastung. Damit daraus Anpassung entsteht, braucht der Körper genügend Energie für Muskeln, Knochen, Immunsystem, Hormonhaushalt und Reparaturprozesse."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Rolle spielen Kohlenhydrate?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kohlenhydrate sind besonders wichtig für intensive Belastungen, Tempoläufe, Intervalle, lange Läufe und Wettkämpfe. Sie helfen, Trainingsqualität und Leistungsfähigkeit zu sichern."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Reicht viel Protein für gute Regeneration?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Protein ist wichtig für Reparatur und Anpassung, aber ohne ausreichende Gesamtenergie und passende Kohlenhydratversorgung bleibt Regeneration oft unvollständig."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind Fette für Ausdauersportler wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Fette liefern Energie, unterstützen hormonelle Funktionen und sind wichtig für Zellstrukturen sowie die Aufnahme fettlöslicher Vitamine. Sehr niedrige Fettzufuhr kann problematisch werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei Makronährstoffen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, einzelne Nährstoffe isoliert zu bewerten. Entscheidend ist nicht nur Kohlenhydrat, Protein oder Fett allein, sondern ob die gesamte Ernährung zur Trainingsbelastung passt."
+                  }
+                }
+              ]
+            }
+          ]
+        }
