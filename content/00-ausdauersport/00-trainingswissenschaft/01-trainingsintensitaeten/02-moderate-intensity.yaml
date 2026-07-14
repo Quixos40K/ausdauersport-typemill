@@ -1,0 +1,200 @@
+meta:
+    pageid: 949432554b5dd21f
+    navtitle: 'MIT (Moderate Intensity)'
+    title: 'MIT (Moderate Intensity)'
+    description: 'Moderate Intensity Training, kurz MIT, beschreibt Training mit mittlerer Intensität. Die Belastung ist deutlich spürbar, aber noch kontrollierbar. Sie liegt zwischen lockerem Grundlagentraining und hochintensiven Einheiten.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-26'
+    time: 21-52-53
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/",
+              "name": "MIT (Moderate Intensity)",
+              "headline": "MIT (Moderate Intensity)",
+              "description": "Moderate Intensity Training, kurz MIT, beschreibt Training mit mittlerer Intensität. Die Belastung ist deutlich spürbar, aber noch kontrollierbar. Sie liegt zwischen lockerem Grundlagentraining und hochintensiven Einheiten.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage"
+              },
+              "headline": "MIT (Moderate Intensity)",
+              "name": "MIT (Moderate Intensity)",
+              "description": "Moderate Intensity Training, kurz MIT, beschreibt Training mit mittlerer Intensität. Die Belastung ist deutlich spürbar, aber noch kontrollierbar. Sie liegt zwischen lockerem Grundlagentraining und hochintensiven Einheiten.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-26",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Trainingsintensitaeten",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "MIT (Moderate Intensity)",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet MIT im Ausdauertraining?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MIT steht für Moderate Intensity Training und beschreibt Training mit mittlerer Intensität. Die Belastung ist deutlich spürbar, aber noch kontrolliert durchhaltbar."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "In welcher Zone liegt MIT?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MIT liegt je nach Modell häufig im Bereich von Zone 3. Die genaue Einordnung hängt vom Zonenmodell, der Sportart und der individuellen Leistungsfähigkeit ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist MIT schlecht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. MIT ist nicht schlecht. Es wird nur problematisch, wenn zu viele Einheiten unbewusst im moderaten Bereich stattfinden und dadurch dauerhaft viel Ermüdung entsteht."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wofür ist MIT sinnvoll?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MIT kann für Tempodauerläufe, längere kontrollierte Belastungen, Schwellenannäherung und wettkampfspezifisches Training sinnvoll sein."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum wird MIT als graue Zone bezeichnet?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der Begriff graue Zone beschreibt Training, das nicht mehr wirklich locker, aber auch nicht wirklich hochintensiv ist. Wenn zu viel Training dort stattfindet, kann es viel Ermüdung erzeugen, ohne klare Trainingsqualität zu liefern."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie fühlt sich MIT an?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MIT fühlt sich kontrolliert anstrengend an. Die Atmung ist deutlich vertieft, eine Unterhaltung ist nur eingeschränkt möglich, aber die Belastung ist noch nicht maximal."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen LIT und MIT?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LIT ist niedrigintensiv, locker und lange gut durchhaltbar. MIT ist spürbar intensiver, belastender und sollte bewusster dosiert werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen MIT und HIIT?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MIT ist moderat und länger kontrolliert durchhaltbar. HIIT besteht aus sehr intensiven Belastungsabschnitten, die nur kurz oder intervallartig möglich sind."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie oft sollte MIT trainiert werden?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das hängt von Ziel, Leistungsstand, Trainingsumfang und Regeneration ab. MIT sollte gezielt eingesetzt werden und nicht automatisch jede lockere Einheit ersetzen. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

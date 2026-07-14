@@ -1,0 +1,240 @@
+meta:
+    pageid: 0c2597c1bf5d8dd6
+    navtitle: Tapering
+    title: Tapering
+    description: 'Tapering ist die geplante Reduktion der Trainingsbelastung vor einem wichtigen Wettkampf. Ziel ist es, angesammelte Ermüdung abzubauen, ohne die zuvor aufgebaute Leistungsfähigkeit zu verlieren. Ein gutes Tapering macht nicht fitter durch neues Training, sondern macht die vorhandene Form am Wettkampftag besser abrufbar.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-27'
+    time: 19-15-21
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/",
+              "name": "Tapering",
+              "headline": "Tapering",
+              "description": "Tapering ist die geplante Reduktion der Trainingsbelastung vor einem wichtigen Wettkampf. Ziel ist es, angesammelte Ermüdung abzubauen, ohne die zuvor aufgebaute Leistungsfähigkeit zu verlieren. Ein gutes Tapering macht nicht fitter durch neues Training, sondern macht die vorhandene Form am Wettkampftag besser abrufbar.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#webpage"
+              },
+              "headline": "Tapering",
+              "name": "Tapering",
+              "description": "Tapering ist die geplante Reduktion der Trainingsbelastung vor einem wichtigen Wettkampf. Ziel ist es, angesammelte Ermüdung abzubauen, ohne die zuvor aufgebaute Leistungsfähigkeit zu verlieren. Ein gutes Tapering macht nicht fitter durch neues Training, sondern macht die vorhandene Form am Wettkampftag besser abrufbar.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-27",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Periodisierung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Tapering",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/tapering/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Tapering einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tapering ist die geplante Reduktion der Trainingsbelastung vor einem Wettkampf. Ziel ist es, Ermüdung abzubauen und die vorhandene Form am Wettkampftag abrufbar zu machen. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Bedeutet Tapering komplette Pause?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Tapering bedeutet meistens reduziertes Training, nicht vollständige Pause. Umfang und Belastung sinken, aber kurze aktivierende Reize können erhalten bleiben. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie lange sollte Tapering dauern?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das hängt von Wettkampfdistanz, Trainingsumfang und individueller Erholung ab. Für kürzere Wettkämpfe reichen oft wenige Tage bis etwa eine Woche. Für Marathon oder längere Belastungen sind häufig zwei bis drei Wochen sinnvoll. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was wird beim Tapering reduziert?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Meist wird vor allem der Trainingsumfang reduziert. Zusätzlich können lange Läufe, Tempoanteile, Krafttraining, Reizdichte und mechanische Belastung reduziert werden. [[1]](quelle-1) [[2]](quelle-2) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Soll Intensität im Tapering erhalten bleiben?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja, oft in kleiner Dosierung. Kurze kontrollierte Abschnitte können helfen, Rhythmus und Spannung zu erhalten. Sie dürfen aber nicht so hart sein, dass neue Ermüdung entsteht. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum fühle ich mich im Tapering manchmal schlecht?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das ist nicht ungewöhnlich. Manche Athleten fühlen sich während der Entlastung zunächst träge, nervös oder unruhig. Der Körper stellt sich von Belastung auf Erholung und Wettkampfbereitschaft um."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Verliere ich durch Tapering Form?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein sinnvoll geplantes Tapering führt normalerweise nicht zu Formverlust. Es hilft, die vorhandene Form sichtbar zu machen, weil angesammelte Ermüdung sinkt. [[1]](quelle-1) [[10]](quelle-10)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Tapering und Deload?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Deload entlastet innerhalb des Trainingsprozesses und bereitet den nächsten Trainingsblock vor. Tapering entlastet vor einem Wettkampf und bereitet einen konkreten Leistungszeitpunkt vor."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Tapering und Peaking?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tapering ist der Entlastungsprozess vor dem Wettkampf. Peaking ist der gewünschte Zustand, in dem die Leistungsfähigkeit zum richtigen Zeitpunkt besonders gut abrufbar ist."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie sieht Tapering vor einem Marathon aus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Vor einem Marathon werden meist Wochenumfang, lange Läufe und Tempoumfang reduziert. Kurze Abschnitte im Marathonrenntempo können erhalten bleiben, damit Rhythmus und Pacing stabil bleiben. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler beim Tapering?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, in der Taperphase aus Unsicherheit zu viel zu trainieren. Dadurch bleibt Restermüdung bestehen und die Leistungsfähigkeit kann am Wettkampftag schlechter abrufbar sein. [[1]](quelle-1) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte man im Tapering neue Dinge ausprobieren?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Kurz vor dem Wettkampf sollten keine neuen Schuhe, ungewohnte Kraftübungen, neue Ernährungsexperimente oder neue Trainingsmethoden eingeführt werden. [[6]](quelle-6) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Schlaf im Tapering wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Schlaf unterstützt Erholung, hormonelle Regulation, muskuläre Reparatur und mentale Frische. Tapering funktioniert besser, wenn auch Alltag und Schlaf berücksichtigt werden. [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann Tapering auch mental helfen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Ein gutes Tapering kann mentale Frische zurückbringen, Wettkampfdruck senken und Vertrauen in die Vorbereitung stärken. [[1]](quelle-1) [[9]](quelle-9) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

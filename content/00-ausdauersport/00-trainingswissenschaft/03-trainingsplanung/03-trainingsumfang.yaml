@@ -1,0 +1,176 @@
+meta:
+    pageid: 26b71abb873b310a
+    navtitle: Trainingsumfang
+    title: Trainingsumfang
+    description: 'Trainingsumfang beschreibt die Menge an Training innerhalb eines bestimmten Zeitraums. Im Ausdauertraining ist das wichtig, weil Umfang ein zentraler Reiz für Grundlagenausdauer, Belastbarkeit und langfristige Leistungsentwicklung ist. Entscheidend ist, dass Trainingsumfang nicht isoliert betrachtet wird, sondern immer zusammen mit Intensität, Häufigkeit und Erholung.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-27'
+    created: '2026-06-27'
+    time: 19-19-04
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/",
+              "name": "Trainingsumfang",
+              "headline": "Trainingsumfang",
+              "description": "Trainingsumfang beschreibt die Menge an Training innerhalb eines bestimmten Zeitraums. Im Ausdauertraining ist das wichtig, weil Umfang ein zentraler Reiz für Grundlagenausdauer, Belastbarkeit und langfristige Leistungsentwicklung ist. Entscheidend ist, dass Trainingsumfang nicht isoliert betrachtet wird, sondern immer zusammen mit Intensität, Häufigkeit und Erholung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#webpage"
+              },
+              "headline": "Trainingsumfang",
+              "name": "Trainingsumfang",
+              "description": "Trainingsumfang beschreibt die Menge an Training innerhalb eines bestimmten Zeitraums. Im Ausdauertraining ist das wichtig, weil Umfang ein zentraler Reiz für Grundlagenausdauer, Belastbarkeit und langfristige Leistungsentwicklung ist. Entscheidend ist, dass Trainingsumfang nicht isoliert betrachtet wird, sondern immer zusammen mit Intensität, Häufigkeit und Erholung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-27",
+              "dateModified": "2026-06-27"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Trainingsplanung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Trainingsumfang",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/trainingsumfang/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Trainingsumfang einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Trainingsumfang beschreibt, wie viel trainiert wird. Im Lauftraining meint das häufig Wochenkilometer, im Ausdauertraining allgemein auch Trainingszeit, Anzahl der Einheiten oder Belastungsdauer."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Trainingsumfang im Ausdauertraining wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Trainingsumfang schafft die Grundlage für viele langfristige Ausdaueranpassungen. Er hilft, Belastbarkeit, aerobe Leistungsfähigkeit und Ermüdungsresistenz aufzubauen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist mehr Trainingsumfang immer besser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Mehr Umfang ist nur sinnvoll, wenn er zum Ziel, zur Erfahrung und zur Erholung passt. Zu viel Umfang kann Überlastung und Stagnation begünstigen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie sollte Trainingsumfang gesteigert werden?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Trainingsumfang sollte schrittweise und kontrolliert gesteigert werden. Wichtig ist, nicht gleichzeitig Umfang, Intensität und Trainingshäufigkeit stark zu erhöhen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler beim Trainingsumfang?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, sich nur an Wochenkilometern zu orientieren. Entscheidend ist die Gesamtbelastung aus Umfang, Intensität, Erholung, Alltag und individueller Belastbarkeit."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Für wen ist Trainingsumfang besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Trainingsumfang ist besonders relevant für Läufer mit Wettkampfzielen, längeren Distanzen, steigendem Trainingspensum oder dem Wunsch nach langfristiger Ausdauerentwicklung. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

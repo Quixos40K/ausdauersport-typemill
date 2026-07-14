@@ -1,0 +1,97 @@
+meta:
+    pageid: c9eb33d2af86b19a
+    navtitle: Startseite
+    title: 'Oliver Nix | Director E-Commerce & AEO Strategist'
+    description: 'Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).'
+    heroimage: media/live/oliver-nix.webp
+    heroimagealt: 'Oliver Nix'
+    owner: Oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-09'
+    created: '2024-03-19'
+    time: 17-56-00
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/#webpage",
+              "url": "https://oliver-nix.de/",
+              "name": "Oliver Nix | Director E-Commerce & AEO Strategist",
+              "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
+              "description": "Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/#content"
+              }
+            },
+            {
+              "@type": [
+                "CollectionPage"
+              ],
+              "@id": "https://oliver-nix.de/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/#webpage"
+              },
+              "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
+              "name": "Oliver Nix | Director E-Commerce & AEO Strategist",
+              "description": "Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2024-03-19",
+              "dateModified": "2026-06-09"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                }
+              ]
+            }
+          ]
+        }

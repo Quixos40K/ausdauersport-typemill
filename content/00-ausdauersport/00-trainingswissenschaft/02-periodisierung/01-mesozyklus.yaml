@@ -1,0 +1,224 @@
+meta:
+    pageid: 575b4ba613d711f8
+    navtitle: Mesozyklus
+    title: Mesozyklus
+    description: 'Ein Mesozyklus ist ein mehrwöchiger Trainingsabschnitt innerhalb eines Makrozyklus. Er bündelt mehrere Mikrozyklen zu einem klaren Trainingsschwerpunkt, zum Beispiel Grundlagenaufbau, Umfangssteigerung, Schwellenentwicklung, VO2max-Training, spezifische Wettkampfvorbereitung oder Entlastung.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-26'
+    time: 21-53-16
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/",
+              "name": "Mesozyklus",
+              "headline": "Mesozyklus",
+              "description": "Ein Mesozyklus ist ein mehrwöchiger Trainingsabschnitt innerhalb eines Makrozyklus. Er bündelt mehrere Mikrozyklen zu einem klaren Trainingsschwerpunkt, zum Beispiel Grundlagenaufbau, Umfangssteigerung, Schwellenentwicklung, VO2max-Training, spezifische Wettkampfvorbereitung oder Entlastung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#webpage"
+              },
+              "headline": "Mesozyklus",
+              "name": "Mesozyklus",
+              "description": "Ein Mesozyklus ist ein mehrwöchiger Trainingsabschnitt innerhalb eines Makrozyklus. Er bündelt mehrere Mikrozyklen zu einem klaren Trainingsschwerpunkt, zum Beispiel Grundlagenaufbau, Umfangssteigerung, Schwellenentwicklung, VO2max-Training, spezifische Wettkampfvorbereitung oder Entlastung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-26",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Periodisierung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Mesozyklus",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/mesozyklus/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein Mesozyklus einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Mesozyklus ist ein Trainingsblock über mehrere Wochen. Er hat einen klaren Schwerpunkt, zum Beispiel Grundlagenaufbau, Schwellentraining, VO2max-Training, Umfangssteigerung oder spezifische Wettkampfvorbereitung. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie lange dauert ein Mesozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Mesozyklus dauert häufig drei bis sechs Wochen. Sehr verbreitet sind vierwöchige Blöcke, zum Beispiel drei Wochen Belastungsaufbau und eine Woche Entlastung. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Makrozyklus, Mesozyklus und Mikrozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der Makrozyklus ist der langfristige Gesamtplan. Der Mesozyklus ist ein mehrwöchiger Trainingsblock innerhalb dieses Plans. Der Mikrozyklus ist meist eine konkrete Trainingswoche. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum braucht ein Mesozyklus einen Schwerpunkt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Schwerpunkt sorgt dafür, dass Trainingsreize gezielt wirken können. Ohne Schwerpunkt werden oft zu viele Ziele gleichzeitig verfolgt, wodurch Anpassung, Erholung und Trainingsqualität leiden können. [[1]](quelle-1) [[2]](quelle-2) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Schwerpunkte kann ein Mesozyklus haben?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Typische Schwerpunkte sind aerobe Basis, Umfang, lange Läufe, Schwelle, VO2max, Kraft, Technik, Belastbarkeit, Wettkampfspezifik oder Entlastung. [[2]](quelle-2) [[5]](quelle-5) [[6]](quelle-6) [[7]](quelle-7)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Muss jeder Mesozyklus mit einer Entlastungswoche enden?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Eine Entlastungswoche ist häufig sinnvoll, aber nicht immer zwingend. Entscheidend sind Trainingsstand, Belastung, Erholung, Alter, Alltag und individuelle Reaktion auf den Trainingsblock. [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Progression im Mesozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Progression bedeutet, dass die Belastung im Verlauf des Blocks schrittweise entwickelt wird. Das kann über Umfang, Intensität, Dauer, Pausen, Höhenmeter oder spezifische Anforderungen geschehen. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann ein Mesozyklus auch der Erholung dienen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Ein Mesozyklus kann bewusst entlastend geplant werden, zum Beispiel nach einer Wettkampfphase, nach Krankheit, nach Verletzung oder nach einem sehr belastenden Trainingsblock. [[4]](quelle-4) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein typisches Beispiel für einen vierwöchigen Mesozyklus?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiges Muster ist: Woche 1 Einstieg, Woche 2 Steigerung, Woche 3 höchste Belastung, Woche 4 Entlastung. Dieses Muster muss aber individuell angepasst werden. [[1]](quelle-1) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler bei Mesozyklen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der häufigste Fehler ist ein überladener Trainingsblock. Wenn zu viele Fähigkeiten gleichzeitig stark entwickelt werden sollen, steigt das Risiko für Restermüdung, schlechte Qualität und Überlastung. [[2]](quelle-2) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie erkenne ich, ob ein Mesozyklus funktioniert hat?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein Mesozyklus funktioniert, wenn der geplante Schwerpunkt verbessert wurde, die Belastung verarbeitet werden konnte und keine anhaltenden Warnsignale wie Schmerzen, Schlafprobleme oder Leistungseinbruch entstanden sind. [[4]](quelle-4) [[8]](quelle-8) [[9]](quelle-9)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie hängt der Mesozyklus mit dem Wettkampfziel zusammen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der Mesozyklus setzt die langfristige Zielplanung in konkrete Trainingsblöcke um. Je näher der Wettkampf rückt, desto spezifischer werden die Schwerpunkte des Mesozyklus. [[1]](quelle-1) [[10]](quelle-10) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

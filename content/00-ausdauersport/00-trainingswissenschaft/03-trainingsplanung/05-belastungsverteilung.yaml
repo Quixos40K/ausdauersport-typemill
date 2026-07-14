@@ -1,0 +1,176 @@
+meta:
+    pageid: 05acba9cad25ec5f
+    navtitle: Belastungsverteilung
+    title: Belastungsverteilung
+    description: 'Belastungsverteilung beschreibt, wie Trainingsumfang, Intensität und Erholung über eine Woche, einen Trainingsblock oder ein Trainingsjahr verteilt werden. Im Ausdauertraining ist das wichtig, weil nicht nur die Gesamtbelastung zählt, sondern auch, wann und wie stark einzelne Reize gesetzt werden. Entscheidend ist, harte, moderate und lockere Einheiten so zu kombinieren, dass Anpassung möglich bleibt.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-27'
+    created: '2026-06-27'
+    time: 19-19-23
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/",
+              "name": "Belastungsverteilung",
+              "headline": "Belastungsverteilung",
+              "description": "Belastungsverteilung beschreibt, wie Trainingsumfang, Intensität und Erholung über eine Woche, einen Trainingsblock oder ein Trainingsjahr verteilt werden. Im Ausdauertraining ist das wichtig, weil nicht nur die Gesamtbelastung zählt, sondern auch, wann und wie stark einzelne Reize gesetzt werden. Entscheidend ist, harte, moderate und lockere Einheiten so zu kombinieren, dass Anpassung möglich bleibt.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#webpage"
+              },
+              "headline": "Belastungsverteilung",
+              "name": "Belastungsverteilung",
+              "description": "Belastungsverteilung beschreibt, wie Trainingsumfang, Intensität und Erholung über eine Woche, einen Trainingsblock oder ein Trainingsjahr verteilt werden. Im Ausdauertraining ist das wichtig, weil nicht nur die Gesamtbelastung zählt, sondern auch, wann und wie stark einzelne Reize gesetzt werden. Entscheidend ist, harte, moderate und lockere Einheiten so zu kombinieren, dass Anpassung möglich bleibt.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-27",
+              "dateModified": "2026-06-27"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Trainingswissenschaft",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Trainingsplanung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Belastungsverteilung",
+                  "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/belastungsverteilung/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Belastungsverteilung einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Belastungsverteilung beschreibt, wie lockere, moderate, intensive und erholende Trainingsanteile über eine Woche, einen Block oder ein Trainingsjahr verteilt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Belastungsverteilung im Ausdauertraining wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sie hilft, Trainingsreize sinnvoll zu setzen und Ermüdung zu kontrollieren. Dadurch können Belastung und Erholung besser zusammenwirken."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist eine harte Trainingswoche automatisch besser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Eine harte Woche kann kurzfristig fordern, ist aber nicht automatisch wirksamer. Entscheidend ist, ob der Körper die Belastung verarbeiten kann."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei der Belastungsverteilung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, zu viele Einheiten im mittleren Bereich zu absolvieren. Dadurch entsteht oft viel Ermüdung, ohne dass lockere oder intensive Reize klar getrennt sind."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie verteilt man harte Einheiten sinnvoll?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Harte Einheiten sollten bewusst geplant und mit ausreichend Abstand zu anderen belastenden Reizen kombiniert werden. Dazwischen braucht es lockere Einheiten oder Erholung."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Für wen ist Belastungsverteilung besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Belastungsverteilung ist besonders relevant für Läufer mit mehreren Einheiten pro Woche, steigenden Umfängen, Wettkampfzielen oder wiederkehrender Müdigkeit. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }
