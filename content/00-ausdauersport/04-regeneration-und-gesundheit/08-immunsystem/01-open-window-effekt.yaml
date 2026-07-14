@@ -1,0 +1,176 @@
+meta:
+    pageid: 0e9944442ce6a3f3
+    navtitle: Open-Window-Effekt
+    title: Open-Window-Effekt
+    description: 'Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte sein kann. Im Ausdauertraining ist das wichtig, weil harte Einheiten, Wettkämpfe, Schlafmangel, Energiemangel und Alltagsstress zusammen die Belastbarkeit des Körpers senken können. Entscheidend ist: Das „offene Fenster“ ist keine einfache Immunschwäche, sondern eine kurzfristige Veränderung der Immunregulation im Gesamtstress des Körpers.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-18-50
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/",
+              "name": "Open-Window-Effekt",
+              "headline": "Open-Window-Effekt",
+              "description": "Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte sein kann. Im Ausdauertraining ist das wichtig, weil harte Einheiten, Wettkämpfe, Schlafmangel, Energiemangel und Alltagsstress zusammen die Belastbarkeit des Körpers senken können. Entscheidend ist: Das „offene Fenster“ ist keine einfache Immunschwäche, sondern eine kurzfristige Veränderung der Immunregulation im Gesamtstress des Körpers.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#webpage"
+              },
+              "headline": "Open-Window-Effekt",
+              "name": "Open-Window-Effekt",
+              "description": "Der Open-Window-Effekt beschreibt die Annahme, dass das Immunsystem nach sehr langen oder intensiven Ausdauerbelastungen vorübergehend anfälliger für Infekte sein kann. Im Ausdauertraining ist das wichtig, weil harte Einheiten, Wettkämpfe, Schlafmangel, Energiemangel und Alltagsstress zusammen die Belastbarkeit des Körpers senken können. Entscheidend ist: Das „offene Fenster“ ist keine einfache Immunschwäche, sondern eine kurzfristige Veränderung der Immunregulation im Gesamtstress des Körpers.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Immunsystem",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Open-Window-Effekt",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/immunsystem/open-window-effekt/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Open-Window-Effekt einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Der Open-Window-Effekt beschreibt eine mögliche empfindliche Phase nach sehr langer oder intensiver Belastung. In dieser Zeit kann der Körper stärker mit Regeneration, Energieausgleich und Immunregulation beschäftigt sein. [[5]](quelle-5) [[7]](quelle-7) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist das Immunsystem nach dem Training wirklich geschwächt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht unbedingt. Die frühere Vorstellung einer einfachen Immunschwäche ist zu grob. Häufig verändern sich Immunzellverteilung, Stresshormone und Entzündungssignale vorübergehend. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist der Open-Window-Effekt besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Besonders relevant ist er nach Wettkämpfen, langen Läufen, sehr intensiven Einheiten, Trainingslagern oder Phasen mit hoher Gesamtbelastung. Das gilt vor allem, wenn wenig Schlaf, Energiemangel oder Alltagsstress dazukommen. [[5]](quelle-5) [[7]](quelle-7) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie lange dauert das offene Fenster?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das lässt sich nicht pauschal sagen. Die Dauer hängt von Belastung, Trainingszustand, Schlaf, Ernährung und Gesamtstress ab. Nach lockeren Einheiten ist die Reaktion meist deutlich geringer als nach sehr langen oder harten Belastungen. [[5]](quelle-5) [[7]](quelle-7) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was kann ich nach harten Einheiten tun?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sinnvoll sind ausreichend Schlaf, passende Energie- und Flüssigkeitszufuhr, lockere Erholung, Wärme und ein bewusster Umgang mit zusätzlichem Stress. Direkt nach sehr harten Belastungen sollte nicht sofort die nächste intensive Einheit folgen. [[5]](quelle-5) [[7]](quelle-7) [[8]](quelle-8)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Bedeutet der Open-Window-Effekt, dass hartes Training ungesund ist?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Hartes Training kann sinnvoll sein, wenn es richtig dosiert und gut eingebettet wird. Problematisch wird es, wenn hohe Belastung dauerhaft ohne ausreichende Regeneration stattfindet. [[2]](quelle-2) [[4]](quelle-4) [[6]](quelle-6) ---- ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

@@ -1,0 +1,170 @@
+meta:
+    pageid: 27ea0d0da763c604
+    navtitle: 'Schweiß zeigt nicht die Trainingsqualität'
+    title: 'Schweiß zeigt nicht die Trainingsqualität'
+    description: "Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt unter anderem von Hitze, Luftfeuchtigkeit, Kleidung, Trainingszustand, Genetik, Körpergröße und Gewöhnung an Wärme ab. Die Trainingsqualität erkennt man besser an Ziel, Intensität, Belastungssteuerung, Technik, Erholung und langfristiger Entwicklung.\n"
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-34-03
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/",
+              "name": "Schweiß zeigt nicht die Trainingsqualität",
+              "headline": "Schweiß zeigt nicht die Trainingsqualität",
+              "description": "Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt unter anderem von Hitze, Luftfeuchtigkeit, Kleidung, Trainingszustand, Genetik, Körpergröße und Gewöhnung an Wärme ab. Die Trainingsqualität erkennt man besser an Ziel, Intensität, Belastungssteuerung, Technik, Erholung und langfristiger Entwicklung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#webpage"
+              },
+              "headline": "Schweiß zeigt nicht die Trainingsqualität",
+              "name": "Schweiß zeigt nicht die Trainingsqualität",
+              "description": "Schweiß zeigt nicht automatisch, wie gut ein Training war. Schwitzen ist vor allem ein Mechanismus zur Temperaturregulation. Wie viel jemand schwitzt, hängt unter anderem von Hitze, Luftfeuchtigkeit, Kleidung, Trainingszustand, Genetik, Körpergröße und Gewöhnung an Wärme ab. Die Trainingsqualität erkennt man besser an Ziel, Intensität, Belastungssteuerung, Technik, Erholung und langfristiger Entwicklung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Praxis Und Mythen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Schweiß zeigt nicht die Trainingsqualität",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/schweiss-zeigt-nicht-die-trainingsqualitaet/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Bedeutet viel Schweiß ein gutes Training?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Viel Schweiß zeigt vor allem, dass der Körper Wärme reguliert. Ob das Training gut war, hängt stärker von Ziel, Intensität, Belastungssteuerung und Erholung ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Verbrennt man mehr Fett, wenn man mehr schwitzt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Schweiß ist vor allem Wasserverlust. Fettverbrennung hängt von Energiestoffwechsel, Intensität, Dauer, Ernährung und Gesamtbilanz ab."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum schwitze ich bei lockeren Läufen stark?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hitze, Luftfeuchtigkeit, Kleidung, Körpergröße, Genetik, Stress oder Hitzegewöhnung können die Schweißmenge erhöhen. Ein lockerer Lauf kann dadurch sehr schweißtreibend wirken."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist wenig Schweiß ein Zeichen für schlechtes Training?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Bei kühlem Wetter, niedriger Intensität oder guter Belüftung kann ein sinnvolles Training wenig Schweiß erzeugen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann Schwitzen trotzdem wichtig für Läufer sein?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Viel Schwitzen kann Flüssigkeits- und Elektrolytverluste erhöhen. Besonders bei langen Läufen, Hitze und Wettkämpfen sollte das berücksichtigt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Woran erkenne ich Trainingsqualität besser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Besser sind Zielerreichung, passende Intensität, stabile Technik, subjektives Belastungsempfinden, Herzfrequenz oder Pace im Kontext, Erholung und langfristige Entwicklung. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

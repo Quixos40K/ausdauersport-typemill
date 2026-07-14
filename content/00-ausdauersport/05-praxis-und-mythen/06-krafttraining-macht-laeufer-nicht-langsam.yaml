@@ -1,0 +1,170 @@
+meta:
+    pageid: db7bb416ee71ee45
+    navtitle: 'Krafttraining macht Läufer nicht langsam'
+    title: 'Krafttraining macht Läufer nicht langsam'
+    description: 'Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Entscheidend ist nicht, ob Krafttraining gemacht wird, sondern ob es passend zum Lauftraining geplant, platziert und gesteigert wird.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-33-41
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/",
+              "name": "Krafttraining macht Läufer nicht langsam",
+              "headline": "Krafttraining macht Läufer nicht langsam",
+              "description": "Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Entscheidend ist nicht, ob Krafttraining gemacht wird, sondern ob es passend zum Lauftraining geplant, platziert und gesteigert wird.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#webpage"
+              },
+              "headline": "Krafttraining macht Läufer nicht langsam",
+              "name": "Krafttraining macht Läufer nicht langsam",
+              "description": "Krafttraining macht Läufer nicht automatisch langsam. Richtig dosiert kann es Laufökonomie, Stabilität, Kraftübertragung und Belastbarkeit unterstützen. Entscheidend ist nicht, ob Krafttraining gemacht wird, sondern ob es passend zum Lauftraining geplant, platziert und gesteigert wird.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Praxis Und Mythen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Krafttraining macht Läufer nicht langsam",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/krafttraining-macht-laeufer-nicht-langsam/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Macht Krafttraining Läufer langsamer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein, nicht automatisch. Richtig dosiertes Krafttraining kann Läufer stabiler, belastbarer und ökonomischer machen. Problematisch wird es eher, wenn Krafttraining zu viel Ermüdung erzeugt oder schlecht in den Laufplan eingebaut wird."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Bauen Läufer durch Krafttraining zu viel Muskelmasse auf?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bei sinnvoller Dosierung passiert das nicht automatisch. Krafttraining für Läufer zielt meist nicht auf maximale Muskelmasse, sondern auf Kraft, Stabilität, Kontrolle und Belastbarkeit."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Welche Vorteile hat Krafttraining für Läufer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Krafttraining kann Rumpfstabilität, Hüftkontrolle, Beinachse, Wadenkraft, Sehnenbelastbarkeit und Laufökonomie unterstützen. Es kann außerdem helfen, Belastungen besser zu tolerieren."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wie oft sollten Läufer Krafttraining machen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Das hängt von Trainingsstand, Ziel und Gesamtbelastung ab. Für viele Läufer sind ein bis zwei gut geplante Einheiten pro Woche ein sinnvoller Einstieg. Entscheidend ist, dass die Laufeinheiten nicht dauerhaft darunter leiden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann sollte Krafttraining in die Woche passen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Krafttraining sollte so platziert werden, dass wichtige Laufeinheiten nicht unnötig beeinträchtigt werden. Häufig passt es nach lockeren Läufen, an separaten Tagen oder in Phasen mit weniger Laufintensität."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler beim Krafttraining für Läufer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Viele machen zu viel auf einmal. Neue Übungen, hohe Lasten und starker Muskelkater können die Laufqualität kurzfristig verschlechtern. Besser ist ein ruhiger Aufbau mit sauberer Technik. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

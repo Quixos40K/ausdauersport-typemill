@@ -1,0 +1,170 @@
+meta:
+    pageid: 4bdeea15b4d1c69f
+    navtitle: 'Dehnen verhindert Verletzungen'
+    title: 'Dehnen verhindert Verletzungen'
+    description: 'Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-17-14
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/",
+              "name": "Dehnen verhindert Verletzungen",
+              "headline": "Dehnen verhindert Verletzungen",
+              "description": "Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#webpage"
+              },
+              "headline": "Dehnen verhindert Verletzungen",
+              "name": "Dehnen verhindert Verletzungen",
+              "description": "Dehnen verhindert Verletzungen nicht automatisch. Im Ausdauersport kann Beweglichkeit hilfreich sein, wenn sie zu den eigenen Anforderungen passt. Entscheidend ist aber nicht, ob jemand viel dehnt, sondern ob Belastung, Kraft, Technik, Regeneration und Beweglichkeit sinnvoll zusammenpassen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Praxis Und Mythen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Dehnen verhindert Verletzungen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/dehnen-verhindert-verletzungen/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Verhindert Dehnen Verletzungen beim Laufen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nicht automatisch. Dehnen kann Beweglichkeit und Körperwahrnehmung unterstützen, aber Verletzungen hängen meist stärker mit Belastungssteuerung, Kraft, Ermüdung, Technik und Erholung zusammen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Dehnen deshalb nutzlos?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Dehnen kann sinnvoll sein, wenn es gezielt eingesetzt wird. Es kann helfen, Beweglichkeit zu erhalten, Spannungsgefühl zu reduzieren oder bestimmte Bewegungen besser wahrzunehmen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte man vor dem Laufen dehnen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Vor dem Laufen sind lockeres Einlaufen, Mobilisation und dynamische Aktivierung oft passender als langes statisches Dehnen. Statisches Dehnen eignet sich eher separat oder nach lockeren Einheiten, wenn es gut vertragen wird."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann zu viel Dehnen schaden?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Zu aggressives oder schmerzhaftes Dehnen kann gereiztes Gewebe zusätzlich belasten. Dehnen sollte kontrolliert, ruhig und ohne starken Schmerz durchgeführt werden."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was schützt besser vor Verletzungen als Dehnen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Wichtiger sind ein sinnvoller Belastungsaufbau, ausreichend Erholung, Krafttraining, stabile Lauftechnik, Schlaf, passende Schuhe und rechtzeitiges Reagieren auf Warnsignale."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Für wen ist Dehnen besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Dehnen kann besonders relevant sein, wenn Beweglichkeit tatsächlich eingeschränkt ist oder bestimmte Bewegungen nicht sauber ausgeführt werden können. Es sollte dann gezielt eingesetzt und nicht pauschal als Pflichtprogramm verstanden werden. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

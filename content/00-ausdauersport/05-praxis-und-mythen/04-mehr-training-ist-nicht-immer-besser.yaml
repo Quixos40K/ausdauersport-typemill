@@ -1,0 +1,170 @@
+meta:
+    pageid: 9f986354a411798d
+    navtitle: 'Mehr Training ist nicht immer besser'
+    title: 'Mehr Training ist nicht immer besser'
+    description: 'Mehr Training führt nicht automatisch zu mehr Leistung. Ausdauer verbessert sich, wenn Belastung und Erholung zusammenpassen. Wer Umfang oder Intensität zu schnell erhöht, kann Anpassung blockieren, Ermüdung aufbauen und das Risiko für Beschwerden, Leistungsabfall oder Überlastung steigern.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-33-16
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/",
+              "name": "Mehr Training ist nicht immer besser",
+              "headline": "Mehr Training ist nicht immer besser",
+              "description": "Mehr Training führt nicht automatisch zu mehr Leistung. Ausdauer verbessert sich, wenn Belastung und Erholung zusammenpassen. Wer Umfang oder Intensität zu schnell erhöht, kann Anpassung blockieren, Ermüdung aufbauen und das Risiko für Beschwerden, Leistungsabfall oder Überlastung steigern.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#webpage"
+              },
+              "headline": "Mehr Training ist nicht immer besser",
+              "name": "Mehr Training ist nicht immer besser",
+              "description": "Mehr Training führt nicht automatisch zu mehr Leistung. Ausdauer verbessert sich, wenn Belastung und Erholung zusammenpassen. Wer Umfang oder Intensität zu schnell erhöht, kann Anpassung blockieren, Ermüdung aufbauen und das Risiko für Beschwerden, Leistungsabfall oder Überlastung steigern.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Praxis Und Mythen",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Mehr Training ist nicht immer besser",
+                  "item": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/praxis-und-mythen/mehr-training-ist-nicht-immer-besser/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Führt mehr Training immer zu mehr Leistung?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Mehr Training verbessert die Leistung nur, wenn der Körper den zusätzlichen Reiz verarbeiten kann. Ohne ausreichende Erholung kann mehr Training auch zu Müdigkeit, Leistungsabfall oder Überlastung beitragen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist mehr Umfang sinnvoll?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mehr Umfang ist sinnvoll, wenn er langsam aufgebaut wird, gut vertragen wird und die Qualität der restlichen Einheiten nicht verschlechtert. Entscheidend ist die langfristige Kontinuität."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der häufigste Fehler?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Viele Läufer erhöhen Umfang und Intensität gleichzeitig. Dadurch steigt die Gesamtbelastung stark, während die Erholung oft gleich bleibt oder sogar schlechter wird."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Müdigkeit nach Training normal?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja, kurzfristige Müdigkeit nach Training ist normal. Problematisch wird es, wenn Müdigkeit dauerhaft bleibt, die Leistung sinkt, Schlaf und Stimmung schlechter werden oder Beschwerden wiederkehren."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sind Ruhetage verlorene Trainingstage?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Ruhetage helfen dem Körper, Trainingsreize zu verarbeiten. Anpassung entsteht nicht nur durch Belastung, sondern durch das Zusammenspiel aus Reiz und Erholung."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist besser als immer mehr Training?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Besser ist eine passende Belastungsverteilung: viele gut verträgliche Einheiten, gezielte intensive Reize, ausreichend Erholung und regelmäßige Phasen mit reduzierter Belastung. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

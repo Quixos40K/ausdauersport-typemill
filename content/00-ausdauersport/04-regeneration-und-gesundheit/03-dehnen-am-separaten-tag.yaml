@@ -1,0 +1,178 @@
+meta:
+    pageid: 4579eede8dece8d7
+    navtitle: 'Dehnen am separaten Tag'
+    title: 'Dehnen am separaten Tag'
+    description: 'Dehnen als Trainingseinheit Tag bedeutet, Beweglichkeitsarbeit bewusst von intensiven Lauf- oder Krafteinheiten zu trennen. Im Ausdauertraining ist das sinnvoll, weil Dehnen dann nicht zwischen Ermüdung, Zeitdruck und Trainingsreiz untergeht. Entscheidend ist, Dehnen nicht als Pflichtprogramm gegen Verletzungen zu verstehen, sondern als gezielte Maßnahme für Beweglichkeit, Körperwahrnehmung und Entspannung.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-46-47
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/",
+              "name": "Dehnen am separaten Tag",
+              "headline": "Dehnen am separaten Tag",
+              "description": "Dehnen als Trainingseinheit Tag bedeutet, Beweglichkeitsarbeit bewusst von intensiven Lauf- oder Krafteinheiten zu trennen. Im Ausdauertraining ist das sinnvoll, weil Dehnen dann nicht zwischen Ermüdung, Zeitdruck und Trainingsreiz untergeht. Entscheidend ist, Dehnen nicht als Pflichtprogramm gegen Verletzungen zu verstehen, sondern als gezielte Maßnahme für Beweglichkeit, Körperwahrnehmung und Entspannung.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#webpage"
+              },
+              "headline": "Dehnen am separaten Tag",
+              "name": "Dehnen am separaten Tag",
+              "description": "Dehnen als Trainingseinheit Tag bedeutet, Beweglichkeitsarbeit bewusst von intensiven Lauf- oder Krafteinheiten zu trennen. Im Ausdauertraining ist das sinnvoll, weil Dehnen dann nicht zwischen Ermüdung, Zeitdruck und Trainingsreiz untergeht. Entscheidend ist, Dehnen nicht als Pflichtprogramm gegen Verletzungen zu verstehen, sondern als gezielte Maßnahme für Beweglichkeit, Körperwahrnehmung und Entspannung.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Regeneration Und Gesundheit",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Dehnen am separaten Tag",
+                  "item": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/regeneration-und-gesundheit/dehnen-am-separaten-tag/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Dehnen am separaten Tag einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Dehnen am separaten Tag bedeutet, längere Beweglichkeitsarbeit nicht direkt an harte Einheiten anzuhängen, sondern in eine ruhigere Phase zu legen."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum sollte man Dehnen vom Training trennen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein separater Zeitpunkt kann helfen, Dehnen kontrollierter und entspannter auszuführen. Nach harten Einheiten ist der Körper oft bereits stark ermüdet. Außerdem kann längeres statisches Dehnen direkt vor leistungsorientierten Einheiten kurzfristig ungünstig sein. [[1]](quelle-1) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Dehnen nach dem Laufen falsch?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Kurzes lockeres Dehnen nach dem Laufen kann angenehm sein. Längeres oder intensives Dehnen passt aber oft besser an einen separaten, ruhigeren Zeitpunkt. Als zwingende Recovery-Maßnahme nach dem Training ist Dehnen nicht gut genug belegt. [[3]](quelle-3) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Verhindert Dehnen Verletzungen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Dehnen allein garantiert keine Verletzungsfreiheit. Belastungssteuerung, Kraft, Erholung, Schlaf, Technik und individuelle Voraussetzungen spielen ebenfalls eine große Rolle. [[2]](quelle-2) [[3]](quelle-3)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Sollte Dehnen weh tun?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Dehnen darf spürbar sein, sollte aber nicht schmerzhaft werden. Schmerz ist kein Zeichen für bessere Wirkung."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist für Läufer besonders relevant?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Für Läufer sind häufig Waden, Hüftbeuger, hintere Oberschenkel, Gesäß, Sprunggelenke und Hüftbeweglichkeit relevant. Entscheidend ist aber immer das individuelle Bewegungsprofil."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann ist Dehnen nicht sinnvoll?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bei akuten Schmerzen, starker Ermüdung, deutlichem Muskelkater oder gereiztem Gewebe kann Ruhe sinnvoller sein. Beschwerden sollten nicht einfach überdehnt werden. ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }
