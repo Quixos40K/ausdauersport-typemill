@@ -1,0 +1,170 @@
+meta:
+    pageid: cebdddf7e8d4328e
+    navtitle: Laufökonomie
+    title: Laufökonomie
+    description: 'Laufökonomie beschreibt, wie viel Energie oder Sauerstoff ein Läufer benötigt, um eine bestimmte Geschwindigkeit aufrechtzuerhalten. Im Ausdauersport ist das wichtig, weil zwei Läufer mit ähnlicher VO2max trotzdem unterschiedlich schnell oder lange laufen können. Entscheidend ist nicht nur der Motor, sondern wie effizient Kraft, Technik, Sehnenelastizität und neuromuskuläre Steuerung in Vortrieb umgesetzt werden.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 21-29-16
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/",
+              "name": "Laufökonomie",
+              "headline": "Laufökonomie",
+              "description": "Laufökonomie beschreibt, wie viel Energie oder Sauerstoff ein Läufer benötigt, um eine bestimmte Geschwindigkeit aufrechtzuerhalten. Im Ausdauersport ist das wichtig, weil zwei Läufer mit ähnlicher VO2max trotzdem unterschiedlich schnell oder lange laufen können. Entscheidend ist nicht nur der Motor, sondern wie effizient Kraft, Technik, Sehnenelastizität und neuromuskuläre Steuerung in Vortrieb umgesetzt werden.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#webpage"
+              },
+              "headline": "Laufökonomie",
+              "name": "Laufökonomie",
+              "description": "Laufökonomie beschreibt, wie viel Energie oder Sauerstoff ein Läufer benötigt, um eine bestimmte Geschwindigkeit aufrechtzuerhalten. Im Ausdauersport ist das wichtig, weil zwei Läufer mit ähnlicher VO2max trotzdem unterschiedlich schnell oder lange laufen können. Entscheidend ist nicht nur der Motor, sondern wie effizient Kraft, Technik, Sehnenelastizität und neuromuskuläre Steuerung in Vortrieb umgesetzt werden.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Biomechanik Und Orthopaedie",
+                  "item": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Laufökonomie",
+                  "item": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/laufoekonomie/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was ist Laufökonomie einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Laufökonomie beschreibt, wie viel Sauerstoff oder Energie ein Läufer benötigt, um eine bestimmte Geschwindigkeit zu laufen. Je weniger Energie bei gleichem Tempo benötigt wird, desto ökonomischer ist der Lauf. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Laufökonomie dasselbe wie VO2max?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Die VO2max beschreibt die maximale Sauerstoffaufnahme. Die Laufökonomie beschreibt, wie effizient dieser Sauerstoff bei submaximalem Tempo in Vortrieb umgesetzt wird. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum ist Laufökonomie für Langstreckenläufer wichtig?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Auf langen Strecken entscheidet nicht nur die maximale Leistungsfähigkeit, sondern auch der Energieverbrauch. Eine gute Laufökonomie kann helfen, Ermüdung hinauszuzögern und ein Tempo länger stabil zu halten. [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Kann man Laufökonomie trainieren?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja, aber meist langfristig. Regelmäßiges Lauftraining, Krafttraining, Technikübungen, plyometrische Reize, passende Intensitätsverteilung und Erholung können die Laufökonomie unterstützen. [[1]](quelle-1) [[2]](quelle-2) [[3]](quelle-3) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ist Vorfußlauf automatisch ökonomischer?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nein. Ein anderer Fußaufsatz ist nicht automatisch besser. Ein erzwungener Wechsel kann die Laufökonomie zunächst verschlechtern und Belastung auf Wade, Achillessehne und Fuß verlagern. [[1]](quelle-1) [[2]](quelle-2) [[4]](quelle-4) [[6]](quelle-6)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Woran erkennt man eine bessere Laufökonomie?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hinweise können ein niedrigerer Puls bei gleichem Tempo, ein geringeres Belastungsempfinden, stabilere Technik bei Ermüdung oder bessere Leistungsdiagnostik-Werte bei submaximaler Geschwindigkeit sein. [[1]](quelle-1) [[2]](quelle-2) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }

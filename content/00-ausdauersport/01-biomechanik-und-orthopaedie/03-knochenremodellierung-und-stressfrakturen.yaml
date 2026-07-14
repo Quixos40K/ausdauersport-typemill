@@ -1,0 +1,170 @@
+meta:
+    pageid: ce7a06695c4e8e4a
+    navtitle: 'Knochenremodellierung und Stressfrakturen'
+    title: 'Knochenremodellierung und Stressfrakturen'
+    description: 'Knochenremodellierung beschreibt, wie Knochengewebe fortlaufend abgebaut, erneuert und an mechanische Belastung angepasst wird. Im Ausdauersport ist das wichtig, weil Knochen regelmäßige Belastung brauchen, aber bei zu schneller oder zu einseitiger Belastungssteigerung überfordert werden können. Stressfrakturen entstehen meist nicht plötzlich, sondern als Folge wiederholter Mikrobelastungen, wenn Belastung und Regeneration nicht mehr zusammenpassen.'
+    owner: oliver
+    author: 'Oliver Nix'
+    modified: '2026-06-28'
+    created: '2026-06-28'
+    time: 19-24-38
+    hide: false
+    noindex: false
+    json_ld: |-
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://oliver-nix.de/#oliver-nix",
+              "name": "Oliver Nix",
+              "jobTitle": "Director E-Commerce & AEO Strategist",
+              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+              "sameAs": [
+                "https://www.rwo1904.de/teams/endurance/funktionsteam",
+                "https://www.instagram.com/running.oliver/",
+                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://oliver-nix.de/#website",
+              "url": "https://oliver-nix.de/",
+              "name": "Ausdauersport Lexikon",
+              "publisher": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#webpage",
+              "url": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/",
+              "name": "Knochenremodellierung und Stressfrakturen",
+              "headline": "Knochenremodellierung und Stressfrakturen",
+              "description": "Knochenremodellierung beschreibt, wie Knochengewebe fortlaufend abgebaut, erneuert und an mechanische Belastung angepasst wird. Im Ausdauersport ist das wichtig, weil Knochen regelmäßige Belastung brauchen, aber bei zu schneller oder zu einseitiger Belastungssteigerung überfordert werden können. Stressfrakturen entstehen meist nicht plötzlich, sondern als Folge wiederholter Mikrobelastungen, wenn Belastung und Regeneration nicht mehr zusammenpassen.",
+              "inLanguage": "de-DE",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#content"
+              }
+            },
+            {
+              "@type": [
+                "Article"
+              ],
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#content",
+              "mainEntityOfPage": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#webpage"
+              },
+              "headline": "Knochenremodellierung und Stressfrakturen",
+              "name": "Knochenremodellierung und Stressfrakturen",
+              "description": "Knochenremodellierung beschreibt, wie Knochengewebe fortlaufend abgebaut, erneuert und an mechanische Belastung angepasst wird. Im Ausdauersport ist das wichtig, weil Knochen regelmäßige Belastung brauchen, aber bei zu schneller oder zu einseitiger Belastungssteigerung überfordert werden können. Stressfrakturen entstehen meist nicht plötzlich, sondern als Folge wiederholter Mikrobelastungen, wenn Belastung und Regeneration nicht mehr zusammenpassen.",
+              "author": {
+                "@id": "https://oliver-nix.de/#oliver-nix"
+              },
+              "publisher": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/#website"
+              },
+              "inLanguage": "de-DE",
+              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+              "datePublished": "2026-06-28",
+              "dateModified": "2026-06-28"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Startseite",
+                  "item": "https://oliver-nix.de/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ausdauersport",
+                  "item": "https://oliver-nix.de/ausdauersport/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Biomechanik Und Orthopaedie",
+                  "item": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Knochenremodellierung und Stressfrakturen",
+                  "item": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#faq",
+              "isPartOf": {
+                "@id": "https://oliver-nix.de/ausdauersport/biomechanik-und-orthopaedie/knochenremodellierung-und-stressfrakturen/#webpage"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Was bedeutet Knochenremodellierung einfach erklärt?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Knochenremodellierung bedeutet, dass Knochengewebe fortlaufend erneuert wird. Alte oder belastete Strukturen werden abgebaut, neue Knochenmatrix wird aufgebaut und mineralisiert. [[4]](quelle-4) [[5]](quelle-5) [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist eine Stressfraktur?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Eine Stressfraktur ist eine Überlastungsverletzung des Knochens. Sie entsteht meist durch wiederholte Mikrobelastungen, wenn die Reparaturfähigkeit des Knochens nicht mehr ausreicht. [[1]](quelle-1) [[2]](quelle-2) [[5]](quelle-5) [[4]](quelle-4)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist der Unterschied zwischen Knochenstressreaktion und Stressfraktur?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Eine Knochenstressreaktion ist eine frühe Reizung oder Überlastungsreaktion des Knochens. Eine Stressfraktur ist eine weiter fortgeschrittene Form, bei der eine strukturelle Schädigung oder Frakturlinie vorliegen kann. [[1]](quelle-1) [[2]](quelle-2) [[5]](quelle-5)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Warum sind Läufer besonders betroffen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Beim Laufen wirken bei jedem Schritt wiederholte Kräfte auf Schienbein, Fuß, Hüfte und Becken. Wenn Umfang, Tempo oder Belastungsdichte zu schnell steigen, kann die knöcherne Anpassung überfordert werden. [[4]](quelle-4) [[5]](quelle-5) [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Was ist ein häufiger Fehler bei Stressfrakturen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ein häufiger Fehler ist, punktuelle Knochenschmerzen weiter zu überlaufen. Besonders Schmerzen, die unter Belastung zunehmen oder auch in Ruhe auftreten, sollten ernst genommen werden. [[4]](quelle-4) [[5]](quelle-5) [[1]](quelle-1) [[2]](quelle-2)"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Wann sollte man Beschwerden abklären lassen?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Punktuelle, zunehmende oder belastungsabhängige Knochenschmerzen sollten medizinisch abgeklärt werden. Das gilt besonders bei Schmerzen beim Auftreten, Hüpfen, in Ruhe oder nachts. [[4]](quelle-4) [[5]](quelle-5) [[1]](quelle-1) [[2]](quelle-2) ----"
+                  }
+                }
+              ]
+            }
+          ]
+        }
