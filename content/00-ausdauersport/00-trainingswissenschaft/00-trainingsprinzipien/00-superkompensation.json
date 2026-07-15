@@ -1,1 +1,243 @@
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://oliver-nix.de/#oliver-nix",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
+      "sameAs": [
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://oliver-nix.de/#website",
+      "url": "https://oliver-nix.de/",
+      "name": "Ausdauersport Lexikon",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://oliver-nix.de/#oliver-nix"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/",
+      "name": "Superkompensation",
+      "headline": "Superkompensation",
+      "description": "Superkompensation erklärt, wie Trainingsreiz, Ermüdung, Erholung und Anpassung zusammenhängen. Das Modell ist eine hilfreiche Grundidee, reicht für die praktische Trainingssteuerung allein aber nicht aus, weil Fitness und Ermüdung gleichzeitig entstehen.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#content"
+      },
+      "hasPart": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#content",
+      "mainEntityOfPage": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
+      },
+      "headline": "Superkompensation",
+      "name": "Superkompensation",
+      "description": "Superkompensation erklärt, wie Trainingsreiz, Ermüdung, Erholung und Anpassung zusammenhängen. Das Modell ist eine hilfreiche Grundidee, reicht für die praktische Trainingssteuerung allein aber nicht aus, weil Fitness und Ermüdung gleichzeitig entstehen.",
+      "abstract": "Superkompensation beschreibt die Vorstellung, dass der Körper nach einem Trainingsreiz zunächst ermüdet, sich anschließend erholt und danach kurzfristig leistungsfähiger sein kann als zuvor. Im Ausdauertraining hilft das Modell, Belastung und Erholung grundsätzlich zu verstehen. Für die praktische Trainingssteuerung muss zusätzlich berücksichtigt werden, dass Fitness und Ermüdung gleichzeitig entstehen.",
+      "articleSection": "Trainingsprinzipien",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-27",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://oliver-nix.de/#oliver-nix"
+      },
+      "publisher": {
+        "@id": "https://oliver-nix.de/#website"
+      },
+      "copyrightHolder": {
+        "@id": "https://oliver-nix.de/#oliver-nix"
+      },
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "Superkompensation",
+        "Trainingsreiz",
+        "Erholung",
+        "Regeneration",
+        "Trainingsanpassung",
+        "Fitness-Fatigue-Modell",
+        "Ermüdung",
+        "Ausdauertraining",
+        "Trainingssteuerung"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Superkompensation",
+          "description": "Modell, nach dem die Leistungsfähigkeit nach einem Trainingsreiz zunächst sinkt, sich anschließend erholt und vorübergehend über das Ausgangsniveau steigen kann."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsanpassung",
+          "description": "Längerfristige Reaktion des Körpers auf wiederholte und passend dosierte Trainingsreize."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastung und Erholung",
+          "description": "Zusammenspiel aus Trainingsbeanspruchung und anschließender Wiederherstellung der körperlichen und mentalen Belastbarkeit."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fitness-Fatigue-Modell"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ermüdung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Regeneration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Tapering"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Entlastungswoche"
+        }
+      ],
+      "citation": [
+        "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+        "https://link.springer.com/article/10.1186/s40798-022-00426-x",
+        "https://europepmc.org/article/MED/12840640",
+        "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+        "https://www.nature.com/articles/s41586-023-06877-w",
+        "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+        "https://link.springer.com/article/10.1186/s40798-024-00724-6"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://oliver-nix.de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ausdauersport",
+          "item": "https://oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingswissenschaft",
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Trainingsprinzipien",
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Superkompensation",
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq",
+      "name": "Häufige Fragen zur Superkompensation",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist Superkompensation einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Superkompensation beschreibt die Idee, dass der Körper nach einem passenden Trainingsreiz und ausreichender Erholung kurzfristig leistungsfähiger sein kann als vorher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Superkompensation heute noch aktuell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als einfaches Erklärmodell. Für konkrete Trainingssteuerung ist das Modell aber zu linear. In der Praxis sollten Fitness und Ermüdung gleichzeitig betrachtet werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum reicht Training allein nicht aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Training setzt den Reiz, aber Anpassung entsteht erst durch die anschließenden Erholungs- und Anpassungsprozesse. Ohne ausreichende Regeneration kann sich Ermüdung anhäufen und die Leistungsfähigkeit sinken."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zum Fitness-Fatigue-Modell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Superkompensation beschreibt eine einfache Abfolge von Reiz, Ermüdung, Erholung und Anpassung. Das Fitness-Fatigue-Modell erklärt dagegen, dass Fitness und Ermüdung gleichzeitig entstehen und gemeinsam die aktuell abrufbare Leistungsfähigkeit bestimmen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum fühlt man sich trotz gutem Training manchmal schlechter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aufgebaute Fitness kann durch aktuelle Ermüdung vorübergehend überdeckt werden. Die Leistungsfähigkeit ist dann nicht unbedingt verloren, sondern lediglich schlechter abrufbar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Superkompensation für die Trainingsplanung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Belastung und Erholung müssen gemeinsam geplant werden. Harte Einheiten, lange Läufe, lockere Tage, Entlastungswochen und Tapering sollten so kombiniert werden, dass Fitness aufgebaut wird, ohne die Ermüdung dauerhaft zu stark ansteigen zu lassen."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
