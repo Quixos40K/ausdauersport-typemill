@@ -1,0 +1,22 @@
+name: JSON-Dateien fuer Markdown anlegen
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**/*.md"
+      - "scripts/create-json-placeholders.sh"
+      - ".github/workflows/create-json-placeholders.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  create-json-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses:
