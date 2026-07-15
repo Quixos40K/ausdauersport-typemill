@@ -9,6 +9,12 @@
     <meta name="author" content="{{ meta.author|e }}" />
     <link rel="canonical" href="{{ item.urlAbs }}" />
 
+    {% if metatabs.meta.json_ld is defined and metatabs.meta.json_ld is not empty %}
+        <script type="application/ld+json">
+            {{ metatabs.meta.json_ld|raw }}
+        </script>
+    {% endif %}
+
     {{ assets.renderMeta() }}
 
     {% set defaultmode = (theme.defaultmode == 'darkmode') ? 'dark' : 'light' %}
