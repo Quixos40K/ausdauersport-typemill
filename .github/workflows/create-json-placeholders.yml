@@ -19,4 +19,21 @@ jobs:
 
     steps:
       - name: Repository auschecken
-        uses:
+        uses: actions/checkout@v4
+
+      - name: Fehlende JSON-Dateien anlegen
+        run: bash scripts/create-json-placeholders.sh content
+
+      - name: Aenderungen committen
+        shell: bash
+        run: |
+          if git diff --quiet -- content; then
+            echo "Keine neuen JSON-Dateien erforderlich."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all content
+          git commit -m "Add JSON placeholders for Markdown files"
+          git push
