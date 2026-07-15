@@ -1,0 +1,14 @@
+name: JSON-LD Meta Field
+version: 1.0.0
+description: Adds an editable JSON-LD field to the existing Meta tab in the Typemill editor.
+author: Oliver Nix
+license: MIT
+
+metatabs:
+  meta:
+    fields:
+      json_ld:
+        type: codearea
+        label: JSON-LD
+        description: Structured data for this page. Enter valid JSON only; do not include the script tag.
+        spellcheck: false
