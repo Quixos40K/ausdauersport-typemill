@@ -229,3 +229,4 @@ Ein gut dosierter Reiz führt zu spürbarer, aber kontrollierbarer Ermüdung. Di
 ----
 
 *Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+ 
