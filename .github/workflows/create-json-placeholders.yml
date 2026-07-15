@@ -1,1 +1,37 @@
-bmFtZTogQ3JlYXRlIEpTT04gcGxhY2Vob2xkZXJzCgpvbjoKICBwdXNoOgogICAgYnJhbmNoZXM6CiAgICAgIC0gbWFpbgogICAgIHBhdGhzOgogICAgICAgIC0gJ2NvbnRlbnQvKioqLyptZCcKICAgICAgICAtICdzY3JpcHRzL2NyZWF0ZS1qc29uLXBsYWNlaG9sZGVycy5zaCcKICAgICAgICAtICcuZ2l0aHViL3dvcmtmbG93cy9jcmVhdGUtanNvbi1wbGFjZWhvbGRlcnMueW1sJwogIHdvcmtmbG93X2Rpc3BhdGNoOgoKcGVybWlzc2lvbnM6CiAgY29udGVudHM6IHdyaXRlCgpqb2JzOgogIGNyZWF0ZS1qc29uLXBsYWNlaG9sZGVyczoKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgLSB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHY0CiAgICAuLi4KICAgIC0gbmFtZTogQ3JlYXRlIG1pc3NpbmcgSlNPTiBmaWxlcwogICAgICBydW46IGJhc2ggc2NyaXB0cy9jcmVhdGUtanNvbi1wbGFjZWhvbGRlcnMuc2ggY29udGVudAogICAgLSBuYW1lOiBDb21taXQgY2hhbmdlcwogICAgICBydW46IHwKICAgICAgICBpZiBnaXQgZGlmZiAtLXF1aWV0IC0tIGNvbnRlbnQ7IHRoZW4KICAgICAgICAgIGVjaG8gIk5vIG5ldyBKU09OIGZpbGVzLiIKICAgICAgICAgIGV4aXQgMAogICAgICAgIGZpCiAgICAgICAgZ2l0IGNvbmZpZyB1c2VyLm5hbWUgImdpdGh1Yi1hY3Rpb25zW2JvdF0iCiAgICAgICAgZ2l0IGNvbmZpZyB1c2VyLmVtYWlsICI0MTg5ODI4MitnaXRodWItYWN0aW9uc1tib3RdQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbSIKICAgICAgICBnaXQgYWRkIC0tYWxsIGNvbnRlbnQKICAgICAgICBnaXQgY29tbWl0IC1tICJBZGQgSlNPTiBwbGFjZWhvbGRlcnMgZm9yIE1hcmtkb3duIGZpbGVzIgogICAgICAgIGdpdCBwdXNoCg==
+name: Create JSON placeholders
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**/*.md"
+      - "scripts/create-json-placeholders.sh"
+      - ".github/workflows/create-json-placeholders.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  create-json-placeholders:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create missing JSON files
+        run: bash scripts/create-json-placeholders.sh content
+
+      - name: Commit changes
+        if: ${{ steps.create-json-files.outcome == 'success' }}
+        run: |
+          if git diff --quiet -- content; then
+            echo "No new JSON files needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all content
+          git commit -m "Add JSON placeholders for Markdown files"
+          git push
