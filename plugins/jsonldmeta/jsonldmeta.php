@@ -5,15 +5,14 @@ namespace Plugins\jsonldmeta;
 use Typemill\Plugin;
 
 /**
- * Adds a JSON-LD code field to Typemill's existing Meta tab.
- *
- * The field itself is declared in jsonldmeta.yaml. Typemill stores the
- * entered value in the page-specific YAML file as meta.json_ld.
+ * Adds an editable JSON-LD field to Typemill's Meta tab and renders valid
+ * JSON-LD in the frontend through assets.renderMeta().
  */
 class jsonldmeta extends Plugin
 {
-    public static function getSubscribedEvents(): array
+    public static function getSubscribedEvents()
     {
-        return [];
+        return [
+            'onMetaLoaded' => ['onMetaLoaded', 0],
+        ];
     }
-}
