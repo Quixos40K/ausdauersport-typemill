@@ -1,1 +1,517 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsintensitäten",
+        "High-Intensity Interval Training",
+        "HIIT",
+        "Trainingssteuerung",
+        "Leistungsphysiologie",
+        "VO2max"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/",
+      "name": "HIIT (High-Intensity Interval Training)",
+      "description": "High-Intensity Interval Training beschreibt Training mit sehr intensiven Belastungsabschnitten und geplanten Erholungsphasen. Der Artikel erklärt Wirkungsweise, Nutzen, Zonen und Dosierung von HIIT im Ausdauertraining.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#webpage"
+      },
+      "headline": "HIIT (High-Intensity Interval Training)",
+      "alternativeHeadline": "High-Intensity Interval Training im Ausdauersport",
+      "description": "High-Intensity Interval Training beschreibt Training mit sehr intensiven Belastungsabschnitten und geplanten Erholungsphasen. Der Artikel erklärt Wirkungsweise, Nutzen, Zonen und Dosierung von HIIT im Ausdauertraining.",
+      "abstract": "High-Intensity Interval Training (HIIT) kombiniert sehr intensive Belastungsabschnitte mit geplanten Erholungsphasen. Es setzt starke Reize für Herz-Kreislauf-System, Sauerstoffaufnahme (VO2max), Tempohärte und Laktatverarbeitung, erfordert aber eine gezielte Dosierung und ausreichende Regeneration.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsintensitäten"
+      ],
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauersport"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "High-Intensity Interval Training",
+        "HIIT",
+        "Intervalltraining",
+        "VO2max",
+        "Trainingsintensität",
+        "Herzfrequenz",
+        "Laktatverarbeitung",
+        "Tempohärte",
+        "Polarisiertes Training",
+        "Trainingssteuerung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#hiit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VO2max"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Hochintensive Trainingsintensität"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Intervalltraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Sauerstoffaufnahme"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Tempohärte"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laktatverarbeitung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Neuromuskuläre Leistungsfähigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Zone 4"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Zone 5"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Anaerobe Schwelle"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Erholungsphase"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Regeneration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Übertraining"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "The Scientific Basis for High-Intensity Interval Training: Optimising Training Programmes and Maximising Performance in Highly Trained Endurance Athletes",
+          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
+          "datePublished": "2002",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            },
+            {
+              "@type": "Person",
+              "name": "D. G. Jenkins"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "High-intensity interval training, solutions to the programming puzzle. Part I: cardiopulmonary emphasis",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0029-x",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. Buchheit"
+            },
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "High-intensity interval training, solutions to the programming puzzle. Part II: anaerobic energy, neuromuscular load and practical applications",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0066-5",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. Buchheit"
+            },
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Effectiveness of high-intensity interval training for improving VO2max: a systematic review and meta-analysis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26243014/",
+          "datePublished": "2015",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Z. Milanović"
+            },
+            {
+              "@type": "Person",
+              "name": "G. Sporiš"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Weston"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "What is best practice for training intensity and duration distribution in endurance athletes?",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "datePublished": "2010",
+          "author": {
+            "@type": "Person",
+            "name": "S. Seiler"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "datePublished": "2017",
+          "author": {
+            "@type": "Person",
+            "name": "P. C. Bourdon"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24550842/",
+          "datePublished": "2014",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Stöggl"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Sperlich"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Mann"
+            },
+            {
+              "@type": "Person",
+              "name": "R. P. Lamberts"
+            },
+            {
+              "@type": "Person",
+              "name": "M. I. Lambert"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Internal and External Training Load: 15 Years On",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Prevention, Diagnosis, and Treatment of the Overtraining Syndrome: Joint Consensus Statement of the European College of Sport Science and the American College of Sports Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "datePublished": "2013",
+          "author": {
+            "@type": "Person",
+            "name": "R. Meeusen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "How Much Is Too Much? Part 1: International Olympic Committee Consensus Statement on Load in Sport and Risk of Injury",
+          "url": "https://bjsm.bmj.com/content/50/17/1030",
+          "datePublished": "2016",
+          "author": {
+            "@type": "Person",
+            "name": "T. Soligard"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#hiit",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/",
+      "name": "HIIT (High-Intensity Interval Training)",
+      "alternateName": [
+        "HIIT",
+        "High-Intensity Interval Training",
+        "Hochintensives Intervalltraining"
+      ],
+      "termCode": "HIIT",
+      "description": "High-Intensity Interval Training (HIIT) beschreibt Training mit sehr intensiven Belastungsabschnitten und geplanten Erholungsphasen zur gezielten Steigerung von VO2max, Herz-Kreislauf-Leistung und Tempohärte.",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#article"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#haeufige-fragen-zu-hiit",
+      "name": "Häufige Fragen zu HIIT (High-Intensity Interval Training)",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist HIIT einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIIT steht für High-Intensity Interval Training. Es kombiniert kurze bis mittlere sehr intensive Belastungsphasen mit geplanten Erholungsphasen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bringt HIIT im Ausdauersport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HIIT setzt starke Reize für Herz-Kreislauf-System, VO2max, Laktatverarbeitung, Tempohärte und neuromuskuläre Aktivierung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In welcher Zonen-Kategorie liegt HIIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Belastungsphasen liegen meist in Zone 4 bis Zone 5 bzw. oberhalb der Laktatschwelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Macht HIIT schnell fitter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, HIIT kann kurzfristig starke Leistungsreize setzen. Es ersetzt aber kein Grundlagentraining, sondern ergänzt es."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie oft sollte man HIIT trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für die meisten Ausdauersportler reichen 1 bis 2 gezielte Einheiten pro Woche, um Qualitätsreize zu setzen, ohne die Regeneration zu überfordern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist zu viel HIIT gefährlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zu häufige hochintensive Reize erzeugen hohe Restermüdung, können das Übertrainingsrisiko steigern und die Qualität der Einheiten verschlechtern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Braucht man für HIIT eine Grundlagenausdauer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Eine solide aerobe Basis hilft, die intensiven Reize besser zu verarbeiten und in den Erholungsphasen schneller zu regenerieren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen HIIT und Intervalltraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Intervalltraining ist der Oberbegriff. HIIT beschreibt speziell Intervalle mit sehr hoher Intensität."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind lange Pausen bei HIIT wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Die Pausengestaltung entscheidet mit darüber, ob die hohe Intensität in den folgenden Intervallen mit hoher Qualität wiederholt werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erknecht man, ob HIIT gut dosiert ist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein gut dosiertes HIIT lässt sich mit hoher Bewegungsqualität ausführen, erzeugt geplante Ermüdung und beeinträchtigt die Folgetage nicht dauerhaft."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "HIIT (High-Intensity Interval Training)",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/high-intensity-interval-training/"
+        }
+      ]
+    }
+  ]
+}
