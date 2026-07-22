@@ -3,21 +3,20 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://www.oliver-nix.de/#website",
-      "url": "https://www.oliver-nix.de/",
+      "@id": "https://oliver-nix.de/#website",
+      "url": "https://oliver-nix.de/",
       "name": "Oliver Nix",
       "inLanguage": "de",
       "publisher": {
-        "@id": "https://www.oliver-nix.de/#person"
+        "@id": "https://oliver-nix.de/#person"
       }
     },
     {
       "@type": "Person",
-      "@id": "https://www.oliver-nix.de/#person",
+      "@id": "https://oliver-nix.de/#person",
       "name": "Oliver Nix",
-      "url": "https://www.oliver-nix.de/",
+      "url": "https://oliver-nix.de/",
       "sameAs": [
-        "https://www.linkedin.com/in/oliver-nix-ob",
         "https://www.instagram.com/running.oliver/"
       ],
       "knowsAbout": [
@@ -25,103 +24,102 @@
         "Trainingswissenschaft",
         "Trainingsintensitäten",
         "Low Intensity Training",
-        "Trainingssteuerung",
         "Leistungsphysiologie",
-        "Regeneration"
+        "Biomechanik"
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage",
-      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/",
       "name": "LIT (Low Intensity Training)",
-      "description": "Low Intensity Training beschreibt kontrolliertes Ausdauertraining mit niedriger Intensität. Es verbessert die aerobe Grundlage, unterstützt langfristige Anpassungen und ermöglicht regelmäßiges Training mit vergleichsweise geringer Ermüdung.",
+      "description": "LIT (Low Intensity Training) erklärt niedrigintensives Ausdauertraining, seine aeroben Anpassungen, den Nutzen für Regeneration und typische Dosierungsfehler.",
       "inLanguage": "de",
       "isPartOf": {
-        "@id": "https://www.oliver-nix.de/#website"
+        "@id": "https://oliver-nix.de/#website"
       },
       "author": {
-        "@id": "https://www.oliver-nix.de/#person"
+        "@id": "https://oliver-nix.de/#person"
       },
       "publisher": {
-        "@id": "https://www.oliver-nix.de/#person"
+        "@id": "https://oliver-nix.de/#person"
       },
+      "datePublished": "2026-07-22",
+      "dateModified": "2026-07-22",
       "breadcrumb": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#breadcrumb"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#article"
-      },
-      "about": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#lit"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#article"
       },
       "hasPart": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#faq"
-      }
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#faq"
+      },
+      "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/"
     },
     {
       "@type": "Article",
-      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#article",
-      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#article",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/",
       "mainEntityOfPage": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage"
       },
       "headline": "LIT (Low Intensity Training)",
       "alternativeHeadline": "Low Intensity Training im Ausdauersport",
-      "description": "Low Intensity Training beschreibt kontrolliertes Ausdauertraining mit niedriger Intensität. Es verbessert die aerobe Grundlage, unterstützt langfristige Anpassungen und ermöglicht regelmäßiges Training mit vergleichsweise geringer Ermüdung.",
-      "abstract": "Low Intensity Training, kurz LIT, bezeichnet ruhiges und über längere Zeit gut durchhaltbares Ausdauertraining. Es unterstützt die aerobe Leistungsfähigkeit, Kapillarisierung, mitochondriale Anpassungen, den Fettstoffwechsel und die langfristige Belastungsverträglichkeit. Entscheidend ist, dass die Belastung niedrig bleibt und nicht unbewusst in den moderaten Intensitätsbereich übergeht.",
-      "articleSection": "Trainingsintensitäten",
+      "description": "LIT (Low Intensity Training) erklärt niedrigintensives Ausdauertraining, seine aeroben Anpassungen, den Nutzen für Regeneration und typische Dosierungsfehler.",
+      "abstract": "Low Intensity Training, kurz LIT, beschreibt kontrolliertes Training mit niedriger Intensität, das über längere Zeit gut durchhaltbar ist. Es stärkt die aerobe Grundlage, unterstützt den Fettstoffwechsel und ermöglicht regelmäßiges Ausdauertraining mit vergleichsweise geringer Ermüdung. Entscheidend sind eine wirklich niedrige Intensität, passende Dauer und eine saubere Dosierung.",
+      "articleSection": "Trainingswissenschaft – Trainingsintensitäten",
+      "datePublished": "2026-07-22",
+      "dateModified": "2026-07-22",
+      "author": {
+        "@id": "https://oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage"
+      },
+      "isAccessibleForFree": true,
+      "inLanguage": "de",
+      "creativeWorkStatus": "Published",
       "genre": [
         "Fachartikel",
         "Trainingswissenschaft",
-        "Ausdauersport"
+        "Ausdauertraining"
       ],
-      "inLanguage": "de",
-      "isAccessibleForFree": true,
-      "author": {
-        "@id": "https://www.oliver-nix.de/#person"
-      },
-      "publisher": {
-        "@id": "https://www.oliver-nix.de/#person"
-      },
-      "accountablePerson": {
-        "@id": "https://www.oliver-nix.de/#person"
-      },
-      "isPartOf": {
-        "@id": "https://www.oliver-nix.de/#website"
-      },
-      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
       "keywords": [
         "Low Intensity Training",
         "LIT",
-        "niedrige Trainingsintensität",
+        "niedrigintensives Training",
         "Grundlagenausdauer",
         "aerobes Training",
+        "Trainingsintensität",
         "Zone 1",
         "Zone 2",
         "Fettstoffwechsel",
         "Kapillarisierung",
         "Mitochondrien",
-        "Trainingskontinuität",
         "Regeneration",
-        "Belastungsverträglichkeit",
-        "Ausdauertraining"
+        "Trainingssteuerung"
       ],
       "about": [
         {
-          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#lit"
+          "@type": "DefinedTerm",
+          "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#low-intensity-training",
+          "name": "Low Intensity Training",
+          "alternateName": "LIT",
+          "description": "Ausdauertraining mit niedriger, kontrollierter Intensität, das über längere Zeit gut durchhaltbar ist."
         },
         {
           "@type": "DefinedTerm",
-          "name": "Aerobes Ausdauertraining"
+          "name": "Grundlagenausdauer",
+          "description": "Aerobe Basis, die längere Belastungen und die Verarbeitung intensiverer Trainingsreize unterstützt."
         },
         {
           "@type": "DefinedTerm",
-          "name": "Grundlagenausdauer"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Niedrige Trainingsintensität"
+          "name": "Trainingsintensität",
+          "description": "Stärke eines Trainingsreizes, die unter anderem über physiologische Messgrößen und subjektives Belastungsempfinden eingeordnet wird."
         }
       ],
       "mentions": [
@@ -135,19 +133,7 @@
         },
         {
           "@type": "DefinedTerm",
-          "name": "Moderate Intensity Training"
-        },
-        {
-          "@type": "DefinedTerm",
           "name": "Aerobe Energiegewinnung"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Kapillarisierung"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Mitochondriale Anpassung"
         },
         {
           "@type": "DefinedTerm",
@@ -155,19 +141,11 @@
         },
         {
           "@type": "DefinedTerm",
-          "name": "Trainingshäufigkeit"
+          "name": "Kapillarisierung"
         },
         {
           "@type": "DefinedTerm",
-          "name": "Trainingsumfang"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Trainingskontinuität"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Belastungsverträglichkeit"
+          "name": "Mitochondriale Leistungsfähigkeit"
         },
         {
           "@type": "DefinedTerm",
@@ -175,31 +153,28 @@
         },
         {
           "@type": "DefinedTerm",
+          "name": "Moderate Intensity Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "High-Intensity Interval Training"
+        },
+        {
+          "@type": "DefinedTerm",
           "name": "Trainingsbelastung"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Talk Test"
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Subjektives Belastungsempfinden"
         }
       ],
-      "hasPart": [
-        {
-          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#lit"
-        },
-        {
-          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#faq"
-        }
-      ],
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Ausdauersportler, Läufer, Radsportler und Schwimmer"
+      },
+      "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
       "citation": [
         {
           "@type": "ScholarlyArticle",
           "name": "Physical Activity and Exercise Intensity Terminology: A Joint ACSM Expert Statement and ESSA Consensus Statement",
-          "url": "https://www.sciencedirect.com/science/article/pii/S1440244024005590",
           "datePublished": "2025",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1440244024005590",
           "isPartOf": {
             "@type": "Periodical",
             "name": "Medicine & Science in Sports & Exercise"
@@ -208,8 +183,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
-          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
           "datePublished": "2013",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
           "isPartOf": {
             "@type": "Periodical",
             "name": "Sports Medicine"
@@ -218,8 +193,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "An Examination and Critique of Subjective Methods to Determine Exercise Intensity: The Talk Test, Feeling Scale, and Rating of Perceived Exertion",
-          "url": "https://link.springer.com/article/10.1007/s40279-022-01690-3",
           "datePublished": "2022",
+          "url": "https://link.springer.com/article/10.1007/s40279-022-01690-3",
           "isPartOf": {
             "@type": "Periodical",
             "name": "Sports Medicine"
@@ -228,8 +203,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?",
-          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
           "datePublished": "2010",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
           "isPartOf": {
             "@type": "Periodical",
             "name": "International Journal of Sports Physiology and Performance"
@@ -238,8 +213,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Why low-intensity endurance training for athletes?",
-          "url": "https://link.springer.com/article/10.1007/s00421-025-05843-w",
           "datePublished": "2025",
+          "url": "https://link.springer.com/article/10.1007/s00421-025-05843-w",
           "isPartOf": {
             "@type": "Periodical",
             "name": "European Journal of Applied Physiology"
@@ -248,8 +223,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression",
-          "url": "https://link.springer.com/article/10.1007/s40279-024-02120-2",
           "datePublished": "2025",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02120-2",
           "isPartOf": {
             "@type": "Periodical",
             "name": "Sports Medicine"
@@ -258,8 +233,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Internal and External Training Load: 15 Years On",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
           "datePublished": "2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
           "isPartOf": {
             "@type": "Periodical",
             "name": "International Journal of Sports Physiology and Performance"
@@ -268,8 +243,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Monitoring Athlete Training Loads: Consensus Statement",
-          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
           "datePublished": "2017",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
           "isPartOf": {
             "@type": "Periodical",
             "name": "International Journal of Sports Physiology and Performance"
@@ -278,8 +253,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "Recovery and Performance in Sport: Consensus Statement",
-          "url": "https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml",
           "datePublished": "2018",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/13/2/article-p240.xml",
           "isPartOf": {
             "@type": "Periodical",
             "name": "International Journal of Sports Physiology and Performance"
@@ -288,8 +263,8 @@
         {
           "@type": "ScholarlyArticle",
           "name": "The Scientific Basis for High-Intensity Interval Training",
-          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
           "datePublished": "2002",
+          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
           "isPartOf": {
             "@type": "Periodical",
             "name": "Sports Medicine"
@@ -298,30 +273,13 @@
       ]
     },
     {
-      "@type": "DefinedTerm",
-      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#lit",
-      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/",
-      "name": "Low Intensity Training",
-      "alternateName": [
-        "LIT",
-        "Niedrigintensives Ausdauertraining",
-        "Training mit niedriger Intensität"
-      ],
-      "termCode": "LIT",
-      "description": "Low Intensity Training bezeichnet kontrolliertes Ausdauertraining mit niedriger Intensität, das über längere Zeit gut durchhaltbar ist und die aerobe Grundlage sowie die langfristige Belastungsverträglichkeit unterstützt.",
-      "inLanguage": "de",
-      "subjectOf": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#article"
-      }
-    },
-    {
       "@type": "FAQPage",
-      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#faq",
-      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#haeufige-fragen-zum-lit-low-intensity-training",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#faq",
+      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#haeufige-fragen-zum-lit-low-intensity-training",
       "name": "Häufige Fragen zum LIT (Low Intensity Training)",
       "inLanguage": "de",
       "isPartOf": {
-        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage"
+        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#webpage"
       },
       "mainEntity": [
         {
@@ -400,31 +358,31 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#breadcrumb",
+      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Ausdauersport",
-          "item": "https://www.oliver-nix.de/ausdauersport/"
+          "item": "https://oliver-nix.de/ausdauersport/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Trainingswissenschaft",
-          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Trainingsintensitäten",
-          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "LIT (Low Intensity Training)",
-          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/"
+          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/low-intensity-training/"
         }
       ]
     }
