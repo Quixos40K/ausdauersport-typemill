@@ -1,1 +1,470 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsintensitäten",
+        "Pyramidal Training",
+        "Belastungsverteilung",
+        "Trainingssteuerung",
+        "Leistungsphysiologie"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/",
+      "name": "Pyramidal Training",
+      "description": "Pyramidal Training ist eine Belastungsverteilung im Ausdauersport: Viel lockeres Training, etwas moderates Training und wenige hochintensive Spitzenreize. Der Artikel erklärt die Vorteile und Abgrenzung zum polarisierten Modell.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#webpage"
+      },
+      "headline": "Pyramidal Training",
+      "alternativeHeadline": "Pyramidales Training und Belastungsverteilung im Ausdauersport",
+      "description": "Pyramidal Training ist eine Belastungsverteilung im Ausdauersport: Viel lockeres Training, etwas moderates Training und wenige hochintensive Spitzenreize. Der Artikel erklärt die Vorteile und Abgrenzung zum polarisierten Modell.",
+      "abstract": "Pyramidal Training ist eine Belastungsverteilung, bei der der größte Teil des Trainings in niedriger Intensität stattfindet, ein kleinerer Anteil im mittleren Intensitätsbereich und der kleinste Anteil in hoher Intensität. Im Gegensatz zum polarisierten Training wird der mittlere Bereich nicht stark vermieden, sondern gezielt und kontrolliert genutzt.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsintensitäten"
+      ],
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauersport"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "Pyramidal Training",
+        "Pyramidales Training",
+        "Belastungsverteilung",
+        "Trainingsintensität",
+        "Mittlere Intensität",
+        "Polarisiertes Training",
+        "Schwellentraining",
+        "Trainingssteuerung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#pyramidal-training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastungsverteilung"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Polarisiertes Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mittlere Intensität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellentraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Niedrige Intensität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VO2max"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Wettkampfspezifik"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Grundlagenausdauer"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00033/full",
+          "datePublished": "2014",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Stöggl"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Sperlich"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized Training Is Not Optimal for National Elite Rowers",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2017.00845/full",
+          "datePublished": "2017",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "G. Treff"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Sperlich"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Quantifying training intensity distribution in elite endurance athletes: is there evidence for an optimal distribution?",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16430681/",
+          "datePublished": "2006",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "S. Seiler"
+            },
+            {
+              "@type": "Person",
+              "name": "G. O. Kjerland"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Scandinavian Journal of Medicine & Science in Sports"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Impact of training intensity distribution on performance in endurance athletes",
+          "url": "https://journals.lww.com/nsca-jscr/fulltext/2007/08000/impact_of_training_intensity_distribution_on.41.aspx",
+          "datePublished": "2007",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "J. Esteve-Lanao"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Foster"
+            },
+            {
+              "@type": "Person",
+              "name": "S. Seiler"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Lucia"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Strength and Conditioning Research"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Which Training Intensity Distribution Intervention will Produce the Greatest Improvements in Maximal Oxygen Uptake and Time-Trial Performance in Endurance Athletes?",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02149-3",
+          "datePublished": "2025",
+          "author": {
+            "@type": "Person",
+            "name": "M. A. Rosenblat"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "The Training Intensity Distribution of Marathon Runners Across Performance Levels",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02137-7",
+          "datePublished": "2024",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "datePublished": "2017",
+          "author": {
+            "@type": "Person",
+            "name": "P. C. Bourdon"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Internal and External Training Load: 15 Years On",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Mann"
+            },
+            {
+              "@type": "Person",
+              "name": "R. P. Lamberts"
+            },
+            {
+              "@type": "Person",
+              "name": "M. I. Lambert"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "The Scientific Basis for High-Intensity Interval Training",
+          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
+          "datePublished": "2002",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            },
+            {
+              "@type": "Person",
+              "name": "D. G. Jenkins"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Prevention, Diagnosis, and Treatment of the Overtraining Syndrome: Joint Consensus Statement of the European College of Sport Science and the American College of Sports Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "datePublished": "2013",
+          "author": {
+            "@type": "Person",
+            "name": "R. Meeusen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "How Much Is Too Much? Part 1: International Olympic Committee Consensus Statement on Load in Sport and Risk of Injury",
+          "url": "https://bjsm.bmj.com/content/50/17/1030",
+          "datePublished": "2016",
+          "author": {
+            "@type": "Person",
+            "name": "T. Soligard"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#pyramidal-training",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/",
+      "name": "Pyramidal Training",
+      "alternateName": [
+        "Pyramidales Training",
+        "Pyramiden-Modell"
+      ],
+      "termCode": "PYR",
+      "description": "Pyramidal Training ist ein Belastungsverteilungs-Modell im Ausdauersport. Es strukturiert die Intensität wie eine Pyramide: Der größte Teil wird locker trainiert (Basis), ein kleinerer Anteil moderat und der kleinste Anteil hochintensiv (Spitze).",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#article"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#haeufige-fragen-zum-pyramidal-training",
+      "name": "Häufige Fragen zum Pyramidal Training",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen pyramidalem und polarisiertem Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beide Modelle setzen als Basis auf einen hohen Anteil an sehr lockerem Training. Beim polarisierten Training wird der mittlere Intensitätsbereich jedoch gemieden, während das pyramidale Training ihn gezielt und kontrolliert für die Leistungsentwicklung einsetzt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist pyramidales Training besser als polarisiertes Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es gibt kein pauschal besseres Modell. Pyramidales Training eignet sich häufig besonders gut für wettkampfspezifische Phasen (wie z. B. Marathon- oder Halbmarathontraining), in denen die mittlere Schwellen-Intensität dem Zieltempo entspricht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie sieht die Intensitätsverteilung beim pyramidalen Training aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Verteilung ähnelt einer Pyramide: Die breite Basis bilden lockere Grundlagenläufe. Der mittlere Teil besteht aus dosierten, moderaten Einheiten, und die Spitze bilden wenige, stark kontrollierte hochintensive Reize."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bedeutet pyramidales Training, dass ich in der Grauzone laufe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Grauzonentraining entsteht, wenn lockere Läufe ungewollt zu schnell werden. Im pyramidalen Modell wird der mittlere Intensitätsbereich (Moderate Intensity) ganz gezielt, fokussiert und geplant eingesetzt, nicht aus Versehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man die Modelle im Jahresverlauf mischen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, das ist in der modernen Trainingssteuerung die Regel. Viele Athleten starten im Winter mit einem polarisierten Modell für aerobe Kapazität und VO2max und wechseln in der direkten Wettkampfvorbereitung zu einem pyramidalen Modell, um die Tempohärte an der Schwelle auszubauen."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Pyramidal Training",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/pyramidal-training/"
+        }
+      ]
+    }
+  ]
+}
