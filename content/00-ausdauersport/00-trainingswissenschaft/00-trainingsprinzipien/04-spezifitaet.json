@@ -1,1 +1,686 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Spezifität im Training",
+        "Trainingssteuerung",
+        "Belastungssteuerung"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/",
+      "name": "Spezifität",
+      "description": "Spezifität bedeutet, dass sich der Körper vor allem an die tatsächlich trainierten Anforderungen anpasst. Der Fachartikel erklärt Bewegungs-, Intensitäts-, Dauer-, Gewebe-, Koordinations- und Umgebungsspezifität im Ausdauertraining.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#article"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#term",
+        "name": "Spezifität",
+        "description": "Trainingsprinzip, nach dem sich der Körper vor allem an die Bewegungen, Intensitäten, Belastungsdauern, Gewebeanforderungen und Umweltbedingungen anpasst, die regelmäßig trainiert werden."
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/",
+      "headline": "Spezifität",
+      "description": "Der Fachartikel erklärt, warum Trainingsanpassungen von Bewegungsmuster, Intensität, Dauer, Gewebe, Koordination, Umgebung und konkretem Trainingsziel abhängen.",
+      "abstract": "Spezifität bedeutet, dass sich der Körper vor allem an die Anforderungen anpasst, die im Training tatsächlich gestellt werden. Ein Trainingsreiz wirkt gezielt auf bestimmte Energiesysteme, Bewegungsmuster, Muskelgruppen, Gewebe, Intensitäten und Belastungsdauern. Spezifisches Training verbessert deshalb den Transfer zur angestrebten Leistung.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "keywords": [
+        "Spezifität",
+        "Trainingsspezifität",
+        "spezifisches Training",
+        "Bewegungsspezifität",
+        "Intensitätsspezifität",
+        "Dauerspezifität",
+        "Gewebespezifität",
+        "koordinative Spezifität",
+        "Umgebungsspezifität",
+        "Trainingsreiz",
+        "Wettkampfvorbereitung",
+        "Trainingssteuerung",
+        "Ausdauertraining",
+        "Lauftraining",
+        "Transfer"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#spezifitaet",
+          "name": "Spezifität",
+          "description": "Trainingsprinzip, nach dem Anpassungen eng mit den konkret trainierten Anforderungen verbunden sind."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#bewegungsspezifitaet",
+          "name": "Bewegungsspezifität",
+          "description": "Anpassung an regelmäßig ausgeführte Bewegungsmuster, Gelenkwinkel, Muskelarbeit und Formen der Kraftübertragung."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#intensitaetsspezifitaet",
+          "name": "Intensitätsspezifität",
+          "description": "Anpassung an die physiologischen und neuromuskulären Anforderungen bestimmter Belastungsintensitäten."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#dauerspezifitaet",
+          "name": "Dauerspezifität",
+          "description": "Anpassung an die zeitliche Länge einer Belastung und die damit verbundenen energetischen, muskulären und mentalen Anforderungen."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#gewebespezifitaet",
+          "name": "Gewebespezifität",
+          "description": "Unterschiedliche Anpassung von Muskeln, Sehnen, Knochen, Knorpel und Faszien an mechanische Belastungen."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#umgebungsspezifitaet",
+          "name": "Umgebungsspezifität",
+          "description": "Anpassung an Untergrund, Gelände, Temperatur, Höhenprofil und weitere Bedingungen der Zielbelastung."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Herz-Kreislauf-Leistung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Energiestoffwechsel"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laufökonomie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Sehnensteifigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ermüdungsresistenz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Aerobe Basis"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellentraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VO₂max"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laktatdynamik"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Lauf-ABC"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Plyometrie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Rumpfstabilität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Bodenkontaktzeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schrittfrequenz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Glykogenmanagement"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Time-on-Feet"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Progressive Überlastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Individualisierung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Wettkampftempo"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Cross-Training"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.mdpi.com/2411-5142/7/4/102",
+          "url": "https://www.mdpi.com/2411-5142/7/4/102",
+          "name": "Training Specificity for Athletes: Emphasis on Strength-Power Training: A Narrative Review",
+          "datePublished": "2022",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. H. Stone"
+            },
+            {
+              "@type": "Person",
+              "name": "W. G. Hornsby"
+            },
+            {
+              "@type": "Person",
+              "name": "G. G. Haff"
+            },
+            {
+              "@type": "Person",
+              "name": "A. C. Fry"
+            },
+            {
+              "@type": "Person",
+              "name": "D. G. Suarez"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Liu"
+            },
+            {
+              "@type": "Person",
+              "name": "K. C. Pierce"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Functional Morphology and Kinesiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/17901124/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17901124/",
+          "name": "Endurance exercise performance: the physiology of champions",
+          "datePublished": "2008",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. J. Joyner"
+            },
+            {
+              "@type": "Person",
+              "name": "E. F. Coyle"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "The Journal of Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/view/journals/ijspp/5/3/article-p276.xml",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/5/3/article-p276.xml",
+          "name": "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?",
+          "datePublished": "2010",
+          "author": {
+            "@type": "Person",
+            "name": "S. Seiler"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-013-0066-5",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0066-5",
+          "name": "High-Intensity Interval Training, Solutions to the Programming Puzzle. Part II: Anaerobic Energy, Neuromuscular Load and Practical Applications",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. Buchheit"
+            },
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1843803/full",
+          "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1843803/full",
+          "name": "Cross-training between running and cycling: effects on VO₂max and running performance — a systematic review and meta-analysis",
+          "datePublished": "2026",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. M. Menges"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Dindorf"
+            },
+            {
+              "@type": "Person",
+              "name": "J. D. Dully"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Fröhlich"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Sports and Active Living"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-023-01978-y",
+          "url": "https://link.springer.com/article/10.1007/s40279-023-01978-y",
+          "name": "Effect of Strength Training Programs in Middle- and Long-Distance Runners’ Economy at Different Running Speeds: A Systematic Review with Meta-analysis",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "C. Llanos-Lagos"
+            },
+            {
+              "@type": "Person",
+              "name": "R. Ramirez-Campillo"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Moran"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Sáez de Villarreal"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "name": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+          "datePublished": "2025",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. J. Gabbett"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Oetter"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.665683/full",
+          "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.665683/full",
+          "name": "Training Load Capacity, Cumulative Risk, and Bone Stress Injuries: A Narrative Review of a Holistic Approach",
+          "datePublished": "2021",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "K. L. Hamstra-Wright"
+            },
+            {
+              "@type": "Person",
+              "name": "K. C. Huxel Bliven"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Napier"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Sports and Active Living"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/49/18/1164",
+          "url": "https://bjsm.bmj.com/content/49/18/1164",
+          "name": "Consensus recommendations on training and competing in the heat",
+          "datePublished": "2015",
+          "author": {
+            "@type": "Person",
+            "name": "S. Racinais"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/21916794/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21916794/",
+          "name": "Nutrition for endurance sports: marathon, triathlon, and road cycling",
+          "datePublished": "2011",
+          "author": {
+            "@type": "Person",
+            "name": "A. E. Jeukendrup"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Sports Sciences"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00634/full",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00634/full",
+          "name": "Physiology and Pathophysiology in Ultra-Marathon Running",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "B. Knechtle"
+            },
+            {
+              "@type": "Person",
+              "name": "P. T. Nikolaidis"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s00421-023-05412-z",
+          "url": "https://link.springer.com/article/10.1007/s00421-023-05412-z",
+          "name": "Downhill running increases markers of muscle damage and impairs the maximal voluntary force production as well as the late phase of the rate of voluntary force development",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "G. Coratella"
+            },
+            {
+              "@type": "Person",
+              "name": "G. Varesco"
+            },
+            {
+              "@type": "Person",
+              "name": "V. Rozand"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Cuinet"
+            },
+            {
+              "@type": "Person",
+              "name": "V. Sansoni"
+            },
+            {
+              "@type": "Person",
+              "name": "G. Lombardi"
+            },
+            {
+              "@type": "Person",
+              "name": "G. Vernillo"
+            },
+            {
+              "@type": "Person",
+              "name": "L. Mourot"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "European Journal of Applied Physiology"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#haeufige-fragen-zur-spezifitaet-im-training",
+      "name": "Häufige Fragen zur Spezifität im Training",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Spezifität im Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spezifität bedeutet, dass sich der Körper vor allem an genau die Belastungen anpasst, die regelmäßig trainiert werden. Entscheidend sind Bewegungsmuster, Intensität, Dauer, beteiligte Muskelgruppen und Gewebe, Untergrund sowie die konkrete Zielbelastung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist Spezifität im Ausdauertraining wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ausdauerleistung besteht nicht nur aus allgemeiner Fitness. Ein 5-km-Lauf, ein Marathon, ein Trailrennen und ein Triathlon stellen unterschiedliche Anforderungen. Spezifisches Training sorgt dafür, dass die Anpassungen zum tatsächlichen Ziel passen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bedeutet Spezifität, dass ich nur noch im Wettkampftempo trainieren soll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Wettkampftempo ist nur ein Teil der Spezifität. Grundlagenläufe, Techniktraining, Krafttraining, lange Läufe und Erholung bleiben wichtig. Die Spezifität nimmt gewöhnlich zu, je näher der Zielwettkampf rückt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Spezifität und progressiver Überlastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Progressive Überlastung beschreibt die schrittweise Steigerung eines Trainingsreizes. Spezifität beschreibt, ob dieser Reiz zu den Anforderungen des Ziels passt. Ein Training kann progressiv sein und dennoch einen begrenzten Transfer zum Ziel besitzen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann Radfahren Lauftraining ersetzen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Radfahren kann die aerobe Ausdauer unterstützen und die orthopädische Belastung reduzieren. Es ersetzt jedoch nicht vollständig die laufspezifische Stoßbelastung, Sehnenanpassung, Laufkoordination und exzentrische Muskelarbeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann Schwimmen spezifisch für Läufer sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schwimmen ist nicht laufspezifisch im engeren Sinn, kann das Lauftraining aber sinnvoll ergänzen. Es kann Ausdauer, aktive Regeneration, Rumpfstabilität und körperliche Entlastung unterstützen. Für die Laufleistung bleiben regelmäßige laufspezifische Reize notwendig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Lauf-ABC und Technikdrills spezifisch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie trainieren Bewegungsmuster, Fußaufsatz, Schrittfrequenz, Bodenkontaktzeit, Vorspannung und neuromuskuläre Koordination. Damit verbessern sie vor allem die Qualität und Steuerung der Laufbewegung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Krafttraining spezifisch für Ausdauersport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Krafttraining ist spezifisch nützlich, wenn es die Anforderungen der Zielbewegung unterstützt. Für Läufer sind unter anderem Waden, Hüfte, Rumpfstabilität, Beinachse, reaktive Kraft und Sehnensteifigkeit relevant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie spezifisch sollte Training in der Grundlagenphase sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Grundlagenphase darf Training allgemeiner sein. Ziel ist eine breite Basis aus aerober Kapazität, Belastbarkeit, Technik und Regenerationsfähigkeit. Die Spezifität steigt später in Richtung Zielwettkampf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie spezifisch sollte Training kurz vor dem Wettkampf sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kurz vor dem Wettkampf sollten wichtige Einheiten stärker an Zieltempo, Zieldauer, Untergrund, Höhenprofil, Verpflegung und Rennrhythmus angepasst werden. Gleichzeitig muss die Belastung so dosiert bleiben, dass keine unnötige Ermüdung entsteht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn Training zu unspezifisch ist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zu unspezifisches Training kann allgemeine Fitness verbessern, besitzt aber möglicherweise nur einen begrenzten Transfer zur Zielbelastung. Ein Athlet kann sich fit fühlen und dennoch Probleme bekommen, wenn die konkrete Wettkampfanforderung nicht vorbereitet wurde."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn Training zu früh zu spezifisch wird?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine zu frühe oder zu einseitige Spezifität kann Überlastung, mentale Ermüdung oder Leistungsplateaus fördern. Intensive, mechanische und wettkampfnahe Reize sollten auf einer ausreichenden Grundlage aufbauen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erkenne ich einen spezifischen Trainingsreiz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein spezifischer Reiz passt zu der Frage, was in der Zielbelastung besser funktionieren muss. Tempo, Dauer, Technik, Muskelarbeit, Untergrund, Höhenprofil, Energieversorgung oder mentale Belastung sollten eine erkennbare Verbindung zum Ziel besitzen."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Spezifität",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/spezifitaet/"
+        }
+      ]
+    }
+  ]
+}
