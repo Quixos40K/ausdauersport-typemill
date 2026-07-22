@@ -1,1 +1,594 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Progressive Überlastung",
+        "Trainingssteuerung",
+        "Belastungssteuerung"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/",
+      "name": "Progressive Überlastung",
+      "description": "Progressive Überlastung beschreibt die schrittweise und verarbeitbare Steigerung von Trainingsreizen. Der Fachartikel erklärt Umfang, Intensität, Dauer, Reizdichte, mechanische Belastung und sichere Progression im Ausdauertraining.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#article"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#term",
+        "name": "Progressive Überlastung",
+        "description": "Trainingsprinzip, nach dem Belastungen im Laufe der Zeit schrittweise gesteigert werden, damit weitere Anpassungsprozesse entstehen können."
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/",
+      "headline": "Progressive Überlastung",
+      "description": "Der Fachartikel erklärt, wie Trainingsreize über Umfang, Intensität, Dauer, Häufigkeit, Reizdichte, Spezifität und mechanische Belastung schrittweise gesteigert werden können.",
+      "abstract": "Progressive Überlastung bedeutet, dass Trainingsreize im Laufe der Zeit schrittweise gesteigert werden, damit der Körper weiterhin Anpassungen entwickeln muss. Die Belastung wird so dosiert, dass sie den aktuellen Leistungsstand leicht übersteigt und trotzdem ausreichend verarbeitet werden kann.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "keywords": [
+        "Progressive Überlastung",
+        "Trainingsprogression",
+        "Trainingsreiz",
+        "Trainingsumfang",
+        "Trainingsintensität",
+        "Trainingsdauer",
+        "Reizdichte",
+        "Trainingshäufigkeit",
+        "mechanische Belastung",
+        "Belastungssteigerung",
+        "Trainingssteuerung",
+        "Belastungssteuerung",
+        "Entlastungswoche",
+        "Überlastung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#progressive-ueberlastung",
+          "name": "Progressive Überlastung",
+          "description": "Geplante und schrittweise Steigerung von Trainingsanforderungen, damit der Körper weiterhin Anpassungen entwickeln muss."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#trainingsprogression",
+          "name": "Trainingsprogression",
+          "description": "Langfristige Entwicklung von Trainingsbelastungen durch verarbeitbare Veränderungen einzelner Belastungsmerkmale."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#mechanische-belastung",
+          "name": "Mechanische Belastung",
+          "description": "Physische Beanspruchung von Muskeln, Sehnen, Knochen, Gelenken und weiteren Gewebestrukturen durch Bewegung und Kraftübertragung."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#entlastungsphase",
+          "name": "Entlastungsphase",
+          "description": "Geplanter Zeitraum mit reduzierter Trainingsbelastung, in dem vorherige Reize verarbeitet und Restermüdung abgebaut werden können."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsumfang"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsintensität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsdauer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Reizdichte"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingshäufigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Spezifität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Aerobe Basis"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellentraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laufökonomie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Sehnensteifigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Plyometrie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Entlastungswoche"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Restermüdung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Überlastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Nicht-funktionelles Overreaching"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Übertraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Herzfrequenzvariabilität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Knochenstressverletzung"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.sciencedirect.com/science/article/pii/S1440244023003614",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1440244023003614",
+          "name": "The impact of progressive overload on the proportion and frequency of positive cardio-respiratory fitness responders",
+          "datePublished": "2023",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "L. R. Bell"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. McNicol"
+            },
+            {
+              "@type": "Person",
+              "name": "E. McNeil"
+            },
+            {
+              "@type": "Person",
+              "name": "H. Van Nguyen"
+            },
+            {
+              "@type": "Person",
+              "name": "J. R. Hunter"
+            },
+            {
+              "@type": "Person",
+              "name": "B. J. O'Brien"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Science and Medicine in Sport"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "name": "Internal and External Training Load: 15 Years On",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "datePublished": "2017",
+          "author": {
+            "@type": "Person",
+            "name": "P. C. Bourdon"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/50/17/1030",
+          "url": "https://bjsm.bmj.com/content/50/17/1030",
+          "name": "How much is too much? Part 1: International Olympic Committee consensus statement on load in sport and risk of injury",
+          "datePublished": "2016",
+          "author": {
+            "@type": "Person",
+            "name": "T. Soligard"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6253751/",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6253751/",
+          "name": "Is There Evidence for an Association Between Changes in Training Load and Running-Related Injuries? A Systematic Review",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "C. Damsted"
+            },
+            {
+              "@type": "Person",
+              "name": "S. Glad"
+            },
+            {
+              "@type": "Person",
+              "name": "R. O. Nielsen"
+            },
+            {
+              "@type": "Person",
+              "name": "H. Sørensen"
+            },
+            {
+              "@type": "Person",
+              "name": "L. Malisoux"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physical Therapy"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/59/17/1203",
+          "url": "https://bjsm.bmj.com/content/59/17/1203",
+          "name": "How much running is too much? Identifying high-risk running sessions in a 5200-person cohort study",
+          "datePublished": "2025",
+          "author": {
+            "@type": "Person",
+            "name": "R. Ø. Nielsen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1186/s40798-015-0009-9",
+          "url": "https://link.springer.com/article/10.1186/s40798-015-0009-9",
+          "name": "Human tendon adaptation in response to mechanical loading: a systematic review and meta-analysis of exercise intervention studies on healthy adults",
+          "datePublished": "2015",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "H.-P. Wiesinger"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Kösters"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Müller"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine - Open"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/34124660/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34124660/",
+          "name": "Training Load Capacity, Cumulative Risk, and Bone Stress Injuries: A Holistic Evaluation of Bone Stress Injury Risk in Athletes",
+          "datePublished": "2021",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "K. L. Hamstra-Wright"
+            },
+            {
+              "@type": "Person",
+              "name": "K. C. Huxel Bliven"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Napier"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Sports and Active Living"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/38165636/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38165636/",
+          "name": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "C. Llanos-Lagos"
+            },
+            {
+              "@type": "Person",
+              "name": "R. Ramirez-Campillo"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Moran"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Sáez de Villarreal"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+          "datePublished": "2013",
+          "author": {
+            "@type": "Person",
+            "name": "R. Meeusen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#haeufige-fragen-zur-progressiven-ueberlastung",
+      "name": "Häufige Fragen zur progressiven Überlastung",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist progressive Überlastung einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Progressive Überlastung bedeutet, dass Training im Laufe der Zeit schrittweise anspruchsvoller wird. Der Körper bekommt dadurch immer wieder einen neuen, aber verarbeitbaren Anlass zur Anpassung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bedeutet progressive Überlastung, dass ich jede Woche mehr machen muss?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Progression muss nicht jede Woche stattfinden. Manchmal ist es sinnvoller, eine Belastung mehrere Wochen zu stabilisieren oder bewusst zu reduzieren, bevor der nächste Steigerungsschritt folgt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Trainingsfaktoren kann ich progressiv steigern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typische Stellschrauben sind Umfang, Intensität, Dauer, Häufigkeit, Pausengestaltung, Höhenmeter, Gelände, Kraftanteil, Technikanspruch und mechanische Belastung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte ich zuerst Umfang oder Intensität steigern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für viele Ausdauerathleten ist es sinnvoll, zunächst Regelmäßigkeit und lockeren Trainingsumfang aufzubauen. Intensität sollte gezielter eingesetzt werden, weil sie meist deutlich mehr Ermüdung erzeugt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum ist zu schnelle Progression gefährlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine zu schnelle Steigerung kann die Regenerationsfähigkeit überfordern. Besonders Sehnen, Bänder, Knochen und Knorpel passen sich langsamer an als Muskulatur und Herz-Kreislauf-System, wodurch Überlastungsbeschwerden entstehen können."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die 10-Prozent-Regel Pflicht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die 10-Prozent-Regel kann eine grobe Orientierung sein, ist aber kein allgemeingültiges Naturgesetz. Entscheidend sind unter anderem Trainingsstand, Verletzungshistorie, Schlaf, Stress, Untergrund, Intensität und bisherige Belastung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gilt progressive Überlastung auch für lockere Läufe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Auch lockere Läufe können progressiv aufgebaut werden, beispielsweise durch eine etwas längere Dauer, höhere Wochenkonstanz oder mehr aerobe Gesamtzeit. Sie müssen dafür nicht intensiver werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gilt progressive Überlastung auch für Krafttraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Im Krafttraining kann Progression durch mehr Gewicht, zusätzliche Wiederholungen oder Sätze, eine größere Bewegungsamplitude, langsamere exzentrische Phasen oder eine bessere Bewegungskontrolle entstehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkenne ich, dass die Progression funktioniert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein gutes Zeichen ist, wenn mehr Belastung toleriert wird, ohne dass lockere Einheiten schwerer werden oder Beschwerden zunehmen. Auch stabilere Leistung, bessere Erholung und kontrollierbare Ermüdung sprechen für eine passende Progression."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkenne ich, dass ich zu schnell gesteigert habe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Warnsignale sind anhaltende Müdigkeit, schlechter Schlaf, sinkende Leistung, ein ungewöhnlich hoher Ruhepuls, eine auffällig niedrige Herzfrequenzvariabilität, Schmerzen an Sehnen oder Gelenken sowie dauerhaft hohe Anstrengung bei eigentlich lockeren Einheiten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen progressiver Überlastung und Übertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Progressive Überlastung ist eine geplante und verarbeitbare Steigerung. Übertraining oder nicht-funktionelles Overreaching kann entstehen, wenn die Belastung dauerhaft größer ist als die individuelle Erholungsfähigkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was sollte ich nach Krankheit oder Verletzung beachten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nach Krankheit oder Verletzung sollte die Progression deutlich vorsichtiger erfolgen. Der Wiedereinstieg beginnt mit reduzierter Belastung, stabiler Beschwerdefreiheit und kleinen Steigerungen, bevor Umfang oder Intensität wieder stärker erhöht werden."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Progressive Überlastung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/progressive-ueberlastung/"
+        }
+      ]
+    }
+  ]
+}
