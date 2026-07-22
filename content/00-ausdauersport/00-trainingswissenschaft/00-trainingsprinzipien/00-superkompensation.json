@@ -3,113 +3,129 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://oliver-nix.de/#oliver-nix",
+      "@id": "https://www.oliver-nix.de/#person",
       "name": "Oliver Nix",
-      "jobTitle": "Director E-Commerce & AEO Strategist",
-      "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
-      "sameAs": [
-        "https://www.rwo1904.de/teams/endurance/funktionsteam",
-        "https://www.instagram.com/running.oliver/",
-        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Trainingssteuerung",
+        "Belastung und Erholung",
+        "Superkompensation",
+        "Fitness-Fatigue-Modell"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://oliver-nix.de/#website",
-      "url": "https://oliver-nix.de/",
-      "name": "Ausdauersport Lexikon",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
       "inLanguage": "de-DE",
       "publisher": {
-        "@id": "https://oliver-nix.de/#oliver-nix"
+        "@id": "https://www.oliver-nix.de/#person"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage",
-      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/",
       "name": "Superkompensation",
-      "headline": "Superkompensation",
-      "description": "Superkompensation erklärt, wie Trainingsreiz, Ermüdung, Erholung und Anpassung zusammenhängen. Das Modell ist eine hilfreiche Grundidee, reicht für die praktische Trainingssteuerung allein aber nicht aus, weil Fitness und Ermüdung gleichzeitig entstehen.",
+      "description": "Superkompensation erklärt das Zusammenspiel aus Trainingsreiz, Ermüdung, Erholung und Anpassung. Der Fachartikel ordnet das klassische Modell ein und ergänzt es durch das Fitness-Fatigue-Modell.",
       "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
       "isPartOf": {
-        "@id": "https://oliver-nix.de/#website"
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
       },
       "breadcrumb": {
-        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb"
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#content"
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#article"
       },
       "hasPart": {
-        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq"
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "name": "Superkompensation",
+        "description": "Modellvorstellung, nach der nach einem Trainingsreiz zunächst Ermüdung, anschließend Erholung und vorübergehend ein über dem Ausgangsniveau liegender Leistungszustand auftreten können."
       }
     },
     {
       "@type": "Article",
-      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#content",
-      "mainEntityOfPage": {
-        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
-      },
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/",
       "headline": "Superkompensation",
-      "name": "Superkompensation",
-      "description": "Superkompensation erklärt, wie Trainingsreiz, Ermüdung, Erholung und Anpassung zusammenhängen. Das Modell ist eine hilfreiche Grundidee, reicht für die praktische Trainingssteuerung allein aber nicht aus, weil Fitness und Ermüdung gleichzeitig entstehen.",
-      "abstract": "Superkompensation beschreibt die Vorstellung, dass der Körper nach einem Trainingsreiz zunächst ermüdet, sich anschließend erholt und danach kurzfristig leistungsfähiger sein kann als zuvor. Im Ausdauertraining hilft das Modell, Belastung und Erholung grundsätzlich zu verstehen. Für die praktische Trainingssteuerung muss zusätzlich berücksichtigt werden, dass Fitness und Ermüdung gleichzeitig entstehen.",
-      "articleSection": "Trainingsprinzipien",
+      "description": "Superkompensation erklärt das grundsätzliche Verhältnis von Trainingsreiz, Ermüdung, Erholung und Anpassung im Ausdauertraining und wird durch das Fitness-Fatigue-Modell praktisch eingeordnet.",
+      "abstract": "Superkompensation beschreibt die Vorstellung, dass der Körper nach einem Trainingsreiz zunächst ermüdet, sich anschließend erholt und danach kurzfristig leistungsfähiger sein kann als zuvor. Das Modell ist hilfreich, um Belastung und Erholung grundsätzlich zu verstehen, bildet die gleichzeitige Entwicklung von Fitness und Ermüdung jedoch nur vereinfacht ab.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
       "genre": [
         "Fachartikel",
         "Trainingswissenschaft",
         "Ausdauertraining"
       ],
-      "datePublished": "2026-06-26",
-      "dateModified": "2026-06-27",
-      "inLanguage": "de-DE",
-      "isAccessibleForFree": true,
-      "author": {
-        "@id": "https://oliver-nix.de/#oliver-nix"
-      },
-      "publisher": {
-        "@id": "https://oliver-nix.de/#website"
-      },
-      "copyrightHolder": {
-        "@id": "https://oliver-nix.de/#oliver-nix"
-      },
-      "isPartOf": {
-        "@id": "https://oliver-nix.de/#website"
-      },
-      "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
       "keywords": [
         "Superkompensation",
+        "Fitness-Fatigue-Modell",
         "Trainingsreiz",
+        "Ermüdung",
         "Erholung",
         "Regeneration",
         "Trainingsanpassung",
-        "Fitness-Fatigue-Modell",
-        "Ermüdung",
+        "Trainingssteuerung",
         "Ausdauertraining",
-        "Trainingssteuerung"
+        "Tapering",
+        "Belastungssteuerung"
       ],
       "about": [
         {
           "@type": "DefinedTerm",
           "name": "Superkompensation",
-          "description": "Modell, nach dem die Leistungsfähigkeit nach einem Trainingsreiz zunächst sinkt, sich anschließend erholt und vorübergehend über das Ausgangsniveau steigen kann."
+          "description": "Vereinfachtes Trainingsmodell, das die Abfolge von Trainingsreiz, Ermüdung, Erholung und vorübergehender Leistungssteigerung beschreibt."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Fitness-Fatigue-Modell",
+          "description": "Modell, nach dem ein Trainingsreiz gleichzeitig längerfristige Fitness und kurzfristige Ermüdung erzeugt."
         },
         {
           "@type": "DefinedTerm",
           "name": "Trainingsanpassung",
-          "description": "Längerfristige Reaktion des Körpers auf wiederholte und passend dosierte Trainingsreize."
-        },
-        {
-          "@type": "DefinedTerm",
-          "name": "Belastung und Erholung",
-          "description": "Zusammenspiel aus Trainingsbeanspruchung und anschließender Wiederherstellung der körperlichen und mentalen Belastbarkeit."
+          "description": "Strukturelle, funktionelle oder regulatorische Veränderung als Reaktion auf wiederholte und angemessen dosierte Trainingsbelastungen."
         }
       ],
       "mentions": [
-        {
-          "@type": "DefinedTerm",
-          "name": "Fitness-Fatigue-Modell"
-        },
         {
           "@type": "DefinedTerm",
           "name": "Trainingsreiz"
@@ -117,6 +133,10 @@
         {
           "@type": "DefinedTerm",
           "name": "Ermüdung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Erholung"
         },
         {
           "@type": "DefinedTerm",
@@ -129,62 +149,221 @@
         {
           "@type": "DefinedTerm",
           "name": "Entlastungswoche"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Übertraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Herz-Kreislauf-System"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Bewegungsökonomie"
         }
       ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq"
+      },
       "citation": [
-        "https://link.springer.com/article/10.1007/s40279-017-0855-3",
-        "https://link.springer.com/article/10.1186/s40798-022-00426-x",
-        "https://europepmc.org/article/MED/12840640",
-        "https://link.springer.com/article/10.1007/s40279-024-02126-w",
-        "https://www.nature.com/articles/s41586-023-06877-w",
-        "https://pubmed.ncbi.nlm.nih.gov/23247672/",
-        "https://link.springer.com/article/10.1186/s40798-024-00724-6"
-      ]
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb",
-      "itemListElement": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Startseite",
-          "item": "https://oliver-nix.de/"
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "url": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "name": "The General Adaptation Syndrome: A Foundation for the Concept of Periodization",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Aaron J. Cunanan"
+            },
+            {
+              "@type": "Person",
+              "name": "Brad H. DeWeese"
+            },
+            {
+              "@type": "Person",
+              "name": "John P. Wagle"
+            },
+            {
+              "@type": "Person",
+              "name": "Kevin M. Carroll"
+            },
+            {
+              "@type": "Person",
+              "name": "Robert Sausaman"
+            },
+            {
+              "@type": "Person",
+              "name": "Wesley G. Hornsby"
+            },
+            {
+              "@type": "Person",
+              "name": "G. Gregory Haff"
+            },
+            {
+              "@type": "Person",
+              "name": "N. Travis Triplett"
+            },
+            {
+              "@type": "Person",
+              "name": "Kyle C. Pierce"
+            },
+            {
+              "@type": "Person",
+              "name": "Michael H. Stone"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
         },
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Ausdauersport",
-          "item": "https://oliver-nix.de/ausdauersport/"
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1186/s40798-022-00426-x",
+          "url": "https://link.springer.com/article/10.1186/s40798-022-00426-x",
+          "name": "The Use of Fitness-Fatigue Models for Sport Performance Modelling: Conceptual Issues and Contributions from Machine-Learning",
+          "datePublished": "2022",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Florian Imbach"
+            },
+            {
+              "@type": "Person",
+              "name": "Nathalie Sutton-Charani"
+            },
+            {
+              "@type": "Person",
+              "name": "Jérôme Montmain"
+            },
+            {
+              "@type": "Person",
+              "name": "Robin Candau"
+            },
+            {
+              "@type": "Person",
+              "name": "Stéphane Perrey"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine - Open"
+          }
         },
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Trainingswissenschaft",
-          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/"
+          "@type": "ScholarlyArticle",
+          "@id": "https://europepmc.org/article/MED/12840640",
+          "url": "https://europepmc.org/article/MED/12840640",
+          "name": "Scientific Bases for Precompetition Tapering Strategies",
+          "datePublished": "2003",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Iñigo Mujika"
+            },
+            {
+              "@type": "Person",
+              "name": "Sabino Padilla"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
         },
         {
-          "@type": "ListItem",
-          "position": 4,
-          "name": "Trainingsprinzipien",
-          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "name": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+          "datePublished": "2025",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Tim J. Gabbett"
+            },
+            {
+              "@type": "Person",
+              "name": "Erin Oetter"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
         },
         {
-          "@type": "ListItem",
-          "position": 5,
-          "name": "Superkompensation",
-          "item": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/"
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.nature.com/articles/s41586-023-06877-w",
+          "url": "https://www.nature.com/articles/s41586-023-06877-w",
+          "name": "Temporal dynamics of the multi-omic response to endurance exercise training",
+          "datePublished": "2024",
+          "author": {
+            "@type": "Organization",
+            "name": "MoTrPAC Study Group"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Nature"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+          "datePublished": "2013",
+          "author": {
+            "@type": "Person",
+            "name": "Romain Meeusen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1186/s40798-024-00724-6",
+          "url": "https://link.springer.com/article/10.1186/s40798-024-00724-6",
+          "name": "Effectiveness of Recovery Strategies After Training and Competition in Endurance Athletes: An Umbrella Review",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Siyu Li"
+            },
+            {
+              "@type": "Person",
+              "name": "Matthias Kempe"
+            },
+            {
+              "@type": "Person",
+              "name": "Michel Brink"
+            },
+            {
+              "@type": "Person",
+              "name": "Koen Lemmink"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine - Open"
+          }
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq",
-      "url": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#haeufige-fragen-zur-superkompensation",
       "name": "Häufige Fragen zur Superkompensation",
       "inLanguage": "de-DE",
       "isPartOf": {
-        "@id": "https://oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#webpage"
       },
       "mainEntity": [
         {
@@ -200,7 +379,7 @@
           "name": "Ist Superkompensation heute noch aktuell?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja, als einfaches Erklärmodell. Für konkrete Trainingssteuerung ist das Modell aber zu linear. In der Praxis sollten Fitness und Ermüdung gleichzeitig betrachtet werden."
+            "text": "Ja, als einfaches Erklärmodell. Für konkrete Trainingssteuerung ist das Modell jedoch zu linear. In der Praxis sollten Fitness und Ermüdung gleichzeitig betrachtet werden."
           }
         },
         {
@@ -208,7 +387,7 @@
           "name": "Warum reicht Training allein nicht aus?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Training setzt den Reiz, aber Anpassung entsteht erst durch die anschließenden Erholungs- und Anpassungsprozesse. Ohne ausreichende Regeneration kann sich Ermüdung anhäufen und die Leistungsfähigkeit sinken."
+            "text": "Training setzt den Reiz, aber Anpassung entsteht erst durch die anschließenden Erholungs- und Regulationsprozesse. Ohne ausreichende Regeneration kann sich Ermüdung anhäufen und die Leistungsfähigkeit sinken."
           }
         },
         {
@@ -216,7 +395,7 @@
           "name": "Was ist der Unterschied zum Fitness-Fatigue-Modell?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Superkompensation beschreibt eine einfache Abfolge von Reiz, Ermüdung, Erholung und Anpassung. Das Fitness-Fatigue-Modell erklärt dagegen, dass Fitness und Ermüdung gleichzeitig entstehen und gemeinsam die aktuell abrufbare Leistungsfähigkeit bestimmen."
+            "text": "Superkompensation beschreibt eine vereinfachte Abfolge von Reiz, Ermüdung, Erholung und Anpassung. Das Fitness-Fatigue-Modell geht davon aus, dass Fitness und Ermüdung gleichzeitig entstehen und gemeinsam die aktuell abrufbare Leistungsfähigkeit bestimmen."
           }
         },
         {
@@ -224,16 +403,46 @@
           "name": "Warum fühlt man sich trotz gutem Training manchmal schlechter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aufgebaute Fitness kann durch aktuelle Ermüdung vorübergehend überdeckt werden. Die Leistungsfähigkeit ist dann nicht unbedingt verloren, sondern lediglich schlechter abrufbar."
+            "text": "Aufgebaute Fitness kann vorübergehend durch aktuelle Ermüdung überdeckt werden. Die Leistungsfähigkeit ist dann nicht unbedingt verloren, sondern kurzfristig schlechter abrufbar."
           }
         },
         {
           "@type": "Question",
-          "name": "Was bedeutet Superkompensation für die Trainingsplanung?",
+          "name": "Was bedeutet das für die Trainingsplanung?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Belastung und Erholung müssen gemeinsam geplant werden. Harte Einheiten, lange Läufe, lockere Tage, Entlastungswochen und Tapering sollten so kombiniert werden, dass Fitness aufgebaut wird, ohne die Ermüdung dauerhaft zu stark ansteigen zu lassen."
           }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Superkompensation",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/superkompensation/"
         }
       ]
     }
