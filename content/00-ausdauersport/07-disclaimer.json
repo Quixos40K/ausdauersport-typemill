@@ -1,1 +1,256 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#webpage",
+      "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/",
+      "name": "Gesundheits- und Quellenhinweis",
+      "headline": "Gesundheits- und Quellenhinweis",
+      "description": "Hinweis zur allgemeinen Einordnung der Inhalte, zur medizinischen Abklärung, zu Supplementen und Ernährung, zur Quellenverwendung sowie zur Eigenverantwortung.",
+      "abstract": "Die Inhalte dieser Website dienen der allgemeinen Information und strukturierten Einordnung. Sie ersetzen keine medizinische Diagnose, Behandlung oder individuelle Trainings-, Ernährungs- und Therapieplanung.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "creativeWorkStatus": "Published",
+      "genre": [
+        "Disclaimer",
+        "Gesundheitshinweis",
+        "Quellenhinweis",
+        "Redaktionelle Grundsätze"
+      ],
+      "keywords": [
+        "Gesundheitshinweis",
+        "medizinischer Disclaimer",
+        "Quellenhinweis",
+        "Eigenverantwortung",
+        "Ausdauersport",
+        "Trainingsphysiologie",
+        "Biomechanik",
+        "Orthopädie",
+        "Supplemente",
+        "Ernährung"
+      ],
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Allgemeine Gesundheitsinformation"
+        },
+        {
+          "@type": "Thing",
+          "name": "Medizinische Abklärung"
+        },
+        {
+          "@type": "Thing",
+          "name": "Wissenschaftliche Quellen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Eigenverantwortung"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Ausdauersport"
+        },
+        {
+          "@type": "Thing",
+          "name": "Trainingsphysiologie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Biomechanik"
+        },
+        {
+          "@type": "Thing",
+          "name": "Orthopädie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Supplemente"
+        },
+        {
+          "@type": "Thing",
+          "name": "Medikamente"
+        },
+        {
+          "@type": "Thing",
+          "name": "Ernährung"
+        }
+      ],
+      "publishingPrinciples": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer",
+      "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/",
+      "name": "Gesundheits- und Quellenhinweis",
+      "headline": "Gesundheits- und Quellenhinweis",
+      "description": "Redaktioneller Hinweis zur Einordnung der Website-Inhalte, zur medizinischen Abklärung, zur Verwendung von Informationen über Supplemente, Medikamente und Ernährung, zur Quellenlage sowie zur Eigenverantwortung.",
+      "abstract": "Die Inhalte dienen der allgemeinen Information und fachlichen Einordnung. Sie ersetzen keine medizinische Diagnose, Behandlung oder individuelle Trainings-, Ernährungs- und Therapieplanung.",
+      "text": "Die Inhalte auf dieser Website dienen der allgemeinen Information, Einordnung und strukturierten Aufbereitung von Themen aus Ausdauersport, Trainingsphysiologie, Biomechanik, Orthopädie und verwandten Bereichen. Der Autor ist kein Arzt, Physiotherapeut, Ernährungsberater oder lizenzierter Trainer. Die Inhalte ersetzen keine medizinische Diagnose, Behandlung und keine individuelle Trainings-, Ernährungs- oder Therapieplanung. Beschwerden, Verletzungen und gesundheitliche Einschränkungen sollten ärztlich oder therapeutisch abgeklärt werden. Informationen zu Supplementen, Nährstoffen, Medikamenten und Ernährung sind keine persönliche Empfehlung. Wissenschaftliche Erkenntnisse können sich ändern und lassen sich nicht uneingeschränkt auf jede Person übertragen. Die Nutzung der Inhalte erfolgt in eigener Verantwortung.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "creativeWorkStatus": "Published",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "creator": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Gesundheitsinformation"
+        },
+        {
+          "@type": "Thing",
+          "name": "Medizinische Abklärung"
+        },
+        {
+          "@type": "Thing",
+          "name": "Supplemente"
+        },
+        {
+          "@type": "Thing",
+          "name": "Ernährungsinformation"
+        },
+        {
+          "@type": "Thing",
+          "name": "Wissenschaftliche Quellen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Eigenverantwortung"
+        }
+      ],
+      "hasPart": [
+        {
+          "@type": "WebPageElement",
+          "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#beschwerden-und-verletzungen",
+          "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#beschwerden-und-verletzungen",
+          "name": "Bei Beschwerden und Verletzungen",
+          "headline": "Bei Beschwerden und Verletzungen",
+          "text": "Schmerzen, Beschwerden, akute Verletzungen, wiederkehrende Probleme und gesundheitliche Einschränkungen sollten ärztlich oder therapeutisch abgeklärt werden, bevor Trainingsempfehlungen, Belastungsmodelle oder Übungen übernommen werden. Das gilt besonders bei anhaltenden Schmerzen, Schwellungen, Bewegungseinschränkungen, Herz-Kreislauf-Beschwerden, Atemproblemen, Schwindel, Taubheitsgefühlen oder Symptomen, die sich unter Belastung verschlechtern.",
+          "isPartOf": {
+            "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+          }
+        },
+        {
+          "@type": "WebPageElement",
+          "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#supplemente-medikamente-und-ernaehrung",
+          "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#supplemente-medikamente-und-ernaehrung",
+          "name": "Bei Supplementen, Medikamenten und Ernährung",
+          "headline": "Bei Supplementen, Medikamenten und Ernährung",
+          "text": "Informationen zu Supplementen, Nährstoffen oder ernährungsbezogenen Themen sind keine persönliche Empfehlung zur Einnahme. Vor der Einnahme sollte ärztlich abgeklärt werden, ob ein Produkt geeignet ist. Das gilt besonders bei Vorerkrankungen, Medikamenteneinnahme, Schwangerschaft, Unverträglichkeiten, bekannten Mangelzuständen oder Unsicherheiten bei Dosierung und Wechselwirkungen.",
+          "isPartOf": {
+            "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+          }
+        },
+        {
+          "@type": "WebPageElement",
+          "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#quellen-und-einordnung",
+          "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#quellen-und-einordnung",
+          "name": "Quellen und Einordnung",
+          "headline": "Quellen und Einordnung",
+          "text": "Quellen werden nach Möglichkeit transparent angegeben und Inhalte nach bestem Wissen und Gewissen aufbereitet. Wissenschaftliche Erkenntnisse können sich ändern, Studien können unterschiedlich interpretiert werden und nicht jede Erkenntnis lässt sich direkt auf jede einzelne Person übertragen. Die Inhalte sind als strukturierte Orientierung und fachliche Einordnung zu verstehen, nicht als abschließende Wahrheit oder individuelle Handlungsanweisung.",
+          "isPartOf": {
+            "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+          }
+        },
+        {
+          "@type": "WebPageElement",
+          "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#ziel-dieses-projekts",
+          "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#ziel-dieses-projekts",
+          "name": "Ziel dieses Projekts",
+          "headline": "Ziel dieses Projekts",
+          "text": "Ziel der Inhalte ist es, komplexe sportmedizinische, trainingswissenschaftliche und biomechanische Zusammenhänge verständlich, nachvollziehbar und strukturiert darzustellen. Begriffe, Mechanismen, Zusammenhänge, Quellen und praktische Relevanz sollen für Menschen verständlich und für digitale Systeme sauber erschließbar aufbereitet werden.",
+          "isPartOf": {
+            "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+          }
+        },
+        {
+          "@type": "WebPageElement",
+          "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#eigenverantwortung",
+          "url": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#eigenverantwortung",
+          "name": "Eigenverantwortung",
+          "headline": "Eigenverantwortung",
+          "text": "Die Nutzung der Inhalte für das eigene Training, die Regeneration oder Gesundheitsentscheidungen erfolgt in eigener Verantwortung. Bei Unsicherheit sollte vor dem Handeln eine ärztliche oder fachlich qualifizierte Abklärung erfolgen.",
+          "isPartOf": {
+            "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#disclaimer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://www.oliver-nix.de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sport",
+          "item": "https://www.oliver-nix.de/sport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsphysiologische Datenbasis Ausdauersport",
+          "item": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Disclaimer",
+          "item": "https://www.oliver-nix.de/sport/trainingsphysiologische-datenbasis-ausdauersport/disclaimer/"
+        }
+      ]
+    }
+  ]
+}
