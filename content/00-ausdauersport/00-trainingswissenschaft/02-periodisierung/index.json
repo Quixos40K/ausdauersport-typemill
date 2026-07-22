@@ -1,1 +1,176 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Periodisierung",
+        "Trainingsplanung",
+        "Belastungssteuerung",
+        "Regeneration"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/",
+      "name": "Periodisierung im Ausdauersport",
+      "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#webpage"
+      },
+      "headline": "Periodisierung",
+      "alternativeHeadline": "Übersicht: Trainingsplanung und Periodisierung im Ausdauersport",
+      "description": "Periodisierung beschreibt, wie Training über Wochen, Monate und eine gesamte Saison hinweg geplant und strukturiert wird.",
+      "abstract": "Gutes Ausdauertraining besteht nicht nur aus einzelnen sinnvollen Einheiten, sondern aus einer langfristigen Abfolge von Belastung, Erholung, Aufbau, Zuspitzung und Entlastung. Diese Übersichtsseite strukturiert die Zyklen der Trainingsplanung.",
+      "articleSection": [
+        "Trainingswissenschaft"
+      ],
+      "genre": [
+        "Übersichtsseite",
+        "Kategorieseite",
+        "Trainingswissenschaft"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "keywords": [
+        "Periodisierung",
+        "Trainingsplanung",
+        "Makrozyklus",
+        "Mesozyklus",
+        "Mikrozyklus",
+        "Deload",
+        "Tapering",
+        "Peaking"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#periodisierung"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Makrozyklus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mesozyklus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mikrozyklus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Deload"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Tapering"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Peaking"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastungssteuerung"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#periodisierung",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/",
+      "name": "Periodisierung",
+      "alternateName": [
+        "Trainingsperiodisierung",
+        "Trainingsplanung"
+      ],
+      "description": "Die Strukturierung des Trainingsprozesses in zeitliche Phasen und Zyklen (Makro-, Meso- und Mikrozyklen), um Leistungsaufbau, Erholung und Formzuspitzung systematisch zu steuern.",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Periodisierung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+        }
+      ]
+    }
+  ]
+}
