@@ -1,1 +1,441 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsintensitäten",
+        "Trainingssteuerung",
+        "Leistungsphysiologie",
+        "Biomechanik"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/",
+      "name": "Zone 1–5",
+      "description": "Das 5-Zonen-Modell strukturiert Ausdauertraining von sehr locker bis hochintensiv und hilft, Belastung, Erholung und Trainingsziele gezielt einzuordnen.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#article"
+      },
+      "about": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#trainingszonen"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#faq"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#webpage"
+      },
+      "headline": "Zone 1–5",
+      "alternativeHeadline": "Das 5-Zonen-Modell im Ausdauertraining",
+      "description": "Das 5-Zonen-Modell strukturiert Ausdauertraining von sehr locker bis hochintensiv und hilft, Belastung, Erholung und Trainingsziele gezielt einzuordnen.",
+      "abstract": "Trainingszonen teilen Belastungen in fünf Intensitätsbereiche ein. Zone 1 und 2 stehen für sehr lockere bis ruhige aerobe Belastungen, Zone 3 für moderate Intensität, Zone 4 für schwellennahe Belastungen und Zone 5 für hochintensive Reize. Die Übergänge sind fließend; entscheidend ist die passende Verteilung von Belastung und Regeneration.",
+      "articleSection": "Trainingsintensitäten",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauersport"
+      ],
+      "inLanguage": "de",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "Trainingszonen",
+        "Zone 1",
+        "Zone 2",
+        "Zone 3",
+        "Zone 4",
+        "Zone 5",
+        "5-Zonen-Modell",
+        "Trainingsintensität",
+        "Ausdauertraining",
+        "Grundlagenausdauer",
+        "Schwellentraining",
+        "VO2max",
+        "Belastungssteuerung"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#trainingszonen"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsintensität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastungsverteilung"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Herzfrequenz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Pace"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Watt"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laktat"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Atemverhalten"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Subjektives Belastungsempfinden"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Grundlagenausdauer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellenleistung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Maximale Sauerstoffaufnahme"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Regeneration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ermüdung"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#trainingszonen"
+        },
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#faq"
+        }
+      ],
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Physical Activity and Exercise Intensity Terminology: A Joint ACSM Expert Statement and ESSA Consensus Statement",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1440244024005590",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "datePublished": "2013",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "An Examination and Critique of Subjective Methods to Determine Exercise Intensity: The Talk Test, Feeling Scale, and Rating of Perceived Exertion",
+          "url": "https://link.springer.com/article/10.1007/s40279-022-01690-3",
+          "datePublished": "2022",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "datePublished": "2010",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24550842/",
+          "datePublished": "2014",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Why low-intensity endurance training for athletes?",
+          "url": "https://link.springer.com/article/10.1007/s00421-025-05843-w",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "European Journal of Applied Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Aerobic high-intensity intervals improve VO2max more than moderate training",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17414804/",
+          "datePublished": "2007",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "The Scientific Basis for High-Intensity Interval Training",
+          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
+          "datePublished": "2002",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Internal and External Training Load: 15 Years On",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "datePublished": "2019",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "datePublished": "2017",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#trainingszonen",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#die-fuenf-trainingszonen",
+      "name": "Trainingszonen 1 bis 5",
+      "description": "Geordnete Einteilung von Ausdauerbelastungen in fünf Intensitätsbereiche von sehr locker bis hochintensiv.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#article"
+      },
+      "hasDefinedTerm": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#zone-1",
+          "name": "Zone 1",
+          "termCode": "Z1",
+          "description": "Sehr lockere Intensität für Regeneration, Einlaufen, Auslaufen und sehr leichte Grundlageneinheiten."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#zone-2",
+          "name": "Zone 2",
+          "termCode": "Z2",
+          "description": "Ruhiger aerober Bereich für Grundlagenausdauer, längere Belastungen und größere Trainingsumfänge bei vergleichsweise geringer Ermüdung."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#zone-3",
+          "name": "Zone 3",
+          "termCode": "Z3",
+          "description": "Moderate, kontrollierbare Intensität für Tempodauerläufe und längere spezifische Belastungen."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#zone-4",
+          "name": "Zone 4",
+          "termCode": "Z4",
+          "description": "Hohe, häufig schwellennahe Intensität zur Entwicklung von Schwellenleistung, Wettkampftempo und Tempohärte."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#zone-5",
+          "name": "Zone 5",
+          "termCode": "Z5",
+          "description": "Sehr hohe bis maximale Intensität für kurze Intervalle und starke Reize auf maximale Sauerstoffaufnahme und Leistungsfähigkeit."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#haeufige-fragen-zu-den-zonen-1-5",
+      "name": "Häufige Fragen zu den Zonen 1–5",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Zone 1 bis 5 im Ausdauertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 1 bis 5 beschreibt unterschiedliche Intensitätsbereiche im Ausdauertraining. Zone 1 ist sehr locker, Zone 2 ruhig aerob, Zone 3 moderat, Zone 4 schwellennahe Belastung und Zone 5 hochintensiv."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Zone ist für Grundlagenausdauer wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für die Grundlagenausdauer sind vor allem Zone 1 und Zone 2 wichtig. Besonders Zone 2 wird häufig genutzt, um die aerobe Basis, den Fettstoffwechsel und die Belastungsverträglichkeit zu verbessern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sollte nicht jedes Training hart sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Harte Einheiten setzen starke Reize, erzeugen aber auch viel Ermüdung. Wenn zu oft hart trainiert wird, fehlt dem Körper die Erholung, um sich anzupassen. Fortschritt entsteht durch das Verhältnis aus Belastung und Regeneration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Zone 3 schlecht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 3 ist nicht grundsätzlich schlecht. Sie wird problematisch, wenn sie unbewusst zu häufig trainiert wird und dadurch viel Ermüdung erzeugt, ohne dass lockere oder intensive Einheiten ihre volle Wirkung entfalten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wofür ist Zone 4 sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 4 dient vor allem dazu, Schwellenleistung und Tempohärte zu verbessern und ein hohes Tempo über längere Zeit kontrolliert aufrechtzuerhalten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wofür ist Zone 5 sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zone 5 wird für sehr intensive Reize genutzt, meist in Intervallen. Sie kann die maximale Sauerstoffaufnahme, die neuromuskuläre Aktivierung und die Leistungsfähigkeit bei hohen Intensitäten verbessern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bestimme ich meine Trainingszonen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingszonen können über Herzfrequenz, Pace, Watt, Laktat, Atemverhalten oder subjektives Belastungsempfinden bestimmt werden. Individuelle Tests sind genauer, während Atmung und Belastungsgefühl im Alltag zusätzliche Orientierung geben."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Trainingszonen exakt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Trainingszonen sind Orientierungshilfen mit fließenden Übergängen. Tagesform, Müdigkeit, Hitze, Stress, Schlaf, Ernährung und Gelände können die wahrgenommene und gemessene Intensität beeinflussen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Zone sollte ich am meisten trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei vielen Ausdauersportlern liegt der größte Trainingsanteil im niedrigen Intensitätsbereich, vor allem in Zone 1 und Zone 2. Die genaue Verteilung hängt von Ziel, Leistungsstand, Trainingsumfang und Regenerationsfähigkeit ab."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Zone 1–5",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/zone-1-5/"
+        }
+      ]
+    }
+  ]
+}
