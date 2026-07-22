@@ -1,1 +1,622 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Belastung und Erholung",
+        "Trainingssteuerung",
+        "Regeneration",
+        "Belastungsmonitoring"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/",
+      "name": "Belastung und Erholung",
+      "description": "Belastung setzt den Trainingsreiz, Erholung ermöglicht die Anpassung. Der Fachartikel erklärt Trainingsstress, Regeneration, innere und äußere Belastung sowie Warnzeichen unzureichender Erholung.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#article"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#term",
+        "name": "Belastung und Erholung",
+        "description": "Zusammenspiel aus Trainingsstress, kurzfristiger Ermüdung, biologischer Regeneration und anschließender Trainingsanpassung."
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/",
+      "headline": "Belastung und Erholung",
+      "description": "Der Fachartikel erklärt, warum Belastung und Erholung gemeinsam geplant werden müssen, welche Ebenen der Regeneration bestehen und wie unzureichende Erholung erkannt werden kann.",
+      "abstract": "Belastung und Erholung sind zwei Seiten desselben Trainingsprozesses. Die Belastung setzt den Reiz, die Erholung ermöglicht die Anpassung. Fortschritt entsteht durch ein sinnvolles Verhältnis aus Trainingsstress, Regeneration und erneuter Belastung.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "keywords": [
+        "Belastung und Erholung",
+        "Trainingsbelastung",
+        "Regeneration",
+        "Trainingsstress",
+        "Ermüdung",
+        "Trainingsanpassung",
+        "äußere Belastung",
+        "innere Belastung",
+        "Belastungssteuerung",
+        "Trainingssteuerung",
+        "Überlastung",
+        "Ruhetag",
+        "aktive Erholung",
+        "HRV",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#trainingsbelastung",
+          "name": "Trainingsbelastung",
+          "description": "Summe der äußeren und inneren Anforderungen, die durch Training und weitere Stressoren auf den Körper wirken."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#erholung",
+          "name": "Erholung",
+          "description": "Biologischer Prozess, in dem Energiespeicher aufgefüllt, Gewebe repariert, Regulationsprozesse normalisiert und Trainingsreize verarbeitet werden."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#innere-belastung",
+          "name": "Innere Belastung",
+          "description": "Individuelle körperliche und psychische Reaktion auf eine äußere Trainingsbelastung."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#aeussere-belastung",
+          "name": "Äußere Belastung",
+          "description": "Objektiv geplante oder gemessene Trainingsanforderung wie Kilometer, Zeit, Tempo, Watt oder Höhenmeter."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Metabolische Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Muskuläre Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Orthopädische Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mentale Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Zentrales Nervensystem"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Glykogenspeicher"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Homöostase"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Muskelkater"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Herzfrequenzvariabilität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ruhepuls"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Restermüdung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Überlastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Aktive Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ruhetag"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Entlastungsphase"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsintensitätsverteilung"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "url": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "name": "The General Adaptation Syndrome: A Foundation for the Concept of Periodization",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "A. J. Cunanan"
+            },
+            {
+              "@type": "Person",
+              "name": "B. H. DeWeese"
+            },
+            {
+              "@type": "Person",
+              "name": "J. P. Wagle"
+            },
+            {
+              "@type": "Person",
+              "name": "K. M. Carroll"
+            },
+            {
+              "@type": "Person",
+              "name": "R. Sausaman"
+            },
+            {
+              "@type": "Person",
+              "name": "W. G. Hornsby"
+            },
+            {
+              "@type": "Person",
+              "name": "G. G. Haff"
+            },
+            {
+              "@type": "Person",
+              "name": "N. T. Triplett"
+            },
+            {
+              "@type": "Person",
+              "name": "K. C. Pierce"
+            },
+            {
+              "@type": "Person",
+              "name": "M. H. Stone"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "name": "Internal and External Training Load: 15 Years On",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "datePublished": "2017",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1186/s40798-024-00724-6",
+          "url": "https://link.springer.com/article/10.1186/s40798-024-00724-6",
+          "name": "Effectiveness of Recovery Strategies After Training and Competition in Endurance Athletes: An Umbrella Review",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "S. Li"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Kempe"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Brink"
+            },
+            {
+              "@type": "Person",
+              "name": "K. Lemmink"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine - Open"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.jandonline.org/article/S2212-2672(15)01802-X/fulltext",
+          "url": "https://www.jandonline.org/article/S2212-2672(15)01802-X/fulltext",
+          "name": "Nutrition and Athletic Performance",
+          "datePublished": "2016",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "D. T. Thomas"
+            },
+            {
+              "@type": "Person",
+              "name": "K. A. Erdman"
+            },
+            {
+              "@type": "Person",
+              "name": "L. M. Burke"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of the Academy of Nutrition and Dietetics"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/55/7/356",
+          "url": "https://bjsm.bmj.com/content/55/7/356",
+          "name": "Sleep and the Athlete: Narrative Review and 2021 Expert Consensus Recommendations",
+          "datePublished": "2021",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "name": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+          "datePublished": "2025",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. J. Gabbett"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Oetter"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+          "datePublished": "2013",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/50/17/1030",
+          "url": "https://bjsm.bmj.com/content/50/17/1030",
+          "name": "How much is too much? Part 1: International Olympic Committee consensus statement on load in sport and risk of injury",
+          "datePublished": "2016",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/50/17/1043",
+          "url": "https://bjsm.bmj.com/content/50/17/1043",
+          "name": "How much is too much? Part 2: International Olympic Committee consensus statement on load in sport and risk of illness",
+          "datePublished": "2016",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "name": "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?",
+          "datePublished": "2010",
+          "author": {
+            "@type": "Person",
+            "name": "S. Seiler"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12787763/",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12787763/",
+          "name": "Monitoring Training Adaptation and Recovery Status in Athletes Using Heart Rate Variability via Mobile Devices: A Narrative Review",
+          "datePublished": "2026",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. R. Esco"
+            },
+            {
+              "@type": "Person",
+              "name": "A. D. Fields"
+            },
+            {
+              "@type": "Person",
+              "name": "M. A. Mohammadnabi"
+            },
+            {
+              "@type": "Person",
+              "name": "B. M. Kliszczewicz"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sensors"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00403/full",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00403/full",
+          "name": "An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "O. Dupuy"
+            },
+            {
+              "@type": "Person",
+              "name": "W. Douzi"
+            },
+            {
+              "@type": "Person",
+              "name": "D. Theurot"
+            },
+            {
+              "@type": "Person",
+              "name": "L. Bosquet"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Dugué"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#haeufige-fragen-zu-belastung-und-erholung",
+      "name": "Häufige Fragen zu Belastung und Erholung",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Warum ist Erholung im Training so wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Erholung ist die Phase, in der der Körper den Trainingsreiz verarbeitet. Während der Belastung entsteht zunächst Ermüdung. Erst danach werden Speicher aufgefüllt, Gewebe repariert und Anpassungsprozesse gestartet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bedeutet Erholung, dass ich gar nichts tun darf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Erholung kann passiv oder aktiv sein. Passive Erholung umfasst Ruhe, Schlaf und Entlastung. Aktive Erholung kann aus sehr lockerem Laufen, Radfahren mit niedriger Intensität, Spazierengehen oder leichtem Mobilisieren bestehen. Entscheidend ist, dass keine zusätzliche hohe Belastung entsteht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie merke ich, dass ich mich zu wenig erhole?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typische Hinweise sind schwere Beine, schlechter Schlaf, sinkende Leistung, ein ungewöhnlich hoher Ruhepuls, eine auffällig niedrige Herzfrequenzvariabilität, Reizbarkeit, Motivationsverlust oder Schmerzen an Sehnen und Gelenken. Aussagekräftiger als ein einzelnes Signal ist die Kombination mehrerer Warnzeichen über mehrere Tage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich mich auch zu viel erholen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Werden Trainingsreize zu selten oder zu schwach gesetzt, fehlt dem Körper der Anlass zur Anpassung. Erholung muss deshalb mit regelmäßigen und passend dosierten Belastungen kombiniert werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum fühlen sich Muskeln oft schneller bereit an als Sehnen oder Gelenke?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Muskeln sind besser durchblutet und regenerieren meist schneller. Sehnen, Bänder, Knochen und Knorpel reagieren anders auf Belastung und benötigen für belastbare strukturelle Anpassungen eine passende Dosierung aus Reiz und Erholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte ich bei Muskelkater trainieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leichte Bewegung kann sinnvoll sein, wenn sie locker bleibt und keine Schmerzen verstärkt. Harte Intervalle, Bergläufe, Sprünge oder Krafttraining sind bei starkem Muskelkater meist ungünstig, weil das Gewebe bereits belastet ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Ruhetag verlorenes Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Ein Ruhetag kann ein wirksamer Bestandteil des Trainings sein. Er ermöglicht die Verarbeitung vorheriger Reize und kann dazu beitragen, dass die nächste intensive Einheit wieder produktiv durchgeführt werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele harte Einheiten pro Woche sind sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt unter anderem von Trainingsstand, Trainingsumfang, Alter, Schlaf, Stress und Zielsetzung ab. Für viele Ausdauerathleten reichen ein bis drei intensive Reize pro Woche. Die übrigen Einheiten sollten so locker sein, dass die Qualität der Schlüsselsessions erhalten bleibt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Ermüdung und Überlastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ermüdung ist eine normale kurzfristige Folge von Training. Überlastung entsteht, wenn die Belastung über längere Zeit größer ist als die Erholungsfähigkeit. Dann können Leistungsabfall, zunehmende Beschwerden und ausbleibende Anpassung auftreten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind lockere Einheiten oft zu schnell?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Viele Athleten absolvieren lockere Einheiten in einer mittleren Intensität, weil sich diese zunächst produktiv anfühlt. Diese Grauzone kann jedoch die Erholung beeinträchtigen und gleichzeitig die Qualität intensiver Einheiten verschlechtern."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Belastung und Erholung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/belastung-und-erholung/"
+        }
+      ]
+    }
+  ]
+}
