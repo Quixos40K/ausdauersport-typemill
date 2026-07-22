@@ -1,1 +1,162 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsplanung",
+        "Trainingssteuerung",
+        "Leistungsentwicklung"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/",
+      "name": "Trainingswissenschaft",
+      "headline": "Trainingswissenschaft",
+      "description": "Trainingswissenschaft erklärt, wie Ausdauertraining durch Trainingsprinzipien, Intensitäten, Periodisierung, Trainingsplanung und Leistungsentwicklung geplant, gesteuert und ausgewertet wird.",
+      "abstract": "Trainingswissenschaft beschreibt, wie Training geplant, gesteuert und ausgewertet wird. Fortschritt im Ausdauersport entsteht durch ein strukturiertes Zusammenspiel aus Trainingsreizen, Belastung, Erholung, Intensitätsverteilung, Periodisierung und langfristiger Leistungsentwicklung.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/#itemlist"
+      },
+      "keywords": [
+        "Trainingswissenschaft",
+        "Ausdauertraining",
+        "Trainingsprinzipien",
+        "Trainingsintensitäten",
+        "Periodisierung",
+        "Trainingsplanung",
+        "Leistungsentwicklung",
+        "Belastungsverteilung",
+        "Trainingssteuerung"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingswissenschaft",
+          "description": "Wissenschaftliche und praktische Auseinandersetzung mit der Planung, Steuerung, Durchführung und Auswertung von Training."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ausdauertraining",
+          "description": "Strukturiertes Training zur Entwicklung und Erhaltung der körperlichen Ausdauerleistungsfähigkeit."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingssteuerung",
+          "description": "Planung, Dosierung, Kontrolle und Anpassung von Trainingsbelastungen."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastung und Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Belastungsverteilung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Individualisierung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Leistungsentwicklung"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/#itemlist",
+      "name": "Unterseiten zu Trainingswissenschaft",
+      "description": "Thematische Unterseiten zu Trainingsprinzipien, Trainingsintensitäten, Periodisierung, Trainingsplanung und Leistungsentwicklung im Ausdauersport.",
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Periodisierung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Trainingsplanung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsplanung/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Leistungsentwicklung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/leistungsentwicklung/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        }
+      ]
+    }
+  ]
+}
