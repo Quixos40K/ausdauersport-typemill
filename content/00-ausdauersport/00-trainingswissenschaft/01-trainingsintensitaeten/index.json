@@ -1,1 +1,176 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsintensitäten",
+        "Trainingssteuerung",
+        "Belastungssteuerung",
+        "Trainingszonen"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/",
+      "name": "Trainingsintensitäten im Ausdauersport",
+      "description": "Die Übersichtsseite erklärt, wie unterschiedliche Trainingsintensitäten (LIT, MIT, HIIT, Polarisiert, Pyramidal) wirken und wie sie für Fortschritt und Regeneration verteilt werden.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#webpage"
+      },
+      "headline": "Trainingsintensitäten",
+      "alternativeHeadline": "Übersicht: Trainingsintensitäten und Zonen im Ausdauersport",
+      "description": "Die Übersichtsseite erklärt, wie unterschiedliche Trainingsintensitäten (LIT, MIT, HIIT, Polarisiert, Pyramidal) wirken und wie sie für Fortschritt und Regeneration verteilt werden.",
+      "abstract": "Trainingsintensitäten bestimmen, wie stark ein Trainingsreiz auf den Körper wirkt. Gutes Ausdauertraining entsteht durch eine sinnvolle Verteilung aus niedrigen, moderaten und hohen Intensitäten, die unterschiedliche Anpassungen auslösen und den Fortschritt steuern.",
+      "articleSection": [
+        "Trainingswissenschaft"
+      ],
+      "genre": [
+        "Übersichtsseite",
+        "Kategorieseite",
+        "Trainingswissenschaft"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "keywords": [
+        "Trainingsintensitäten",
+        "Trainingszonen",
+        "Belastungssteuerung",
+        "Low Intensity Training",
+        "Moderate Intensity Training",
+        "High-Intensity Interval Training",
+        "Polarisiertes Training",
+        "Pyramidal Training"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#trainingsintensitaet"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zone 1–5"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Low Intensity Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Moderate Intensity Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "High-Intensity Interval Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Polarisiertes Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Pyramidal Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Regeneration"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#trainingsintensitaet",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/",
+      "name": "Trainingsintensität",
+      "alternateName": [
+        "Trainingsintensitäten",
+        "Belastungsintensität"
+      ],
+      "description": "Die Trainingsintensität bestimmt, wie stark ein sportlicher Reiz auf den Körper wirkt. Sie wird zur Steuerung der Anpassungsprozesse und der Belastungsverteilung genutzt.",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        }
+      ]
+    }
+  ]
+}
