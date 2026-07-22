@@ -12,7 +12,7 @@ Polarisiertes Training versucht, diese Vermischung zu vermeiden.
 
 ## Die Grundidee der Verteilung
 
-Häufig wird polarisiertes Training vereinfacht als 80/20-Modell beschrieben. Das bedeutet: ungefähr 80 Prozent der Einheiten oder Trainingszeit liegen im niedrigen Intensitätsbereich, etwa 20 Prozent im hohen Intensitätsbereich.
+Häufig wird polarisiertes Training vereinfacht als 80/20-Modell beschrieben. Das bedeutet: ungefähr 80 Prozent der Einheiten oder Trainingszeit liegen im niedrigen Intensitätsbereich, etwa 20 Prozent im hohen Intensitätsbereich. [1]
 
 Diese Zahlen sind keine starre Regel. Entscheidend ist das Prinzip:
 
@@ -20,7 +20,7 @@ Diese Zahlen sind keine starre Regel. Entscheidend ist das Prinzip:
 - wenig, aber gezielt hochintensives Training
 - begrenzter Anteil im mittleren Bereich
 
-Je nach Sportart, Trainingsstand, Saisonphase und Ziel kann die konkrete Verteilung variieren.
+Je nach Sportart, Trainingsstand, Saisonphase und Ziel kann die konkrete Verteilung variieren. [4][6]
 
 ## Niedrige Intensität
 
@@ -48,7 +48,7 @@ Die lockeren Einheiten liefern viel Trainingsvolumen mit vergleichsweise geringe
 
 Die intensiven Einheiten setzen starke Signale für maximale Sauerstoffaufnahme, Herz-Kreislauf-Leistung, neuromuskuläre Rekrutierung und hohe metabolische Belastung.
 
-Der zentrale Vorteil liegt in der Trennung: Locker bleibt locker, hart bleibt hart. Dadurch wird die Qualität der Schlüsselsessions geschützt, während gleichzeitig ausreichend Umfang aufgebaut werden kann.
+Der zentrale Vorteil liegt in der Trennung: Locker bleibt locker, hart bleibt hart. Dadurch wird die Qualität der Schlüsselsessions geschützt, während gleichzeitig ausreichend Umfang aufgebaut werden kann. Interventionsstudien und Übersichtsarbeiten zeigen, dass eine solche Verteilung die Ausdauerleistung verbessern kann, ohne anderen Modellen grundsätzlich in jeder Situation überlegen zu sein. [2][3][5][6]
 
 ## Unterschied zu pyramidalem Training
 
@@ -64,7 +64,7 @@ Polarisiert bedeutet: viel locker, wenig mittel, etwas hart.
 
 Pyramidal bedeutet: viel locker, etwas mittel, wenig hart.
 
-Beide Modelle können funktionieren. Welches besser passt, hängt von Ziel, Trainingsstand, Sportart, Saisonphase und individueller Verträglichkeit ab.
+Beide Modelle können funktionieren. Welches besser passt, hängt von Ziel, Trainingsstand, Sportart, Saisonphase und individueller Verträglichkeit ab. [4][6]
 
 ## Bedeutung für Läufer
 
@@ -199,9 +199,23 @@ Herzfrequenzzonen können helfen, sind aber nicht zwingend. Auch Atemverhalten, 
 
 ### Ist polarisiertes Training besser als jedes andere Modell?
 
-Nein. Es ist ein sinnvolles Modell, aber nicht automatisch für jeden Athleten, jede Sportart und jede Saisonphase optimal. Pyramidal Training, Schwellentraining oder blockweise Periodisierung können je nach Ziel ebenfalls passend sein.
+Nein. Es ist ein sinnvolles Modell, aber nicht automatisch für jeden Athleten, jede Sportart und jede Saisonphase optimal. Pyramidal Training, Schwellentraining oder blockweise Periodisierung können je nach Ziel ebenfalls passend sein. [4][5][6]
 
 ----
 
 *Hinweis: Dieser Artikel dient der allgemeinen Information und ersetzt keine medizinische oder therapeutische Beratung. Mehr dazu im [**Gesundheits- und Quellenhinweis**](/ausdauersport/disclaimer/).*
+
+## Quellen
+
+[1] Seiler, K. S.; Kjerland, G. Ø. (2006): [Quantifying training intensity distribution in elite endurance athletes: is there evidence for an “optimal” distribution?](https://doi.org/10.1111/j.1600-0838.2004.00418.x) *Scandinavian Journal of Medicine & Science in Sports*, 16(1), 49–56.
+
+[2] Muñoz, I.; Seiler, S.; Bautista, J.; España, J.; Larumbe, E.; Esteve-Lanao, J. (2014): [Does Polarized Training Improve Performance in Recreational Runners?](https://doi.org/10.1123/ijspp.2012-0350) *International Journal of Sports Physiology and Performance*, 9(2), 265–272.
+
+[3] Stöggl, T.; Sperlich, B. (2014): [Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training](https://doi.org/10.3389/fphys.2014.00033). *Frontiers in Physiology*, 5, Artikel 33.
+
+[4] Kenneally, M.; Casado, A.; Santos-Concejero, J. (2018): [The Effect of Periodization and Training Intensity Distribution on Middle- and Long-Distance Running Performance: A Systematic Review](https://doi.org/10.1123/ijspp.2017-0327). *International Journal of Sports Physiology and Performance*, 13(9), 1114–1121.
+
+[5] Rosenblat, M. A.; Perrotta, A. S.; Vicenzino, B. (2019): [Polarized vs. Threshold Training Intensity Distribution on Endurance Sport Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://doi.org/10.1519/JSC.0000000000002618). *Journal of Strength and Conditioning Research*, 33(12), 3491–3500.
+
+[6] Oliveira, P. S.; Boppre, G.; Fonseca, H. (2024): [Comparison of Polarized Versus Other Types of Endurance Training Intensity Distribution on Athletes’ Endurance Performance: A Systematic Review with Meta-analysis](https://doi.org/10.1007/s40279-024-02034-z). *Sports Medicine*.
 
