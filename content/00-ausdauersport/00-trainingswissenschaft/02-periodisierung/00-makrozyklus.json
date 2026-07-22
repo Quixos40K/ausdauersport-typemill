@@ -1,1 +1,295 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "jobTitle": "Director E-Commerce & AEO Strategist",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/",
+        "https://www.rwo1904.de/teams/endurance/funktionsteam",
+        "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Periodisierung",
+        "Makrozyklus",
+        "Trainingsplanung",
+        "Belastungssteuerung"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/",
+      "name": "Makrozyklus",
+      "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Der Artikel erklärt die Strukturierung von Grundlagenaufbau, Wettkampfphase und Erholung.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage"
+      },
+      "headline": "Makrozyklus",
+      "alternativeHeadline": "Makrozyklus und langfristige Trainingsplanung im Ausdauersport",
+      "description": "Ein Makrozyklus ist der langfristige Trainingsabschnitt, der ein größeres Ziel vorbereitet. Der Artikel erklärt die Strukturierung von Grundlagenaufbau, Wettkampfphase und Erholung.",
+      "abstract": "Ein Makrozyklus ist die größte Planungseinheit in der Periodisierung und umfasst häufig mehrere Monate bis zu einer Saison. Er verbindet Grundlagenaufbau, spezifische Vorbereitung, Wettkampfphase und Erholung zu einer strukturierten Gesamtstruktur.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Periodisierung"
+      ],
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauersport"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "Makrozyklus",
+        "Periodisierung",
+        "Trainingsplanung",
+        "Trainingszyklus",
+        "Mesozyklus",
+        "Mikrozyklus",
+        "Grundlagenausdauer",
+        "Wettkampfvorbereitung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#makrozyklus"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Periodisierung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mesozyklus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mikrozyklus"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Grundlagenaufbau"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Wettkampfphase"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ermüdungsresistenz"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "datePublished": "2013",
+          "author": {
+            "@type": "Person",
+            "name": "R. Meeusen"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "The Scientific Basis for High-Intensity Interval Training: Optimising Training Programmes and Maximising Performance in Highly Trained Endurance Athletes",
+          "url": "https://link.springer.com/article/10.2165/00007256-200232010-00003",
+          "datePublished": "2002",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            },
+            {
+              "@type": "Person",
+              "name": "D. G. Jenkins"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Nutrition for endurance sports: marathon, triathlon, and road cycling",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21916794/",
+          "datePublished": "2011",
+          "author": {
+            "@type": "Person",
+            "name": "A. E. Jeukendrup"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Sports Sciences"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "International Society of Sports Nutrition Position Stand: nutritional considerations for single-stage ultra-marathon training and racing",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31699097/",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "N. B. Tiller"
+            },
+            {
+              "@type": "Person",
+              "name": "J. D. Roberts"
+            },
+            {
+              "@type": "Person",
+              "name": "L. Beasley"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of the International Society of Sports Nutrition"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#makrozyklus",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/",
+      "name": "Makrozyklus",
+      "alternateName": [
+        "Saisonplanung",
+        "Langfristige Trainingsplanung"
+      ],
+      "termCode": "MACRO",
+      "description": "Ein Makrozyklus ist die langfristigste Planungseinheit in der Trainingsperiodisierung. Er strukturiert das Training über mehrere Monate oder eine gesamte Saison hinweg in sinnvolle Phasen, um ein oder mehrere Trainingsziele zu erreichen.",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#article"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#haeufige-fragen-zum-makrozyklus",
+      "name": "Häufige Fragen zum Makrozyklus",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist ein Makrozyklus einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Makrozyklus ist der langfristige Rahmen eines Trainingsplans. Er bündelt die gesamte Vorbereitung auf ein Ziel und dauert meist mehrere Monate oder eine ganze Saison."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert ein Makrozyklus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Dauer ist flexibel und hängt vom Ziel ab. Typische Makrozyklen im Ausdauersport dauern zwischen 12 Wochen für ein spezifisches Event und bis zu einem ganzen Jahr für die Saisonplanung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Makrozyklus, Mesozyklus und Mikrozyklus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Makrozyklus ist der gesamte Plan. Er besteht aus mehreren Mesozyklen (mehrwöchigen Trainingsblöcken), die wiederum aus Mikrozyklen (einzelnen Trainingswochen) aufgebaut sind."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Periodisierung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Makrozyklus",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/periodisierung/makrozyklus/"
+        }
+      ]
+    }
+  ]
+}
