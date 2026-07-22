@@ -1,1 +1,866 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Individualisierung im Training",
+        "Trainingssteuerung",
+        "Belastungsmonitoring"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/",
+      "name": "Individualisierung",
+      "description": "Individualisierung bedeutet, Training an Leistungsstand, Trainingsalter, Ziel, Alltag, Erholung, Gesundheit, Verletzungshistorie und die tatsächliche Belastungsreaktion einer Person anzupassen.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#article"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#term",
+        "name": "Individualisierung",
+        "description": "Trainingsprinzip, nach dem allgemeine Trainingsregeln an die Voraussetzungen, Ziele, Belastbarkeit, Erholung und tatsächliche Reaktion eines einzelnen Athleten angepasst werden."
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/",
+      "headline": "Individualisierung",
+      "description": "Der Fachartikel erklärt, wie Trainingspläne anhand von Leistungsstand, Trainingsalter, Ziel, Alltag, Erholung, Verletzungshistorie, Gesundheit und Monitoring individuell gesteuert werden.",
+      "abstract": "Individualisierung bedeutet, dass Training an die konkrete Person angepasst wird. Ein Trainingsplan ist deshalb kein starres Schema, sondern ein steuerbares System, das Trainingsreiz, Erholung, progressive Überlastung und Spezifität auf den einzelnen Athleten überträgt.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "keywords": [
+        "Individualisierung",
+        "individuelle Trainingsplanung",
+        "Trainingssteuerung",
+        "Trainingsplan",
+        "Leistungsstand",
+        "Trainingsalter",
+        "Erholungsfähigkeit",
+        "Verletzungshistorie",
+        "innere Belastung",
+        "äußere Belastung",
+        "Trainingsmonitoring",
+        "Herzfrequenzvariabilität",
+        "Trainingszonen",
+        "Master-Athleten",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#individualisierung",
+          "name": "Individualisierung",
+          "description": "Anpassung von Trainingsplanung und Trainingssteuerung an die Voraussetzungen und Reaktionen einer einzelnen Person."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#trainingsalter",
+          "name": "Trainingsalter",
+          "description": "Zeitraum, über den eine Person bereits regelmäßig und strukturiert trainiert hat."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#innere-belastung",
+          "name": "Innere Belastung",
+          "description": "Individuelle körperliche, mentale und subjektive Reaktion auf eine äußere Trainingsanforderung."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#aeussere-belastung",
+          "name": "Äußere Belastung",
+          "description": "Objektiv geplante oder gemessene Trainingsanforderung wie Kilometer, Zeit, Tempo, Watt, Höhenmeter oder Wiederholungen."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#monitoring",
+          "name": "Trainingsmonitoring",
+          "description": "Fortlaufende Beobachtung von Belastung, Erholung, Leistungsentwicklung, Beschwerden und subjektivem Befinden zur Anpassung des Trainings."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Leistungsstand"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsalter"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Erholungsfähigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Verletzungshistorie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Gesundheitliche Voraussetzungen"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mentale Faktoren"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Progressive Überlastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Spezifität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Erholung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Herzfrequenzvariabilität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ruhepuls"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schlafqualität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Subjektives Belastungsempfinden"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Pace-Herzfrequenz-Verhältnis"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingszonen"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Leistungsdiagnostik"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Feldtest"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Master-Athlet"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mechanische Belastbarkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Nicht-funktionelles Overreaching"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012529/",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012529/",
+          "name": "The HERITAGE Family Study: A Review of the Effects of Exercise Training on Cardiometabolic Health, with Insights into Molecular Transducers",
+          "datePublished": "2022",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Claude Bouchard"
+            },
+            {
+              "@type": "Person",
+              "name": "Tuomo Rankinen"
+            },
+            {
+              "@type": "Person",
+              "name": "James A. Timmons"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "name": "Internal and External Training Load: 15 Years On",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Franco M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "Samuele M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "Aaron J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "datePublished": "2017",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "P. C. Bourdon"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Cardinale"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Murray"
+            },
+            {
+              "@type": "Person",
+              "name": "P. Gastin"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Kellmann"
+            },
+            {
+              "@type": "Person",
+              "name": "M. C. Varley"
+            },
+            {
+              "@type": "Person",
+              "name": "T. J. Gabbett"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            },
+            {
+              "@type": "Person",
+              "name": "D. J. Burgess"
+            },
+            {
+              "@type": "Person",
+              "name": "W. Gregson"
+            },
+            {
+              "@type": "Person",
+              "name": "N. T. Cable"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s00421-007-0552-2",
+          "url": "https://link.springer.com/article/10.1007/s00421-007-0552-2",
+          "name": "Endurance training guided individually by daily heart rate variability measurements",
+          "datePublished": "2007",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "A. M. Kiviniemi"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Hautala"
+            },
+            {
+              "@type": "Person",
+              "name": "H. Kinnunen"
+            },
+            {
+              "@type": "Person",
+              "name": "M. P. Tulppo"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "European Journal of Applied Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "N. A. Jamnick"
+            },
+            {
+              "@type": "Person",
+              "name": "R. W. Pettitt"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Granata"
+            },
+            {
+              "@type": "Person",
+              "name": "D. B. Pyne"
+            },
+            {
+              "@type": "Person",
+              "name": "D. J. Bishop"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Romain Meeusen"
+            },
+            {
+              "@type": "Person",
+              "name": "Martine Duclos"
+            },
+            {
+              "@type": "Person",
+              "name": "Carl Foster"
+            },
+            {
+              "@type": "Person",
+              "name": "Andrew Fry"
+            },
+            {
+              "@type": "Person",
+              "name": "Michael Gleeson"
+            },
+            {
+              "@type": "Person",
+              "name": "David Nieman"
+            },
+            {
+              "@type": "Person",
+              "name": "John Raglin"
+            },
+            {
+              "@type": "Person",
+              "name": "Gerard Rietjens"
+            },
+            {
+              "@type": "Person",
+              "name": "Jürgen Steinacker"
+            },
+            {
+              "@type": "Person",
+              "name": "Axel Urhausen"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.sciencedirect.com/science/article/pii/S2095254624000607",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2095254624000607",
+          "name": "Risk factors for running-related injuries: An umbrella systematic review",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "K. Hollander"
+            },
+            {
+              "@type": "Person",
+              "name": "A. L. Rahlf"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Wilke"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Edler"
+            },
+            {
+              "@type": "Person",
+              "name": "S. Steib"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Sport and Health Science"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.exerciseismedicine.org/assets/page_documents/ACSM%20Preparticipation%20Screening%20Guidelines.pdf",
+          "url": "https://www.exerciseismedicine.org/assets/page_documents/ACSM%20Preparticipation%20Screening%20Guidelines.pdf",
+          "name": "Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+          "datePublished": "2015",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "D. Riebe"
+            },
+            {
+              "@type": "Person",
+              "name": "B. A. Franklin"
+            },
+            {
+              "@type": "Person",
+              "name": "P. D. Thompson"
+            },
+            {
+              "@type": "Person",
+              "name": "C. E. Garber"
+            },
+            {
+              "@type": "Person",
+              "name": "G. P. Whitfield"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Magal"
+            },
+            {
+              "@type": "Person",
+              "name": "L. S. Pescatello"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://bjsm.bmj.com/content/55/7/356",
+          "url": "https://bjsm.bmj.com/content/55/7/356",
+          "name": "Sleep and the athlete: narrative review and 2021 expert consensus recommendations",
+          "datePublished": "2021",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "N. P. Walsh"
+            },
+            {
+              "@type": "Person",
+              "name": "S. L. Halson"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Sargent"
+            },
+            {
+              "@type": "Person",
+              "name": "G. D. Roach"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Nédélec"
+            },
+            {
+              "@type": "Person",
+              "name": "L. Gupta"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Leeder"
+            },
+            {
+              "@type": "Person",
+              "name": "H. H. K. Fullagar"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            },
+            {
+              "@type": "Person",
+              "name": "B. J. Edwards"
+            },
+            {
+              "@type": "Person",
+              "name": "S. A. Pullinger"
+            },
+            {
+              "@type": "Person",
+              "name": "C. M. Robertson"
+            },
+            {
+              "@type": "Person",
+              "name": "J. G. Burniston"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Lastella"
+            },
+            {
+              "@type": "Person",
+              "name": "Y. Le Meur"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Hausswirth"
+            },
+            {
+              "@type": "Person",
+              "name": "A. M. Bender"
+            },
+            {
+              "@type": "Person",
+              "name": "M. A. Grandner"
+            },
+            {
+              "@type": "Person",
+              "name": "C. H. Samuels"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "British Journal of Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+          "name": "Nutrition and Athletic Performance",
+          "datePublished": "2016",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "D. T. Thomas"
+            },
+            {
+              "@type": "Person",
+              "name": "K. A. Erdman"
+            },
+            {
+              "@type": "Person",
+              "name": "L. M. Burke"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.mdpi.com/1660-4601/19/17/11050",
+          "url": "https://www.mdpi.com/1660-4601/19/17/11050",
+          "name": "The Impact of Training on the Loss of Cardiorespiratory Fitness in Aging Masters Endurance Athletes",
+          "datePublished": "2022",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "J. Burtscher"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Strasser"
+            },
+            {
+              "@type": "Person",
+              "name": "M. Burtscher"
+            },
+            {
+              "@type": "Person",
+              "name": "G. P. Millet"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Environmental Research and Public Health"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1186/s40798-023-00597-1",
+          "url": "https://link.springer.com/article/10.1186/s40798-023-00597-1",
+          "name": "Recovery from Resistance Exercise in Older Adults: A Systematic Scoping Review",
+          "datePublished": "2023",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "E. J. Hayes"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Stevenson"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Aihie Sayer"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Granic"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Hurst"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine - Open"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#haeufige-fragen-zur-individualisierung-im-training",
+      "name": "Häufige Fragen zur Individualisierung im Training",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Individualisierung im Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Individualisierung bedeutet, dass Training an die einzelne Person angepasst wird. Entscheidend sind Leistungsstand, Trainingsalter, Ziel, Erholung, Alltag, Gesundheit, Verletzungshistorie und die tatsächliche Reaktion auf Belastung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum funktioniert derselbe Trainingsplan nicht für alle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Menschen reagieren unterschiedlich auf Belastung. Schlaf, Stress, Trainingshistorie, Technik, Gewebebelastbarkeit, Ernährung und Erholungsfähigkeit bestimmen, ob ein Trainingsreiz produktiv, zu schwach oder überfordernd ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Standardpläne deshalb schlecht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Standardpläne können eine gute Orientierung geben, sollten aber nicht unverändert abgearbeitet werden. Sinnvoll werden sie, wenn sie an die individuelle Belastbarkeit, den Alltag und die aktuelle Entwicklung angepasst werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Spezifität und Individualisierung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spezifität fragt, ob das Training zu den Anforderungen des Ziels passt. Individualisierung fragt, ob dieses Training zur konkreten Person passt. Ein Trainingsplan kann sehr spezifisch und dennoch für einen bestimmten Athleten unpassend sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Faktoren sollten individuell angepasst werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wichtige Stellschrauben sind Trainingsumfang, Intensität, Häufigkeit, Dauer, Pausengestaltung, Untergrund, Höhenmeter, Krafttraining, Technikarbeit, Erholungsphasen und Wettkampfspezifik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erkenne ich, ob mein Training gut individualisiert ist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein gutes Zeichen ist, wenn die Belastung fordernd, aber verarbeitbar bleibt. Die Leistung entwickelt sich über mehrere Wochen, lockere Einheiten bleiben kontrolliert, intensive Einheiten besitzen Qualität und Beschwerden nehmen nicht zu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Rolle spielt HRV bei der Individualisierung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Herzfrequenzvariabilität kann Hinweise auf die Belastung des autonomen Nervensystems geben. Sie ist besonders als Trend über mehrere Tage nützlich und sollte zusammen mit Schlaf, Ruhepuls, Befinden und Leistungsentwicklung betrachtet werden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Reicht Körpergefühl als Steuerung aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Körpergefühl ist wichtig, aber nicht immer zuverlässig. Sinnvoll ist eine Kombination aus subjektivem Empfinden, Trainingsdaten, Schlaf, Ruhepuls, Herzfrequenzvariabilität und längerfristiger Leistungsentwicklung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bedeutet Individualisierung, dass ich harte Einheiten vermeiden soll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Individualisierung bedeutet nicht Schonung um jeden Preis. Intensive Reize bleiben wichtig, wenn sie zum Ziel passen und von der Person verarbeitet werden können."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie oft sollte ein Trainingsplan angepasst werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kleine Anpassungen können wöchentlich oder tagesaktuell sinnvoll sein. Größere Änderungen sollten anhand längerfristiger Trends erfolgen, beispielsweise bei stagnierender Leistung, wiederkehrenden Beschwerden oder deutlich veränderter Erholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist bei Verletzungshistorie besonders wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei früheren Beschwerden sollte die mechanische Belastung vorsichtig gesteigert werden. Dazu gehören Laufumfang, Untergrund, Höhenmeter, Tempo, Sprints, Sprünge und Krafttraining. Ziel ist der kontrollierte Aufbau von Belastbarkeit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Brauchen ältere Athleten grundsätzlich weniger Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht automatisch. Viele Master-Athleten können leistungsfähig trainieren. Häufig benötigen sie jedoch eine präzisere Erholungssteuerung, angepasste Kraft- und Mobilitätsarbeit, ausreichende Ernährung und eine vorsichtige Progression mechanischer Reize."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sollte medizinisch abgeklärt werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei ungewohnten Brustschmerzen, Atemnot, Schwindel, Herzrhythmusstörungen, wiederkehrenden Schmerzen, längeren Leistungseinbrüchen oder bestehenden Risikofaktoren vor intensivem Training sollte eine ärztliche oder sportmedizinische Abklärung erfolgen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der wichtigste Fehler bei Individualisierung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der wichtigste Fehler ist, nur den Plan anzupassen, aber die tatsächliche Reaktion darauf nicht fortlaufend zu beobachten. Individualisierung ist ein dauernder Abgleich zwischen Trainingsreiz, Erholung und Anpassung."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Individualisierung",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/individualisierung/"
+        }
+      ]
+    }
+  ]
+}
