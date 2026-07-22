@@ -1,1 +1,522 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "sameAs": [
+        "https://www.linkedin.com/in/oliver-nix-ob",
+        "https://www.instagram.com/running.oliver/"
+      ],
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsintensitäten",
+        "Moderate Intensity Training",
+        "MIT",
+        "Schwellentraining",
+        "Trainingssteuerung",
+        "Leistungsphysiologie"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/",
+      "name": "MIT (Moderate Intensity)",
+      "description": "Moderate Intensity Training beschreibt Ausdauertraining mit mittlerer Intensität. Der Fachartikel erklärt Wirkungsweise, Nutzen, Zonen und die gezielte Steuerung von MIT im Ausdauersport.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#article"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/",
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage"
+      },
+      "headline": "MIT (Moderate Intensity)",
+      "alternativeHeadline": "Moderate Intensity Training im Ausdauersport",
+      "description": "Moderate Intensity Training beschreibt Ausdauertraining mit mittlerer Intensität. Der Fachartikel erklärt Wirkungsweise, Nutzen, Zonen und die gezielte Steuerung von MIT im Ausdauersport.",
+      "abstract": "Moderate Intensity Training (MIT) beschreibt Training mit mittlerer Intensität zwischen lockerem Grundlagentraining und hochintensiven Einheiten. Richtig eingesetzt verbessert es die Schwellenleistung, Tempohärte und wettkampfspezifische Ausdauer, erfordert aber eine genaue Abgrenzung zur Vermeidung von Grauzonen-Ermüdung.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsintensitäten"
+      ],
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauersport"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "keywords": [
+        "Moderate Intensity Training",
+        "MIT",
+        "mittlere Trainingsintensität",
+        "Schwellentraining",
+        "Zone 3",
+        "Laktatschwelle",
+        "Tempodauerlauf",
+        "Pyramidales Training",
+        "Polarisiertes Training",
+        "Trainingssteuerung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#mit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellentraining"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mittlere Trainingsintensität"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zone 3"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laktatschwelle"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ventilatorische Schwelle"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Tempodauerlauf"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Pyramidales Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Polarisiertes Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Low Intensity Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "High-Intensity Interval Training"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Restermüdung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Grauzonentraining"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "What is best practice for training intensity and duration distribution in endurance athletes?",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "datePublished": "2010",
+          "author": {
+            "@type": "Person",
+            "name": "S. Seiler"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Methods of Prescribing Relative Exercise Intensity: Physiological and Practical Considerations",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0045-x",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Mann"
+            },
+            {
+              "@type": "Person",
+              "name": "R. P. Lamberts"
+            },
+            {
+              "@type": "Person",
+              "name": "M. I. Lambert"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "An Examination and Critique of Current Methods to Determine Exercise Intensity",
+          "url": "https://link.springer.com/article/10.1007/s40279-020-01322-8",
+          "datePublished": "2020",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "N. A. Jamnick"
+            },
+            {
+              "@type": "Person",
+              "name": "R. W. Pettitt"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Granata"
+            },
+            {
+              "@type": "Person",
+              "name": "D. B. Pyne"
+            },
+            {
+              "@type": "Person",
+              "name": "D. J. Bishop"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Impact of Training Intensity Distribution on Performance in Endurance Athletes",
+          "url": "https://journals.lww.com/nsca-jscr/fulltext/2007/08000/impact_of_training_intensity_distribution_on.41.aspx",
+          "datePublished": "2007",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "J. Esteve-Lanao"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Foster"
+            },
+            {
+              "@type": "Person",
+              "name": "S. Seiler"
+            },
+            {
+              "@type": "Person",
+              "name": "A. Lucia"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Strength and Conditioning Research"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized vs. Threshold Training Intensity Distribution on Endurance Sport Performance: A Systematic Review and Meta-Analysis",
+          "url": "https://journals.lww.com/nsca-jscr/fulltext/2019/12000/polarized_vs__threshold_training_intensity.34.aspx",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. A. Rosenblat"
+            },
+            {
+              "@type": "Person",
+              "name": "A. S. Perrotta"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Vicenzino"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Journal of Strength and Conditioning Research"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Recent advances in training intensity distribution theory for cyclic endurance sports: theoretical foundations, model comparisons, and periodization characteristics",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1657892/full",
+          "datePublished": "2025",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Y. Gao"
+            },
+            {
+              "@type": "Person",
+              "name": "Y. Wang"
+            },
+            {
+              "@type": "Person",
+              "name": "S. Liu"
+            },
+            {
+              "@type": "Person",
+              "name": "Y. Liu"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Lactate Threshold Concepts: How Valid are They?",
+          "url": "https://link.springer.com/article/10.2165/00007256-200939060-00003",
+          "datePublished": "2009",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "O. Faude"
+            },
+            {
+              "@type": "Person",
+              "name": "W. Kindermann"
+            },
+            {
+              "@type": "Person",
+              "name": "T. Meyer"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00033/full",
+          "datePublished": "2014",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. Stöggl"
+            },
+            {
+              "@type": "Person",
+              "name": "B. Sperlich"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Frontiers in Physiology"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Internal and External Training Load: 15 Years On",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "datePublished": "2017",
+          "author": {
+            "@type": "Person",
+            "name": "P. C. Bourdon"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#mit",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/",
+      "name": "MIT (Moderate Intensity Training)",
+      "alternateName": [
+        "MIT",
+        "Moderate Intensity Training",
+        "Mittlere Trainingsintensität",
+        "Schwellentraining"
+      ],
+      "termCode": "MIT",
+      "description": "Moderate Intensity Training (MIT) beschreibt Ausdauertraining im mittleren Intensitätsbereich zwischen Grundlagen- und Hochintensitätstraining zur Verbesserung von Tempohärte und Schwellenleistung.",
+      "subjectOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#article"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#faq",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#haeufige-fragen-zu-mit",
+      "name": "Häufige Fragen zu MIT (Moderate Intensity Training)",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was bedeutet MIT im Ausdauertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT steht für Moderate Intensity Training und beschreibt Ausdauertraining mit mittlerer Intensität. Die Belastung ist spürbar fordernd, aber noch kontrollierbar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In welcher Zone liegt MIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In typischen 5-Zonen-Modellen entspricht MIT meist Zone 3 bzw. dem Bereich zwischen der ersten aeroben und der zweiten anaeroben Schwelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Anpassungen bewirkt MIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MIT stärkt die Schwellenleistung, verbessert die Laktatverarbeitung unter Belastung und entwickelt die Fähigkeit, ein höheres Wettkampftempo länger aufrechtzuerhalten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum wird vor zu viel MIT gewarnt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wird der mittlere Bereich zu dominant, erzeugt er hohe Restermüdung, ohne die maximale Sauerstoffaufnahme wie HIIT zu reizen oder die Regeneration wie LIT zu ermöglichen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen MIT und LIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LIT (Low Intensity) ist sehr locker und regenerationsarm, während MIT (Moderate Intensity) eine deutliche, vertiefte Atmung und höhere muskuläre Beanspruchung erzeugt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Schwellentraining dasselbe wie MIT?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schwellentraining liegt meist am oberen Ende des MIT-Bereichs (nahe der anaeroben Schwelle) und stellt eine spezifische, sehr effektive Form moderater Intensität dar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann ist MIT im Trainingsplan sinnvoll?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gezielte MIT-Einheiten sind besonders in der spezifischen Wettkampfvorbereitung (z. B. für Halbmarathon oder Marathon) wertvoll, um das geplante Renntempo zu festigen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkennt man MIT beim Laufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Atmung ist vertieft, eine Unterhaltung ist nur noch in kurzen Sätzen möglich und das Tempo verlangt kontinuierliche mentale Konzentration."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsintensitäten",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MIT (Moderate Intensity)",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsintensitaeten/moderate-intensity/"
+        }
+      ]
+    }
+  ]
+}
