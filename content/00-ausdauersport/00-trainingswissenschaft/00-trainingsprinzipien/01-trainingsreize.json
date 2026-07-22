@@ -1,1 +1,577 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.oliver-nix.de/#person",
+      "name": "Oliver Nix",
+      "url": "https://www.oliver-nix.de/",
+      "knowsAbout": [
+        "Ausdauersport",
+        "Trainingswissenschaft",
+        "Trainingsprinzipien",
+        "Trainingsreize",
+        "Trainingssteuerung",
+        "Belastungssteuerung"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.oliver-nix.de/#website",
+      "url": "https://www.oliver-nix.de/",
+      "name": "Oliver Nix",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#webpage",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/",
+      "name": "Trainingsreize",
+      "description": "Trainingsreize sind gezielte Belastungen, die Anpassungsprozesse auslösen können. Der Fachartikel erklärt Reizschwelle, Reizgrößen, innere und äußere Belastung sowie die passende Dosierung im Ausdauertraining.",
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#article"
+      },
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#faq"
+      },
+      "about": {
+        "@type": "DefinedTerm",
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#term",
+        "name": "Trainingsreiz",
+        "description": "Gezielte Belastung, die den Körper aus seinem Gleichgewicht bringt und dadurch Anpassungsprozesse auslösen kann."
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#article",
+      "url": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/",
+      "headline": "Trainingsreize",
+      "description": "Der Fachartikel erklärt, wie Trainingsreize im Ausdauertraining durch Intensität, Dauer, Umfang, Reizdichte, Häufigkeit, Reizqualität und unterschiedliche Belastungsformen entstehen.",
+      "abstract": "Ein Trainingsreiz ist eine gezielte Belastung, die den Körper aus seinem Gleichgewicht bringt und dadurch Anpassungsprozesse auslösen kann. Entscheidend ist nicht eine maximal harte Belastung, sondern ein ausreichend starker, spezifischer und zum aktuellen Leistungsstand passend dosierter Reiz.",
+      "articleSection": [
+        "Trainingswissenschaft",
+        "Trainingsprinzipien"
+      ],
+      "inLanguage": "de-DE",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/#website"
+      },
+      "author": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publisher": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.oliver-nix.de/#person"
+      },
+      "publishingPrinciples": "https://www.oliver-nix.de/ausdauersport/disclaimer/",
+      "genre": [
+        "Fachartikel",
+        "Trainingswissenschaft",
+        "Ausdauertraining"
+      ],
+      "keywords": [
+        "Trainingsreiz",
+        "Trainingsreize",
+        "Reizschwelle",
+        "Trainingsbelastung",
+        "innere Belastung",
+        "äußere Belastung",
+        "Trainingsintensität",
+        "Trainingsdauer",
+        "Trainingsumfang",
+        "Reizdichte",
+        "Reizhäufigkeit",
+        "Reizqualität",
+        "Trainingssteuerung",
+        "Belastungssteuerung",
+        "Ausdauertraining"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#trainingsreiz",
+          "name": "Trainingsreiz",
+          "description": "Biologische Wirkung einer Belastung, die Anpassungsprozesse im Körper auslösen kann."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#reizschwelle",
+          "name": "Reizschwelle",
+          "description": "Mindeststärke einer Belastung, ab der ein ausreichender Anlass für eine Trainingsanpassung entstehen kann."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#trainingsbelastung",
+          "name": "Trainingsbelastung",
+          "description": "Äußere Anforderung einer Trainingseinheit, beispielsweise Strecke, Zeit, Tempo, Watt, Wiederholungen oder Höhenmeter."
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#innere-belastung",
+          "name": "Innere Belastung",
+          "description": "Individuelle körperliche und subjektive Reaktion auf eine äußere Trainingsbelastung."
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Intensität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Dauer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Trainingsumfang"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Reizdichte"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Reizhäufigkeit"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Reizqualität"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Äußere Belastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Innere Belastung"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Aerober Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Schwellenreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Hochintensiver Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Mechanischer Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Koordinativer Trainingsreiz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "VO₂max"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Laufökonomie"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Ermüdungsresistenz"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Regeneration"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Überlastung"
+        }
+      ],
+      "hasPart": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#faq"
+      },
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "url": "https://link.springer.com/article/10.1007/s40279-017-0855-3",
+          "name": "The General Adaptation Syndrome: A Foundation for the Concept of Periodization",
+          "datePublished": "2018",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "A. J. Cunanan"
+            },
+            {
+              "@type": "Person",
+              "name": "B. H. DeWeese"
+            },
+            {
+              "@type": "Person",
+              "name": "J. P. Wagle"
+            },
+            {
+              "@type": "Person",
+              "name": "K. M. Carroll"
+            },
+            {
+              "@type": "Person",
+              "name": "R. Sausaman"
+            },
+            {
+              "@type": "Person",
+              "name": "W. G. Hornsby"
+            },
+            {
+              "@type": "Person",
+              "name": "G. G. Haff"
+            },
+            {
+              "@type": "Person",
+              "name": "N. T. Triplett"
+            },
+            {
+              "@type": "Person",
+              "name": "K. C. Pierce"
+            },
+            {
+              "@type": "Person",
+              "name": "M. H. Stone"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30614348/",
+          "name": "Internal and External Training Load: 15 Years On",
+          "datePublished": "2019",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "F. M. Impellizzeri"
+            },
+            {
+              "@type": "Person",
+              "name": "S. M. Marcora"
+            },
+            {
+              "@type": "Person",
+              "name": "A. J. Coutts"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "url": "https://journals.humankinetics.com/view/journals/ijspp/12/s2/article-pS2-161.xml",
+          "name": "Monitoring Athlete Training Loads: Consensus Statement",
+          "datePublished": "2017",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "url": "https://journals.humankinetics.com/abstract/journals/ijspp/5/3/article-p276.xml",
+          "name": "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?",
+          "datePublished": "2010",
+          "author": {
+            "@type": "Person",
+            "name": "S. Seiler"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "International Journal of Sports Physiology and Performance"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-020-01322-8",
+          "url": "https://link.springer.com/article/10.1007/s40279-020-01322-8",
+          "name": "An Examination and Critique of Current Methods to Determine Exercise Intensity",
+          "datePublished": "2020",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "N. A. Jamnick"
+            },
+            {
+              "@type": "Person",
+              "name": "R. W. Pettitt"
+            },
+            {
+              "@type": "Person",
+              "name": "C. Granata"
+            },
+            {
+              "@type": "Person",
+              "name": "D. B. Pyne"
+            },
+            {
+              "@type": "Person",
+              "name": "D. J. Bishop"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-013-0029-x",
+          "url": "https://link.springer.com/article/10.1007/s40279-013-0029-x",
+          "name": "High-Intensity Interval Training, Solutions to the Programming Puzzle",
+          "datePublished": "2013",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "M. Buchheit"
+            },
+            {
+              "@type": "Person",
+              "name": "P. B. Laursen"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-023-01978-y",
+          "url": "https://link.springer.com/article/10.1007/s40279-023-01978-y",
+          "name": "Effect of Strength Training Programs in Middle- and Long-Distance Runners’ Economy at Different Running Speeds: A Systematic Review with Meta-analysis",
+          "datePublished": "2024",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "C. Llanos-Lagos"
+            },
+            {
+              "@type": "Person",
+              "name": "R. Ramirez-Campillo"
+            },
+            {
+              "@type": "Person",
+              "name": "J. Moran"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Sáez de Villarreal"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "url": "https://link.springer.com/article/10.1007/s40279-024-02126-w",
+          "name": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+          "datePublished": "2025",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "T. J. Gabbett"
+            },
+            {
+              "@type": "Person",
+              "name": "E. Oetter"
+            }
+          ],
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Sports Medicine"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+          "name": "Prevention, diagnosis, and treatment of the overtraining syndrome: Joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+          "datePublished": "2013",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Medicine & Science in Sports & Exercise"
+          }
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://www.nature.com/articles/s41586-023-06877-w",
+          "url": "https://www.nature.com/articles/s41586-023-06877-w",
+          "name": "Temporal dynamics of the multi-omic response to endurance exercise training",
+          "datePublished": "2024",
+          "author": {
+            "@type": "Organization",
+            "name": "MoTrPAC Study Group"
+          },
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Nature"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#faq",
+      "name": "Häufige Fragen zu Trainingsreizen",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist ein Trainingsreiz einfach erklärt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Trainingsreiz ist eine Belastung, die den Körper fordert und dadurch eine Anpassung auslösen kann. Der Reiz kann durch Tempo, Dauer, Umfang, Kraft, Gelände, Technik oder die Häufigkeit von Einheiten entstehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann ist ein Trainingsreiz wirksam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Trainingsreiz ist wirksam, wenn er stark genug ist, um den Körper aus seinem Gleichgewicht zu bringen, aber nicht so stark, dass er die Regeneration überfordert. Entscheidend ist das Verhältnis aus Belastung und Erholung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Muss ein Trainingsreiz immer hart sein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Auch lockere Einheiten können wichtige Trainingsreize setzen, besonders für aerobe Basis, Kapillarisierung, Fettstoffwechsel, Bewegungsroutine und Regenerationsfähigkeit. Harte Reize sind nur ein Teil des Trainings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn der Trainingsreiz zu schwach ist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dann bleibt die Belastung unterhalb der Reizschwelle, sodass der Körper kaum Anlass erhält, sich anzupassen. Solche Einheiten können trotzdem zur aktiven Erholung oder zum Erhalt der Bewegungsroutine sinnvoll sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn der Trainingsreiz zu stark ist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein zu starker Reiz kann die Regenerationsfähigkeit überfordern. Kurzfristig entsteht starke Ermüdung; langfristig können Stagnation, Überlastungsbeschwerden, erhöhte Infektanfälligkeit oder Verletzungen entstehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum wirkt dieselbe Einheit an verschiedenen Tagen unterschiedlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neben der äußeren Belastung zählt die innere Belastung. Schlaf, Stress, Ernährung, Hitze, Vorbelastung, Krankheitssymptome und mentale Erschöpfung verändern, wie stark ein Trainingsreiz tatsächlich im Körper wirkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Trainingsreiz und Trainingsbelastung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trainingsbelastung beschreibt meist das, was getan oder gemessen wird, etwa Kilometer, Minuten, Watt, Tempo oder Höhenmeter. Der Trainingsreiz beschreibt die biologische Wirkung dieser Belastung auf den Körper."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Trainingsreize gibt es im Ausdauertraining?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typische Reize sind aerobe Dauerbelastung, Schwellentraining, hochintensive Intervalle, lange Läufe, Bergläufe, Sprints, Krafttraining, Techniktraining und koordinative Reize. Die Reizformen sprechen unterschiedliche Systeme an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum sind Pausen für Trainingsreize wichtig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pausen ermöglichen die Verarbeitung des Trainingsreizes. Ohne ausreichende Erholung bleibt der Körper in Ermüdung, sodass aus einem grundsätzlich sinnvollen Trainingsreiz eine Überlastung werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erkenne ich, ob ein Trainingsreiz gut dosiert war?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein gut dosierter Reiz führt zu spürbarer, aber kontrollierbarer Ermüdung. Die Folgetage bleiben planbar, die Leistung stabilisiert oder verbessert sich, und Beschwerden klingen ab, statt zuzunehmen."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ausdauersport",
+          "item": "https://www.oliver-nix.de/ausdauersport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Trainingswissenschaft",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trainingsprinzipien",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Trainingsreize",
+          "item": "https://www.oliver-nix.de/ausdauersport/trainingswissenschaft/trainingsprinzipien/trainingsreize/"
+        }
+      ]
+    }
+  ]
+}
