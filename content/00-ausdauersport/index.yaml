@@ -5,98 +5,10 @@ meta:
     description: 'Ausdauersport ist meine absolute Leidenschaft, ein langfristiges Projekt und ein Thema, das mich immer wieder neugierig macht. Ich bin kein Elite-Athlet, der um irgendwelche Titel kämpft, sondern bestenfalls ein Hobbysportler mit ganz normalen Grenzen, mit guten und schlechten Trainingstagen und mit dem Wunsch, meinen Sport besser zu verstehen.'
     owner: oliver
     author: 'Oliver Nix'
-    modified: '2026-06-26'
+    modified: '2026-07-15'
     created: '2026-06-26'
     time: 17-30-17
     hide: false
     noindex: true
     contains: pages
-    json_ld: |-
-        {
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@context": "https://schema.org",
-              "@type": "Person",
-              "@id": "https://oliver-nix.de/#oliver-nix",
-              "name": "Oliver Nix",
-              "jobTitle": "Director E-Commerce & AEO Strategist",
-              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
-              "sameAs": [
-                "https://www.rwo1904.de/teams/endurance/funktionsteam",
-                "https://www.instagram.com/running.oliver/",
-                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
-              ]
-            },
-            {
-              "@type": "WebSite",
-              "@id": "https://oliver-nix.de/#website",
-              "url": "https://oliver-nix.de/",
-              "name": "Ausdauersport Lexikon",
-              "publisher": {
-                "@id": "https://oliver-nix.de/#oliver-nix"
-              }
-            },
-            {
-              "@type": "WebPage",
-              "@id": "https://oliver-nix.de/ausdauersport/#webpage",
-              "url": "https://oliver-nix.de/ausdauersport/",
-              "name": "Ausdauersport: Faszination, Struktur und Wissenschaft",
-              "headline": "Ausdauersport: Faszination, Struktur und Wissenschaft",
-              "description": "Ausdauersport ist meine absolute Leidenschaft, ein langfristiges Projekt und ein Thema, das mich immer wieder neugierig macht. Ich bin kein Elite-Athlet, der um irgendwelche Titel kämpft, sondern bestenfalls ein Hobbysportler mit ganz normalen Grenzen, mit guten und schlechten Trainingstagen und mit dem Wunsch, meinen Sport besser zu verstehen.",
-              "inLanguage": "de-DE",
-              "isPartOf": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "breadcrumb": {
-                "@id": "https://oliver-nix.de/ausdauersport/#breadcrumb"
-              },
-              "mainEntity": {
-                "@id": "https://oliver-nix.de/ausdauersport/#content"
-              }
-            },
-            {
-              "@type": [
-                "CollectionPage"
-              ],
-              "@id": "https://oliver-nix.de/ausdauersport/#content",
-              "mainEntityOfPage": {
-                "@id": "https://oliver-nix.de/ausdauersport/#webpage"
-              },
-              "headline": "Ausdauersport: Faszination, Struktur und Wissenschaft",
-              "name": "Ausdauersport: Faszination, Struktur und Wissenschaft",
-              "description": "Ausdauersport ist meine absolute Leidenschaft, ein langfristiges Projekt und ein Thema, das mich immer wieder neugierig macht. Ich bin kein Elite-Athlet, der um irgendwelche Titel kämpft, sondern bestenfalls ein Hobbysportler mit ganz normalen Grenzen, mit guten und schlechten Trainingstagen und mit dem Wunsch, meinen Sport besser zu verstehen.",
-              "author": {
-                "@id": "https://oliver-nix.de/#oliver-nix"
-              },
-              "publisher": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "isPartOf": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "inLanguage": "de-DE",
-              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
-              "datePublished": "2026-06-26",
-              "dateModified": "2026-06-26"
-            },
-            {
-              "@type": "BreadcrumbList",
-              "@id": "https://oliver-nix.de/ausdauersport/#breadcrumb",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "position": 1,
-                  "name": "Startseite",
-                  "item": "https://oliver-nix.de/"
-                },
-                {
-                  "@type": "ListItem",
-                  "position": 2,
-                  "name": "Ausdauersport: Faszination, Struktur und Wissenschaft",
-                  "item": "https://oliver-nix.de/ausdauersport/"
-                }
-              ]
-            }
-          ]
-        }
+    json_ld: "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"WebSite\",\n      \"@id\": \"https://oliver-nix.de/#website\",\n      \"url\": \"https://oliver-nix.de/\",\n      \"name\": \"Oliver Nix\",\n      \"description\": \"Persönliche Website von Oliver Nix zu E-Commerce, Answer Engine Optimization, digitalen Wissensarchitekturen und Ausdauersport.\",\n      \"inLanguage\": \"de-DE\",\n      \"creator\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"publisher\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      }\n    },\n    {\n      \"@type\": \"CollectionPage\",\n      \"@id\": \"https://oliver-nix.de/ausdauersport/#webpage\",\n      \"url\": \"https://oliver-nix.de/ausdauersport/\",\n      \"name\": \"Ausdauersport: Faszination, Struktur und Wissenschaft\",\n      \"headline\": \"Ausdauersport: Faszination, Struktur und Wissenschaft\",\n      \"description\": \"Ein persönliches und strukturiertes Wissensprojekt von Oliver Nix zu Ausdauertraining, Langstreckenlauf, Belastungssteuerung, Regeneration, Biomechanik und körperlicher Anpassung.\",\n      \"abstract\": \"Der Ausdauersport-Bereich verbindet persönliche Erfahrungen eines ambitionierten Hobbysportlers mit fachlichen Einordnungen, Trainingsdaten und sportwissenschaftlichen Zusammenhängen. Ziel ist nicht die Vermittlung allgemeingültiger Trainingsrezepte, sondern ein nachvollziehbarer Wissensbereich zu Training, Regeneration, Biomechanik und körperlicher Anpassung.\",\n      \"inLanguage\": \"de-DE\",\n      \"isPartOf\": {\n        \"@id\": \"https://oliver-nix.de/#website\"\n      },\n      \"breadcrumb\": {\n        \"@id\": \"https://oliver-nix.de/ausdauersport/#breadcrumb\"\n      },\n      \"author\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"creator\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"publisher\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"accountablePerson\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"publishingPrinciples\": \"https://oliver-nix.de/ausdauersport/disclaimer/\",\n      \"isAccessibleForFree\": true,\n      \"creativeWorkStatus\": \"Published\",\n      \"genre\": [\n        \"Persönliches Wissensprojekt\",\n        \"Ausdauersport\",\n        \"Sportwissenschaft\",\n        \"Trainingswissenschaft\"\n      ],\n      \"audience\": {\n        \"@type\": \"Audience\",\n        \"audienceType\": \"Ambitionierte Hobbysportler und Menschen mit Interesse an Ausdauertraining und Sportwissenschaft\"\n      },\n      \"about\": [\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#ausdauersport\",\n          \"name\": \"Ausdauersport\",\n          \"description\": \"Sportliche Belastungsformen, bei denen die langfristige Aufrechterhaltung körperlicher Leistung und die Entwicklung der aeroben Leistungsfähigkeit im Mittelpunkt stehen.\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#langstreckenlauf\",\n          \"name\": \"Langstreckenlauf\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#trainingswissenschaft\",\n          \"name\": \"Trainingswissenschaft\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#belastungssteuerung\",\n          \"name\": \"Belastungssteuerung\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#regeneration\",\n          \"name\": \"Regeneration\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#biomechanik\",\n          \"name\": \"Biomechanik\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#leistungsphysiologie\",\n          \"name\": \"Leistungsphysiologie\"\n        },\n        {\n          \"@type\": \"Thing\",\n          \"@id\": \"https://oliver-nix.de/ausdauersport/#sportmedizinische-zusammenhaenge\",\n          \"name\": \"Sportmedizinische Zusammenhänge\"\n        }\n      ],\n      \"keywords\": [\n        \"Ausdauersport\",\n        \"Langstreckenlauf\",\n        \"Ausdauertraining\",\n        \"Trainingswissenschaft\",\n        \"Belastungssteuerung\",\n        \"Trainingsanpassung\",\n        \"Regeneration\",\n        \"Biomechanik\",\n        \"Leistungsphysiologie\",\n        \"Sportwissenschaft\",\n        \"Hobbysport\"\n      ]\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"@id\": \"https://oliver-nix.de/ausdauersport/#breadcrumb\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Oliver Nix\",\n          \"item\": \"https://oliver-nix.de/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Ausdauersport\",\n          \"item\": \"https://oliver-nix.de/ausdauersport/\"\n        }\n      ]\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://oliver-nix.de/#person\",\n      \"name\": \"Oliver Nix\",\n      \"givenName\": \"Oliver\",\n      \"familyName\": \"Nix\",\n      \"url\": \"https://oliver-nix.de/\",\n      \"description\": \"Prokurist, Director E-Commerce, AEO Strategist und ambitionierter Ausdauersportler mit Interesse an Trainingswissenschaft, Leistungsphysiologie und strukturierten Wissenssystemen.\",\n      \"jobTitle\": [\n        \"Prokurist\",\n        \"Director E-Commerce\",\n        \"AEO Strategist\"\n      ],\n      \"sameAs\": [\n        \"https://www.linkedin.com/in/oliver-nix-ob\",\n        \"https://www.instagram.com/running.oliver/\"\n      ],\n      \"knowsAbout\": [\n        \"E-Commerce\",\n        \"Answer Engine Optimization\",\n        \"Digitale Wissensarchitekturen\",\n        \"Ausdauersport\",\n        \"Langstreckenlauf\",\n        \"Trainingswissenschaft\",\n        \"Belastungssteuerung\",\n        \"Leistungsphysiologie\",\n        \"Biomechanik\",\n        \"Regeneration\"\n      ],\n      \"memberOf\": {\n        \"@type\": \"SportsOrganization\",\n        \"name\": \"SC Rot-Weiß Oberhausen – Endurance-Abteilung\"\n      }\n    }\n  ]\n}"

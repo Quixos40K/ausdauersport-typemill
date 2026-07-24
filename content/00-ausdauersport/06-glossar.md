@@ -1,4 +1,3 @@
-
 # Glossar
 
 # **Glossar der sportmedizinischen und biomechanischen Fachbegriffe**
