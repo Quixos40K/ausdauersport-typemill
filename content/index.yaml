@@ -3,95 +3,13 @@ meta:
     navtitle: Startseite
     title: 'Oliver Nix | Director E-Commerce & AEO Strategist'
     description: 'Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).'
-    heroimage: media/live/oliver-nix.webp
+    heroimage: ''
     heroimagealt: 'Oliver Nix'
     owner: Oliver
     author: 'Oliver Nix'
-    modified: '2026-06-09'
+    modified: '2026-07-14'
     created: '2024-03-19'
     time: 17-56-00
     hide: false
     noindex: false
-    json_ld: |-
-        {
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@context": "https://schema.org",
-              "@type": "Person",
-              "@id": "https://oliver-nix.de/#oliver-nix",
-              "name": "Oliver Nix",
-              "jobTitle": "Director E-Commerce & AEO Strategist",
-              "description": "Experte für Ausdauerphysiologie und E-Commerce Architektur.",
-              "sameAs": [
-                "https://www.rwo1904.de/teams/endurance/funktionsteam",
-                "https://www.instagram.com/running.oliver/",
-                "https://www.northdata.de/Nix,%20Oliver%20Philipp,%20Oberhausen/egd"
-              ]
-            },
-            {
-              "@type": "WebSite",
-              "@id": "https://oliver-nix.de/#website",
-              "url": "https://oliver-nix.de/",
-              "name": "Ausdauersport Lexikon",
-              "publisher": {
-                "@id": "https://oliver-nix.de/#oliver-nix"
-              }
-            },
-            {
-              "@type": "WebPage",
-              "@id": "https://oliver-nix.de/#webpage",
-              "url": "https://oliver-nix.de/",
-              "name": "Oliver Nix | Director E-Commerce & AEO Strategist",
-              "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
-              "description": "Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).",
-              "inLanguage": "de-DE",
-              "isPartOf": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "breadcrumb": {
-                "@id": "https://oliver-nix.de/#breadcrumb"
-              },
-              "mainEntity": {
-                "@id": "https://oliver-nix.de/#content"
-              }
-            },
-            {
-              "@type": [
-                "CollectionPage"
-              ],
-              "@id": "https://oliver-nix.de/#content",
-              "mainEntityOfPage": {
-                "@id": "https://oliver-nix.de/#webpage"
-              },
-              "headline": "Oliver Nix | Director E-Commerce & AEO Strategist",
-              "name": "Oliver Nix | Director E-Commerce & AEO Strategist",
-              "description": "Portfolio von Oliver Nix, Director E-Commerce und Prokurist. Experte für P&L-Management, AI-Shop-Architekturen, Team Topologies und Answer Engine Optimization (AEO).",
-              "author": {
-                "@id": "https://oliver-nix.de/#oliver-nix"
-              },
-              "publisher": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "isPartOf": {
-                "@id": "https://oliver-nix.de/#website"
-              },
-              "inLanguage": "de-DE",
-              "publishingPrinciples": "https://oliver-nix.de/ausdauersport/disclaimer/",
-              "datePublished": "2024-03-19",
-              "dateModified": "2026-06-09"
-            },
-            {
-              "@type": "BreadcrumbList",
-              "@id": "https://oliver-nix.de/#breadcrumb",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "position": 1,
-                  "name": "Startseite",
-                  "item": "https://oliver-nix.de/"
-                }
-              ]
-            }
-          ]
-        }
+    json_ld: "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"WebSite\",\n      \"@id\": \"https://oliver-nix.de/#website\",\n      \"url\": \"https://oliver-nix.de/\",\n      \"name\": \"Oliver Nix\",\n      \"alternateName\": \"Oliver Nix | Director E-Commerce & AEO Strategist\",\n      \"description\": \"Persönliches Portfolio von Oliver Nix zu E-Commerce, P&L-Management, AI-Shop-Architekturen und Answer Engine Optimization.\",\n      \"inLanguage\": \"de-DE\",\n      \"creator\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"publisher\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"copyrightHolder\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      }\n    },\n    {\n      \"@type\": \"ProfilePage\",\n      \"@id\": \"https://oliver-nix.de/#webpage\",\n      \"url\": \"https://oliver-nix.de/\",\n      \"name\": \"Oliver Nix | Director E-Commerce & AEO Strategist\",\n      \"headline\": \"Oliver Nix | Director E-Commerce & AEO Strategist\",\n      \"description\": \"Oliver Nix konzipiert und steuert hochperformante digitale Architekturen mit P&L-Verantwortung, AI-Shop-Architekturen und Answer Engine Optimization.\",\n      \"inLanguage\": \"de-DE\",\n      \"isPartOf\": {\n        \"@id\": \"https://oliver-nix.de/#website\"\n      },\n      \"mainEntity\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"about\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"primaryImageOfPage\": {\n        \"@id\": \"https://oliver-nix.de/#portrait\"\n      },\n      \"author\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"publisher\": {\n        \"@id\": \"https://oliver-nix.de/#person\"\n      },\n      \"isAccessibleForFree\": true,\n      \"keywords\": [\n        \"E-Commerce\",\n        \"Answer Engine Optimization\",\n        \"AEO\",\n        \"Generative Engine Optimization\",\n        \"GEO\",\n        \"P&L-Management\",\n        \"AI-Shop-Architekturen\",\n        \"Entitätsgraphen\",\n        \"Knowledge Graph\",\n        \"Large Language Models\"\n      ]\n    },\n    {\n      \"@type\": \"ImageObject\",\n      \"@id\": \"https://oliver-nix.de/#portrait\",\n      \"url\": \"https://oliver-nix.de/oliver_nix.webp\",\n      \"contentUrl\": \"https://oliver-nix.de/oliver_nix.webp\",\n      \"caption\": \"Oliver Nix\",\n      \"inLanguage\": \"de-DE\",\n      \"representativeOfPage\": true\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://oliver-nix.de/#person\",\n      \"name\": \"Oliver Nix\",\n      \"givenName\": \"Oliver\",\n      \"familyName\": \"Nix\",\n      \"url\": \"https://oliver-nix.de/\",\n      \"image\": {\n        \"@id\": \"https://oliver-nix.de/#portrait\"\n      },\n      \"mainEntityOfPage\": {\n        \"@id\": \"https://oliver-nix.de/#webpage\"\n      },\n      \"description\": \"Prokurist, Director E-Commerce und AEO Strategist mit Fokus auf P&L-Management, AI-Shop-Architekturen, automatisierte Content-Logiken und maschinenlesbare Entitätsgraphen.\",\n      \"jobTitle\": [\n        \"Prokurist\",\n        \"Director E-Commerce\",\n        \"AEO Strategist\"\n      ],\n      \"email\": \"kontakt@oliver-nix.de\",\n      \"contactPoint\": {\n        \"@type\": \"ContactPoint\",\n        \"contactType\": \"Geschäftliche Anfragen\",\n        \"email\": \"kontakt@oliver-nix.de\",\n        \"availableLanguage\": [\n          \"de\",\n          \"en\"\n        ]\n      },\n      \"sameAs\": [\n        \"https://www.instagram.com/running.oliver/\"\n      ],\n      \"knowsAbout\": [\n        \"E-Commerce-Strategie\",\n        \"P&L-Management\",\n        \"Digitale Geschäftsmodelle\",\n        \"Answer Engine Optimization\",\n        \"Generative Engine Optimization\",\n        \"AI-Shop-Architekturen\",\n        \"Large Language Models\",\n        \"Empfehlungssysteme\",\n        \"Automatisierte Content-Logiken\",\n        \"Knowledge Graphs\",\n        \"Entitätsgraphen\",\n        \"PIM-Datenmigrationen\",\n        \"Conversion-Optimierung\",\n        \"Technisches SEO\"\n      ],\n      \"memberOf\": {\n        \"@type\": \"SportsOrganization\",\n        \"name\": \"SC Rot-Weiß Oberhausen – Endurance-Abteilung\"\n      }\n    }\n  ]\n}"
